@@ -34,4 +34,4 @@ Each submission consists of forecasts for the following targets:
 
 
 ### Current submission template
-The submission template for the 2017-2018 challenge is available in the [2017-2018_submission_template](https://github.com/cdcepi/FluSight-forecasts/blob/master/2017-2018_StateILI_Submission_Template.csv) CSV file.
+The submission template for the 2017-2018 challenge is available in the [2017-2018_submission_template](https://github.com/cdcepi/State_FluSight_Forecasts/blob/master/2017-2018_StateILI_Submission_Template.csv) CSV file.
