@@ -1,5 +1,5 @@
 Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,Value
-Alabama,Season peak week,Point,week,NA,NA,2.75
+Alabama,Season peak week,Point,week,NA,NA,54.75
 Alabama,Season peak week,Bin,week,40,41,0.000607043
 Alabama,Season peak week,Bin,week,41,42,0.00076221
 Alabama,Season peak week,Bin,week,42,43,0.000917377
@@ -692,8 +692,8 @@ Alabama,4 wk ahead,Bin,percent,12.6,12.7,0.000351254
 Alabama,4 wk ahead,Bin,percent,12.7,12.8,0.000350818
 Alabama,4 wk ahead,Bin,percent,12.8,12.9,0.000349978
 Alabama,4 wk ahead,Bin,percent,12.9,13,0.000347886
-Alabama,4 wk ahead,Bin,percent,13,100,4.83023E-05
-Alaska,Season peak week,Point,week,NA,NA,18
+Alabama,4 wk ahead,Bin,percent,13,100,4.83E-05
+Alaska,Season peak week,Point,week,NA,NA,5
 Alaska,Season peak week,Bin,week,40,41,0.00503938
 Alaska,Season peak week,Bin,week,41,42,0.010879772
 Alaska,Season peak week,Bin,week,42,43,0.019690933
@@ -1386,8 +1386,8 @@ Alaska,4 wk ahead,Bin,percent,12.6,12.7,0.000352614
 Alaska,4 wk ahead,Bin,percent,12.7,12.8,0.000351824
 Alaska,4 wk ahead,Bin,percent,12.8,12.9,0.000350483
 Alaska,4 wk ahead,Bin,percent,12.9,13,0.000348418
-Alaska,4 wk ahead,Bin,percent,13,100,9.53383E-05
-Arizona,Season peak week,Point,week,NA,NA,15
+Alaska,4 wk ahead,Bin,percent,13,100,9.53E-05
+Arizona,Season peak week,Point,week,NA,NA,2
 Arizona,Season peak week,Bin,week,40,41,0.001640909
 Arizona,Season peak week,Bin,week,41,42,0.000607036
 Arizona,Season peak week,Bin,week,42,43,0.000902428
@@ -2080,8 +2080,8 @@ Arizona,4 wk ahead,Bin,percent,12.6,12.7,0.000351109
 Arizona,4 wk ahead,Bin,percent,12.7,12.8,0.000351066
 Arizona,4 wk ahead,Bin,percent,12.8,12.9,0.000350724
 Arizona,4 wk ahead,Bin,percent,12.9,13,0.000349031
-Arizona,4 wk ahead,Bin,percent,13,100,4.62635E-05
-Arkansas,Season peak week,Point,week,NA,NA,16.5
+Arizona,4 wk ahead,Bin,percent,13,100,4.63E-05
+Arkansas,Season peak week,Point,week,NA,NA,3.5
 Arkansas,Season peak week,Bin,week,40,41,0.000606986
 Arkansas,Season peak week,Bin,week,41,42,0.000658979
 Arkansas,Season peak week,Bin,week,42,43,0.001178912
@@ -2775,12 +2775,12 @@ Arkansas,4 wk ahead,Bin,percent,12.7,12.8,0.000440772
 Arkansas,4 wk ahead,Bin,percent,12.8,12.9,0.000433737
 Arkansas,4 wk ahead,Bin,percent,12.9,13,0.000425046
 Arkansas,4 wk ahead,Bin,percent,13,100,0.001502847
-California,Season peak week,Point,week,NA,NA,28.5
-California,Season peak week,Bin,week,40,41,9.23801E-05
-California,Season peak week,Bin,week,41,42,9.23801E-05
-California,Season peak week,Bin,week,42,43,9.23801E-05
-California,Season peak week,Bin,week,43,44,9.23801E-05
-California,Season peak week,Bin,week,44,45,9.23801E-05
+California,Season peak week,Point,week,NA,NA,2.5
+California,Season peak week,Bin,week,40,41,9.24E-05
+California,Season peak week,Bin,week,41,42,9.24E-05
+California,Season peak week,Bin,week,42,43,9.24E-05
+California,Season peak week,Bin,week,43,44,9.24E-05
+California,Season peak week,Bin,week,44,45,9.24E-05
 California,Season peak week,Bin,week,45,46,0.000288998
 California,Season peak week,Bin,week,46,47,0.000190689
 California,Season peak week,Bin,week,47,48,0.001041364
@@ -3208,13 +3208,13 @@ California,2 wk ahead,Bin,percent,13,100,0.000677876
 California,3 wk ahead,Point,percent,NA,NA,1.681722692
 California,3 wk ahead,Bin,percent,0,0.1,0
 California,3 wk ahead,Bin,percent,0.1,0.2,0
-California,3 wk ahead,Bin,percent,0.2,0.3,5.55112E-17
-California,3 wk ahead,Bin,percent,0.3,0.4,7.10543E-15
-California,3 wk ahead,Bin,percent,0.4,0.5,6.10123E-13
-California,3 wk ahead,Bin,percent,0.5,0.6,3.68479E-11
-California,3 wk ahead,Bin,percent,0.6,0.7,1.5622E-09
-California,3 wk ahead,Bin,percent,0.7,0.8,4.6518E-08
-California,3 wk ahead,Bin,percent,0.8,0.9,9.73454E-07
+California,3 wk ahead,Bin,percent,0.2,0.3,5.55E-17
+California,3 wk ahead,Bin,percent,0.3,0.4,7.11E-15
+California,3 wk ahead,Bin,percent,0.4,0.5,6.10E-13
+California,3 wk ahead,Bin,percent,0.5,0.6,3.68E-11
+California,3 wk ahead,Bin,percent,0.6,0.7,1.56E-09
+California,3 wk ahead,Bin,percent,0.7,0.8,4.65E-08
+California,3 wk ahead,Bin,percent,0.8,0.9,9.73E-07
 California,3 wk ahead,Bin,percent,0.9,1,0.000364324
 California,3 wk ahead,Bin,percent,1,1.1,0.001048311
 California,3 wk ahead,Bin,percent,1.1,1.2,0.004881083
@@ -3237,55 +3237,55 @@ California,3 wk ahead,Bin,percent,2.7,2.8,0.00085
 California,3 wk ahead,Bin,percent,2.8,2.9,0.0007
 California,3 wk ahead,Bin,percent,2.9,3,0.00025
 California,3 wk ahead,Bin,percent,3,3.1,0.00015
-California,3 wk ahead,Bin,percent,3.1,3.2,5E-05
+California,3 wk ahead,Bin,percent,3.1,3.2,5.00E-05
 California,3 wk ahead,Bin,percent,3.2,3.3,0.00005
-California,3 wk ahead,Bin,percent,3.3,3.4,5E-05
-California,3 wk ahead,Bin,percent,3.4,3.5,7.54369E-26
-California,3 wk ahead,Bin,percent,3.5,3.6,1.1822E-28
-California,3 wk ahead,Bin,percent,3.6,3.7,1.29669E-31
-California,3 wk ahead,Bin,percent,3.7,3.8,9.95212E-35
-California,3 wk ahead,Bin,percent,3.8,3.9,5.34359E-38
-California,3 wk ahead,Bin,percent,3.9,4,2.0068E-41
-California,3 wk ahead,Bin,percent,4,4.1,5.27049E-45
-California,3 wk ahead,Bin,percent,4.1,4.2,9.67845E-49
-California,3 wk ahead,Bin,percent,4.2,4.3,1.24253E-52
-California,3 wk ahead,Bin,percent,4.3,4.4,1.11505E-56
-California,3 wk ahead,Bin,percent,4.4,4.5,6.9939E-61
-California,3 wk ahead,Bin,percent,4.5,4.6,3.06574E-65
-California,3 wk ahead,Bin,percent,4.6,4.7,9.3907E-70
-California,3 wk ahead,Bin,percent,4.7,4.8,2.00988E-74
-California,3 wk ahead,Bin,percent,4.8,4.9,3.00548E-79
-California,3 wk ahead,Bin,percent,4.9,5,3.13976E-84
-California,3 wk ahead,Bin,percent,5,5.1,2.29134E-89
-California,3 wk ahead,Bin,percent,5.1,5.2,1.16805E-94
-California,3 wk ahead,Bin,percent,5.2,5.3,4.159E-100
-California,3 wk ahead,Bin,percent,5.3,5.4,1.0343E-105
-California,3 wk ahead,Bin,percent,5.4,5.5,1.7964E-111
-California,3 wk ahead,Bin,percent,5.5,5.6,2.179E-117
-California,3 wk ahead,Bin,percent,5.6,5.7,1.8457E-123
-California,3 wk ahead,Bin,percent,5.7,5.8,1.0918E-129
-California,3 wk ahead,Bin,percent,5.8,5.9,4.5094E-136
-California,3 wk ahead,Bin,percent,5.9,6,1.3005E-142
-California,3 wk ahead,Bin,percent,6,6.1,2.6189E-149
-California,3 wk ahead,Bin,percent,6.1,6.2,3.6822E-156
-California,3 wk ahead,Bin,percent,6.2,6.3,3.6146E-163
-California,3 wk ahead,Bin,percent,6.3,6.4,2.4772E-170
-California,3 wk ahead,Bin,percent,6.4,6.5,1.1853E-177
-California,3 wk ahead,Bin,percent,6.5,6.6,3.9591E-185
-California,3 wk ahead,Bin,percent,6.6,6.7,9.2322E-193
-California,3 wk ahead,Bin,percent,6.7,6.8,1.5029E-200
-California,3 wk ahead,Bin,percent,6.8,6.9,1.7078E-208
-California,3 wk ahead,Bin,percent,6.9,7,1.3547E-216
-California,3 wk ahead,Bin,percent,7,7.1,7.501E-225
-California,3 wk ahead,Bin,percent,7.1,7.2,2.8992E-233
-California,3 wk ahead,Bin,percent,7.2,7.3,7.8216E-242
-California,3 wk ahead,Bin,percent,7.3,7.4,1.4729E-250
-California,3 wk ahead,Bin,percent,7.4,7.5,1.936E-259
-California,3 wk ahead,Bin,percent,7.5,7.6,1.7761E-268
-California,3 wk ahead,Bin,percent,7.6,7.7,1.1373E-277
-California,3 wk ahead,Bin,percent,7.7,7.8,5.0828E-287
-California,3 wk ahead,Bin,percent,7.8,7.9,1.5855E-296
-California,3 wk ahead,Bin,percent,7.9,8,3.4517E-306
+California,3 wk ahead,Bin,percent,3.3,3.4,5.00E-05
+California,3 wk ahead,Bin,percent,3.4,3.5,7.54E-26
+California,3 wk ahead,Bin,percent,3.5,3.6,1.18E-28
+California,3 wk ahead,Bin,percent,3.6,3.7,1.30E-31
+California,3 wk ahead,Bin,percent,3.7,3.8,9.95E-35
+California,3 wk ahead,Bin,percent,3.8,3.9,5.34E-38
+California,3 wk ahead,Bin,percent,3.9,4,2.01E-41
+California,3 wk ahead,Bin,percent,4,4.1,5.27E-45
+California,3 wk ahead,Bin,percent,4.1,4.2,9.68E-49
+California,3 wk ahead,Bin,percent,4.2,4.3,1.24E-52
+California,3 wk ahead,Bin,percent,4.3,4.4,1.12E-56
+California,3 wk ahead,Bin,percent,4.4,4.5,6.99E-61
+California,3 wk ahead,Bin,percent,4.5,4.6,3.07E-65
+California,3 wk ahead,Bin,percent,4.6,4.7,9.39E-70
+California,3 wk ahead,Bin,percent,4.7,4.8,2.01E-74
+California,3 wk ahead,Bin,percent,4.8,4.9,3.01E-79
+California,3 wk ahead,Bin,percent,4.9,5,3.14E-84
+California,3 wk ahead,Bin,percent,5,5.1,2.29E-89
+California,3 wk ahead,Bin,percent,5.1,5.2,1.17E-94
+California,3 wk ahead,Bin,percent,5.2,5.3,4.16E-100
+California,3 wk ahead,Bin,percent,5.3,5.4,1.03E-105
+California,3 wk ahead,Bin,percent,5.4,5.5,1.80E-111
+California,3 wk ahead,Bin,percent,5.5,5.6,2.18E-117
+California,3 wk ahead,Bin,percent,5.6,5.7,1.85E-123
+California,3 wk ahead,Bin,percent,5.7,5.8,1.09E-129
+California,3 wk ahead,Bin,percent,5.8,5.9,4.51E-136
+California,3 wk ahead,Bin,percent,5.9,6,1.30E-142
+California,3 wk ahead,Bin,percent,6,6.1,2.62E-149
+California,3 wk ahead,Bin,percent,6.1,6.2,3.68E-156
+California,3 wk ahead,Bin,percent,6.2,6.3,3.61E-163
+California,3 wk ahead,Bin,percent,6.3,6.4,2.48E-170
+California,3 wk ahead,Bin,percent,6.4,6.5,1.19E-177
+California,3 wk ahead,Bin,percent,6.5,6.6,3.96E-185
+California,3 wk ahead,Bin,percent,6.6,6.7,9.23E-193
+California,3 wk ahead,Bin,percent,6.7,6.8,1.50E-200
+California,3 wk ahead,Bin,percent,6.8,6.9,1.71E-208
+California,3 wk ahead,Bin,percent,6.9,7,1.35E-216
+California,3 wk ahead,Bin,percent,7,7.1,7.50E-225
+California,3 wk ahead,Bin,percent,7.1,7.2,2.90E-233
+California,3 wk ahead,Bin,percent,7.2,7.3,7.82E-242
+California,3 wk ahead,Bin,percent,7.3,7.4,1.47E-250
+California,3 wk ahead,Bin,percent,7.4,7.5,1.94E-259
+California,3 wk ahead,Bin,percent,7.5,7.6,1.78E-268
+California,3 wk ahead,Bin,percent,7.6,7.7,1.14E-277
+California,3 wk ahead,Bin,percent,7.7,7.8,5.08E-287
+California,3 wk ahead,Bin,percent,7.8,7.9,1.59E-296
+California,3 wk ahead,Bin,percent,7.9,8,3.45E-306
 California,3 wk ahead,Bin,percent,8,8.1,0
 California,3 wk ahead,Bin,percent,8.1,8.2,0
 California,3 wk ahead,Bin,percent,8.2,8.3,0
@@ -3338,14 +3338,14 @@ California,3 wk ahead,Bin,percent,12.8,12.9,0
 California,3 wk ahead,Bin,percent,12.9,13,0
 California,3 wk ahead,Bin,percent,13,100,0
 California,4 wk ahead,Point,percent,NA,NA,1.910124008
-California,4 wk ahead,Bin,percent,0,0.1,8.28032E-05
-California,4 wk ahead,Bin,percent,0.1,0.2,8.93564E-05
-California,4 wk ahead,Bin,percent,0.2,0.3,9.02262E-05
-California,4 wk ahead,Bin,percent,0.3,0.4,9.06066E-05
-California,4 wk ahead,Bin,percent,0.4,0.5,9.07142E-05
-California,4 wk ahead,Bin,percent,0.5,0.6,9.10788E-05
-California,4 wk ahead,Bin,percent,0.6,0.7,9.15139E-05
-California,4 wk ahead,Bin,percent,0.7,0.8,9.27059E-05
+California,4 wk ahead,Bin,percent,0,0.1,8.28E-05
+California,4 wk ahead,Bin,percent,0.1,0.2,8.94E-05
+California,4 wk ahead,Bin,percent,0.2,0.3,9.02E-05
+California,4 wk ahead,Bin,percent,0.3,0.4,9.06E-05
+California,4 wk ahead,Bin,percent,0.4,0.5,9.07E-05
+California,4 wk ahead,Bin,percent,0.5,0.6,9.11E-05
+California,4 wk ahead,Bin,percent,0.6,0.7,9.15E-05
+California,4 wk ahead,Bin,percent,0.7,0.8,9.27E-05
 California,4 wk ahead,Bin,percent,0.8,0.9,0.000109058
 California,4 wk ahead,Bin,percent,0.9,1,0.0002095
 California,4 wk ahead,Bin,percent,1,1.1,0.000497421
@@ -3395,81 +3395,81 @@ California,4 wk ahead,Bin,percent,5.3,5.4,0.000173612
 California,4 wk ahead,Bin,percent,5.4,5.5,0.000269441
 California,4 wk ahead,Bin,percent,5.5,5.6,0.000248296
 California,4 wk ahead,Bin,percent,5.6,5.7,0.000148924
-California,4 wk ahead,Bin,percent,5.7,5.8,9.78921E-05
-California,4 wk ahead,Bin,percent,5.8,5.9,9.02887E-05
-California,4 wk ahead,Bin,percent,5.9,6,8.97791E-05
-California,4 wk ahead,Bin,percent,6,6.1,8.98184E-05
-California,4 wk ahead,Bin,percent,6.1,6.2,8.99494E-05
-California,4 wk ahead,Bin,percent,6.2,6.3,8.97659E-05
-California,4 wk ahead,Bin,percent,6.3,6.4,8.98506E-05
-California,4 wk ahead,Bin,percent,6.4,6.5,8.98882E-05
-California,4 wk ahead,Bin,percent,6.5,6.6,8.97822E-05
-California,4 wk ahead,Bin,percent,6.6,6.7,8.99051E-05
-California,4 wk ahead,Bin,percent,6.7,6.8,8.98159E-05
-California,4 wk ahead,Bin,percent,6.8,6.9,8.97975E-05
-California,4 wk ahead,Bin,percent,6.9,7,8.99526E-05
-California,4 wk ahead,Bin,percent,7,7.1,8.9775E-05
-California,4 wk ahead,Bin,percent,7.1,7.2,8.98156E-05
-California,4 wk ahead,Bin,percent,7.2,7.3,8.99514E-05
-California,4 wk ahead,Bin,percent,7.3,7.4,8.97719E-05
-California,4 wk ahead,Bin,percent,7.4,7.5,8.9841E-05
-California,4 wk ahead,Bin,percent,7.5,7.6,8.98903E-05
-California,4 wk ahead,Bin,percent,7.6,7.7,8.97994E-05
-California,4 wk ahead,Bin,percent,7.7,7.8,8.98733E-05
-California,4 wk ahead,Bin,percent,7.8,7.9,8.98371E-05
-California,4 wk ahead,Bin,percent,7.9,8,8.98075E-05
-California,4 wk ahead,Bin,percent,8,8.1,8.99202E-05
-California,4 wk ahead,Bin,percent,8.1,8.2,8.98037E-05
-California,4 wk ahead,Bin,percent,8.2,8.3,8.97998E-05
-California,4 wk ahead,Bin,percent,8.3,8.4,8.99504E-05
-California,4 wk ahead,Bin,percent,8.4,8.5,8.97923E-05
-California,4 wk ahead,Bin,percent,8.5,8.6,8.98232E-05
-California,4 wk ahead,Bin,percent,8.6,8.7,8.98973E-05
-California,4 wk ahead,Bin,percent,8.7,8.8,8.97996E-05
-California,4 wk ahead,Bin,percent,8.8,8.9,8.98676E-05
-California,4 wk ahead,Bin,percent,8.9,9,8.98361E-05
-California,4 wk ahead,Bin,percent,9,9.1,8.98155E-05
-California,4 wk ahead,Bin,percent,9.1,9.2,8.99232E-05
-California,4 wk ahead,Bin,percent,9.2,9.3,8.97723E-05
-California,4 wk ahead,Bin,percent,9.3,9.4,8.98291E-05
-California,4 wk ahead,Bin,percent,9.4,9.5,8.99557E-05
-California,4 wk ahead,Bin,percent,9.5,9.6,8.97617E-05
-California,4 wk ahead,Bin,percent,9.6,9.7,8.98542E-05
-California,4 wk ahead,Bin,percent,9.7,9.8,8.98878E-05
-California,4 wk ahead,Bin,percent,9.8,9.9,8.97819E-05
-California,4 wk ahead,Bin,percent,9.9,10,8.98921E-05
-California,4 wk ahead,Bin,percent,10,10.1,8.98297E-05
-California,4 wk ahead,Bin,percent,10.1,10.2,8.98077E-05
-California,4 wk ahead,Bin,percent,10.2,10.3,8.99284E-05
-California,4 wk ahead,Bin,percent,10.3,10.4,8.97734E-05
-California,4 wk ahead,Bin,percent,10.4,10.5,8.98144E-05
-California,4 wk ahead,Bin,percent,10.5,10.6,8.99757E-05
-California,4 wk ahead,Bin,percent,10.6,10.7,8.97677E-05
-California,4 wk ahead,Bin,percent,10.7,10.8,8.98141E-05
-California,4 wk ahead,Bin,percent,10.8,10.9,8.9921E-05
-California,4 wk ahead,Bin,percent,10.9,11,8.97785E-05
-California,4 wk ahead,Bin,percent,11,11.1,8.98562E-05
-California,4 wk ahead,Bin,percent,11.1,11.2,8.98653E-05
-California,4 wk ahead,Bin,percent,11.2,11.3,8.97756E-05
-California,4 wk ahead,Bin,percent,11.3,11.4,8.98994E-05
-California,4 wk ahead,Bin,percent,11.4,11.5,8.97907E-05
-California,4 wk ahead,Bin,percent,11.5,11.6,8.97755E-05
-California,4 wk ahead,Bin,percent,11.6,11.7,8.9947E-05
-California,4 wk ahead,Bin,percent,11.7,11.8,8.97347E-05
-California,4 wk ahead,Bin,percent,11.8,11.9,8.97672E-05
-California,4 wk ahead,Bin,percent,11.9,12,8.98723E-05
-California,4 wk ahead,Bin,percent,12,12.1,8.97143E-05
-California,4 wk ahead,Bin,percent,12.1,12.2,8.9776E-05
-California,4 wk ahead,Bin,percent,12.2,12.3,8.97588E-05
-California,4 wk ahead,Bin,percent,12.3,12.4,8.96767E-05
-California,4 wk ahead,Bin,percent,12.4,12.5,8.97542E-05
-California,4 wk ahead,Bin,percent,12.5,12.6,8.96386E-05
-California,4 wk ahead,Bin,percent,12.6,12.7,8.96236E-05
-California,4 wk ahead,Bin,percent,12.7,12.8,8.97231E-05
-California,4 wk ahead,Bin,percent,12.8,12.9,8.9477E-05
-California,4 wk ahead,Bin,percent,12.9,13,8.81097E-05
-California,4 wk ahead,Bin,percent,13,100,8.85614E-05
-Colorado,Season peak week,Point,week,NA,NA,27.25
+California,4 wk ahead,Bin,percent,5.7,5.8,9.79E-05
+California,4 wk ahead,Bin,percent,5.8,5.9,9.03E-05
+California,4 wk ahead,Bin,percent,5.9,6,8.98E-05
+California,4 wk ahead,Bin,percent,6,6.1,8.98E-05
+California,4 wk ahead,Bin,percent,6.1,6.2,8.99E-05
+California,4 wk ahead,Bin,percent,6.2,6.3,8.98E-05
+California,4 wk ahead,Bin,percent,6.3,6.4,8.99E-05
+California,4 wk ahead,Bin,percent,6.4,6.5,8.99E-05
+California,4 wk ahead,Bin,percent,6.5,6.6,8.98E-05
+California,4 wk ahead,Bin,percent,6.6,6.7,8.99E-05
+California,4 wk ahead,Bin,percent,6.7,6.8,8.98E-05
+California,4 wk ahead,Bin,percent,6.8,6.9,8.98E-05
+California,4 wk ahead,Bin,percent,6.9,7,9.00E-05
+California,4 wk ahead,Bin,percent,7,7.1,8.98E-05
+California,4 wk ahead,Bin,percent,7.1,7.2,8.98E-05
+California,4 wk ahead,Bin,percent,7.2,7.3,9.00E-05
+California,4 wk ahead,Bin,percent,7.3,7.4,8.98E-05
+California,4 wk ahead,Bin,percent,7.4,7.5,8.98E-05
+California,4 wk ahead,Bin,percent,7.5,7.6,8.99E-05
+California,4 wk ahead,Bin,percent,7.6,7.7,8.98E-05
+California,4 wk ahead,Bin,percent,7.7,7.8,8.99E-05
+California,4 wk ahead,Bin,percent,7.8,7.9,8.98E-05
+California,4 wk ahead,Bin,percent,7.9,8,8.98E-05
+California,4 wk ahead,Bin,percent,8,8.1,8.99E-05
+California,4 wk ahead,Bin,percent,8.1,8.2,8.98E-05
+California,4 wk ahead,Bin,percent,8.2,8.3,8.98E-05
+California,4 wk ahead,Bin,percent,8.3,8.4,9.00E-05
+California,4 wk ahead,Bin,percent,8.4,8.5,8.98E-05
+California,4 wk ahead,Bin,percent,8.5,8.6,8.98E-05
+California,4 wk ahead,Bin,percent,8.6,8.7,8.99E-05
+California,4 wk ahead,Bin,percent,8.7,8.8,8.98E-05
+California,4 wk ahead,Bin,percent,8.8,8.9,8.99E-05
+California,4 wk ahead,Bin,percent,8.9,9,8.98E-05
+California,4 wk ahead,Bin,percent,9,9.1,8.98E-05
+California,4 wk ahead,Bin,percent,9.1,9.2,8.99E-05
+California,4 wk ahead,Bin,percent,9.2,9.3,8.98E-05
+California,4 wk ahead,Bin,percent,9.3,9.4,8.98E-05
+California,4 wk ahead,Bin,percent,9.4,9.5,9.00E-05
+California,4 wk ahead,Bin,percent,9.5,9.6,8.98E-05
+California,4 wk ahead,Bin,percent,9.6,9.7,8.99E-05
+California,4 wk ahead,Bin,percent,9.7,9.8,8.99E-05
+California,4 wk ahead,Bin,percent,9.8,9.9,8.98E-05
+California,4 wk ahead,Bin,percent,9.9,10,8.99E-05
+California,4 wk ahead,Bin,percent,10,10.1,8.98E-05
+California,4 wk ahead,Bin,percent,10.1,10.2,8.98E-05
+California,4 wk ahead,Bin,percent,10.2,10.3,8.99E-05
+California,4 wk ahead,Bin,percent,10.3,10.4,8.98E-05
+California,4 wk ahead,Bin,percent,10.4,10.5,8.98E-05
+California,4 wk ahead,Bin,percent,10.5,10.6,9.00E-05
+California,4 wk ahead,Bin,percent,10.6,10.7,8.98E-05
+California,4 wk ahead,Bin,percent,10.7,10.8,8.98E-05
+California,4 wk ahead,Bin,percent,10.8,10.9,8.99E-05
+California,4 wk ahead,Bin,percent,10.9,11,8.98E-05
+California,4 wk ahead,Bin,percent,11,11.1,8.99E-05
+California,4 wk ahead,Bin,percent,11.1,11.2,8.99E-05
+California,4 wk ahead,Bin,percent,11.2,11.3,8.98E-05
+California,4 wk ahead,Bin,percent,11.3,11.4,8.99E-05
+California,4 wk ahead,Bin,percent,11.4,11.5,8.98E-05
+California,4 wk ahead,Bin,percent,11.5,11.6,8.98E-05
+California,4 wk ahead,Bin,percent,11.6,11.7,8.99E-05
+California,4 wk ahead,Bin,percent,11.7,11.8,8.97E-05
+California,4 wk ahead,Bin,percent,11.8,11.9,8.98E-05
+California,4 wk ahead,Bin,percent,11.9,12,8.99E-05
+California,4 wk ahead,Bin,percent,12,12.1,8.97E-05
+California,4 wk ahead,Bin,percent,12.1,12.2,8.98E-05
+California,4 wk ahead,Bin,percent,12.2,12.3,8.98E-05
+California,4 wk ahead,Bin,percent,12.3,12.4,8.97E-05
+California,4 wk ahead,Bin,percent,12.4,12.5,8.98E-05
+California,4 wk ahead,Bin,percent,12.5,12.6,8.96E-05
+California,4 wk ahead,Bin,percent,12.6,12.7,8.96E-05
+California,4 wk ahead,Bin,percent,12.7,12.8,8.97E-05
+California,4 wk ahead,Bin,percent,12.8,12.9,8.95E-05
+California,4 wk ahead,Bin,percent,12.9,13,8.81E-05
+California,4 wk ahead,Bin,percent,13,100,8.86E-05
+Colorado,Season peak week,Point,week,NA,NA,52.00008856
 Colorado,Season peak week,Bin,week,40,41,0.00156093
 Colorado,Season peak week,Bin,week,41,42,0.00738497
 Colorado,Season peak week,Bin,week,42,43,0.035561996
@@ -3714,7 +3714,7 @@ Colorado,1 wk ahead,Bin,percent,7.4,7.5,0.000242719
 Colorado,1 wk ahead,Bin,percent,7.5,7.6,0.000242719
 Colorado,1 wk ahead,Bin,percent,7.6,7.7,0.000242719
 Colorado,1 wk ahead,Bin,percent,7.7,7.8,0.000242719
-Colorado,1 wk ahead,Bin,percent,7.8,7.9,#VALUE!
+Colorado,1 wk ahead,Bin,percent,7.8,7.9,0.000242719
 Colorado,1 wk ahead,Bin,percent,7.9,8,0.000242719
 Colorado,1 wk ahead,Bin,percent,8,8.1,0.000242719
 Colorado,1 wk ahead,Bin,percent,8.1,8.2,0.000242719
@@ -4162,7 +4162,7 @@ Colorado,4 wk ahead,Bin,percent,12.6,12.7,0.000353376
 Colorado,4 wk ahead,Bin,percent,12.7,12.8,0.000352503
 Colorado,4 wk ahead,Bin,percent,12.8,12.9,0.000351281
 Colorado,4 wk ahead,Bin,percent,12.9,13,0.000349463
-Colorado,4 wk ahead,Bin,percent,13,100,8.18706E-05
+Colorado,4 wk ahead,Bin,percent,13,100,8.19E-05
 Connecticut,Season peak week,Point,week,NA,NA,4.25
 Connecticut,Season peak week,Bin,week,40,41,0.001374251
 Connecticut,Season peak week,Bin,week,41,42,0.001182494
@@ -4856,7 +4856,7 @@ Connecticut,4 wk ahead,Bin,percent,12.6,12.7,0.000352866
 Connecticut,4 wk ahead,Bin,percent,12.7,12.8,0.000352523
 Connecticut,4 wk ahead,Bin,percent,12.8,12.9,0.000351942
 Connecticut,4 wk ahead,Bin,percent,12.9,13,0.000350223
-Connecticut,4 wk ahead,Bin,percent,13,100,7.95443E-05
+Connecticut,4 wk ahead,Bin,percent,13,100,7.95E-05
 Delaware,Season peak week,Point,week,NA,NA,6
 Delaware,Season peak week,Bin,week,40,41,0.001512492
 Delaware,Season peak week,Bin,week,41,42,0.001603045
@@ -5550,7 +5550,7 @@ Delaware,4 wk ahead,Bin,percent,12.6,12.7,0.000354198
 Delaware,4 wk ahead,Bin,percent,12.7,12.8,0.000353798
 Delaware,4 wk ahead,Bin,percent,12.8,12.9,0.000353396
 Delaware,4 wk ahead,Bin,percent,12.9,13,0.000352508
-Delaware,4 wk ahead,Bin,percent,13,100,8.79513E-05
+Delaware,4 wk ahead,Bin,percent,13,100,8.80E-05
 District of Columbia,Season peak week,Point,week,NA,NA,18
 District of Columbia,Season peak week,Bin,week,40,41,0.001019346
 District of Columbia,Season peak week,Bin,week,41,42,0.002048245
@@ -6938,7 +6938,7 @@ Georgia,4 wk ahead,Bin,percent,12.6,12.7,0.000350949
 Georgia,4 wk ahead,Bin,percent,12.7,12.8,0.000350565
 Georgia,4 wk ahead,Bin,percent,12.8,12.9,0.000349521
 Georgia,4 wk ahead,Bin,percent,12.9,13,0.00034732
-Georgia,4 wk ahead,Bin,percent,13,100,5.00859E-05
+Georgia,4 wk ahead,Bin,percent,13,100,5.01E-05
 Hawaii,Season peak week,Point,week,NA,NA,4.25
 Hawaii,Season peak week,Bin,week,40,41,0.000659852
 Hawaii,Season peak week,Bin,week,41,42,0.000659852
@@ -7617,7 +7617,7 @@ Hawaii,4 wk ahead,Bin,percent,11.1,11.2,0.000354804
 Hawaii,4 wk ahead,Bin,percent,11.2,11.3,0.000354712
 Hawaii,4 wk ahead,Bin,percent,11.3,11.4,0.000354604
 Hawaii,4 wk ahead,Bin,percent,11.4,11.5,0.00035449
-Hawaii,4 wk ahead,Bin,percent,11.5,11.6,#VALUE!
+Hawaii,4 wk ahead,Bin,percent,11.5,11.6,0.000354359
 Hawaii,4 wk ahead,Bin,percent,11.6,11.7,0.000354215
 Hawaii,4 wk ahead,Bin,percent,11.7,11.8,0.000354068
 Hawaii,4 wk ahead,Bin,percent,11.8,11.9,0.000353904
@@ -7632,7 +7632,7 @@ Hawaii,4 wk ahead,Bin,percent,12.6,12.7,0.000351926
 Hawaii,4 wk ahead,Bin,percent,12.7,12.8,0.00035112
 Hawaii,4 wk ahead,Bin,percent,12.8,12.9,0.000349767
 Hawaii,4 wk ahead,Bin,percent,12.9,13,0.000347731
-Hawaii,4 wk ahead,Bin,percent,13,100,9.68859E-05
+Hawaii,4 wk ahead,Bin,percent,13,100,9.69E-05
 Idaho,Season peak week,Point,week,NA,NA,3.25
 Idaho,Season peak week,Bin,week,40,41,0.002079757
 Idaho,Season peak week,Bin,week,41,42,0.001106356
@@ -8326,7 +8326,7 @@ Idaho,4 wk ahead,Bin,percent,12.6,12.7,0.000352903
 Idaho,4 wk ahead,Bin,percent,12.7,12.8,0.000352613
 Idaho,4 wk ahead,Bin,percent,12.8,12.9,0.000352162
 Idaho,4 wk ahead,Bin,percent,12.9,13,0.00035105
-Idaho,4 wk ahead,Bin,percent,13,100,8.14013E-05
+Idaho,4 wk ahead,Bin,percent,13,100,8.14E-05
 Illinois,Season peak week,Point,week,NA,NA,5
 Illinois,Season peak week,Bin,week,40,41,0.000606961
 Illinois,Season peak week,Bin,week,41,42,0.000606961
@@ -8567,7 +8567,7 @@ Illinois,1 wk ahead,Bin,percent,6.9,7,0.000242719
 Illinois,1 wk ahead,Bin,percent,7,7.1,0.000242719
 Illinois,1 wk ahead,Bin,percent,7.1,7.2,0.000242719
 Illinois,1 wk ahead,Bin,percent,7.2,7.3,0.000242719
-Illinois,1 wk ahead,Bin,percent,7.3,7.4,#VALUE!
+Illinois,1 wk ahead,Bin,percent,7.3,7.4,0.000242719
 Illinois,1 wk ahead,Bin,percent,7.4,7.5,0.000242719
 Illinois,1 wk ahead,Bin,percent,7.5,7.6,0.000242719
 Illinois,1 wk ahead,Bin,percent,7.6,7.7,0.000242719
@@ -9020,7 +9020,7 @@ Illinois,4 wk ahead,Bin,percent,12.6,12.7,0.000351127
 Illinois,4 wk ahead,Bin,percent,12.7,12.8,0.000351044
 Illinois,4 wk ahead,Bin,percent,12.8,12.9,0.000351059
 Illinois,4 wk ahead,Bin,percent,12.9,13,0.0003505
-Illinois,4 wk ahead,Bin,percent,13,100,4.41619E-05
+Illinois,4 wk ahead,Bin,percent,13,100,4.42E-05
 Indiana,Season peak week,Point,week,NA,NA,5.25
 Indiana,Season peak week,Bin,week,40,41,0.0006069
 Indiana,Season peak week,Bin,week,41,42,0.0006069
@@ -9664,7 +9664,7 @@ Indiana,4 wk ahead,Bin,percent,7.6,7.7,0.000351239
 Indiana,4 wk ahead,Bin,percent,7.7,7.8,0.000351238
 Indiana,4 wk ahead,Bin,percent,7.8,7.9,0.000351243
 Indiana,4 wk ahead,Bin,percent,7.9,8,0.000351238
-Indiana,4 wk ahead,Bin,percent,8,8.1,#VALUE!
+Indiana,4 wk ahead,Bin,percent,8,8.1,0.000351235
 Indiana,4 wk ahead,Bin,percent,8.1,8.2,0.000351243
 Indiana,4 wk ahead,Bin,percent,8.2,8.3,0.000351237
 Indiana,4 wk ahead,Bin,percent,8.3,8.4,0.000351235
@@ -9714,7 +9714,7 @@ Indiana,4 wk ahead,Bin,percent,12.6,12.7,0.000351133
 Indiana,4 wk ahead,Bin,percent,12.7,12.8,0.000351077
 Indiana,4 wk ahead,Bin,percent,12.8,12.9,0.000350766
 Indiana,4 wk ahead,Bin,percent,12.9,13,0.000349191
-Indiana,4 wk ahead,Bin,percent,13,100,4.59234E-05
+Indiana,4 wk ahead,Bin,percent,13,100,4.59E-05
 Iowa,Season peak week,Point,week,NA,NA,15.75
 Iowa,Season peak week,Bin,week,40,41,0.001575997
 Iowa,Season peak week,Bin,week,41,42,0.001672908
@@ -10408,7 +10408,7 @@ Iowa,4 wk ahead,Bin,percent,12.6,12.7,0.000353845
 Iowa,4 wk ahead,Bin,percent,12.7,12.8,0.000353299
 Iowa,4 wk ahead,Bin,percent,12.8,12.9,0.000352819
 Iowa,4 wk ahead,Bin,percent,12.9,13,0.000351984
-Iowa,4 wk ahead,Bin,percent,13,100,8.33463E-05
+Iowa,4 wk ahead,Bin,percent,13,100,8.33E-05
 Kansas,Season peak week,Point,week,NA,NA,16.5
 Kansas,Season peak week,Bin,week,40,41,0.000858744
 Kansas,Season peak week,Bin,week,41,42,0.000909115
@@ -10918,7 +10918,7 @@ Kansas,3 wk ahead,Bin,percent,7.4,7.5,0.000153135
 Kansas,3 wk ahead,Bin,percent,7.5,7.6,0.000153135
 Kansas,3 wk ahead,Bin,percent,7.6,7.7,0.000153135
 Kansas,3 wk ahead,Bin,percent,7.7,7.8,0.000178135
-Kansas,3 wk ahead,Bin,percent,7.8,7.9,#VALUE!
+Kansas,3 wk ahead,Bin,percent,7.8,7.9,0.000178135
 Kansas,3 wk ahead,Bin,percent,7.9,8,0.000153135
 Kansas,3 wk ahead,Bin,percent,8,8.1,0.000153135
 Kansas,3 wk ahead,Bin,percent,8.1,8.2,0.000153135
@@ -11102,7 +11102,7 @@ Kansas,4 wk ahead,Bin,percent,12.6,12.7,0.000351126
 Kansas,4 wk ahead,Bin,percent,12.7,12.8,0.000351087
 Kansas,4 wk ahead,Bin,percent,12.8,12.9,0.000350889
 Kansas,4 wk ahead,Bin,percent,12.9,13,0.000349485
-Kansas,4 wk ahead,Bin,percent,13,100,4.58429E-05
+Kansas,4 wk ahead,Bin,percent,13,100,4.58E-05
 Kentucky,Season peak week,Point,week,NA,NA,27.75
 Kentucky,Season peak week,Bin,week,40,41,0.000963534
 Kentucky,Season peak week,Bin,week,41,42,0.002288212
@@ -12184,7 +12184,7 @@ Louisiana,2 wk ahead,Bin,percent,8.4,8.5,0.000508409
 Louisiana,2 wk ahead,Bin,percent,8.5,8.6,0.000508409
 Louisiana,2 wk ahead,Bin,percent,8.6,8.7,0.000959453
 Louisiana,2 wk ahead,Bin,percent,8.7,8.8,0.000508409
-Louisiana,2 wk ahead,Bin,percent,8.8,8.9,#VALUE!
+Louisiana,2 wk ahead,Bin,percent,8.8,8.9,0.000508409
 Louisiana,2 wk ahead,Bin,percent,8.9,9,0.000508409
 Louisiana,2 wk ahead,Bin,percent,9,9.1,0.000508409
 Louisiana,2 wk ahead,Bin,percent,9.1,9.2,0.000508409
@@ -13184,7 +13184,7 @@ Maine,4 wk ahead,Bin,percent,12.6,12.7,0.000351132
 Maine,4 wk ahead,Bin,percent,12.7,12.8,0.000351104
 Maine,4 wk ahead,Bin,percent,12.8,12.9,0.000350986
 Maine,4 wk ahead,Bin,percent,12.9,13,0.000349851
-Maine,4 wk ahead,Bin,percent,13,100,4.52023E-05
+Maine,4 wk ahead,Bin,percent,13,100,4.52E-05
 Maryland,Season peak week,Point,week,NA,NA,16.75
 Maryland,Season peak week,Bin,week,40,41,0.000607713
 Maryland,Season peak week,Bin,week,41,42,0.000607713
@@ -13878,7 +13878,7 @@ Maryland,4 wk ahead,Bin,percent,12.6,12.7,0.00035261
 Maryland,4 wk ahead,Bin,percent,12.7,12.8,0.000352236
 Maryland,4 wk ahead,Bin,percent,12.8,12.9,0.000351511
 Maryland,4 wk ahead,Bin,percent,12.9,13,0.000349612
-Maryland,4 wk ahead,Bin,percent,13,100,7.86839E-05
+Maryland,4 wk ahead,Bin,percent,13,100,7.87E-05
 Massachusetts,Season peak week,Point,week,NA,NA,16.75
 Massachusetts,Season peak week,Bin,week,40,41,0.000606907
 Massachusetts,Season peak week,Bin,week,41,42,0.000606907
@@ -14520,7 +14520,7 @@ Massachusetts,4 wk ahead,Bin,percent,7.4,7.5,0.00035124
 Massachusetts,4 wk ahead,Bin,percent,7.5,7.6,0.000351253
 Massachusetts,4 wk ahead,Bin,percent,7.6,7.7,0.000351281
 Massachusetts,4 wk ahead,Bin,percent,7.7,7.8,0.000351241
-Massachusetts,4 wk ahead,Bin,percent,7.8,7.9,#VALUE!
+Massachusetts,4 wk ahead,Bin,percent,7.8,7.9,0.00035126
 Massachusetts,4 wk ahead,Bin,percent,7.9,8,0.000351242
 Massachusetts,4 wk ahead,Bin,percent,8,8.1,0.000351244
 Massachusetts,4 wk ahead,Bin,percent,8.1,8.2,0.000351272
@@ -14572,7 +14572,7 @@ Massachusetts,4 wk ahead,Bin,percent,12.6,12.7,0.00035114
 Massachusetts,4 wk ahead,Bin,percent,12.7,12.8,0.000351145
 Massachusetts,4 wk ahead,Bin,percent,12.8,12.9,0.000351004
 Massachusetts,4 wk ahead,Bin,percent,12.9,13,0.000349971
-Massachusetts,4 wk ahead,Bin,percent,13,100,4.5041E-05
+Massachusetts,4 wk ahead,Bin,percent,13,100,4.50E-05
 Michigan,Season peak week,Point,week,NA,NA,5.5
 Michigan,Season peak week,Bin,week,40,41,0.000188835
 Michigan,Season peak week,Bin,week,41,42,0.0024318
@@ -14739,138 +14739,138 @@ Michigan,Season peak percentage,Bin,percent,12.7,12.8,0.000783196
 Michigan,Season peak percentage,Bin,percent,12.8,12.9,0.00076215
 Michigan,Season peak percentage,Bin,percent,12.9,13,0.000739949
 Michigan,Season peak percentage,Bin,percent,13,100,0.003620938
-Michigan,1 wk ahead,Point,percent,NA,NA,0.75
-Michigan,1 wk ahead,Bin,percent,0,0.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,0.1,0.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,0.2,0.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,0.3,0.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,0.4,0.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,0.5,0.6,0.000245752
-Michigan,1 wk ahead,Bin,percent,0.6,0.7,0.00079728
-Michigan,1 wk ahead,Bin,percent,0.7,0.8,0.002672477
-Michigan,1 wk ahead,Bin,percent,0.8,0.9,0.007305317
-Michigan,1 wk ahead,Bin,percent,0.9,1,0.015688552
-Michigan,1 wk ahead,Bin,percent,1,1.1,0.025285149
-Michigan,1 wk ahead,Bin,percent,1.1,1.2,0.038190918
-Michigan,1 wk ahead,Bin,percent,1.2,1.3,0.047346292
-Michigan,1 wk ahead,Bin,percent,1.3,1.4,0.05021424
-Michigan,1 wk ahead,Bin,percent,1.4,1.5,0.054626469
-Michigan,1 wk ahead,Bin,percent,1.5,1.6,0.056611972
-Michigan,1 wk ahead,Bin,percent,1.6,1.7,0.044919566
-Michigan,1 wk ahead,Bin,percent,1.7,1.8,0.038301223
-Michigan,1 wk ahead,Bin,percent,1.8,1.9,0.033888995
-Michigan,1 wk ahead,Bin,percent,1.9,2,0.023079035
-Michigan,1 wk ahead,Bin,percent,2,2.1,0.016901915
-Michigan,1 wk ahead,Bin,percent,2.1,2.2,0.011496935
-Michigan,1 wk ahead,Bin,percent,2.2,2.3,0.0108351
-Michigan,1 wk ahead,Bin,percent,2.3,2.4,0.005761037
-Michigan,1 wk ahead,Bin,percent,2.4,2.5,0.005761037
-Michigan,1 wk ahead,Bin,percent,2.5,2.6,0.002120949
-Michigan,1 wk ahead,Bin,percent,2.6,2.7,0.001238503
-Michigan,1 wk ahead,Bin,percent,2.7,2.8,0.001679726
-Michigan,1 wk ahead,Bin,percent,2.8,2.9,0.001017892
-Michigan,1 wk ahead,Bin,percent,2.9,3,0.000356057
-Michigan,1 wk ahead,Bin,percent,3,3.1,0.000356057
-Michigan,1 wk ahead,Bin,percent,3.1,3.2,0.000135446
-Michigan,1 wk ahead,Bin,percent,3.2,3.3,0.000135446
-Michigan,1 wk ahead,Bin,percent,3.3,3.4,0.000245752
-Michigan,1 wk ahead,Bin,percent,3.4,3.5,0.000135446
-Michigan,1 wk ahead,Bin,percent,3.5,3.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,3.6,3.7,0.000135446
-Michigan,1 wk ahead,Bin,percent,3.7,3.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,3.8,3.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,3.9,4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4,4.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.1,4.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.2,4.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.3,4.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.4,4.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.5,4.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.6,4.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.7,4.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.8,4.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,4.9,5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5,5.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.1,5.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.2,5.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.3,5.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.4,5.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.5,5.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.6,5.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.7,5.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.8,5.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,5.9,6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6,6.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.1,6.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.2,6.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.3,6.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.4,6.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.5,6.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.6,6.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.7,6.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.8,6.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,6.9,7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7,7.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.1,7.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.2,7.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.3,7.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.4,7.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.5,7.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.6,7.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.7,7.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.8,7.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,7.9,8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8,8.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.1,8.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.2,8.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.3,8.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.4,8.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.5,8.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.6,8.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.7,8.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.8,8.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,8.9,9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9,9.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.1,9.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.2,9.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.3,9.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.4,9.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.5,9.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.6,9.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.7,9.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.8,9.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,9.9,10,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10,10.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.1,10.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.2,10.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.3,10.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.4,10.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.5,10.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.6,10.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.7,10.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.8,10.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,10.9,11,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11,11.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.1,11.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.2,11.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.3,11.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.4,11.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.5,11.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.6,11.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.7,11.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.8,11.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,11.9,12,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12,12.1,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.1,12.2,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.2,12.3,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.3,12.4,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.4,12.5,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.5,12.6,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.6,12.7,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.7,12.8,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.8,12.9,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,12.9,13,2.51402E-05
-Michigan,1 wk ahead,Bin,percent,13,100,2.51402E-05
+Michigan,1 wk ahead,Point,percent,NA,NA,1.5
+Michigan,1 wk ahead,Bin,percent,0,0.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,0.1,0.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,0.2,0.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,0.3,0.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,0.4,0.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,0.5,0.6,0.000491503
+Michigan,1 wk ahead,Bin,percent,0.6,0.7,0.00159456
+Michigan,1 wk ahead,Bin,percent,0.7,0.8,0.005344955
+Michigan,1 wk ahead,Bin,percent,0.8,0.9,0.014610635
+Michigan,1 wk ahead,Bin,percent,0.9,1,0.031377103
+Michigan,1 wk ahead,Bin,percent,1,1.1,0.050570298
+Michigan,1 wk ahead,Bin,percent,1.1,1.2,0.076381835
+Michigan,1 wk ahead,Bin,percent,1.2,1.3,0.094692584
+Michigan,1 wk ahead,Bin,percent,1.3,1.4,0.100428481
+Michigan,1 wk ahead,Bin,percent,1.4,1.5,0.109252938
+Michigan,1 wk ahead,Bin,percent,1.5,1.6,0.113223944
+Michigan,1 wk ahead,Bin,percent,1.6,1.7,0.089839132
+Michigan,1 wk ahead,Bin,percent,1.7,1.8,0.076602447
+Michigan,1 wk ahead,Bin,percent,1.8,1.9,0.067777989
+Michigan,1 wk ahead,Bin,percent,1.9,2,0.046158069
+Michigan,1 wk ahead,Bin,percent,2,2.1,0.033803829
+Michigan,1 wk ahead,Bin,percent,2.1,2.2,0.022993869
+Michigan,1 wk ahead,Bin,percent,2.2,2.3,0.021670201
+Michigan,1 wk ahead,Bin,percent,2.3,2.4,0.011522075
+Michigan,1 wk ahead,Bin,percent,2.4,2.5,0.011522075
+Michigan,1 wk ahead,Bin,percent,2.5,2.6,0.004241898
+Michigan,1 wk ahead,Bin,percent,2.6,2.7,0.002477006
+Michigan,1 wk ahead,Bin,percent,2.7,2.8,0.003359452
+Michigan,1 wk ahead,Bin,percent,2.8,2.9,0.002035783
+Michigan,1 wk ahead,Bin,percent,2.9,3,0.000712115
+Michigan,1 wk ahead,Bin,percent,3,3.1,0.000712115
+Michigan,1 wk ahead,Bin,percent,3.1,3.2,0.000270892
+Michigan,1 wk ahead,Bin,percent,3.2,3.3,0.000270892
+Michigan,1 wk ahead,Bin,percent,3.3,3.4,0.000491503
+Michigan,1 wk ahead,Bin,percent,3.4,3.5,0.000270892
+Michigan,1 wk ahead,Bin,percent,3.5,3.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,3.6,3.7,0.000270892
+Michigan,1 wk ahead,Bin,percent,3.7,3.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,3.8,3.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,3.9,4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4,4.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.1,4.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.2,4.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.3,4.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.4,4.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.5,4.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.6,4.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.7,4.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.8,4.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,4.9,5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5,5.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.1,5.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.2,5.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.3,5.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.4,5.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.5,5.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.6,5.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.7,5.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.8,5.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,5.9,6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6,6.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.1,6.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.2,6.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.3,6.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.4,6.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.5,6.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.6,6.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.7,6.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.8,6.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,6.9,7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7,7.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.1,7.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.2,7.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.3,7.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.4,7.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.5,7.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.6,7.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.7,7.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.8,7.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,7.9,8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8,8.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.1,8.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.2,8.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.3,8.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.4,8.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.5,8.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.6,8.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.7,8.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.8,8.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,8.9,9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9,9.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.1,9.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.2,9.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.3,9.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.4,9.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.5,9.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.6,9.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.7,9.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.8,9.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,9.9,10,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10,10.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.1,10.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.2,10.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.3,10.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.4,10.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.5,10.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.6,10.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.7,10.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.8,10.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,10.9,11,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11,11.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.1,11.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.2,11.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.3,11.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.4,11.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.5,11.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.6,11.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.7,11.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.8,11.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,11.9,12,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12,12.1,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.1,12.2,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.2,12.3,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.3,12.4,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.4,12.5,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.5,12.6,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.6,12.7,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.7,12.8,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.8,12.9,5.03E-05
+Michigan,1 wk ahead,Bin,percent,12.9,13,5.03E-05
+Michigan,1 wk ahead,Bin,percent,13,100,5.03E-05
 Michigan,2 wk ahead,Point,percent,NA,NA,1.9
 Michigan,2 wk ahead,Bin,percent,0,0.1,0.000677876
 Michigan,2 wk ahead,Bin,percent,0.1,0.2,0.000677876
@@ -15005,10 +15005,10 @@ Michigan,2 wk ahead,Bin,percent,12.9,13,0.000677876
 Michigan,2 wk ahead,Bin,percent,13,100,0.00310257
 Michigan,3 wk ahead,Point,percent,NA,NA,1.707500159
 Michigan,3 wk ahead,Bin,percent,0,0.1,0
-Michigan,3 wk ahead,Bin,percent,0.1,0.2,6.10623E-16
-Michigan,3 wk ahead,Bin,percent,0.2,0.3,6.48648E-14
-Michigan,3 wk ahead,Bin,percent,0.3,0.4,4.69347E-12
-Michigan,3 wk ahead,Bin,percent,0.4,0.5,2.38423E-10
+Michigan,3 wk ahead,Bin,percent,0.1,0.2,6.11E-16
+Michigan,3 wk ahead,Bin,percent,0.2,0.3,6.49E-14
+Michigan,3 wk ahead,Bin,percent,0.3,0.4,4.69E-12
+Michigan,3 wk ahead,Bin,percent,0.4,0.5,2.38E-10
 Michigan,3 wk ahead,Bin,percent,0.5,0.6,0.000100009
 Michigan,3 wk ahead,Bin,percent,0.6,0.7,0.000500213
 Michigan,3 wk ahead,Bin,percent,0.7,0.8,0.001403757
@@ -15069,21 +15069,21 @@ Michigan,3 wk ahead,Bin,percent,6.1,6.2,0.0002
 Michigan,3 wk ahead,Bin,percent,6.2,6.3,0.00045
 Michigan,3 wk ahead,Bin,percent,6.3,6.4,0.0002
 Michigan,3 wk ahead,Bin,percent,6.4,6.5,0.00025
-Michigan,3 wk ahead,Bin,percent,6.5,6.6,5E-05
+Michigan,3 wk ahead,Bin,percent,6.5,6.6,5.00E-05
 Michigan,3 wk ahead,Bin,percent,6.6,6.7,0.00015
-Michigan,3 wk ahead,Bin,percent,6.7,6.8,2.4268E-212
+Michigan,3 wk ahead,Bin,percent,6.7,6.8,2.43E-212
 Michigan,3 wk ahead,Bin,percent,6.8,6.9,0.00015
-Michigan,3 wk ahead,Bin,percent,6.9,7,7.5771E-229
-Michigan,3 wk ahead,Bin,percent,7,7.1,2.4691E-237
+Michigan,3 wk ahead,Bin,percent,6.9,7,7.58E-229
+Michigan,3 wk ahead,Bin,percent,7,7.1,2.47E-237
 Michigan,3 wk ahead,Bin,percent,7.1,7.2,0.0001
-Michigan,3 wk ahead,Bin,percent,7.2,7.3,8.9159E-255
-Michigan,3 wk ahead,Bin,percent,7.3,7.4,9.8798E-264
-Michigan,3 wk ahead,Bin,percent,7.4,7.5,7.6412E-273
-Michigan,3 wk ahead,Bin,percent,7.5,7.6,4.1248E-282
+Michigan,3 wk ahead,Bin,percent,7.2,7.3,8.92E-255
+Michigan,3 wk ahead,Bin,percent,7.3,7.4,9.88E-264
+Michigan,3 wk ahead,Bin,percent,7.4,7.5,7.64E-273
+Michigan,3 wk ahead,Bin,percent,7.5,7.6,4.12E-282
 Michigan,3 wk ahead,Bin,percent,7.6,7.7,0.0001
-Michigan,3 wk ahead,Bin,percent,7.7,7.8,5E-05
-Michigan,3 wk ahead,Bin,percent,7.8,7.9,#VALUE!
-Michigan,3 wk ahead,Bin,percent,7.9,8,5E-05
+Michigan,3 wk ahead,Bin,percent,7.7,7.8,5.00E-05
+Michigan,3 wk ahead,Bin,percent,7.8,7.9,5E-05
+Michigan,3 wk ahead,Bin,percent,7.9,8,5.00E-05
 Michigan,3 wk ahead,Bin,percent,8,8.1,0
 Michigan,3 wk ahead,Bin,percent,8.1,8.2,0
 Michigan,3 wk ahead,Bin,percent,8.2,8.3,0
@@ -15094,13 +15094,13 @@ Michigan,3 wk ahead,Bin,percent,8.6,8.7,0
 Michigan,3 wk ahead,Bin,percent,8.7,8.8,0
 Michigan,3 wk ahead,Bin,percent,8.8,8.9,0
 Michigan,3 wk ahead,Bin,percent,8.9,9,0
-Michigan,3 wk ahead,Bin,percent,9,9.1,5E-05
+Michigan,3 wk ahead,Bin,percent,9,9.1,5.00E-05
 Michigan,3 wk ahead,Bin,percent,9.1,9.2,0
 Michigan,3 wk ahead,Bin,percent,9.2,9.3,0
 Michigan,3 wk ahead,Bin,percent,9.3,9.4,0
-Michigan,3 wk ahead,Bin,percent,9.4,9.5,5E-05
+Michigan,3 wk ahead,Bin,percent,9.4,9.5,5.00E-05
 Michigan,3 wk ahead,Bin,percent,9.5,9.6,0
-Michigan,3 wk ahead,Bin,percent,9.6,9.7,5E-05
+Michigan,3 wk ahead,Bin,percent,9.6,9.7,5.00E-05
 Michigan,3 wk ahead,Bin,percent,9.7,9.8,0
 Michigan,3 wk ahead,Bin,percent,9.8,9.9,0
 Michigan,3 wk ahead,Bin,percent,9.9,10,0
@@ -15110,7 +15110,7 @@ Michigan,3 wk ahead,Bin,percent,10.2,10.3,0
 Michigan,3 wk ahead,Bin,percent,10.3,10.4,0
 Michigan,3 wk ahead,Bin,percent,10.4,10.5,0.0001
 Michigan,3 wk ahead,Bin,percent,10.5,10.6,0
-Michigan,3 wk ahead,Bin,percent,10.6,10.7,5E-05
+Michigan,3 wk ahead,Bin,percent,10.6,10.7,5.00E-05
 Michigan,3 wk ahead,Bin,percent,10.7,10.8,0
 Michigan,3 wk ahead,Bin,percent,10.8,10.9,0
 Michigan,3 wk ahead,Bin,percent,10.9,11,0
@@ -15136,8 +15136,8 @@ Michigan,3 wk ahead,Bin,percent,12.8,12.9,0
 Michigan,3 wk ahead,Bin,percent,12.9,13,0
 Michigan,3 wk ahead,Bin,percent,13,100,0.00015
 Michigan,4 wk ahead,Point,percent,NA,NA,1.541642924
-Michigan,4 wk ahead,Bin,percent,0,0.1,8.78167E-05
-Michigan,4 wk ahead,Bin,percent,0.1,0.2,9.64299E-05
+Michigan,4 wk ahead,Bin,percent,0,0.1,8.78E-05
+Michigan,4 wk ahead,Bin,percent,0.1,0.2,9.64E-05
 Michigan,4 wk ahead,Bin,percent,0.2,0.3,0.000108816
 Michigan,4 wk ahead,Bin,percent,0.3,0.4,0.00019306
 Michigan,4 wk ahead,Bin,percent,0.4,0.5,0.00062133
@@ -15184,25 +15184,25 @@ Michigan,4 wk ahead,Bin,percent,4.4,4.5,0.0002122
 Michigan,4 wk ahead,Bin,percent,4.5,4.6,0.000166761
 Michigan,4 wk ahead,Bin,percent,4.6,4.7,0.000124088
 Michigan,4 wk ahead,Bin,percent,4.7,4.8,0.000100727
-Michigan,4 wk ahead,Bin,percent,4.8,4.9,9.22019E-05
-Michigan,4 wk ahead,Bin,percent,4.9,5,9.02659E-05
-Michigan,4 wk ahead,Bin,percent,5,5.1,9.00611E-05
-Michigan,4 wk ahead,Bin,percent,5.1,5.2,8.99024E-05
-Michigan,4 wk ahead,Bin,percent,5.2,5.3,8.99408E-05
-Michigan,4 wk ahead,Bin,percent,5.3,5.4,9.0031E-05
-Michigan,4 wk ahead,Bin,percent,5.4,5.5,8.98961E-05
-Michigan,4 wk ahead,Bin,percent,5.5,5.6,8.99641E-05
-Michigan,4 wk ahead,Bin,percent,5.6,5.7,8.9951E-05
-Michigan,4 wk ahead,Bin,percent,5.7,5.8,8.99123E-05
-Michigan,4 wk ahead,Bin,percent,5.8,5.9,9.00183E-05
-Michigan,4 wk ahead,Bin,percent,5.9,6,8.98882E-05
-Michigan,4 wk ahead,Bin,percent,6,6.1,8.99265E-05
-Michigan,4 wk ahead,Bin,percent,6.1,6.2,9.00586E-05
-Michigan,4 wk ahead,Bin,percent,6.2,6.3,8.98782E-05
-Michigan,4 wk ahead,Bin,percent,6.3,6.4,8.99445E-05
-Michigan,4 wk ahead,Bin,percent,6.4,6.5,8.99837E-05
-Michigan,4 wk ahead,Bin,percent,6.5,6.6,8.98965E-05
-Michigan,4 wk ahead,Bin,percent,6.6,6.7,8.99969E-05
+Michigan,4 wk ahead,Bin,percent,4.8,4.9,9.22E-05
+Michigan,4 wk ahead,Bin,percent,4.9,5,9.03E-05
+Michigan,4 wk ahead,Bin,percent,5,5.1,9.01E-05
+Michigan,4 wk ahead,Bin,percent,5.1,5.2,8.99E-05
+Michigan,4 wk ahead,Bin,percent,5.2,5.3,8.99E-05
+Michigan,4 wk ahead,Bin,percent,5.3,5.4,9.00E-05
+Michigan,4 wk ahead,Bin,percent,5.4,5.5,8.99E-05
+Michigan,4 wk ahead,Bin,percent,5.5,5.6,9.00E-05
+Michigan,4 wk ahead,Bin,percent,5.6,5.7,9.00E-05
+Michigan,4 wk ahead,Bin,percent,5.7,5.8,8.99E-05
+Michigan,4 wk ahead,Bin,percent,5.8,5.9,9.00E-05
+Michigan,4 wk ahead,Bin,percent,5.9,6,8.99E-05
+Michigan,4 wk ahead,Bin,percent,6,6.1,8.99E-05
+Michigan,4 wk ahead,Bin,percent,6.1,6.2,9.01E-05
+Michigan,4 wk ahead,Bin,percent,6.2,6.3,8.99E-05
+Michigan,4 wk ahead,Bin,percent,6.3,6.4,8.99E-05
+Michigan,4 wk ahead,Bin,percent,6.4,6.5,9.00E-05
+Michigan,4 wk ahead,Bin,percent,6.5,6.6,8.99E-05
+Michigan,4 wk ahead,Bin,percent,6.6,6.7,9.00E-05
 Michigan,4 wk ahead,Bin,percent,6.7,6.8,0.000351227
 Michigan,4 wk ahead,Bin,percent,6.8,6.9,0.000351227
 Michigan,4 wk ahead,Bin,percent,6.9,7,0.000351301
@@ -15215,7 +15215,7 @@ Michigan,4 wk ahead,Bin,percent,7.5,7.6,0.000351241
 Michigan,4 wk ahead,Bin,percent,7.6,7.7,0.000351227
 Michigan,4 wk ahead,Bin,percent,7.7,7.8,0.000351287
 Michigan,4 wk ahead,Bin,percent,7.8,7.9,0.000351221
-Michigan,4 wk ahead,Bin,percent,7.9,8,#VALUE!
+Michigan,4 wk ahead,Bin,percent,7.9,8,0.000351232
 Michigan,4 wk ahead,Bin,percent,8,8.1,0.000351278
 Michigan,4 wk ahead,Bin,percent,8.1,8.2,0.000351224
 Michigan,4 wk ahead,Bin,percent,8.2,8.3,0.000351248
@@ -15266,7 +15266,7 @@ Michigan,4 wk ahead,Bin,percent,12.6,12.7,0.00035114
 Michigan,4 wk ahead,Bin,percent,12.7,12.8,0.000351042
 Michigan,4 wk ahead,Bin,percent,12.8,12.9,0.000350915
 Michigan,4 wk ahead,Bin,percent,12.9,13,0.000349954
-Michigan,4 wk ahead,Bin,percent,13,100,4.52692E-05
+Michigan,4 wk ahead,Bin,percent,13,100,4.53E-05
 Minnesota,Season peak week,Point,week,NA,NA,27.5
 Minnesota,Season peak week,Bin,week,40,41,0.0011216
 Minnesota,Season peak week,Bin,week,41,42,0.0011216
@@ -15650,7 +15650,7 @@ Minnesota,2 wk ahead,Bin,percent,8,8.1,0.000508409
 Minnesota,2 wk ahead,Bin,percent,8.1,8.2,0.000508409
 Minnesota,2 wk ahead,Bin,percent,8.2,8.3,0.000959453
 Minnesota,2 wk ahead,Bin,percent,8.3,8.4,0.000508409
-Minnesota,2 wk ahead,Bin,percent,8.4,8.5,#VALUE!
+Minnesota,2 wk ahead,Bin,percent,8.4,8.5,0.000959453
 Minnesota,2 wk ahead,Bin,percent,8.5,8.6,0.000508409
 Minnesota,2 wk ahead,Bin,percent,8.6,8.7,0.000508409
 Minnesota,2 wk ahead,Bin,percent,8.7,8.8,0.000508409
@@ -16654,7 +16654,7 @@ Mississippi,4 wk ahead,Bin,percent,12.6,12.7,0.000351425
 Mississippi,4 wk ahead,Bin,percent,12.7,12.8,0.000350226
 Mississippi,4 wk ahead,Bin,percent,12.8,12.9,0.000348807
 Mississippi,4 wk ahead,Bin,percent,12.9,13,0.000346593
-Mississippi,4 wk ahead,Bin,percent,13,100,5.23504E-05
+Mississippi,4 wk ahead,Bin,percent,13,100,5.24E-05
 Missouri,Season peak week,Point,week,NA,NA,15.25
 Missouri,Season peak week,Bin,week,40,41,0.000607916
 Missouri,Season peak week,Bin,week,41,42,0.000607916
@@ -17348,7 +17348,7 @@ Missouri,4 wk ahead,Bin,percent,12.6,12.7,0.000352548
 Missouri,4 wk ahead,Bin,percent,12.7,12.8,0.000352201
 Missouri,4 wk ahead,Bin,percent,12.8,12.9,0.000351528
 Missouri,4 wk ahead,Bin,percent,12.9,13,0.000349688
-Missouri,4 wk ahead,Bin,percent,13,100,7.8183E-05
+Missouri,4 wk ahead,Bin,percent,13,100,7.82E-05
 Montana,Season peak week,Point,week,NA,NA,15.25
 Montana,Season peak week,Bin,week,40,41,0.008095681
 Montana,Season peak week,Bin,week,41,42,0.007677053
@@ -17719,7 +17719,7 @@ Montana,2 wk ahead,Bin,percent,6.7,6.8,0.000508407
 Montana,2 wk ahead,Bin,percent,6.8,6.9,0.000508407
 Montana,2 wk ahead,Bin,percent,6.9,7,0.000508407
 Montana,2 wk ahead,Bin,percent,7,7.1,0.000508407
-Montana,2 wk ahead,Bin,percent,7.1,7.2,#VALUE!
+Montana,2 wk ahead,Bin,percent,7.1,7.2,0.000508407
 Montana,2 wk ahead,Bin,percent,7.2,7.3,0.000508407
 Montana,2 wk ahead,Bin,percent,7.3,7.4,0.000508407
 Montana,2 wk ahead,Bin,percent,7.4,7.5,0.000508407
@@ -17910,7 +17910,7 @@ Montana,3 wk ahead,Bin,percent,12.6,12.7,0.000153135
 Montana,3 wk ahead,Bin,percent,12.7,12.8,0.000153135
 Montana,3 wk ahead,Bin,percent,12.8,12.9,0.000153135
 Montana,3 wk ahead,Bin,percent,12.9,13,0.000153135
-Montana,3 wk ahead,Bin,percent,13,100,5.11143E-05
+Montana,3 wk ahead,Bin,percent,13,100,5.11E-05
 Montana,4 wk ahead,Point,percent,NA,NA,0.571919586
 Montana,4 wk ahead,Bin,percent,0,0.1,0.041507803
 Montana,4 wk ahead,Bin,percent,0.1,0.2,0.049132109
@@ -18042,7 +18042,7 @@ Montana,4 wk ahead,Bin,percent,12.6,12.7,0.000355381
 Montana,4 wk ahead,Bin,percent,12.7,12.8,0.000354894
 Montana,4 wk ahead,Bin,percent,12.8,12.9,0.000354418
 Montana,4 wk ahead,Bin,percent,12.9,13,0.000353419
-Montana,4 wk ahead,Bin,percent,13,100,8.55633E-05
+Montana,4 wk ahead,Bin,percent,13,100,8.56E-05
 Nebraska,Season peak week,Point,week,NA,NA,27.75
 Nebraska,Season peak week,Bin,week,40,41,0.000975752
 Nebraska,Season peak week,Bin,week,41,42,0.006293703
@@ -18699,7 +18699,7 @@ Nebraska,4 wk ahead,Bin,percent,8.9,9,0.000362769
 Nebraska,4 wk ahead,Bin,percent,9,9.1,0.000364661
 Nebraska,4 wk ahead,Bin,percent,9.1,9.2,0.000368942
 Nebraska,4 wk ahead,Bin,percent,9.2,9.3,0.000374025
-Nebraska,4 wk ahead,Bin,percent,9.3,9.4,#VALUE!
+Nebraska,4 wk ahead,Bin,percent,9.3,9.4,0.000378007
 Nebraska,4 wk ahead,Bin,percent,9.4,9.5,0.000379178
 Nebraska,4 wk ahead,Bin,percent,9.5,9.6,0.000377077
 Nebraska,4 wk ahead,Bin,percent,9.6,9.7,0.000372454
@@ -18736,7 +18736,7 @@ Nebraska,4 wk ahead,Bin,percent,12.6,12.7,0.000352571
 Nebraska,4 wk ahead,Bin,percent,12.7,12.8,0.00035164
 Nebraska,4 wk ahead,Bin,percent,12.8,12.9,0.000350191
 Nebraska,4 wk ahead,Bin,percent,12.9,13,0.000348092
-Nebraska,4 wk ahead,Bin,percent,13,100,9.52352E-05
+Nebraska,4 wk ahead,Bin,percent,13,100,9.52E-05
 Nevada,Season peak week,Point,week,NA,NA,1.75
 Nevada,Season peak week,Bin,week,40,41,0.000607069
 Nevada,Season peak week,Bin,week,41,42,0.001869833
@@ -19112,7 +19112,7 @@ Nevada,2 wk ahead,Bin,percent,7.2,7.3,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.3,7.4,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.4,7.5,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.5,7.6,0.000508408
-Nevada,2 wk ahead,Bin,percent,7.6,7.7,#VALUE!
+Nevada,2 wk ahead,Bin,percent,7.6,7.7,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.7,7.8,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.8,7.9,0.000508408
 Nevada,2 wk ahead,Bin,percent,7.9,8,0.000508408
@@ -19430,7 +19430,7 @@ Nevada,4 wk ahead,Bin,percent,12.6,12.7,0.000351159
 Nevada,4 wk ahead,Bin,percent,12.7,12.8,0.00035111
 Nevada,4 wk ahead,Bin,percent,12.8,12.9,0.000351019
 Nevada,4 wk ahead,Bin,percent,12.9,13,0.000349944
-Nevada,4 wk ahead,Bin,percent,13,100,4.54813E-05
+Nevada,4 wk ahead,Bin,percent,13,100,4.55E-05
 New Hampshire,Season peak week,Point,week,NA,NA,16.75
 New Hampshire,Season peak week,Bin,week,40,41,0.00384846
 New Hampshire,Season peak week,Bin,week,41,42,0.001070177
@@ -20124,7 +20124,7 @@ New Hampshire,4 wk ahead,Bin,percent,12.6,12.7,0.000354839
 New Hampshire,4 wk ahead,Bin,percent,12.7,12.8,0.000354346
 New Hampshire,4 wk ahead,Bin,percent,12.8,12.9,0.000353821
 New Hampshire,4 wk ahead,Bin,percent,12.9,13,0.000352529
-New Hampshire,4 wk ahead,Bin,percent,13,100,8.20912E-05
+New Hampshire,4 wk ahead,Bin,percent,13,100,8.21E-05
 New Jersey,Season peak week,Point,week,NA,NA,16
 New Jersey,Season peak week,Bin,week,40,41,0.000814553
 New Jersey,Season peak week,Bin,week,41,42,0.001748474
@@ -20383,7 +20383,7 @@ New Jersey,1 wk ahead,Bin,percent,8.7,8.8,0.000242719
 New Jersey,1 wk ahead,Bin,percent,8.8,8.9,0.000242719
 New Jersey,1 wk ahead,Bin,percent,8.9,9,0.000242719
 New Jersey,1 wk ahead,Bin,percent,9,9.1,0.000242719
-New Jersey,1 wk ahead,Bin,percent,9.1,9.2,#VALUE!
+New Jersey,1 wk ahead,Bin,percent,9.1,9.2,0.000242719
 New Jersey,1 wk ahead,Bin,percent,9.2,9.3,0.000242719
 New Jersey,1 wk ahead,Bin,percent,9.3,9.4,0.000242719
 New Jersey,1 wk ahead,Bin,percent,9.4,9.5,0.000242719
@@ -20782,7 +20782,7 @@ New Jersey,4 wk ahead,Bin,percent,9,9.1,0.000355172
 New Jersey,4 wk ahead,Bin,percent,9.1,9.2,0.000355174
 New Jersey,4 wk ahead,Bin,percent,9.2,9.3,0.000355174
 New Jersey,4 wk ahead,Bin,percent,9.3,9.4,0.000355172
-New Jersey,4 wk ahead,Bin,percent,9.4,9.5,#VALUE!
+New Jersey,4 wk ahead,Bin,percent,9.4,9.5,0.000355173
 New Jersey,4 wk ahead,Bin,percent,9.5,9.6,0.000355174
 New Jersey,4 wk ahead,Bin,percent,9.6,9.7,0.000355172
 New Jersey,4 wk ahead,Bin,percent,9.7,9.8,0.000355169
@@ -20818,7 +20818,7 @@ New Jersey,4 wk ahead,Bin,percent,12.6,12.7,0.000352458
 New Jersey,4 wk ahead,Bin,percent,12.7,12.8,0.000351966
 New Jersey,4 wk ahead,Bin,percent,12.8,12.9,0.000350951
 New Jersey,4 wk ahead,Bin,percent,12.9,13,0.000348811
-New Jersey,4 wk ahead,Bin,percent,13,100,7.7798E-05
+New Jersey,4 wk ahead,Bin,percent,13,100,7.78E-05
 New Mexico,Season peak week,Point,week,NA,NA,16.75
 New Mexico,Season peak week,Bin,week,40,41,0.000607151
 New Mexico,Season peak week,Bin,week,41,42,0.000607151
@@ -21190,7 +21190,7 @@ New Mexico,2 wk ahead,Bin,percent,6.8,6.9,0.000508408
 New Mexico,2 wk ahead,Bin,percent,6.9,7,0.000508408
 New Mexico,2 wk ahead,Bin,percent,7,7.1,0.000508408
 New Mexico,2 wk ahead,Bin,percent,7.1,7.2,0.000508408
-New Mexico,2 wk ahead,Bin,percent,7.2,7.3,#VALUE!
+New Mexico,2 wk ahead,Bin,percent,7.2,7.3,0.000508408
 New Mexico,2 wk ahead,Bin,percent,7.3,7.4,0.000508408
 New Mexico,2 wk ahead,Bin,percent,7.4,7.5,0.000508408
 New Mexico,2 wk ahead,Bin,percent,7.5,7.6,0.000508408
@@ -21512,7 +21512,7 @@ New Mexico,4 wk ahead,Bin,percent,12.6,12.7,0.000351097
 New Mexico,4 wk ahead,Bin,percent,12.7,12.8,0.00035102
 New Mexico,4 wk ahead,Bin,percent,12.8,12.9,0.000350545
 New Mexico,4 wk ahead,Bin,percent,12.9,13,0.000348664
-New Mexico,4 wk ahead,Bin,percent,13,100,4.68418E-05
+New Mexico,4 wk ahead,Bin,percent,13,100,4.68E-05
 New York,Season peak week,Point,week,NA,NA,16.5
 New York,Season peak week,Bin,week,40,41,0.000709508
 New York,Season peak week,Bin,week,41,42,0.000709508
@@ -22153,7 +22153,7 @@ New York,4 wk ahead,Bin,percent,7.3,7.4,0.000351165
 New York,4 wk ahead,Bin,percent,7.4,7.5,0.000351178
 New York,4 wk ahead,Bin,percent,7.5,7.6,0.000351263
 New York,4 wk ahead,Bin,percent,7.6,7.7,0.000351154
-New York,4 wk ahead,Bin,percent,7.7,7.8,#VALUE!
+New York,4 wk ahead,Bin,percent,7.7,7.8,0.000351216
 New York,4 wk ahead,Bin,percent,7.8,7.9,0.000351262
 New York,4 wk ahead,Bin,percent,7.9,8,0.000351164
 New York,4 wk ahead,Bin,percent,8,8.1,0.000351203
@@ -22206,7 +22206,7 @@ New York,4 wk ahead,Bin,percent,12.6,12.7,0.000351152
 New York,4 wk ahead,Bin,percent,12.7,12.8,0.000351038
 New York,4 wk ahead,Bin,percent,12.8,12.9,0.000351077
 New York,4 wk ahead,Bin,percent,12.9,13,0.000350632
-New York,4 wk ahead,Bin,percent,13,100,4.40868E-05
+New York,4 wk ahead,Bin,percent,13,100,4.41E-05
 North Carolina,Season peak week,Point,week,NA,NA,15.5
 North Carolina,Season peak week,Bin,week,40,41,0.00060689
 North Carolina,Season peak week,Bin,week,41,42,0.00060689
@@ -23408,7 +23408,7 @@ North Dakota,3 wk ahead,Bin,percent,7.2,7.3,0.000203135
 North Dakota,3 wk ahead,Bin,percent,7.3,7.4,0.000228135
 North Dakota,3 wk ahead,Bin,percent,7.4,7.5,0.000178135
 North Dakota,3 wk ahead,Bin,percent,7.5,7.6,0.000153135
-North Dakota,3 wk ahead,Bin,percent,7.6,7.7,#VALUE!
+North Dakota,3 wk ahead,Bin,percent,7.6,7.7,0.000203135
 North Dakota,3 wk ahead,Bin,percent,7.7,7.8,0.000153135
 North Dakota,3 wk ahead,Bin,percent,7.8,7.9,0.000153135
 North Dakota,3 wk ahead,Bin,percent,7.9,8,0.000178135
@@ -23594,7 +23594,7 @@ North Dakota,4 wk ahead,Bin,percent,12.6,12.7,0.000351108
 North Dakota,4 wk ahead,Bin,percent,12.7,12.8,0.000351089
 North Dakota,4 wk ahead,Bin,percent,12.8,12.9,0.000350924
 North Dakota,4 wk ahead,Bin,percent,12.9,13,0.000349623
-North Dakota,4 wk ahead,Bin,percent,13,100,4.53959E-05
+North Dakota,4 wk ahead,Bin,percent,13,100,4.54E-05
 Ohio,Season peak week,Point,week,NA,NA,16
 Ohio,Season peak week,Bin,week,40,41,0.00315368
 Ohio,Season peak week,Bin,week,41,42,0.008088547
@@ -24288,7 +24288,7 @@ Ohio,4 wk ahead,Bin,percent,12.6,12.7,0.000353892
 Ohio,4 wk ahead,Bin,percent,12.7,12.8,0.000353393
 Ohio,4 wk ahead,Bin,percent,12.8,12.9,0.00035247
 Ohio,4 wk ahead,Bin,percent,12.9,13,0.000350449
-Ohio,4 wk ahead,Bin,percent,13,100,8.8517E-05
+Ohio,4 wk ahead,Bin,percent,13,100,8.85E-05
 Oklahoma,Season peak week,Point,week,NA,NA,17
 Oklahoma,Season peak week,Bin,week,40,41,0.000606917
 Oklahoma,Season peak week,Bin,week,41,42,0.000606917
@@ -24982,7 +24982,7 @@ Oklahoma,4 wk ahead,Bin,percent,12.6,12.7,0.000351102
 Oklahoma,4 wk ahead,Bin,percent,12.7,12.8,0.00035117
 Oklahoma,4 wk ahead,Bin,percent,12.8,12.9,0.000351076
 Oklahoma,4 wk ahead,Bin,percent,12.9,13,0.000350855
-Oklahoma,4 wk ahead,Bin,percent,13,100,4.41095E-05
+Oklahoma,4 wk ahead,Bin,percent,13,100,4.41E-05
 Oregon,Season peak week,Point,week,NA,NA,16
 Oregon,Season peak week,Bin,week,40,41,0.000659916
 Oregon,Season peak week,Bin,week,41,42,0.000872019
@@ -25676,7 +25676,7 @@ Oregon,4 wk ahead,Bin,percent,12.6,12.7,0.000352114
 Oregon,4 wk ahead,Bin,percent,12.7,12.8,0.000351377
 Oregon,4 wk ahead,Bin,percent,12.8,12.9,0.000350092
 Oregon,4 wk ahead,Bin,percent,12.9,13,0.000347916
-Oregon,4 wk ahead,Bin,percent,13,100,7.68854E-05
+Oregon,4 wk ahead,Bin,percent,13,100,7.69E-05
 Pennsylvania,Season peak week,Point,week,NA,NA,14.5
 Pennsylvania,Season peak week,Bin,week,40,41,0.000757885
 Pennsylvania,Season peak week,Bin,week,41,42,0.001160192
@@ -26370,7 +26370,7 @@ Pennsylvania,4 wk ahead,Bin,percent,12.6,12.7,0.000353231
 Pennsylvania,4 wk ahead,Bin,percent,12.7,12.8,0.000352887
 Pennsylvania,4 wk ahead,Bin,percent,12.8,12.9,0.000352367
 Pennsylvania,4 wk ahead,Bin,percent,12.9,13,0.000350986
-Pennsylvania,4 wk ahead,Bin,percent,13,100,7.90616E-05
+Pennsylvania,4 wk ahead,Bin,percent,13,100,7.91E-05
 Puerto Rico,Season peak week,Point,week,NA,NA,16.5
 Puerto Rico,Season peak week,Bin,week,40,41,0.00060689
 Puerto Rico,Season peak week,Bin,week,41,42,0.00060689
@@ -27011,7 +27011,7 @@ Puerto Rico,4 wk ahead,Bin,percent,7.3,7.4,0.028536454
 Puerto Rico,4 wk ahead,Bin,percent,7.4,7.5,0.029096302
 Puerto Rico,4 wk ahead,Bin,percent,7.5,7.6,0.028972776
 Puerto Rico,4 wk ahead,Bin,percent,7.6,7.7,0.028174608
-Puerto Rico,4 wk ahead,Bin,percent,7.7,7.8,#VALUE!
+Puerto Rico,4 wk ahead,Bin,percent,7.7,7.8,0.026757319
 Puerto Rico,4 wk ahead,Bin,percent,7.8,7.9,0.024816855
 Puerto Rico,4 wk ahead,Bin,percent,7.9,8,0.022478818
 Puerto Rico,4 wk ahead,Bin,percent,8,8.1,0.01988529
@@ -27064,7 +27064,7 @@ Puerto Rico,4 wk ahead,Bin,percent,12.6,12.7,0.000351117
 Puerto Rico,4 wk ahead,Bin,percent,12.7,12.8,0.000351085
 Puerto Rico,4 wk ahead,Bin,percent,12.8,12.9,0.000351032
 Puerto Rico,4 wk ahead,Bin,percent,12.9,13,0.000350021
-Puerto Rico,4 wk ahead,Bin,percent,13,100,4.47895E-05
+Puerto Rico,4 wk ahead,Bin,percent,13,100,4.48E-05
 Rhode Island,Season peak week,Point,week,NA,NA,27.25
 Rhode Island,Season peak week,Bin,week,40,41,0.002815409
 Rhode Island,Season peak week,Bin,week,41,42,0.002007444
@@ -28452,7 +28452,7 @@ South Carolina,4 wk ahead,Bin,percent,12.6,12.7,0.000354159
 South Carolina,4 wk ahead,Bin,percent,12.7,12.8,0.000353702
 South Carolina,4 wk ahead,Bin,percent,12.8,12.9,0.000353445
 South Carolina,4 wk ahead,Bin,percent,12.9,13,0.000352973
-South Carolina,4 wk ahead,Bin,percent,13,100,8.25602E-05
+South Carolina,4 wk ahead,Bin,percent,13,100,8.26E-05
 South Dakota,Season peak week,Point,week,NA,NA,16.5
 South Dakota,Season peak week,Bin,week,40,41,0.002020439
 South Dakota,Season peak week,Bin,week,41,42,0.004948466
@@ -29146,7 +29146,7 @@ South Dakota,4 wk ahead,Bin,percent,12.6,12.7,0.000352811
 South Dakota,4 wk ahead,Bin,percent,12.7,12.8,0.000352269
 South Dakota,4 wk ahead,Bin,percent,12.8,12.9,0.00035126
 South Dakota,4 wk ahead,Bin,percent,12.9,13,0.000349263
-South Dakota,4 wk ahead,Bin,percent,13,100,9.6257E-05
+South Dakota,4 wk ahead,Bin,percent,13,100,9.63E-05
 Tennessee,Season peak week,Point,week,NA,NA,4.75
 Tennessee,Season peak week,Bin,week,40,41,0.000607521
 Tennessee,Season peak week,Bin,week,41,42,0.000607521
@@ -29840,7 +29840,7 @@ Tennessee,4 wk ahead,Bin,percent,12.6,12.7,0.000351122
 Tennessee,4 wk ahead,Bin,percent,12.7,12.8,0.00035109
 Tennessee,4 wk ahead,Bin,percent,12.8,12.9,0.000351021
 Tennessee,4 wk ahead,Bin,percent,12.9,13,0.000350068
-Tennessee,4 wk ahead,Bin,percent,13,100,4.51592E-05
+Tennessee,4 wk ahead,Bin,percent,13,100,4.52E-05
 Texas,Season peak week,Point,week,NA,NA,16.5
 Texas,Season peak week,Bin,week,40,41,0.000659908
 Texas,Season peak week,Bin,week,41,42,0.000815769
@@ -30534,7 +30534,7 @@ Texas,4 wk ahead,Bin,percent,12.6,12.7,0.000351148
 Texas,4 wk ahead,Bin,percent,12.7,12.8,0.000351106
 Texas,4 wk ahead,Bin,percent,12.8,12.9,0.000350774
 Texas,4 wk ahead,Bin,percent,12.9,13,0.0003491
-Texas,4 wk ahead,Bin,percent,13,100,4.64239E-05
+Texas,4 wk ahead,Bin,percent,13,100,4.64E-05
 Utah,Season peak week,Point,week,NA,NA,16
 Utah,Season peak week,Bin,week,40,41,0.000606967
 Utah,Season peak week,Bin,week,41,42,0.000606967
@@ -31190,7 +31190,7 @@ Utah,4 wk ahead,Bin,percent,8.8,8.9,0.000408515
 Utah,4 wk ahead,Bin,percent,8.9,9,0.000397848
 Utah,4 wk ahead,Bin,percent,9,9.1,0.000390277
 Utah,4 wk ahead,Bin,percent,9.1,9.2,0.00038333
-Utah,4 wk ahead,Bin,percent,9.2,9.3,#VALUE!
+Utah,4 wk ahead,Bin,percent,9.2,9.3,0.000375287
 Utah,4 wk ahead,Bin,percent,9.3,9.4,0.000367313
 Utah,4 wk ahead,Bin,percent,9.4,9.5,0.000360835
 Utah,4 wk ahead,Bin,percent,9.5,9.6,0.000357511
@@ -31228,7 +31228,7 @@ Utah,4 wk ahead,Bin,percent,12.6,12.7,0.000350885
 Utah,4 wk ahead,Bin,percent,12.7,12.8,0.000350371
 Utah,4 wk ahead,Bin,percent,12.8,12.9,0.00034919
 Utah,4 wk ahead,Bin,percent,12.9,13,0.000346967
-Utah,4 wk ahead,Bin,percent,13,100,5.07768E-05
+Utah,4 wk ahead,Bin,percent,13,100,5.08E-05
 Vermont,Season peak week,Point,week,NA,NA,15.25
 Vermont,Season peak week,Bin,week,40,41,0.001419204
 Vermont,Season peak week,Bin,week,41,42,0.001114639
@@ -31736,7 +31736,7 @@ Vermont,3 wk ahead,Bin,percent,7.2,7.3,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.3,7.4,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.4,7.5,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.5,7.6,0.000153135
-Vermont,3 wk ahead,Bin,percent,7.6,7.7,#VALUE!
+Vermont,3 wk ahead,Bin,percent,7.6,7.7,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.7,7.8,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.8,7.9,0.000153135
 Vermont,3 wk ahead,Bin,percent,7.9,8,0.000153135
@@ -31922,7 +31922,7 @@ Vermont,4 wk ahead,Bin,percent,12.6,12.7,0.000351115
 Vermont,4 wk ahead,Bin,percent,12.7,12.8,0.000351065
 Vermont,4 wk ahead,Bin,percent,12.8,12.9,0.000350729
 Vermont,4 wk ahead,Bin,percent,12.9,13,0.000349049
-Vermont,4 wk ahead,Bin,percent,13,100,4.62509E-05
+Vermont,4 wk ahead,Bin,percent,13,100,4.63E-05
 Virgin Islands,Season peak week,Point,week,NA,NA,5.5
 Virgin Islands,Season peak week,Bin,week,40,41,0.000906811
 Virgin Islands,Season peak week,Bin,week,41,42,0.001008267
@@ -32560,7 +32560,7 @@ Virgin Islands,4 wk ahead,Bin,percent,7,7.1,0.000355997
 Virgin Islands,4 wk ahead,Bin,percent,7.1,7.2,0.000355998
 Virgin Islands,4 wk ahead,Bin,percent,7.2,7.3,0.000355998
 Virgin Islands,4 wk ahead,Bin,percent,7.3,7.4,0.000355999
-Virgin Islands,4 wk ahead,Bin,percent,7.4,7.5,#VALUE!
+Virgin Islands,4 wk ahead,Bin,percent,7.4,7.5,0.000355997
 Virgin Islands,4 wk ahead,Bin,percent,7.5,7.6,0.000355997
 Virgin Islands,4 wk ahead,Bin,percent,7.6,7.7,0.000355997
 Virgin Islands,4 wk ahead,Bin,percent,7.7,7.8,0.000355998
@@ -32616,7 +32616,7 @@ Virgin Islands,4 wk ahead,Bin,percent,12.6,12.7,0.000353047
 Virgin Islands,4 wk ahead,Bin,percent,12.7,12.8,0.000352512
 Virgin Islands,4 wk ahead,Bin,percent,12.8,12.9,0.000351488
 Virgin Islands,4 wk ahead,Bin,percent,12.9,13,0.000349391
-Virgin Islands,4 wk ahead,Bin,percent,13,100,8.09769E-05
+Virgin Islands,4 wk ahead,Bin,percent,13,100,8.10E-05
 Virginia,Season peak week,Point,week,NA,NA,5
 Virginia,Season peak week,Bin,week,40,41,0.003198335
 Virginia,Season peak week,Bin,week,41,42,0.004984567
@@ -34004,7 +34004,7 @@ Washington,4 wk ahead,Bin,percent,12.6,12.7,0.000351164
 Washington,4 wk ahead,Bin,percent,12.7,12.8,0.000351025
 Washington,4 wk ahead,Bin,percent,12.8,12.9,0.000350931
 Washington,4 wk ahead,Bin,percent,12.9,13,0.000350288
-Washington,4 wk ahead,Bin,percent,13,100,4.45716E-05
+Washington,4 wk ahead,Bin,percent,13,100,4.46E-05
 West Virginia,Season peak week,Point,week,NA,NA,14.75
 West Virginia,Season peak week,Bin,week,40,41,0.0006069
 West Virginia,Season peak week,Bin,week,41,42,0.000805365
@@ -34698,7 +34698,7 @@ West Virginia,4 wk ahead,Bin,percent,12.6,12.7,0.000353277
 West Virginia,4 wk ahead,Bin,percent,12.7,12.8,0.000352901
 West Virginia,4 wk ahead,Bin,percent,12.8,12.9,0.000352642
 West Virginia,4 wk ahead,Bin,percent,12.9,13,0.000351925
-West Virginia,4 wk ahead,Bin,percent,13,100,7.90416E-05
+West Virginia,4 wk ahead,Bin,percent,13,100,7.90E-05
 Wisconsin,Season peak week,Point,week,NA,NA,16.75
 Wisconsin,Season peak week,Bin,week,40,41,0.001330223
 Wisconsin,Season peak week,Bin,week,41,42,0.000944545
@@ -35392,7 +35392,7 @@ Wisconsin,4 wk ahead,Bin,percent,12.6,12.7,0.000351201
 Wisconsin,4 wk ahead,Bin,percent,12.7,12.8,0.000351064
 Wisconsin,4 wk ahead,Bin,percent,12.8,12.9,0.000351079
 Wisconsin,4 wk ahead,Bin,percent,12.9,13,0.000350754
-Wisconsin,4 wk ahead,Bin,percent,13,100,4.442E-05
+Wisconsin,4 wk ahead,Bin,percent,13,100,4.44E-05
 Wyoming,Season peak week,Point,week,NA,NA,16.75
 Wyoming,Season peak week,Bin,week,40,41,0.000814819
 Wyoming,Season peak week,Bin,week,41,42,0.001227576
@@ -35904,7 +35904,7 @@ Wyoming,3 wk ahead,Bin,percent,7.6,7.7,0.000153135
 Wyoming,3 wk ahead,Bin,percent,7.7,7.8,0.000153135
 Wyoming,3 wk ahead,Bin,percent,7.8,7.9,0.000153135
 Wyoming,3 wk ahead,Bin,percent,7.9,8,0.000153135
-Wyoming,3 wk ahead,Bin,percent,8,8.1,#VALUE!
+Wyoming,3 wk ahead,Bin,percent,8,8.1,0.000153135
 Wyoming,3 wk ahead,Bin,percent,8.1,8.2,0.000153135
 Wyoming,3 wk ahead,Bin,percent,8.2,8.3,0.000153135
 Wyoming,3 wk ahead,Bin,percent,8.3,8.4,0.000153135
@@ -36086,7 +36086,7 @@ Wyoming,4 wk ahead,Bin,percent,12.6,12.7,0.00035112
 Wyoming,4 wk ahead,Bin,percent,12.7,12.8,0.000351055
 Wyoming,4 wk ahead,Bin,percent,12.8,12.9,0.000350639
 Wyoming,4 wk ahead,Bin,percent,12.9,13,0.000348857
-Wyoming,4 wk ahead,Bin,percent,13,100,4.67118E-05
+Wyoming,4 wk ahead,Bin,percent,13,100,4.67E-05
 New York City,Season peak week,Point,week,NA,NA,16.25
 New York City,Season peak week,Bin,week,40,41,0.005841561
 New York City,Season peak week,Bin,week,41,42,0.007246985
@@ -36517,267 +36517,267 @@ New York City,2 wk ahead,Bin,percent,12.7,12.8,0.000508408
 New York City,2 wk ahead,Bin,percent,12.8,12.9,0.000508408
 New York City,2 wk ahead,Bin,percent,12.9,13,0.000508408
 New York City,2 wk ahead,Bin,percent,13,100,0.001875203
-New York City,3 wk ahead,Point,percent,NA,NA,0.958470241
-New York City,3 wk ahead,Bin,percent,0,0.1,1.34353E-06
-New York City,3 wk ahead,Bin,percent,0.1,0.2,1.7438E-05
-New York City,3 wk ahead,Bin,percent,0.2,0.3,0.000159197
-New York City,3 wk ahead,Bin,percent,0.3,0.4,0.001497898
-New York City,3 wk ahead,Bin,percent,0.4,0.5,0.006077871
-New York City,3 wk ahead,Bin,percent,0.5,0.6,0.018200961
-New York City,3 wk ahead,Bin,percent,0.6,0.7,0.038912695
-New York City,3 wk ahead,Bin,percent,0.7,0.8,0.060459373
-New York City,3 wk ahead,Bin,percent,0.8,0.9,0.070237114
-New York City,3 wk ahead,Bin,percent,0.9,1,0.05951361
-New York City,3 wk ahead,Bin,percent,1,1.1,0.041434872
-New York City,3 wk ahead,Bin,percent,1.1,1.2,0.030632452
-New York City,3 wk ahead,Bin,percent,1.2,1.3,0.035419682
-New York City,3 wk ahead,Bin,percent,1.3,1.4,0.05218295
-New York City,3 wk ahead,Bin,percent,1.4,1.5,0.068919677
-New York City,3 wk ahead,Bin,percent,1.5,1.6,0.069991328
-New York City,3 wk ahead,Bin,percent,1.6,1.7,0.053954415
-New York City,3 wk ahead,Bin,percent,1.7,1.8,0.033067139
-New York City,3 wk ahead,Bin,percent,1.8,1.9,0.017436195
-New York City,3 wk ahead,Bin,percent,1.9,2,0.010472014
-New York City,3 wk ahead,Bin,percent,2,2.1,0.008026781
-New York City,3 wk ahead,Bin,percent,2.1,2.2,0.007023753
-New York City,3 wk ahead,Bin,percent,2.2,2.3,0.006379959
-New York City,3 wk ahead,Bin,percent,2.3,2.4,0.006050878
-New York City,3 wk ahead,Bin,percent,2.4,2.5,0.00517553
-New York City,3 wk ahead,Bin,percent,2.5,2.6,0.004525453
-New York City,3 wk ahead,Bin,percent,2.6,2.7,0.003850385
-New York City,3 wk ahead,Bin,percent,2.7,2.8,0.003675368
-New York City,3 wk ahead,Bin,percent,2.8,2.9,0.002875288
-New York City,3 wk ahead,Bin,percent,2.9,3,0.00250025
-New York City,3 wk ahead,Bin,percent,3,3.1,0.002250225
-New York City,3 wk ahead,Bin,percent,3.1,3.2,0.002550255
-New York City,3 wk ahead,Bin,percent,3.2,3.3,0.00220022
-New York City,3 wk ahead,Bin,percent,3.3,3.4,0.001875188
-New York City,3 wk ahead,Bin,percent,3.4,3.5,0.001375138
-New York City,3 wk ahead,Bin,percent,3.5,3.6,0.00140014
-New York City,3 wk ahead,Bin,percent,3.6,3.7,0.001225123
-New York City,3 wk ahead,Bin,percent,3.7,3.8,0.001225123
-New York City,3 wk ahead,Bin,percent,3.8,3.9,0.001050105
-New York City,3 wk ahead,Bin,percent,3.9,4,0.000925093
-New York City,3 wk ahead,Bin,percent,4,4.1,0.001325133
-New York City,3 wk ahead,Bin,percent,4.1,4.2,0.00090009
-New York City,3 wk ahead,Bin,percent,4.2,4.3,0.001025103
-New York City,3 wk ahead,Bin,percent,4.3,4.4,0.000775078
-New York City,3 wk ahead,Bin,percent,4.4,4.5,0.000675068
-New York City,3 wk ahead,Bin,percent,4.5,4.6,0.000650065
-New York City,3 wk ahead,Bin,percent,4.6,4.7,0.00060006
-New York City,3 wk ahead,Bin,percent,4.7,4.8,0.000325033
-New York City,3 wk ahead,Bin,percent,4.8,4.9,0.000575058
-New York City,3 wk ahead,Bin,percent,4.9,5,0.000375038
-New York City,3 wk ahead,Bin,percent,5,5.1,0.000450045
-New York City,3 wk ahead,Bin,percent,5.1,5.2,0.00040004
-New York City,3 wk ahead,Bin,percent,5.2,5.3,0.000275028
-New York City,3 wk ahead,Bin,percent,5.3,5.4,0.00060006
-New York City,3 wk ahead,Bin,percent,5.4,5.5,0.000350035
-New York City,3 wk ahead,Bin,percent,5.5,5.6,0.000275028
-New York City,3 wk ahead,Bin,percent,5.6,5.7,0.000325033
-New York City,3 wk ahead,Bin,percent,5.7,5.8,0.000150015
-New York City,3 wk ahead,Bin,percent,5.8,5.9,0.000275028
-New York City,3 wk ahead,Bin,percent,5.9,6,0.00020002
-New York City,3 wk ahead,Bin,percent,6,6.1,0.000175018
-New York City,3 wk ahead,Bin,percent,6.1,6.2,0.00030003
-New York City,3 wk ahead,Bin,percent,6.2,6.3,0.000275028
-New York City,3 wk ahead,Bin,percent,6.3,6.4,0.000125013
-New York City,3 wk ahead,Bin,percent,6.4,6.5,5.0005E-05
-New York City,3 wk ahead,Bin,percent,6.5,6.6,0.000125013
-New York City,3 wk ahead,Bin,percent,6.6,6.7,0.000125013
-New York City,3 wk ahead,Bin,percent,6.7,6.8,0.000150015
-New York City,3 wk ahead,Bin,percent,6.8,6.9,0.000175018
-New York City,3 wk ahead,Bin,percent,6.9,7,7.50075E-05
-New York City,3 wk ahead,Bin,percent,7,7.1,5.0005E-05
-New York City,3 wk ahead,Bin,percent,7.1,7.2,0.000125013
-New York City,3 wk ahead,Bin,percent,7.2,7.3,5.0005E-05
-New York City,3 wk ahead,Bin,percent,7.3,7.4,0.000150015
-New York City,3 wk ahead,Bin,percent,7.4,7.5,0.000150015
-New York City,3 wk ahead,Bin,percent,7.5,7.6,0.000125013
-New York City,3 wk ahead,Bin,percent,7.6,7.7,7.50075E-05
-New York City,3 wk ahead,Bin,percent,7.7,7.8,5.0005E-05
-New York City,3 wk ahead,Bin,percent,7.8,7.9,0.000125013
-New York City,3 wk ahead,Bin,percent,7.9,8,7.50075E-05
-New York City,3 wk ahead,Bin,percent,8,8.1,5.0005E-05
-New York City,3 wk ahead,Bin,percent,8.1,8.2,0.00010001
-New York City,3 wk ahead,Bin,percent,8.2,8.3,0.00010001
-New York City,3 wk ahead,Bin,percent,8.3,8.4,5.0005E-05
-New York City,3 wk ahead,Bin,percent,8.4,8.5,5.0005E-05
-New York City,3 wk ahead,Bin,percent,8.5,8.6,5.0005E-05
-New York City,3 wk ahead,Bin,percent,8.6,8.7,0.000125013
-New York City,3 wk ahead,Bin,percent,8.7,8.8,5.0005E-05
-New York City,3 wk ahead,Bin,percent,8.8,8.9,2.50025E-05
-New York City,3 wk ahead,Bin,percent,8.9,9,7.50075E-05
-New York City,3 wk ahead,Bin,percent,9,9.1,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.1,9.2,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.2,9.3,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.3,9.4,5.0005E-05
-New York City,3 wk ahead,Bin,percent,9.4,9.5,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.5,9.6,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.6,9.7,2.50025E-05
-New York City,3 wk ahead,Bin,percent,9.7,9.8,7.50075E-05
-New York City,3 wk ahead,Bin,percent,9.8,9.9,2.50025E-05
+New York City,3 wk ahead,Point,percent,NA,NA,1.277960321
+New York City,3 wk ahead,Bin,percent,0,0.1,1.79E-06
+New York City,3 wk ahead,Bin,percent,0.1,0.2,2.33E-05
+New York City,3 wk ahead,Bin,percent,0.2,0.3,0.000212262
+New York City,3 wk ahead,Bin,percent,0.3,0.4,0.001997198
+New York City,3 wk ahead,Bin,percent,0.4,0.5,0.008103828
+New York City,3 wk ahead,Bin,percent,0.5,0.6,0.024267947
+New York City,3 wk ahead,Bin,percent,0.6,0.7,0.051883593
+New York City,3 wk ahead,Bin,percent,0.7,0.8,0.080612498
+New York City,3 wk ahead,Bin,percent,0.8,0.9,0.093649486
+New York City,3 wk ahead,Bin,percent,0.9,1,0.07935148
+New York City,3 wk ahead,Bin,percent,1,1.1,0.055246496
+New York City,3 wk ahead,Bin,percent,1.1,1.2,0.040843269
+New York City,3 wk ahead,Bin,percent,1.2,1.3,0.047226242
+New York City,3 wk ahead,Bin,percent,1.3,1.4,0.069577266
+New York City,3 wk ahead,Bin,percent,1.4,1.5,0.091892903
+New York City,3 wk ahead,Bin,percent,1.5,1.6,0.093321771
+New York City,3 wk ahead,Bin,percent,1.6,1.7,0.07193922
+New York City,3 wk ahead,Bin,percent,1.7,1.8,0.044089518
+New York City,3 wk ahead,Bin,percent,1.8,1.9,0.02324826
+New York City,3 wk ahead,Bin,percent,1.9,2,0.013962685
+New York City,3 wk ahead,Bin,percent,2,2.1,0.010702375
+New York City,3 wk ahead,Bin,percent,2.1,2.2,0.009365004
+New York City,3 wk ahead,Bin,percent,2.2,2.3,0.008506611
+New York City,3 wk ahead,Bin,percent,2.3,2.4,0.008067838
+New York City,3 wk ahead,Bin,percent,2.4,2.5,0.006900706
+New York City,3 wk ahead,Bin,percent,2.5,2.6,0.006033937
+New York City,3 wk ahead,Bin,percent,2.6,2.7,0.005133847
+New York City,3 wk ahead,Bin,percent,2.7,2.8,0.00490049
+New York City,3 wk ahead,Bin,percent,2.8,2.9,0.003833717
+New York City,3 wk ahead,Bin,percent,2.9,3,0.003333667
+New York City,3 wk ahead,Bin,percent,3,3.1,0.0030003
+New York City,3 wk ahead,Bin,percent,3.1,3.2,0.00340034
+New York City,3 wk ahead,Bin,percent,3.2,3.3,0.002933627
+New York City,3 wk ahead,Bin,percent,3.3,3.4,0.00250025
+New York City,3 wk ahead,Bin,percent,3.4,3.5,0.001833517
+New York City,3 wk ahead,Bin,percent,3.5,3.6,0.001866853
+New York City,3 wk ahead,Bin,percent,3.6,3.7,0.001633497
+New York City,3 wk ahead,Bin,percent,3.7,3.8,0.001633497
+New York City,3 wk ahead,Bin,percent,3.8,3.9,0.00140014
+New York City,3 wk ahead,Bin,percent,3.9,4,0.001233457
+New York City,3 wk ahead,Bin,percent,4,4.1,0.001766843
+New York City,3 wk ahead,Bin,percent,4.1,4.2,0.00120012
+New York City,3 wk ahead,Bin,percent,4.2,4.3,0.001366803
+New York City,3 wk ahead,Bin,percent,4.3,4.4,0.001033437
+New York City,3 wk ahead,Bin,percent,4.4,4.5,0.00090009
+New York City,3 wk ahead,Bin,percent,4.5,4.6,0.000866753
+New York City,3 wk ahead,Bin,percent,4.6,4.7,0.00080008
+New York City,3 wk ahead,Bin,percent,4.7,4.8,0.000433377
+New York City,3 wk ahead,Bin,percent,4.8,4.9,0.000766743
+New York City,3 wk ahead,Bin,percent,4.9,5,0.00050005
+New York City,3 wk ahead,Bin,percent,5,5.1,0.00060006
+New York City,3 wk ahead,Bin,percent,5.1,5.2,0.000533387
+New York City,3 wk ahead,Bin,percent,5.2,5.3,0.000366703
+New York City,3 wk ahead,Bin,percent,5.3,5.4,0.00080008
+New York City,3 wk ahead,Bin,percent,5.4,5.5,0.000466713
+New York City,3 wk ahead,Bin,percent,5.5,5.6,0.000366703
+New York City,3 wk ahead,Bin,percent,5.6,5.7,0.000433377
+New York City,3 wk ahead,Bin,percent,5.7,5.8,0.00020002
+New York City,3 wk ahead,Bin,percent,5.8,5.9,0.000366703
+New York City,3 wk ahead,Bin,percent,5.9,6,0.000266693
+New York City,3 wk ahead,Bin,percent,6,6.1,0.000233357
+New York City,3 wk ahead,Bin,percent,6.1,6.2,0.00040004
+New York City,3 wk ahead,Bin,percent,6.2,6.3,0.000366703
+New York City,3 wk ahead,Bin,percent,6.3,6.4,0.000166683
+New York City,3 wk ahead,Bin,percent,6.4,6.5,6.67E-05
+New York City,3 wk ahead,Bin,percent,6.5,6.6,0.000166683
+New York City,3 wk ahead,Bin,percent,6.6,6.7,0.000166683
+New York City,3 wk ahead,Bin,percent,6.7,6.8,0.00020002
+New York City,3 wk ahead,Bin,percent,6.8,6.9,0.000233357
+New York City,3 wk ahead,Bin,percent,6.9,7,1.00E-04
+New York City,3 wk ahead,Bin,percent,7,7.1,6.67E-05
+New York City,3 wk ahead,Bin,percent,7.1,7.2,0.000166683
+New York City,3 wk ahead,Bin,percent,7.2,7.3,6.67E-05
+New York City,3 wk ahead,Bin,percent,7.3,7.4,0.00020002
+New York City,3 wk ahead,Bin,percent,7.4,7.5,0.00020002
+New York City,3 wk ahead,Bin,percent,7.5,7.6,0.000166683
+New York City,3 wk ahead,Bin,percent,7.6,7.7,1.00E-04
+New York City,3 wk ahead,Bin,percent,7.7,7.8,6.67E-05
+New York City,3 wk ahead,Bin,percent,7.8,7.9,0.000166683
+New York City,3 wk ahead,Bin,percent,7.9,8,1.00E-04
+New York City,3 wk ahead,Bin,percent,8,8.1,6.67E-05
+New York City,3 wk ahead,Bin,percent,8.1,8.2,0.000133347
+New York City,3 wk ahead,Bin,percent,8.2,8.3,0.000133347
+New York City,3 wk ahead,Bin,percent,8.3,8.4,6.67E-05
+New York City,3 wk ahead,Bin,percent,8.4,8.5,6.67E-05
+New York City,3 wk ahead,Bin,percent,8.5,8.6,6.67E-05
+New York City,3 wk ahead,Bin,percent,8.6,8.7,0.000166683
+New York City,3 wk ahead,Bin,percent,8.7,8.8,6.67E-05
+New York City,3 wk ahead,Bin,percent,8.8,8.9,3.33E-05
+New York City,3 wk ahead,Bin,percent,8.9,9,1.00E-04
+New York City,3 wk ahead,Bin,percent,9,9.1,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.1,9.2,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.2,9.3,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.3,9.4,6.67E-05
+New York City,3 wk ahead,Bin,percent,9.4,9.5,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.5,9.6,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.6,9.7,3.33E-05
+New York City,3 wk ahead,Bin,percent,9.7,9.8,1.00E-04
+New York City,3 wk ahead,Bin,percent,9.8,9.9,3.33E-05
 New York City,3 wk ahead,Bin,percent,9.9,10,0
 New York City,3 wk ahead,Bin,percent,10,10.1,0
 New York City,3 wk ahead,Bin,percent,10.1,10.2,0
 New York City,3 wk ahead,Bin,percent,10.2,10.3,0
-New York City,3 wk ahead,Bin,percent,10.3,10.4,2.50025E-05
-New York City,3 wk ahead,Bin,percent,10.4,10.5,7.50075E-05
-New York City,3 wk ahead,Bin,percent,10.5,10.6,5.0005E-05
+New York City,3 wk ahead,Bin,percent,10.3,10.4,3.33E-05
+New York City,3 wk ahead,Bin,percent,10.4,10.5,1.00E-04
+New York City,3 wk ahead,Bin,percent,10.5,10.6,6.67E-05
 New York City,3 wk ahead,Bin,percent,10.6,10.7,0
 New York City,3 wk ahead,Bin,percent,10.7,10.8,0
-New York City,3 wk ahead,Bin,percent,10.8,10.9,2.50025E-05
-New York City,3 wk ahead,Bin,percent,10.9,11,2.50025E-05
+New York City,3 wk ahead,Bin,percent,10.8,10.9,3.33E-05
+New York City,3 wk ahead,Bin,percent,10.9,11,3.33E-05
 New York City,3 wk ahead,Bin,percent,11,11.1,0
-New York City,3 wk ahead,Bin,percent,11.1,11.2,2.50025E-05
-New York City,3 wk ahead,Bin,percent,11.2,11.3,5.0005E-05
-New York City,3 wk ahead,Bin,percent,11.3,11.4,2.50025E-05
+New York City,3 wk ahead,Bin,percent,11.1,11.2,3.33E-05
+New York City,3 wk ahead,Bin,percent,11.2,11.3,6.67E-05
+New York City,3 wk ahead,Bin,percent,11.3,11.4,3.33E-05
 New York City,3 wk ahead,Bin,percent,11.4,11.5,0
-New York City,3 wk ahead,Bin,percent,11.5,11.6,2.50025E-05
-New York City,3 wk ahead,Bin,percent,11.6,11.7,2.50025E-05
-New York City,3 wk ahead,Bin,percent,11.7,11.8,2.50025E-05
-New York City,3 wk ahead,Bin,percent,11.8,11.9,2.50025E-05
-New York City,3 wk ahead,Bin,percent,11.9,12,5.0005E-05
+New York City,3 wk ahead,Bin,percent,11.5,11.6,3.33E-05
+New York City,3 wk ahead,Bin,percent,11.6,11.7,3.33E-05
+New York City,3 wk ahead,Bin,percent,11.7,11.8,3.33E-05
+New York City,3 wk ahead,Bin,percent,11.8,11.9,3.33E-05
+New York City,3 wk ahead,Bin,percent,11.9,12,6.67E-05
 New York City,3 wk ahead,Bin,percent,12,12.1,0
 New York City,3 wk ahead,Bin,percent,12.1,12.2,0
-New York City,3 wk ahead,Bin,percent,12.2,12.3,2.50025E-05
-New York City,3 wk ahead,Bin,percent,12.3,12.4,2.50025E-05
+New York City,3 wk ahead,Bin,percent,12.2,12.3,3.33E-05
+New York City,3 wk ahead,Bin,percent,12.3,12.4,3.33E-05
 New York City,3 wk ahead,Bin,percent,12.4,12.5,0
-New York City,3 wk ahead,Bin,percent,12.5,12.6,5.0005E-05
+New York City,3 wk ahead,Bin,percent,12.5,12.6,6.67E-05
 New York City,3 wk ahead,Bin,percent,12.6,12.7,0
 New York City,3 wk ahead,Bin,percent,12.7,12.8,0
-New York City,3 wk ahead,Bin,percent,12.8,12.9,2.50025E-05
+New York City,3 wk ahead,Bin,percent,12.8,12.9,3.33E-05
 New York City,3 wk ahead,Bin,percent,12.9,13,0
-New York City,3 wk ahead,Bin,percent,13,100,0.000625063
-New York City,4 wk ahead,Point,percent,NA,NA,0.604361065
-New York City,4 wk ahead,Bin,percent,0,0.1,0.001362082
-New York City,4 wk ahead,Bin,percent,0.1,0.2,0.002143871
-New York City,4 wk ahead,Bin,percent,0.2,0.3,0.003616916
-New York City,4 wk ahead,Bin,percent,0.3,0.4,0.006178945
-New York City,4 wk ahead,Bin,percent,0.4,0.5,0.00903789
-New York City,4 wk ahead,Bin,percent,0.5,0.6,0.011973982
-New York City,4 wk ahead,Bin,percent,0.6,0.7,0.015563642
-New York City,4 wk ahead,Bin,percent,0.7,0.8,0.020506984
-New York City,4 wk ahead,Bin,percent,0.8,0.9,0.027957553
-New York City,4 wk ahead,Bin,percent,0.9,1,0.036579114
-New York City,4 wk ahead,Bin,percent,1,1.1,0.041156968
-New York City,4 wk ahead,Bin,percent,1.1,1.2,0.037204529
-New York City,4 wk ahead,Bin,percent,1.2,1.3,0.026930136
-New York City,4 wk ahead,Bin,percent,1.3,1.4,0.018760028
-New York City,4 wk ahead,Bin,percent,1.4,1.5,0.018769072
-New York City,4 wk ahead,Bin,percent,1.5,1.6,0.026947714
-New York City,4 wk ahead,Bin,percent,1.6,1.7,0.036686863
-New York City,4 wk ahead,Bin,percent,1.7,1.8,0.039370343
-New York City,4 wk ahead,Bin,percent,1.8,1.9,0.032497768
-New York City,4 wk ahead,Bin,percent,1.9,2,0.021730297
-New York City,4 wk ahead,Bin,percent,2,2.1,0.013345867
-New York City,4 wk ahead,Bin,percent,2.1,2.2,0.008689032
-New York City,4 wk ahead,Bin,percent,2.2,2.3,0.006283181
-New York City,4 wk ahead,Bin,percent,2.3,2.4,0.004849653
-New York City,4 wk ahead,Bin,percent,2.4,2.5,0.00390148
-New York City,4 wk ahead,Bin,percent,2.5,2.6,0.003324031
-New York City,4 wk ahead,Bin,percent,2.6,2.7,0.002963904
-New York City,4 wk ahead,Bin,percent,2.7,2.8,0.002643665
-New York City,4 wk ahead,Bin,percent,2.8,2.9,0.002228198
-New York City,4 wk ahead,Bin,percent,2.9,3,0.001702895
-New York City,4 wk ahead,Bin,percent,3,3.1,0.001161914
-New York City,4 wk ahead,Bin,percent,3.1,3.2,0.000723823
-New York City,4 wk ahead,Bin,percent,3.2,3.3,0.000426382
-New York City,4 wk ahead,Bin,percent,3.3,3.4,0.000251991
-New York City,4 wk ahead,Bin,percent,3.4,3.5,0.000174658
-New York City,4 wk ahead,Bin,percent,3.5,3.6,0.000141992
-New York City,4 wk ahead,Bin,percent,3.6,3.7,0.00011184
-New York City,4 wk ahead,Bin,percent,3.7,3.8,8.09427E-05
-New York City,4 wk ahead,Bin,percent,3.8,3.9,6.11029E-05
-New York City,4 wk ahead,Bin,percent,3.9,4,5.31633E-05
-New York City,4 wk ahead,Bin,percent,4,4.1,5.11236E-05
-New York City,4 wk ahead,Bin,percent,4.1,4.2,5.07296E-05
-New York City,4 wk ahead,Bin,percent,4.2,4.3,5.06777E-05
-New York City,4 wk ahead,Bin,percent,4.3,4.4,5.0945E-05
-New York City,4 wk ahead,Bin,percent,4.4,4.5,5.26531E-05
-New York City,4 wk ahead,Bin,percent,4.5,4.6,5.95218E-05
-New York City,4 wk ahead,Bin,percent,4.6,4.7,7.78467E-05
-New York City,4 wk ahead,Bin,percent,4.7,4.8,0.000107868
-New York City,4 wk ahead,Bin,percent,4.8,4.9,0.000138471
-New York City,4 wk ahead,Bin,percent,4.9,5,0.000151294
-New York City,4 wk ahead,Bin,percent,5,5.1,0.000146089
-New York City,4 wk ahead,Bin,percent,5.1,5.2,0.000151285
-New York City,4 wk ahead,Bin,percent,5.2,5.3,0.000205935
-New York City,4 wk ahead,Bin,percent,5.3,5.4,0.000312806
-New York City,4 wk ahead,Bin,percent,5.4,5.5,0.000443514
-New York City,4 wk ahead,Bin,percent,5.5,5.6,0.000579871
-New York City,4 wk ahead,Bin,percent,5.6,5.7,0.000712112
-New York City,4 wk ahead,Bin,percent,5.7,5.8,0.000801056
-New York City,4 wk ahead,Bin,percent,5.8,5.9,0.000772121
-New York City,4 wk ahead,Bin,percent,5.9,6,0.000618862
-New York City,4 wk ahead,Bin,percent,6,6.1,0.00042414
-New York City,4 wk ahead,Bin,percent,6.1,6.2,0.000259628
-New York City,4 wk ahead,Bin,percent,6.2,6.3,0.000152955
-New York City,4 wk ahead,Bin,percent,6.3,6.4,9.12407E-05
-New York City,4 wk ahead,Bin,percent,6.4,6.5,6.2254E-05
-New York City,4 wk ahead,Bin,percent,6.5,6.6,5.29845E-05
-New York City,4 wk ahead,Bin,percent,6.6,6.7,5.08849E-05
-New York City,4 wk ahead,Bin,percent,6.7,6.8,5.05564E-05
-New York City,4 wk ahead,Bin,percent,6.8,6.9,5.05219E-05
-New York City,4 wk ahead,Bin,percent,6.9,7,5.0527E-05
-New York City,4 wk ahead,Bin,percent,7,7.1,5.05237E-05
-New York City,4 wk ahead,Bin,percent,7.1,7.2,5.05187E-05
-New York City,4 wk ahead,Bin,percent,7.2,7.3,5.05258E-05
-New York City,4 wk ahead,Bin,percent,7.3,7.4,5.05256E-05
-New York City,4 wk ahead,Bin,percent,7.4,7.5,5.05553E-05
-New York City,4 wk ahead,Bin,percent,7.5,7.6,5.08432E-05
-New York City,4 wk ahead,Bin,percent,7.6,7.7,5.26058E-05
-New York City,4 wk ahead,Bin,percent,7.7,7.8,5.93892E-05
-New York City,4 wk ahead,Bin,percent,7.8,7.9,7.60439E-05
-New York City,4 wk ahead,Bin,percent,7.9,8,0.000103225
-New York City,4 wk ahead,Bin,percent,8,8.1,#VALUE!
-New York City,4 wk ahead,Bin,percent,8.1,8.2,0.000149082
-New York City,4 wk ahead,Bin,percent,8.2,8.3,0.000175785
-New York City,4 wk ahead,Bin,percent,8.3,8.4,0.000228616
-New York City,4 wk ahead,Bin,percent,8.4,8.5,0.000293947
-New York City,4 wk ahead,Bin,percent,8.5,8.6,0.000326745
-New York City,4 wk ahead,Bin,percent,8.6,8.7,0.000290943
-New York City,4 wk ahead,Bin,percent,8.7,8.8,0.000210158
-New York City,4 wk ahead,Bin,percent,8.8,8.9,0.000129788
-New York City,4 wk ahead,Bin,percent,8.9,9,8.15519E-05
-New York City,4 wk ahead,Bin,percent,9,9.1,6.55599E-05
-New York City,4 wk ahead,Bin,percent,9.1,9.2,7.03982E-05
-New York City,4 wk ahead,Bin,percent,9.2,9.3,8.28416E-05
-New York City,4 wk ahead,Bin,percent,9.3,9.4,8.77194E-05
-New York City,4 wk ahead,Bin,percent,9.4,9.5,7.91794E-05
-New York City,4 wk ahead,Bin,percent,9.5,9.6,6.51082E-05
-New York City,4 wk ahead,Bin,percent,9.6,9.7,5.55298E-05
-New York City,4 wk ahead,Bin,percent,9.7,9.8,5.16419E-05
-New York City,4 wk ahead,Bin,percent,9.8,9.9,5.06876E-05
-New York City,4 wk ahead,Bin,percent,9.9,10,5.06081E-05
-New York City,4 wk ahead,Bin,percent,10,10.1,5.11172E-05
-New York City,4 wk ahead,Bin,percent,10.1,10.2,5.41222E-05
-New York City,4 wk ahead,Bin,percent,10.2,10.3,6.44578E-05
-New York City,4 wk ahead,Bin,percent,10.3,10.4,8.71425E-05
-New York City,4 wk ahead,Bin,percent,10.4,10.5,0.00011448
-New York City,4 wk ahead,Bin,percent,10.5,10.6,0.000124662
-New York City,4 wk ahead,Bin,percent,10.6,10.7,0.000107829
-New York City,4 wk ahead,Bin,percent,10.7,10.8,7.97613E-05
-New York City,4 wk ahead,Bin,percent,10.8,10.9,6.05601E-05
-New York City,4 wk ahead,Bin,percent,10.9,11,5.26739E-05
-New York City,4 wk ahead,Bin,percent,11,11.1,5.07143E-05
-New York City,4 wk ahead,Bin,percent,11.1,11.2,5.03726E-05
-New York City,4 wk ahead,Bin,percent,11.2,11.3,5.02702E-05
-New York City,4 wk ahead,Bin,percent,11.3,11.4,5.02033E-05
-New York City,4 wk ahead,Bin,percent,11.4,11.5,5.01324E-05
-New York City,4 wk ahead,Bin,percent,11.5,11.6,5.00191E-05
-New York City,4 wk ahead,Bin,percent,11.6,11.7,4.99021E-05
-New York City,4 wk ahead,Bin,percent,11.7,11.8,4.97757E-05
-New York City,4 wk ahead,Bin,percent,11.8,11.9,4.9602E-05
-New York City,4 wk ahead,Bin,percent,11.9,12,4.94178E-05
-New York City,4 wk ahead,Bin,percent,12,12.1,4.92169E-05
-New York City,4 wk ahead,Bin,percent,12.1,12.2,4.89692E-05
-New York City,4 wk ahead,Bin,percent,12.2,12.3,4.87135E-05
-New York City,4 wk ahead,Bin,percent,12.3,12.4,4.8431E-05
-New York City,4 wk ahead,Bin,percent,12.4,12.5,4.81034E-05
-New York City,4 wk ahead,Bin,percent,12.5,12.6,4.77675E-05
-New York City,4 wk ahead,Bin,percent,12.6,12.7,4.73805E-05
-New York City,4 wk ahead,Bin,percent,12.7,12.8,4.67731E-05
-New York City,4 wk ahead,Bin,percent,12.8,12.9,4.5672E-05
-New York City,4 wk ahead,Bin,percent,12.9,13,4.35813E-05
-New York City,4 wk ahead,Bin,percent,13,100,8.29991E-05
+New York City,3 wk ahead,Bin,percent,13,100,0.000833417
+New York City,4 wk ahead,Point,percent,NA,NA,1.208722131
+New York City,4 wk ahead,Bin,percent,0,0.1,0.002724163
+New York City,4 wk ahead,Bin,percent,0.1,0.2,0.004287742
+New York City,4 wk ahead,Bin,percent,0.2,0.3,0.007233832
+New York City,4 wk ahead,Bin,percent,0.3,0.4,0.01235789
+New York City,4 wk ahead,Bin,percent,0.4,0.5,0.018075779
+New York City,4 wk ahead,Bin,percent,0.5,0.6,0.023947964
+New York City,4 wk ahead,Bin,percent,0.6,0.7,0.031127283
+New York City,4 wk ahead,Bin,percent,0.7,0.8,0.041013969
+New York City,4 wk ahead,Bin,percent,0.8,0.9,0.055915106
+New York City,4 wk ahead,Bin,percent,0.9,1,0.073158228
+New York City,4 wk ahead,Bin,percent,1,1.1,0.082313937
+New York City,4 wk ahead,Bin,percent,1.1,1.2,0.074409058
+New York City,4 wk ahead,Bin,percent,1.2,1.3,0.053860272
+New York City,4 wk ahead,Bin,percent,1.3,1.4,0.037520056
+New York City,4 wk ahead,Bin,percent,1.4,1.5,0.037538145
+New York City,4 wk ahead,Bin,percent,1.5,1.6,0.053895428
+New York City,4 wk ahead,Bin,percent,1.6,1.7,0.073373727
+New York City,4 wk ahead,Bin,percent,1.7,1.8,0.078740686
+New York City,4 wk ahead,Bin,percent,1.8,1.9,0.064995536
+New York City,4 wk ahead,Bin,percent,1.9,2,0.043460593
+New York City,4 wk ahead,Bin,percent,2,2.1,0.026691733
+New York City,4 wk ahead,Bin,percent,2.1,2.2,0.017378064
+New York City,4 wk ahead,Bin,percent,2.2,2.3,0.012566362
+New York City,4 wk ahead,Bin,percent,2.3,2.4,0.009699306
+New York City,4 wk ahead,Bin,percent,2.4,2.5,0.007802961
+New York City,4 wk ahead,Bin,percent,2.5,2.6,0.006648062
+New York City,4 wk ahead,Bin,percent,2.6,2.7,0.005927809
+New York City,4 wk ahead,Bin,percent,2.7,2.8,0.005287331
+New York City,4 wk ahead,Bin,percent,2.8,2.9,0.004456397
+New York City,4 wk ahead,Bin,percent,2.9,3,0.003405789
+New York City,4 wk ahead,Bin,percent,3,3.1,0.002323827
+New York City,4 wk ahead,Bin,percent,3.1,3.2,0.001447646
+New York City,4 wk ahead,Bin,percent,3.2,3.3,0.000852764
+New York City,4 wk ahead,Bin,percent,3.3,3.4,0.000503982
+New York City,4 wk ahead,Bin,percent,3.4,3.5,0.000349315
+New York City,4 wk ahead,Bin,percent,3.5,3.6,0.000283985
+New York City,4 wk ahead,Bin,percent,3.6,3.7,0.000223681
+New York City,4 wk ahead,Bin,percent,3.7,3.8,1.62E-04
+New York City,4 wk ahead,Bin,percent,3.8,3.9,1.22E-04
+New York City,4 wk ahead,Bin,percent,3.9,4,1.06E-04
+New York City,4 wk ahead,Bin,percent,4,4.1,1.02E-04
+New York City,4 wk ahead,Bin,percent,4.1,4.2,1.01E-04
+New York City,4 wk ahead,Bin,percent,4.2,4.3,1.01E-04
+New York City,4 wk ahead,Bin,percent,4.3,4.4,1.02E-04
+New York City,4 wk ahead,Bin,percent,4.4,4.5,1.05E-04
+New York City,4 wk ahead,Bin,percent,4.5,4.6,1.19E-04
+New York City,4 wk ahead,Bin,percent,4.6,4.7,1.56E-04
+New York City,4 wk ahead,Bin,percent,4.7,4.8,0.000215736
+New York City,4 wk ahead,Bin,percent,4.8,4.9,0.000276943
+New York City,4 wk ahead,Bin,percent,4.9,5,0.000302589
+New York City,4 wk ahead,Bin,percent,5,5.1,0.000292178
+New York City,4 wk ahead,Bin,percent,5.1,5.2,0.00030257
+New York City,4 wk ahead,Bin,percent,5.2,5.3,0.00041187
+New York City,4 wk ahead,Bin,percent,5.3,5.4,0.000625611
+New York City,4 wk ahead,Bin,percent,5.4,5.5,0.000887028
+New York City,4 wk ahead,Bin,percent,5.5,5.6,0.001159742
+New York City,4 wk ahead,Bin,percent,5.6,5.7,0.001424225
+New York City,4 wk ahead,Bin,percent,5.7,5.8,0.001602112
+New York City,4 wk ahead,Bin,percent,5.8,5.9,0.001544242
+New York City,4 wk ahead,Bin,percent,5.9,6,0.001237724
+New York City,4 wk ahead,Bin,percent,6,6.1,0.00084828
+New York City,4 wk ahead,Bin,percent,6.1,6.2,0.000519257
+New York City,4 wk ahead,Bin,percent,6.2,6.3,0.00030591
+New York City,4 wk ahead,Bin,percent,6.3,6.4,1.82E-04
+New York City,4 wk ahead,Bin,percent,6.4,6.5,1.25E-04
+New York City,4 wk ahead,Bin,percent,6.5,6.6,1.06E-04
+New York City,4 wk ahead,Bin,percent,6.6,6.7,1.02E-04
+New York City,4 wk ahead,Bin,percent,6.7,6.8,1.01E-04
+New York City,4 wk ahead,Bin,percent,6.8,6.9,1.01E-04
+New York City,4 wk ahead,Bin,percent,6.9,7,1.01E-04
+New York City,4 wk ahead,Bin,percent,7,7.1,1.01E-04
+New York City,4 wk ahead,Bin,percent,7.1,7.2,1.01E-04
+New York City,4 wk ahead,Bin,percent,7.2,7.3,1.01E-04
+New York City,4 wk ahead,Bin,percent,7.3,7.4,1.01E-04
+New York City,4 wk ahead,Bin,percent,7.4,7.5,1.01E-04
+New York City,4 wk ahead,Bin,percent,7.5,7.6,1.02E-04
+New York City,4 wk ahead,Bin,percent,7.6,7.7,1.05E-04
+New York City,4 wk ahead,Bin,percent,7.7,7.8,1.19E-04
+New York City,4 wk ahead,Bin,percent,7.8,7.9,1.52E-04
+New York City,4 wk ahead,Bin,percent,7.9,8,0.00020645
+New York City,4 wk ahead,Bin,percent,8,8.1,0.000259286
+New York City,4 wk ahead,Bin,percent,8.1,8.2,0.000298164
+New York City,4 wk ahead,Bin,percent,8.2,8.3,0.00035157
+New York City,4 wk ahead,Bin,percent,8.3,8.4,0.000457232
+New York City,4 wk ahead,Bin,percent,8.4,8.5,0.000587894
+New York City,4 wk ahead,Bin,percent,8.5,8.6,0.00065349
+New York City,4 wk ahead,Bin,percent,8.6,8.7,0.000581886
+New York City,4 wk ahead,Bin,percent,8.7,8.8,0.000420315
+New York City,4 wk ahead,Bin,percent,8.8,8.9,0.000259577
+New York City,4 wk ahead,Bin,percent,8.9,9,1.63E-04
+New York City,4 wk ahead,Bin,percent,9,9.1,1.31E-04
+New York City,4 wk ahead,Bin,percent,9.1,9.2,1.41E-04
+New York City,4 wk ahead,Bin,percent,9.2,9.3,1.66E-04
+New York City,4 wk ahead,Bin,percent,9.3,9.4,1.75E-04
+New York City,4 wk ahead,Bin,percent,9.4,9.5,1.58E-04
+New York City,4 wk ahead,Bin,percent,9.5,9.6,1.30E-04
+New York City,4 wk ahead,Bin,percent,9.6,9.7,1.11E-04
+New York City,4 wk ahead,Bin,percent,9.7,9.8,1.03E-04
+New York City,4 wk ahead,Bin,percent,9.8,9.9,1.01E-04
+New York City,4 wk ahead,Bin,percent,9.9,10,1.01E-04
+New York City,4 wk ahead,Bin,percent,10,10.1,1.02E-04
+New York City,4 wk ahead,Bin,percent,10.1,10.2,1.08E-04
+New York City,4 wk ahead,Bin,percent,10.2,10.3,1.29E-04
+New York City,4 wk ahead,Bin,percent,10.3,10.4,1.74E-04
+New York City,4 wk ahead,Bin,percent,10.4,10.5,0.000228961
+New York City,4 wk ahead,Bin,percent,10.5,10.6,0.000249324
+New York City,4 wk ahead,Bin,percent,10.6,10.7,0.000215659
+New York City,4 wk ahead,Bin,percent,10.7,10.8,1.60E-04
+New York City,4 wk ahead,Bin,percent,10.8,10.9,1.21E-04
+New York City,4 wk ahead,Bin,percent,10.9,11,1.05E-04
+New York City,4 wk ahead,Bin,percent,11,11.1,1.01E-04
+New York City,4 wk ahead,Bin,percent,11.1,11.2,1.01E-04
+New York City,4 wk ahead,Bin,percent,11.2,11.3,1.01E-04
+New York City,4 wk ahead,Bin,percent,11.3,11.4,1.00E-04
+New York City,4 wk ahead,Bin,percent,11.4,11.5,1.00E-04
+New York City,4 wk ahead,Bin,percent,11.5,11.6,1.00E-04
+New York City,4 wk ahead,Bin,percent,11.6,11.7,9.98E-05
+New York City,4 wk ahead,Bin,percent,11.7,11.8,9.96E-05
+New York City,4 wk ahead,Bin,percent,11.8,11.9,9.92E-05
+New York City,4 wk ahead,Bin,percent,11.9,12,9.88E-05
+New York City,4 wk ahead,Bin,percent,12,12.1,9.84E-05
+New York City,4 wk ahead,Bin,percent,12.1,12.2,9.79E-05
+New York City,4 wk ahead,Bin,percent,12.2,12.3,9.74E-05
+New York City,4 wk ahead,Bin,percent,12.3,12.4,9.69E-05
+New York City,4 wk ahead,Bin,percent,12.4,12.5,9.62E-05
+New York City,4 wk ahead,Bin,percent,12.5,12.6,9.55E-05
+New York City,4 wk ahead,Bin,percent,12.6,12.7,9.48E-05
+New York City,4 wk ahead,Bin,percent,12.7,12.8,9.35E-05
+New York City,4 wk ahead,Bin,percent,12.8,12.9,9.13E-05
+New York City,4 wk ahead,Bin,percent,12.9,13,8.72E-05
+New York City,4 wk ahead,Bin,percent,13,100,1.66E-04
