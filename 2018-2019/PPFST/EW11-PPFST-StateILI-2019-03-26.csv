@@ -32,9 +32,9 @@ Alabama,Season peak week,Bin,week,16,17,0.001555662
 Alabama,Season peak week,Bin,week,17,18,0.000996699
 Alabama,Season peak week,Bin,week,18,19,0.000937364
 Alabama,Season peak week,Bin,week,19,20,0.000571472
-Alabama,Season peak week,Bin,week,20,21,0.000571267
+Alabama,Season peak week,Bin,week,20,21,0.222793488
 Alabama,Season peak percentage,Point,percent,NA,NA,6.972222222
-Alabama,Season peak percentage,Bin,percent,0,0.1,9.89644E-05
+Alabama,Season peak percentage,Bin,percent,0,0.1,9.90E-05
 Alabama,Season peak percentage,Bin,percent,0.1,0.2,0.000101017
 Alabama,Season peak percentage,Bin,percent,0.2,0.3,0.000102017
 Alabama,Season peak percentage,Bin,percent,0.3,0.4,0.000102446
@@ -164,7 +164,7 @@ Alabama,Season peak percentage,Bin,percent,12.6,12.7,0.000648334
 Alabama,Season peak percentage,Bin,percent,12.7,12.8,0.000567421
 Alabama,Season peak percentage,Bin,percent,12.8,12.9,0.000515562
 Alabama,Season peak percentage,Bin,percent,12.9,13,0.000467549
-Alabama,Season peak percentage,Bin,percent,13,100,0.003748102
+Alabama,Season peak percentage,Bin,percent,13,100,0.225970288
 Alabama,1 wk ahead,Point,percent,NA,NA,2.886794171
 Alabama,1 wk ahead,Bin,percent,0,0.1,1.94E-04
 Alabama,1 wk ahead,Bin,percent,0.1,0.2,1.91E-04
@@ -296,7 +296,7 @@ Alabama,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 Alabama,1 wk ahead,Bin,percent,12.7,12.8,1.82E-04
 Alabama,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 Alabama,1 wk ahead,Bin,percent,12.9,13,1.79E-04
-Alabama,1 wk ahead,Bin,percent,13,100,1.29E-04
+Alabama,1 wk ahead,Bin,percent,13,100,2.22E-01
 Alabama,2 wk ahead,Point,percent,NA,NA,2.398149887
 Alabama,2 wk ahead,Bin,percent,0,0.1,4.13E-04
 Alabama,2 wk ahead,Bin,percent,0.1,0.2,4.71E-04
@@ -428,7 +428,7 @@ Alabama,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Alabama,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Alabama,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Alabama,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Alabama,2 wk ahead,Bin,percent,13,100,0.000733776
+Alabama,2 wk ahead,Bin,percent,13,100,0.222966271
 Alabama,3 wk ahead,Point,percent,NA,NA,2.041983804
 Alabama,3 wk ahead,Bin,percent,0,0.1,9.48E-04
 Alabama,3 wk ahead,Bin,percent,0.1,0.2,1.04E-03
@@ -560,7 +560,7 @@ Alabama,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Alabama,3 wk ahead,Bin,percent,12.7,12.8,2.41E-04
 Alabama,3 wk ahead,Bin,percent,12.8,12.9,0.000173965
 Alabama,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Alabama,3 wk ahead,Bin,percent,13,100,0.000644281
+Alabama,3 wk ahead,Bin,percent,13,100,0.222871353
 Alabama,4 wk ahead,Point,percent,NA,NA,1.71149347
 Alabama,4 wk ahead,Bin,percent,0,0.1,1.65E-03
 Alabama,4 wk ahead,Bin,percent,0.1,0.2,1.76E-03
@@ -692,7 +692,7 @@ Alabama,4 wk ahead,Bin,percent,12.6,12.7,1.99E-04
 Alabama,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Alabama,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Alabama,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Alabama,4 wk ahead,Bin,percent,13,100,0.000576816
+Alabama,4 wk ahead,Bin,percent,13,100,0.222789123
 Alaska,Season peak week,Point,week,NA,NA,4.888888889
 Alaska,Season peak week,Bin,week,40,41,0.005204672
 Alaska,Season peak week,Bin,week,41,42,0.003284059
@@ -726,9 +726,9 @@ Alaska,Season peak week,Bin,week,16,17,0.002574724
 Alaska,Season peak week,Bin,week,17,18,0.001301357
 Alaska,Season peak week,Bin,week,18,19,0.001462715
 Alaska,Season peak week,Bin,week,19,20,0.000968071
-Alaska,Season peak week,Bin,week,20,21,0.000806489
+Alaska,Season peak week,Bin,week,20,21,0.223028711
 Alaska,Season peak percentage,Point,percent,NA,NA,7.488888889
-Alaska,Season peak percentage,Bin,percent,0,0.1,9.96058E-05
+Alaska,Season peak percentage,Bin,percent,0,0.1,9.96E-05
 Alaska,Season peak percentage,Bin,percent,0.1,0.2,0.000102034
 Alaska,Season peak percentage,Bin,percent,0.2,0.3,0.000103039
 Alaska,Season peak percentage,Bin,percent,0.3,0.4,0.000103462
@@ -858,7 +858,7 @@ Alaska,Season peak percentage,Bin,percent,12.6,12.7,0.001234574
 Alaska,Season peak percentage,Bin,percent,12.7,12.8,0.001216218
 Alaska,Season peak percentage,Bin,percent,12.8,12.9,0.00114788
 Alaska,Season peak percentage,Bin,percent,12.9,13,0.001087485
-Alaska,Season peak percentage,Bin,percent,13,100,0.009958532
+Alaska,Season peak percentage,Bin,percent,13,100,0.232180763
 Alaska,1 wk ahead,Point,percent,NA,NA,4.014149897
 Alaska,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Alaska,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -990,7 +990,7 @@ Alaska,1 wk ahead,Bin,percent,12.6,12.7,0.000182051
 Alaska,1 wk ahead,Bin,percent,12.7,12.8,0.00023016
 Alaska,1 wk ahead,Bin,percent,12.8,12.9,0.000229046
 Alaska,1 wk ahead,Bin,percent,12.9,13,0.000178661
-Alaska,1 wk ahead,Bin,percent,13,100,0.000326443
+Alaska,1 wk ahead,Bin,percent,13,100,0.222549379
 Alaska,2 wk ahead,Point,percent,NA,NA,3.27245072
 Alaska,2 wk ahead,Bin,percent,0,0.1,6.66E-04
 Alaska,2 wk ahead,Bin,percent,0.1,0.2,7.57E-04
@@ -1122,7 +1122,7 @@ Alaska,2 wk ahead,Bin,percent,12.6,12.7,0.000197951
 Alaska,2 wk ahead,Bin,percent,12.7,12.8,0.000263797
 Alaska,2 wk ahead,Bin,percent,12.8,12.9,0.000263433
 Alaska,2 wk ahead,Bin,percent,12.9,13,0.000287457
-Alaska,2 wk ahead,Bin,percent,13,100,0.001499293
+Alaska,2 wk ahead,Bin,percent,13,100,0.223716735
 Alaska,3 wk ahead,Point,percent,NA,NA,2.736175263
 Alaska,3 wk ahead,Bin,percent,0,0.1,1.98E-03
 Alaska,3 wk ahead,Bin,percent,0.1,0.2,2.11E-03
@@ -1254,7 +1254,7 @@ Alaska,3 wk ahead,Bin,percent,12.6,12.7,0.000198691
 Alaska,3 wk ahead,Bin,percent,12.7,12.8,0.000198277
 Alaska,3 wk ahead,Bin,percent,12.8,12.9,0.000197797
 Alaska,3 wk ahead,Bin,percent,12.9,13,0.000197242
-Alaska,3 wk ahead,Bin,percent,13,100,0.00165716
+Alaska,3 wk ahead,Bin,percent,13,100,0.223881483
 Alaska,4 wk ahead,Point,percent,NA,NA,2.242452581
 Alaska,4 wk ahead,Bin,percent,0,0.1,2.83E-03
 Alaska,4 wk ahead,Bin,percent,0.1,0.2,2.93E-03
@@ -1386,8 +1386,8 @@ Alaska,4 wk ahead,Bin,percent,12.6,12.7,0.000222659
 Alaska,4 wk ahead,Bin,percent,12.7,12.8,0.000173349
 Alaska,4 wk ahead,Bin,percent,12.8,12.9,0.000197469
 Alaska,4 wk ahead,Bin,percent,12.9,13,0.000196963
-Alaska,4 wk ahead,Bin,percent,13,100,0.001099324
-Arizona,Season peak week,Point,week,NA,NA,4.444444444
+Alaska,4 wk ahead,Bin,percent,13,100,0.223309777
+Arizona,Season peak week,Point,week,NA,NA,3.333333333
 Arizona,Season peak week,Bin,week,40,41,0.000320825
 Arizona,Season peak week,Bin,week,41,42,0.000323349
 Arizona,Season peak week,Bin,week,42,43,0.00032336
@@ -1420,7 +1420,7 @@ Arizona,Season peak week,Bin,week,16,17,0.004874914
 Arizona,Season peak week,Bin,week,17,18,0.001874555
 Arizona,Season peak week,Bin,week,18,19,0.001765218
 Arizona,Season peak week,Bin,week,19,20,0.001637546
-Arizona,Season peak week,Bin,week,20,21,0.002286743
+Arizona,Season peak week,Bin,week,20,21,0.224508967
 Arizona,Season peak percentage,Point,percent,NA,NA,3.655555556
 Arizona,Season peak percentage,Bin,percent,0,0.1,0.000100383
 Arizona,Season peak percentage,Bin,percent,0.1,0.2,0.000102486
@@ -1552,7 +1552,7 @@ Arizona,Season peak percentage,Bin,percent,12.6,12.7,0.00017166
 Arizona,Season peak percentage,Bin,percent,12.7,12.8,0.000171402
 Arizona,Season peak percentage,Bin,percent,12.8,12.9,0.000170969
 Arizona,Season peak percentage,Bin,percent,12.9,13,0.000173355
-Arizona,Season peak percentage,Bin,percent,13,100,0.001932138
+Arizona,Season peak percentage,Bin,percent,13,100,0.224154362
 Arizona,1 wk ahead,Point,percent,NA,NA,2.787067395
 Arizona,1 wk ahead,Bin,percent,0,0.1,1.88E-04
 Arizona,1 wk ahead,Bin,percent,0.1,0.2,2.17E-04
@@ -1684,7 +1684,7 @@ Arizona,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Arizona,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Arizona,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Arizona,1 wk ahead,Bin,percent,12.9,13,1.81E-04
-Arizona,1 wk ahead,Bin,percent,13,100,1.20E-04
+Arizona,1 wk ahead,Bin,percent,13,100,2.22E-01
 Arizona,2 wk ahead,Point,percent,NA,NA,2.623464237
 Arizona,2 wk ahead,Bin,percent,0,0.1,1.09E-03
 Arizona,2 wk ahead,Bin,percent,0.1,0.2,1.22E-03
@@ -1816,7 +1816,7 @@ Arizona,2 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Arizona,2 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 Arizona,2 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Arizona,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Arizona,2 wk ahead,Bin,percent,13,100,1.04E-03
+Arizona,2 wk ahead,Bin,percent,13,100,2.23E-01
 Arizona,3 wk ahead,Point,percent,NA,NA,2.482602909
 Arizona,3 wk ahead,Bin,percent,0,0.1,1.95E-03
 Arizona,3 wk ahead,Bin,percent,0.1,0.2,2.08E-03
@@ -1948,7 +1948,7 @@ Arizona,3 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 Arizona,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Arizona,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Arizona,3 wk ahead,Bin,percent,12.9,13,2.40E-04
-Arizona,3 wk ahead,Bin,percent,13,100,1.38E-03
+Arizona,3 wk ahead,Bin,percent,13,100,2.24E-01
 Arizona,4 wk ahead,Point,percent,NA,NA,2.268640924
 Arizona,4 wk ahead,Bin,percent,0,0.1,2.88E-03
 Arizona,4 wk ahead,Bin,percent,0.1,0.2,2.98E-03
@@ -2080,7 +2080,7 @@ Arizona,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Arizona,4 wk ahead,Bin,percent,12.7,12.8,2.41E-04
 Arizona,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Arizona,4 wk ahead,Bin,percent,12.9,13,2.40E-04
-Arizona,4 wk ahead,Bin,percent,13,100,1.04E-03
+Arizona,4 wk ahead,Bin,percent,13,100,2.23E-01
 Arkansas,Season peak week,Point,week,NA,NA,5.888888889
 Arkansas,Season peak week,Bin,week,40,41,0.000325702
 Arkansas,Season peak week,Bin,week,41,42,0.000328125
@@ -2114,7 +2114,7 @@ Arkansas,Season peak week,Bin,week,16,17,0.001636781
 Arkansas,Season peak week,Bin,week,17,18,0.001165516
 Arkansas,Season peak week,Bin,week,18,19,0.000843891
 Arkansas,Season peak week,Bin,week,19,20,0.000717056
-Arkansas,Season peak week,Bin,week,20,21,0.000762703
+Arkansas,Season peak week,Bin,week,20,21,0.222984927
 Arkansas,Season peak percentage,Point,percent,NA,NA,7.066457023
 Arkansas,Season peak percentage,Bin,percent,0,0.1,0.000100032
 Arkansas,Season peak percentage,Bin,percent,0.1,0.2,0.000102556
@@ -2246,7 +2246,7 @@ Arkansas,Season peak percentage,Bin,percent,12.6,12.7,0.000798853
 Arkansas,Season peak percentage,Bin,percent,12.7,12.8,0.000683098
 Arkansas,Season peak percentage,Bin,percent,12.8,12.9,0.000649085
 Arkansas,Season peak percentage,Bin,percent,12.9,13,0.000603527
-Arkansas,Season peak percentage,Bin,percent,13,100,0.004184149
+Arkansas,Season peak percentage,Bin,percent,13,100,0.226406366
 Arkansas,1 wk ahead,Point,percent,NA,NA,3.539410906
 Arkansas,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Arkansas,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -2378,7 +2378,7 @@ Arkansas,1 wk ahead,Bin,percent,12.6,12.7,0.000182379
 Arkansas,1 wk ahead,Bin,percent,12.7,12.8,0.000181537
 Arkansas,1 wk ahead,Bin,percent,12.8,12.9,0.000180369
 Arkansas,1 wk ahead,Bin,percent,12.9,13,1.79E-04
-Arkansas,1 wk ahead,Bin,percent,13,100,0.000152597
+Arkansas,1 wk ahead,Bin,percent,13,100,0.2223749
 Arkansas,2 wk ahead,Point,percent,NA,NA,2.704004966
 Arkansas,2 wk ahead,Bin,percent,0,0.1,1.73E-04
 Arkansas,2 wk ahead,Bin,percent,0.1,0.2,1.74E-04
@@ -2510,7 +2510,7 @@ Arkansas,2 wk ahead,Bin,percent,12.6,12.7,0.000173401
 Arkansas,2 wk ahead,Bin,percent,12.7,12.8,0.000173122
 Arkansas,2 wk ahead,Bin,percent,12.8,12.9,0.000238833
 Arkansas,2 wk ahead,Bin,percent,12.9,13,0.000172271
-Arkansas,2 wk ahead,Bin,percent,13,100,0.000650235
+Arkansas,2 wk ahead,Bin,percent,13,100,0.222871836
 Arkansas,3 wk ahead,Point,percent,NA,NA,2.097141743
 Arkansas,3 wk ahead,Bin,percent,0,0.1,9.08E-04
 Arkansas,3 wk ahead,Bin,percent,0.1,0.2,1.01E-03
@@ -2642,7 +2642,7 @@ Arkansas,3 wk ahead,Bin,percent,12.6,12.7,1.78E-04
 Arkansas,3 wk ahead,Bin,percent,12.7,12.8,1.76E-04
 Arkansas,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Arkansas,3 wk ahead,Bin,percent,12.9,13,2.40E-04
-Arkansas,3 wk ahead,Bin,percent,13,100,0.000628467
+Arkansas,3 wk ahead,Bin,percent,13,100,0.22285466
 Arkansas,4 wk ahead,Point,percent,NA,NA,1.769547912
 Arkansas,4 wk ahead,Bin,percent,0,0.1,0.001542223
 Arkansas,4 wk ahead,Bin,percent,0.1,0.2,0.001676725
@@ -2774,7 +2774,7 @@ Arkansas,4 wk ahead,Bin,percent,12.6,12.7,1.91E-04
 Arkansas,4 wk ahead,Bin,percent,12.7,12.8,1.86E-04
 Arkansas,4 wk ahead,Bin,percent,12.8,12.9,1.82E-04
 Arkansas,4 wk ahead,Bin,percent,12.9,13,1.79E-04
-Arkansas,4 wk ahead,Bin,percent,13,100,0.000525473
+Arkansas,4 wk ahead,Bin,percent,13,100,0.222740925
 California,Season peak week,Point,week,NA,NA,4.511311111
 California,Season peak week,Bin,week,40,41,0.000584898
 California,Season peak week,Bin,week,41,42,0.000588193
@@ -2808,7 +2808,7 @@ California,Season peak week,Bin,week,16,17,0.018356857
 California,Season peak week,Bin,week,17,18,0.002111172
 California,Season peak week,Bin,week,18,19,0.004886201
 California,Season peak week,Bin,week,19,20,0.001008166
-California,Season peak week,Bin,week,20,21,0.000759175
+California,Season peak week,Bin,week,20,21,0.200759175
 California,Season peak percentage,Point,percent,NA,NA,3.011679657
 California,Season peak percentage,Bin,percent,0,0.1,0.000371364
 California,Season peak percentage,Bin,percent,0.1,0.2,0.000375336
@@ -2940,7 +2940,7 @@ California,Season peak percentage,Bin,percent,12.6,12.7,0.000377787
 California,Season peak percentage,Bin,percent,12.7,12.8,0.000377221
 California,Season peak percentage,Bin,percent,12.8,12.9,0.000376397
 California,Season peak percentage,Bin,percent,12.9,13,0.000374635
-California,Season peak percentage,Bin,percent,13,100,0.003714673
+California,Season peak percentage,Bin,percent,13,100,0.203714674
 California,1 wk ahead,Point,percent,NA,NA,2.5760875
 California,1 wk ahead,Bin,percent,0,0.1,0.000438419
 California,1 wk ahead,Bin,percent,0.1,0.2,0.000438419
@@ -3072,7 +3072,7 @@ California,1 wk ahead,Bin,percent,12.6,12.7,0.000438419
 California,1 wk ahead,Bin,percent,12.7,12.8,0.000438419
 California,1 wk ahead,Bin,percent,12.8,12.9,0.000438419
 California,1 wk ahead,Bin,percent,12.9,13,0.000438419
-California,1 wk ahead,Bin,percent,13,100,0.000438419
+California,1 wk ahead,Bin,percent,13,100,0.250438377
 California,2 wk ahead,Point,percent,NA,NA,2.4961625
 California,2 wk ahead,Bin,percent,0,0.1,0.000438419
 California,2 wk ahead,Bin,percent,0.1,0.2,0.000438419
@@ -3204,7 +3204,7 @@ California,2 wk ahead,Bin,percent,12.6,12.7,0.000438419
 California,2 wk ahead,Bin,percent,12.7,12.8,0.000438419
 California,2 wk ahead,Bin,percent,12.8,12.9,0.000438419
 California,2 wk ahead,Bin,percent,12.9,13,0.000438419
-California,2 wk ahead,Bin,percent,13,100,0.001939262
+California,2 wk ahead,Bin,percent,13,100,0.251939267
 California,3 wk ahead,Point,percent,NA,NA,2.32499625
 California,3 wk ahead,Bin,percent,0,0.1,0.000438421
 California,3 wk ahead,Bin,percent,0.1,0.2,0.000438422
@@ -3336,7 +3336,7 @@ California,3 wk ahead,Bin,percent,12.6,12.7,0.000438419
 California,3 wk ahead,Bin,percent,12.7,12.8,0.000587128
 California,3 wk ahead,Bin,percent,12.8,12.9,0.000587128
 California,3 wk ahead,Bin,percent,12.9,13,0.000438419
-California,3 wk ahead,Bin,percent,13,100,0.002692496
+California,3 wk ahead,Bin,percent,13,100,0.252692476
 California,4 wk ahead,Point,percent,NA,NA,2.251118135
 California,4 wk ahead,Bin,percent,0,0.1,0.000379284
 California,4 wk ahead,Bin,percent,0.1,0.2,0.00038124
@@ -3417,7 +3417,7 @@ California,4 wk ahead,Bin,percent,7.5,7.6,0.000861303
 California,4 wk ahead,Bin,percent,7.6,7.7,0.000619584
 California,4 wk ahead,Bin,percent,7.7,7.8,0.000381653
 California,4 wk ahead,Bin,percent,7.8,7.9,0.000861302
-California,4 wk ahead,Bin,percent,7.9,8,#VALUE!
+California,4 wk ahead,Bin,percent,7.9,8,0.000861302
 California,4 wk ahead,Bin,percent,8,8.1,0.000500613
 California,4 wk ahead,Bin,percent,8.1,8.2,0.000500615
 California,4 wk ahead,Bin,percent,8.2,8.3,0.000742333
@@ -3468,7 +3468,7 @@ California,4 wk ahead,Bin,percent,12.6,12.7,0.000381646
 California,4 wk ahead,Bin,percent,12.7,12.8,0.000500612
 California,4 wk ahead,Bin,percent,12.8,12.9,0.000381535
 California,4 wk ahead,Bin,percent,12.9,13,0.00038078
-California,4 wk ahead,Bin,percent,13,100,0.002180911
+California,4 wk ahead,Bin,percent,13,100,0.202058341
 Colorado,Season peak week,Point,week,NA,NA,20.55555556
 Colorado,Season peak week,Bin,week,40,41,0.000325825
 Colorado,Season peak week,Bin,week,41,42,0.000328545
@@ -3502,7 +3502,7 @@ Colorado,Season peak week,Bin,week,16,17,0.001700498
 Colorado,Season peak week,Bin,week,17,18,0.001277387
 Colorado,Season peak week,Bin,week,18,19,0.002540731
 Colorado,Season peak week,Bin,week,19,20,0.000829327
-Colorado,Season peak week,Bin,week,20,21,0.000714866
+Colorado,Season peak week,Bin,week,20,21,0.222937088
 Colorado,Season peak percentage,Point,percent,NA,NA,5.555555556
 Colorado,Season peak percentage,Bin,percent,0,0.1,0.000101256
 Colorado,Season peak percentage,Bin,percent,0.1,0.2,0.000104084
@@ -3634,7 +3634,7 @@ Colorado,Season peak percentage,Bin,percent,12.6,12.7,0.000176588
 Colorado,Season peak percentage,Bin,percent,12.7,12.8,0.000197494
 Colorado,Season peak percentage,Bin,percent,12.8,12.9,0.000172564
 Colorado,Season peak percentage,Bin,percent,12.9,13,0.000171826
-Colorado,Season peak percentage,Bin,percent,13,100,0.002566918
+Colorado,Season peak percentage,Bin,percent,13,100,0.224789146
 Colorado,1 wk ahead,Point,percent,NA,NA,4.272012604
 Colorado,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Colorado,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -3766,7 +3766,7 @@ Colorado,1 wk ahead,Bin,percent,12.6,12.7,0.000183077
 Colorado,1 wk ahead,Bin,percent,12.7,12.8,0.000182367
 Colorado,1 wk ahead,Bin,percent,12.8,12.9,0.000181239
 Colorado,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Colorado,1 wk ahead,Bin,percent,13,100,0.000123558
+Colorado,1 wk ahead,Bin,percent,13,100,0.222345785
 Colorado,2 wk ahead,Point,percent,NA,NA,3.73887703
 Colorado,2 wk ahead,Bin,percent,0,0.1,3.74E-04
 Colorado,2 wk ahead,Bin,percent,0.1,0.2,4.27E-04
@@ -3898,7 +3898,7 @@ Colorado,2 wk ahead,Bin,percent,12.6,12.7,0.000173736
 Colorado,2 wk ahead,Bin,percent,12.7,12.8,0.000239667
 Colorado,2 wk ahead,Bin,percent,12.8,12.9,0.000173242
 Colorado,2 wk ahead,Bin,percent,12.9,13,0.000172692
-Colorado,2 wk ahead,Bin,percent,13,100,0.001710585
+Colorado,2 wk ahead,Bin,percent,13,100,0.223932415
 Colorado,3 wk ahead,Point,percent,NA,NA,3.24549578
 Colorado,3 wk ahead,Bin,percent,0,0.1,1.72E-03
 Colorado,3 wk ahead,Bin,percent,0.1,0.2,1.85E-03
@@ -4030,7 +4030,7 @@ Colorado,3 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Colorado,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Colorado,3 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Colorado,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Colorado,3 wk ahead,Bin,percent,13,100,0.001403824
+Colorado,3 wk ahead,Bin,percent,13,100,0.223630528
 Colorado,4 wk ahead,Point,percent,NA,NA,2.783948856
 Colorado,4 wk ahead,Bin,percent,0,0.1,2.66E-03
 Colorado,4 wk ahead,Bin,percent,0.1,0.2,2.78E-03
@@ -4162,7 +4162,7 @@ Colorado,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Colorado,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Colorado,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Colorado,4 wk ahead,Bin,percent,12.9,13,2.39E-04
-Colorado,4 wk ahead,Bin,percent,13,100,0.000910062
+Colorado,4 wk ahead,Bin,percent,13,100,0.223134033
 Connecticut,Season peak week,Point,week,NA,NA,8.444444444
 Connecticut,Season peak week,Bin,week,40,41,0.000325502
 Connecticut,Season peak week,Bin,week,41,42,0.000327779
@@ -4196,7 +4196,7 @@ Connecticut,Season peak week,Bin,week,16,17,0.009114269
 Connecticut,Season peak week,Bin,week,17,18,0.013429495
 Connecticut,Season peak week,Bin,week,18,19,0.024548032
 Connecticut,Season peak week,Bin,week,19,20,0.03676194
-Connecticut,Season peak week,Bin,week,20,21,0.059436174
+Connecticut,Season peak week,Bin,week,20,21,0.281658397
 Connecticut,Season peak percentage,Point,percent,NA,NA,4.267505241
 Connecticut,Season peak percentage,Bin,percent,0,0.1,0.000102243
 Connecticut,Season peak percentage,Bin,percent,0.1,0.2,0.000104509
@@ -4328,7 +4328,7 @@ Connecticut,Season peak percentage,Bin,percent,12.6,12.7,0.000222793
 Connecticut,Season peak percentage,Bin,percent,12.7,12.8,0.000200874
 Connecticut,Season peak percentage,Bin,percent,12.8,12.9,0.000173003
 Connecticut,Season peak percentage,Bin,percent,12.9,13,0.000196763
-Connecticut,Season peak percentage,Bin,percent,13,100,0.002894131
+Connecticut,Season peak percentage,Bin,percent,13,100,0.225116351
 Connecticut,1 wk ahead,Point,percent,NA,NA,3.541155469
 Connecticut,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Connecticut,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -4460,7 +4460,7 @@ Connecticut,1 wk ahead,Bin,percent,12.6,12.7,0.00018316
 Connecticut,1 wk ahead,Bin,percent,12.7,12.8,0.000182454
 Connecticut,1 wk ahead,Bin,percent,12.8,12.9,0.000205793
 Connecticut,1 wk ahead,Bin,percent,12.9,13,0.000179577
-Connecticut,1 wk ahead,Bin,percent,13,100,0.000147651
+Connecticut,1 wk ahead,Bin,percent,13,100,0.222368429
 Connecticut,2 wk ahead,Point,percent,NA,NA,3.27538932
 Connecticut,2 wk ahead,Bin,percent,0,0.1,3.25E-04
 Connecticut,2 wk ahead,Bin,percent,0.1,0.2,3.70E-04
@@ -4592,7 +4592,7 @@ Connecticut,2 wk ahead,Bin,percent,12.6,12.7,2.23E-04
 Connecticut,2 wk ahead,Bin,percent,12.7,12.8,1.98E-04
 Connecticut,2 wk ahead,Bin,percent,12.8,12.9,0.000173169
 Connecticut,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Connecticut,2 wk ahead,Bin,percent,13,100,0.002026642
+Connecticut,2 wk ahead,Bin,percent,13,100,0.224250056
 Connecticut,3 wk ahead,Point,percent,NA,NA,3.024387964
 Connecticut,3 wk ahead,Bin,percent,0,0.1,1.05E-03
 Connecticut,3 wk ahead,Bin,percent,0.1,0.2,1.14E-03
@@ -4724,7 +4724,7 @@ Connecticut,3 wk ahead,Bin,percent,12.6,12.7,0.000198936
 Connecticut,3 wk ahead,Bin,percent,12.7,12.8,0.000264839
 Connecticut,3 wk ahead,Bin,percent,12.8,12.9,0.000173833
 Connecticut,3 wk ahead,Bin,percent,12.9,13,0.000173155
-Connecticut,3 wk ahead,Bin,percent,13,100,0.001293528
+Connecticut,3 wk ahead,Bin,percent,13,100,0.223520023
 Connecticut,4 wk ahead,Point,percent,NA,NA,2.756569979
 Connecticut,4 wk ahead,Bin,percent,0,0.1,1.81E-03
 Connecticut,4 wk ahead,Bin,percent,0.1,0.2,1.91E-03
@@ -4856,7 +4856,7 @@ Connecticut,4 wk ahead,Bin,percent,12.6,12.7,0.000240088
 Connecticut,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Connecticut,4 wk ahead,Bin,percent,12.8,12.9,0.000173387
 Connecticut,4 wk ahead,Bin,percent,12.9,13,1.97E-04
-Connecticut,4 wk ahead,Bin,percent,13,100,0.001043677
+Connecticut,4 wk ahead,Bin,percent,13,100,0.223258204
 Delaware,Season peak week,Point,week,NA,NA,4.777777778
 Delaware,Season peak week,Bin,week,40,41,0.00032859
 Delaware,Season peak week,Bin,week,41,42,0.000330673
@@ -4890,7 +4890,7 @@ Delaware,Season peak week,Bin,week,16,17,0.003559305
 Delaware,Season peak week,Bin,week,17,18,0.002916529
 Delaware,Season peak week,Bin,week,18,19,0.00112782
 Delaware,Season peak week,Bin,week,19,20,0.000580246
-Delaware,Season peak week,Bin,week,20,21,0.000693628
+Delaware,Season peak week,Bin,week,20,21,0.222915848
 Delaware,Season peak percentage,Point,percent,NA,NA,1.744444444
 Delaware,Season peak percentage,Bin,percent,0,0.1,0.0001042
 Delaware,Season peak percentage,Bin,percent,0.1,0.2,0.000106433
@@ -5022,7 +5022,7 @@ Delaware,Season peak percentage,Bin,percent,12.6,12.7,0.000174013
 Delaware,Season peak percentage,Bin,percent,12.7,12.8,0.000173552
 Delaware,Season peak percentage,Bin,percent,12.8,12.9,0.000173139
 Delaware,Season peak percentage,Bin,percent,12.9,13,0.000172757
-Delaware,Season peak percentage,Bin,percent,13,100,0.000393448
+Delaware,Season peak percentage,Bin,percent,13,100,0.222615669
 Delaware,1 wk ahead,Point,percent,NA,NA,0.70469274
 Delaware,1 wk ahead,Bin,percent,0,0.1,4.48E-03
 Delaware,1 wk ahead,Bin,percent,0.1,0.2,0.00485371
@@ -5154,7 +5154,7 @@ Delaware,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Delaware,1 wk ahead,Bin,percent,12.7,12.8,0.00018363
 Delaware,1 wk ahead,Bin,percent,12.8,12.9,0.000182971
 Delaware,1 wk ahead,Bin,percent,12.9,13,0.000181235
-Delaware,1 wk ahead,Bin,percent,13,100,0.000117549
+Delaware,1 wk ahead,Bin,percent,13,100,0.22234194
 Delaware,2 wk ahead,Point,percent,NA,NA,0.575364808
 Delaware,2 wk ahead,Bin,percent,0,0.1,0.0056872
 Delaware,2 wk ahead,Bin,percent,0.1,0.2,0.011035943
@@ -5262,7 +5262,7 @@ Delaware,2 wk ahead,Bin,percent,10.2,10.3,0.000173899
 Delaware,2 wk ahead,Bin,percent,10.3,10.4,1.74E-04
 Delaware,2 wk ahead,Bin,percent,10.4,10.5,2.40E-04
 Delaware,2 wk ahead,Bin,percent,10.5,10.6,0.000173898
-Delaware,2 wk ahead,Bin,percent,10.6,10.7,#VALUE!
+Delaware,2 wk ahead,Bin,percent,10.6,10.7,0.000173898
 Delaware,2 wk ahead,Bin,percent,10.7,10.8,0.000173899
 Delaware,2 wk ahead,Bin,percent,10.8,10.9,2.40E-04
 Delaware,2 wk ahead,Bin,percent,10.9,11,1.74E-04
@@ -5286,7 +5286,7 @@ Delaware,2 wk ahead,Bin,percent,12.6,12.7,0.000173898
 Delaware,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Delaware,2 wk ahead,Bin,percent,12.8,12.9,0.000173795
 Delaware,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Delaware,2 wk ahead,Bin,percent,13,100,0.000171974
+Delaware,2 wk ahead,Bin,percent,13,100,0.222391856
 Delaware,3 wk ahead,Point,percent,NA,NA,0.463881024
 Delaware,3 wk ahead,Bin,percent,0,0.1,0.007528679
 Delaware,3 wk ahead,Bin,percent,0.1,0.2,0.030170028
@@ -5376,7 +5376,7 @@ Delaware,3 wk ahead,Bin,percent,8.4,8.5,1.75E-04
 Delaware,3 wk ahead,Bin,percent,8.5,8.6,1.75E-04
 Delaware,3 wk ahead,Bin,percent,8.6,8.7,1.75E-04
 Delaware,3 wk ahead,Bin,percent,8.7,8.8,0.000174611
-Delaware,3 wk ahead,Bin,percent,8.8,8.9,#VALUE!
+Delaware,3 wk ahead,Bin,percent,8.8,8.9,0.000174615
 Delaware,3 wk ahead,Bin,percent,8.9,9,0.000174615
 Delaware,3 wk ahead,Bin,percent,9,9.1,1.75E-04
 Delaware,3 wk ahead,Bin,percent,9.1,9.2,0.000174618
@@ -5418,8 +5418,8 @@ Delaware,3 wk ahead,Bin,percent,12.6,12.7,0.000174615
 Delaware,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Delaware,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Delaware,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Delaware,3 wk ahead,Bin,percent,13,100,0.000439085
-Delaware,4 wk ahead,Point,percent,NA,NA,#VALUE!
+Delaware,3 wk ahead,Bin,percent,13,100,0.222649454
+Delaware,4 wk ahead,Point,percent,NA,NA,0.463881024
 Delaware,4 wk ahead,Bin,percent,0,0.1,0.012354608
 Delaware,4 wk ahead,Bin,percent,0.1,0.2,0.064889626
 Delaware,4 wk ahead,Bin,percent,0.2,0.3,0.095402024
@@ -5488,7 +5488,7 @@ Delaware,4 wk ahead,Bin,percent,6.4,6.5,1.74E-04
 Delaware,4 wk ahead,Bin,percent,6.5,6.6,1.74E-04
 Delaware,4 wk ahead,Bin,percent,6.6,6.7,2.40E-04
 Delaware,4 wk ahead,Bin,percent,6.7,6.8,2.40E-04
-Delaware,4 wk ahead,Bin,percent,6.8,6.9,#VALUE!
+Delaware,4 wk ahead,Bin,percent,6.8,6.9,0.00024
 Delaware,4 wk ahead,Bin,percent,6.9,7,2.40E-04
 Delaware,4 wk ahead,Bin,percent,7,7.1,1.74E-04
 Delaware,4 wk ahead,Bin,percent,7.1,7.2,1.74E-04
@@ -5550,7 +5550,7 @@ Delaware,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Delaware,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Delaware,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Delaware,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Delaware,4 wk ahead,Bin,percent,13,100,0.000304647
+Delaware,4 wk ahead,Bin,percent,13,100,0.222615532
 District of Columbia,Season peak week,Point,week,NA,NA,15.33333333
 District of Columbia,Season peak week,Bin,week,40,41,0.000331208
 District of Columbia,Season peak week,Bin,week,41,42,0.000333589
@@ -5584,7 +5584,7 @@ District of Columbia,Season peak week,Bin,week,16,17,0.079214917
 District of Columbia,Season peak week,Bin,week,17,18,0.081187965
 District of Columbia,Season peak week,Bin,week,18,19,0.069636776
 District of Columbia,Season peak week,Bin,week,19,20,0.050392988
-District of Columbia,Season peak week,Bin,week,20,21,0.010986402
+District of Columbia,Season peak week,Bin,week,20,21,0.233208624
 District of Columbia,Season peak percentage,Point,percent,NA,NA,7.464989518
 District of Columbia,Season peak percentage,Bin,percent,0,0.1,0.000101089
 District of Columbia,Season peak percentage,Bin,percent,0.1,0.2,0.000102393
@@ -5716,7 +5716,7 @@ District of Columbia,Season peak percentage,Bin,percent,12.6,12.7,0.012842672
 District of Columbia,Season peak percentage,Bin,percent,12.7,12.8,0.034707412
 District of Columbia,Season peak percentage,Bin,percent,12.8,12.9,0.048372094
 District of Columbia,Season peak percentage,Bin,percent,12.9,13,0.080364511
-District of Columbia,Season peak percentage,Bin,percent,13,100,0.17082352
+District of Columbia,Season peak percentage,Bin,percent,13,100,0.393045742
 District of Columbia,1 wk ahead,Point,percent,NA,NA,4.646715082
 District of Columbia,1 wk ahead,Bin,percent,0,0.1,0.000177525
 District of Columbia,1 wk ahead,Bin,percent,0.1,0.2,0.000179002
@@ -5848,7 +5848,7 @@ District of Columbia,1 wk ahead,Bin,percent,12.6,12.7,1.89E-04
 District of Columbia,1 wk ahead,Bin,percent,12.7,12.8,1.87E-04
 District of Columbia,1 wk ahead,Bin,percent,12.8,12.9,1.85E-04
 District of Columbia,1 wk ahead,Bin,percent,12.9,13,1.83E-04
-District of Columbia,1 wk ahead,Bin,percent,13,100,2.16E-04
+District of Columbia,1 wk ahead,Bin,percent,13,100,2.22E-01
 District of Columbia,2 wk ahead,Point,percent,NA,NA,5.025482799
 District of Columbia,2 wk ahead,Bin,percent,0,0.1,0.000173378
 District of Columbia,2 wk ahead,Bin,percent,0.1,0.2,0.000174961
@@ -5980,7 +5980,7 @@ District of Columbia,2 wk ahead,Bin,percent,12.6,12.7,2.19E-04
 District of Columbia,2 wk ahead,Bin,percent,12.7,12.8,2.12E-04
 District of Columbia,2 wk ahead,Bin,percent,12.8,12.9,2.07E-04
 District of Columbia,2 wk ahead,Bin,percent,12.9,13,2.02E-04
-District of Columbia,2 wk ahead,Bin,percent,13,100,9.47E-04
+District of Columbia,2 wk ahead,Bin,percent,13,100,2.23E-01
 District of Columbia,3 wk ahead,Point,percent,NA,NA,5.604255141
 District of Columbia,3 wk ahead,Bin,percent,0,0.1,0.000376545
 District of Columbia,3 wk ahead,Bin,percent,0.1,0.2,0.000383882
@@ -6112,7 +6112,7 @@ District of Columbia,3 wk ahead,Bin,percent,12.6,12.7,3.30E-04
 District of Columbia,3 wk ahead,Bin,percent,12.7,12.8,3.36E-04
 District of Columbia,3 wk ahead,Bin,percent,12.8,12.9,2.67E-04
 District of Columbia,3 wk ahead,Bin,percent,12.9,13,2.94E-04
-District of Columbia,3 wk ahead,Bin,percent,13,100,2.96E-03
+District of Columbia,3 wk ahead,Bin,percent,13,100,2.25E-01
 District of Columbia,4 wk ahead,Point,percent,NA,NA,6.331064969
 District of Columbia,4 wk ahead,Bin,percent,0,0.1,0.000574644
 District of Columbia,4 wk ahead,Bin,percent,0.1,0.2,0.000660358
@@ -6244,7 +6244,7 @@ District of Columbia,4 wk ahead,Bin,percent,12.6,12.7,5.81E-03
 District of Columbia,4 wk ahead,Bin,percent,12.7,12.8,1.70E-02
 District of Columbia,4 wk ahead,Bin,percent,12.8,12.9,3.56E-02
 District of Columbia,4 wk ahead,Bin,percent,12.9,13,8.81E-02
-District of Columbia,4 wk ahead,Bin,percent,13,100,0.169615119
+District of Columbia,4 wk ahead,Bin,percent,13,100,0.391859773
 Georgia,Season peak week,Point,week,NA,NA,25.11111111
 Georgia,Season peak week,Bin,week,40,41,0.000319431
 Georgia,Season peak week,Bin,week,41,42,0.000322376
@@ -6278,9 +6278,9 @@ Georgia,Season peak week,Bin,week,16,17,0.001714083
 Georgia,Season peak week,Bin,week,17,18,0.001021259
 Georgia,Season peak week,Bin,week,18,19,0.000698774
 Georgia,Season peak week,Bin,week,19,20,0.000596034
-Georgia,Season peak week,Bin,week,20,21,0.000595964
+Georgia,Season peak week,Bin,week,20,21,0.222818188
 Georgia,Season peak percentage,Point,percent,NA,NA,5.177777778
-Georgia,Season peak percentage,Bin,percent,0,0.1,9.90863E-05
+Georgia,Season peak percentage,Bin,percent,0,0.1,9.91E-05
 Georgia,Season peak percentage,Bin,percent,0.1,0.2,0.000101151
 Georgia,Season peak percentage,Bin,percent,0.2,0.3,0.000101637
 Georgia,Season peak percentage,Bin,percent,0.3,0.4,0.000101879
@@ -6410,7 +6410,7 @@ Georgia,Season peak percentage,Bin,percent,12.6,12.7,0.000170166
 Georgia,Season peak percentage,Bin,percent,12.7,12.8,0.000172984
 Georgia,Season peak percentage,Bin,percent,12.8,12.9,0.000169597
 Georgia,Season peak percentage,Bin,percent,12.9,13,0.00016892
-Georgia,Season peak percentage,Bin,percent,13,100,0.000609006
+Georgia,Season peak percentage,Bin,percent,13,100,0.222831214
 Georgia,1 wk ahead,Point,percent,NA,NA,2.45154827
 Georgia,1 wk ahead,Bin,percent,0,0.1,2.50E-04
 Georgia,1 wk ahead,Bin,percent,0.1,0.2,2.95E-04
@@ -6542,7 +6542,7 @@ Georgia,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Georgia,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Georgia,1 wk ahead,Bin,percent,12.8,12.9,1.82E-04
 Georgia,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Georgia,1 wk ahead,Bin,percent,13,100,1.22E-04
+Georgia,1 wk ahead,Bin,percent,13,100,2.22E-01
 Georgia,2 wk ahead,Point,percent,NA,NA,2.073422174
 Georgia,2 wk ahead,Bin,percent,0,0.1,1.21E-03
 Georgia,2 wk ahead,Bin,percent,0.1,0.2,1.34E-03
@@ -6674,7 +6674,7 @@ Georgia,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Georgia,2 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 Georgia,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Georgia,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Georgia,2 wk ahead,Bin,percent,13,100,1.73E-04
+Georgia,2 wk ahead,Bin,percent,13,100,2.22E-01
 Georgia,3 wk ahead,Point,percent,NA,NA,1.767612644
 Georgia,3 wk ahead,Bin,percent,0,0.1,2.47E-03
 Georgia,3 wk ahead,Bin,percent,0.1,0.2,2.61E-03
@@ -6806,7 +6806,7 @@ Georgia,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Georgia,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Georgia,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Georgia,3 wk ahead,Bin,percent,12.9,13,2.40E-04
-Georgia,3 wk ahead,Bin,percent,13,100,3.10E-04
+Georgia,3 wk ahead,Bin,percent,13,100,2.23E-01
 Georgia,4 wk ahead,Point,percent,NA,NA,1.443358887
 Georgia,4 wk ahead,Bin,percent,0,0.1,3.18E-03
 Georgia,4 wk ahead,Bin,percent,0.1,0.2,3.27E-03
@@ -6938,7 +6938,7 @@ Georgia,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Georgia,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Georgia,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Georgia,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Georgia,4 wk ahead,Bin,percent,13,100,3.75E-04
+Georgia,4 wk ahead,Bin,percent,13,100,2.23E-01
 Hawaii,Season peak week,Point,week,NA,NA,7.222222222
 Hawaii,Season peak week,Bin,week,40,41,0.00032682
 Hawaii,Season peak week,Bin,week,41,42,0.000328711
@@ -6972,7 +6972,7 @@ Hawaii,Season peak week,Bin,week,16,17,0.006580826
 Hawaii,Season peak week,Bin,week,17,18,0.002678864
 Hawaii,Season peak week,Bin,week,18,19,0.001906076
 Hawaii,Season peak week,Bin,week,19,20,0.001831253
-Hawaii,Season peak week,Bin,week,20,21,0.001435099
+Hawaii,Season peak week,Bin,week,20,21,0.223657322
 Hawaii,Season peak percentage,Point,percent,NA,NA,5.135429769
 Hawaii,Season peak percentage,Bin,percent,0,0.1,0.000100247
 Hawaii,Season peak percentage,Bin,percent,0.1,0.2,0.00010237
@@ -7104,7 +7104,7 @@ Hawaii,Season peak percentage,Bin,percent,12.6,12.7,0.000393732
 Hawaii,Season peak percentage,Bin,percent,12.7,12.8,0.000270458
 Hawaii,Season peak percentage,Bin,percent,12.8,12.9,0.000293993
 Hawaii,Season peak percentage,Bin,percent,12.9,13,0.000267963
-Hawaii,Season peak percentage,Bin,percent,13,100,0.002319048
+Hawaii,Season peak percentage,Bin,percent,13,100,0.224541274
 Hawaii,1 wk ahead,Point,percent,NA,NA,4.31755112
 Hawaii,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Hawaii,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -7236,7 +7236,7 @@ Hawaii,1 wk ahead,Bin,percent,12.6,12.7,0.000230712
 Hawaii,1 wk ahead,Bin,percent,12.7,12.8,0.00018084
 Hawaii,1 wk ahead,Bin,percent,12.8,12.9,2.04E-04
 Hawaii,1 wk ahead,Bin,percent,12.9,13,0.000178482
-Hawaii,1 wk ahead,Bin,percent,13,100,0.000500245
+Hawaii,1 wk ahead,Bin,percent,13,100,0.222723744
 Hawaii,2 wk ahead,Point,percent,NA,NA,3.958126069
 Hawaii,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Hawaii,2 wk ahead,Bin,percent,0.1,0.2,1.73E-04
@@ -7368,7 +7368,7 @@ Hawaii,2 wk ahead,Bin,percent,12.6,12.7,0.000271696
 Hawaii,2 wk ahead,Bin,percent,12.7,12.8,0.000197919
 Hawaii,2 wk ahead,Bin,percent,12.8,12.9,0.000222042
 Hawaii,2 wk ahead,Bin,percent,12.9,13,0.000172467
-Hawaii,2 wk ahead,Bin,percent,13,100,0.000779862
+Hawaii,2 wk ahead,Bin,percent,13,100,0.223001595
 Hawaii,3 wk ahead,Point,percent,NA,NA,3.596903474
 Hawaii,3 wk ahead,Bin,percent,0,0.1,6.05E-04
 Hawaii,3 wk ahead,Bin,percent,0.1,0.2,6.70E-04
@@ -7500,7 +7500,7 @@ Hawaii,3 wk ahead,Bin,percent,12.6,12.7,0.000247818
 Hawaii,3 wk ahead,Bin,percent,12.7,12.8,0.000264646
 Hawaii,3 wk ahead,Bin,percent,12.8,12.9,0.000198137
 Hawaii,3 wk ahead,Bin,percent,12.9,13,0.000246534
-Hawaii,3 wk ahead,Bin,percent,13,100,0.001190121
+Hawaii,3 wk ahead,Bin,percent,13,100,0.223412619
 Hawaii,4 wk ahead,Point,percent,NA,NA,3.156802452
 Hawaii,4 wk ahead,Bin,percent,0,0.1,1.31E-03
 Hawaii,4 wk ahead,Bin,percent,0.1,0.2,1.40E-03
@@ -7632,7 +7632,7 @@ Hawaii,4 wk ahead,Bin,percent,12.6,12.7,0.000264449
 Hawaii,4 wk ahead,Bin,percent,12.7,12.8,0.000222608
 Hawaii,4 wk ahead,Bin,percent,12.8,12.9,0.000271226
 Hawaii,4 wk ahead,Bin,percent,12.9,13,0.000172604
-Hawaii,4 wk ahead,Bin,percent,13,100,0.00092017
+Hawaii,4 wk ahead,Bin,percent,13,100,0.223145669
 Idaho,Season peak week,Point,week,NA,NA,4.777777778
 Idaho,Season peak week,Bin,week,40,41,0.00032805
 Idaho,Season peak week,Bin,week,41,42,0.000330101
@@ -7666,7 +7666,7 @@ Idaho,Season peak week,Bin,week,16,17,0.002394261
 Idaho,Season peak week,Bin,week,17,18,0.001710146
 Idaho,Season peak week,Bin,week,18,19,0.001331175
 Idaho,Season peak week,Bin,week,19,20,0.00088131
-Idaho,Season peak week,Bin,week,20,21,0.001317142
+Idaho,Season peak week,Bin,week,20,21,0.223539361
 Idaho,Season peak percentage,Point,percent,NA,NA,3.566666667
 Idaho,Season peak percentage,Bin,percent,0,0.1,0.000101521
 Idaho,Season peak percentage,Bin,percent,0.1,0.2,0.000104216
@@ -7798,7 +7798,7 @@ Idaho,Season peak percentage,Bin,percent,12.6,12.7,0.000173882
 Idaho,Season peak percentage,Bin,percent,12.7,12.8,0.000173484
 Idaho,Season peak percentage,Bin,percent,12.8,12.9,0.000172977
 Idaho,Season peak percentage,Bin,percent,12.9,13,0.000172553
-Idaho,Season peak percentage,Bin,percent,13,100,0.00100127
+Idaho,Season peak percentage,Bin,percent,13,100,0.22322349
 Idaho,1 wk ahead,Point,percent,NA,NA,1.280636022
 Idaho,1 wk ahead,Bin,percent,0,0.1,1.64E-03
 Idaho,1 wk ahead,Bin,percent,0.1,0.2,1.95E-03
@@ -7930,7 +7930,7 @@ Idaho,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 Idaho,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Idaho,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 Idaho,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Idaho,1 wk ahead,Bin,percent,13,100,1.23E-04
+Idaho,1 wk ahead,Bin,percent,13,100,2.22E-01
 Idaho,2 wk ahead,Point,percent,NA,NA,1.131116199
 Idaho,2 wk ahead,Bin,percent,0,0.1,3.21E-03
 Idaho,2 wk ahead,Bin,percent,0.1,0.2,3.59E-03
@@ -8062,7 +8062,7 @@ Idaho,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Idaho,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Idaho,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Idaho,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Idaho,2 wk ahead,Bin,percent,13,100,3.74E-04
+Idaho,2 wk ahead,Bin,percent,13,100,2.23E-01
 Idaho,3 wk ahead,Point,percent,NA,NA,1.025040817
 Idaho,3 wk ahead,Bin,percent,0,0.1,0.003452373
 Idaho,3 wk ahead,Bin,percent,0.1,0.2,0.003887448
@@ -8194,7 +8194,7 @@ Idaho,3 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Idaho,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Idaho,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Idaho,3 wk ahead,Bin,percent,12.9,13,2.39E-04
-Idaho,3 wk ahead,Bin,percent,13,100,5.09E-04
+Idaho,3 wk ahead,Bin,percent,13,100,2.23E-01
 Idaho,4 wk ahead,Point,percent,NA,NA,0.928699741
 Idaho,4 wk ahead,Bin,percent,0,0.1,0.004335281
 Idaho,4 wk ahead,Bin,percent,0.1,0.2,0.004982583
@@ -8326,7 +8326,7 @@ Idaho,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Idaho,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Idaho,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Idaho,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Idaho,4 wk ahead,Bin,percent,13,100,6.42E-04
+Idaho,4 wk ahead,Bin,percent,13,100,2.23E-01
 Illinois,Season peak week,Point,week,NA,NA,11.62962963
 Illinois,Season peak week,Bin,week,40,41,0.000315801
 Illinois,Season peak week,Bin,week,41,42,0.000317052
@@ -8360,9 +8360,9 @@ Illinois,Season peak week,Bin,week,16,17,0.017843353
 Illinois,Season peak week,Bin,week,17,18,0.031881445
 Illinois,Season peak week,Bin,week,18,19,0.057447237
 Illinois,Season peak week,Bin,week,19,20,0.08584806
-Illinois,Season peak week,Bin,week,20,21,0.136312073
+Illinois,Season peak week,Bin,week,20,21,0.358534293
 Illinois,Season peak percentage,Point,percent,NA,NA,4.219444444
-Illinois,Season peak percentage,Bin,percent,0,0.1,9.89101E-05
+Illinois,Season peak percentage,Bin,percent,0,0.1,9.89E-05
 Illinois,Season peak percentage,Bin,percent,0.1,0.2,0.000101013
 Illinois,Season peak percentage,Bin,percent,0.2,0.3,0.000102147
 Illinois,Season peak percentage,Bin,percent,0.3,0.4,0.000102825
@@ -8492,7 +8492,7 @@ Illinois,Season peak percentage,Bin,percent,12.6,12.7,0.000171172
 Illinois,Season peak percentage,Bin,percent,12.7,12.8,0.000170719
 Illinois,Season peak percentage,Bin,percent,12.8,12.9,0.000169939
 Illinois,Season peak percentage,Bin,percent,12.9,13,0.000168613
-Illinois,Season peak percentage,Bin,percent,13,100,0.000311403
+Illinois,Season peak percentage,Bin,percent,13,100,0.222533635
 Illinois,1 wk ahead,Point,percent,NA,NA,2.929326047
 Illinois,1 wk ahead,Bin,percent,0,0.1,1.79E-04
 Illinois,1 wk ahead,Bin,percent,0.1,0.2,1.82E-04
@@ -8624,7 +8624,7 @@ Illinois,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Illinois,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Illinois,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Illinois,1 wk ahead,Bin,percent,12.9,13,1.81E-04
-Illinois,1 wk ahead,Bin,percent,13,100,1.19E-04
+Illinois,1 wk ahead,Bin,percent,13,100,2.22E-01
 Illinois,2 wk ahead,Point,percent,NA,NA,2.854181805
 Illinois,2 wk ahead,Bin,percent,0,0.1,7.03E-04
 Illinois,2 wk ahead,Bin,percent,0.1,0.2,7.97E-04
@@ -8756,7 +8756,7 @@ Illinois,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Illinois,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Illinois,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Illinois,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Illinois,2 wk ahead,Bin,percent,13,100,1.06E-04
+Illinois,2 wk ahead,Bin,percent,13,100,2.22E-01
 Illinois,3 wk ahead,Point,percent,NA,NA,2.826564604
 Illinois,3 wk ahead,Bin,percent,0,0.1,1.54E-03
 Illinois,3 wk ahead,Bin,percent,0.1,0.2,1.66E-03
@@ -8871,7 +8871,7 @@ Illinois,3 wk ahead,Bin,percent,10.9,11,1.75E-04
 Illinois,3 wk ahead,Bin,percent,11,11.1,1.75E-04
 Illinois,3 wk ahead,Bin,percent,11.1,11.2,1.75E-04
 Illinois,3 wk ahead,Bin,percent,11.2,11.3,1.75E-04
-Illinois,3 wk ahead,Bin,percent,11.3,11.4,#VALUE!
+Illinois,3 wk ahead,Bin,percent,11.3,11.4,0.000175
 Illinois,3 wk ahead,Bin,percent,11.4,11.5,1.75E-04
 Illinois,3 wk ahead,Bin,percent,11.5,11.6,1.75E-04
 Illinois,3 wk ahead,Bin,percent,11.6,11.7,1.75E-04
@@ -8888,7 +8888,7 @@ Illinois,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Illinois,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Illinois,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Illinois,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Illinois,3 wk ahead,Bin,percent,13,100,3.09E-04
+Illinois,3 wk ahead,Bin,percent,13,100,2.23E-01
 Illinois,4 wk ahead,Point,percent,NA,NA,2.848534923
 Illinois,4 wk ahead,Bin,percent,0,0.1,2.17E-03
 Illinois,4 wk ahead,Bin,percent,0.1,0.2,2.28E-03
@@ -9020,7 +9020,7 @@ Illinois,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Illinois,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Illinois,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Illinois,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Illinois,4 wk ahead,Bin,percent,13,100,2.41E-04
+Illinois,4 wk ahead,Bin,percent,13,100,2.22E-01
 Indiana,Season peak week,Point,week,NA,NA,11.33333333
 Indiana,Season peak week,Bin,week,40,41,0.000315079
 Indiana,Season peak week,Bin,week,41,42,0.000316235
@@ -9054,9 +9054,9 @@ Indiana,Season peak week,Bin,week,16,17,0.015321304
 Indiana,Season peak week,Bin,week,17,18,0.029309116
 Indiana,Season peak week,Bin,week,18,19,0.05746623
 Indiana,Season peak week,Bin,week,19,20,0.08747424
-Indiana,Season peak week,Bin,week,20,21,0.14275044
+Indiana,Season peak week,Bin,week,20,21,0.364972663
 Indiana,Season peak percentage,Point,percent,NA,NA,6.252777778
-Indiana,Season peak percentage,Bin,percent,0,0.1,9.85977E-05
+Indiana,Season peak percentage,Bin,percent,0,0.1,9.86E-05
 Indiana,Season peak percentage,Bin,percent,0.1,0.2,0.000100447
 Indiana,Season peak percentage,Bin,percent,0.2,0.3,0.000101709
 Indiana,Season peak percentage,Bin,percent,0.3,0.4,0.00010259
@@ -9186,7 +9186,7 @@ Indiana,Season peak percentage,Bin,percent,12.6,12.7,0.000171563
 Indiana,Season peak percentage,Bin,percent,12.7,12.8,0.000170417
 Indiana,Season peak percentage,Bin,percent,12.8,12.9,0.000169437
 Indiana,Season peak percentage,Bin,percent,12.9,13,0.000168044
-Indiana,Season peak percentage,Bin,percent,13,100,0.00070397
+Indiana,Season peak percentage,Bin,percent,13,100,0.222926197
 Indiana,1 wk ahead,Point,percent,NA,NA,4.319672131
 Indiana,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Indiana,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -9318,7 +9318,7 @@ Indiana,1 wk ahead,Bin,percent,12.6,12.7,0.000182326
 Indiana,1 wk ahead,Bin,percent,12.7,12.8,0.000181481
 Indiana,1 wk ahead,Bin,percent,12.8,12.9,0.000180376
 Indiana,1 wk ahead,Bin,percent,12.9,13,0.000179026
-Indiana,1 wk ahead,Bin,percent,13,100,0.000130756
+Indiana,1 wk ahead,Bin,percent,13,100,0.222352109
 Indiana,2 wk ahead,Point,percent,NA,NA,3.991607204
 Indiana,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Indiana,2 wk ahead,Bin,percent,0.1,0.2,1.75E-04
@@ -9450,7 +9450,7 @@ Indiana,2 wk ahead,Bin,percent,12.6,12.7,0.000173789
 Indiana,2 wk ahead,Bin,percent,12.7,12.8,0.000173563
 Indiana,2 wk ahead,Bin,percent,12.8,12.9,0.000173204
 Indiana,2 wk ahead,Bin,percent,12.9,13,0.000172692
-Indiana,2 wk ahead,Bin,percent,13,100,0.000374832
+Indiana,2 wk ahead,Bin,percent,13,100,0.222595707
 Indiana,3 wk ahead,Point,percent,NA,NA,3.874845807
 Indiana,3 wk ahead,Bin,percent,0,0.1,7.69E-04
 Indiana,3 wk ahead,Bin,percent,0.1,0.2,8.50E-04
@@ -9582,7 +9582,7 @@ Indiana,3 wk ahead,Bin,percent,12.6,12.7,0.000243553
 Indiana,3 wk ahead,Bin,percent,12.7,12.8,0.000175968
 Indiana,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Indiana,3 wk ahead,Bin,percent,12.9,13,0.000173787
-Indiana,3 wk ahead,Bin,percent,13,100,0.000444784
+Indiana,3 wk ahead,Bin,percent,13,100,0.22267039
 Indiana,4 wk ahead,Point,percent,NA,NA,3.62167897
 Indiana,4 wk ahead,Bin,percent,0,0.1,2.25E-03
 Indiana,4 wk ahead,Bin,percent,0.1,0.2,2.37E-03
@@ -9714,7 +9714,7 @@ Indiana,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Indiana,4 wk ahead,Bin,percent,12.7,12.8,0.00017402
 Indiana,4 wk ahead,Bin,percent,12.8,12.9,0.000173583
 Indiana,4 wk ahead,Bin,percent,12.9,13,0.000173014
-Indiana,4 wk ahead,Bin,percent,13,100,0.000376093
+Indiana,4 wk ahead,Bin,percent,13,100,0.222602799
 Iowa,Season peak week,Point,week,NA,NA,9.444444444
 Iowa,Season peak week,Bin,week,40,41,0.000319945
 Iowa,Season peak week,Bin,week,41,42,0.000322533
@@ -9748,7 +9748,7 @@ Iowa,Season peak week,Bin,week,16,17,0.037964938
 Iowa,Season peak week,Bin,week,17,18,0.024926299
 Iowa,Season peak week,Bin,week,18,19,0.014581
 Iowa,Season peak week,Bin,week,19,20,0.004077739
-Iowa,Season peak week,Bin,week,20,21,0.000568915
+Iowa,Season peak week,Bin,week,20,21,0.222791138
 Iowa,Season peak percentage,Point,percent,NA,NA,4.295807128
 Iowa,Season peak percentage,Bin,percent,0,0.1,0.000100131
 Iowa,Season peak percentage,Bin,percent,0.1,0.2,0.000101651
@@ -9880,7 +9880,7 @@ Iowa,Season peak percentage,Bin,percent,12.6,12.7,0.000172462
 Iowa,Season peak percentage,Bin,percent,12.7,12.8,0.000171485
 Iowa,Season peak percentage,Bin,percent,12.8,12.9,0.000170476
 Iowa,Season peak percentage,Bin,percent,12.9,13,0.000169404
-Iowa,Season peak percentage,Bin,percent,13,100,0.000727987
+Iowa,Season peak percentage,Bin,percent,13,100,0.222950211
 Iowa,1 wk ahead,Point,percent,NA,NA,3.286313291
 Iowa,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Iowa,1 wk ahead,Bin,percent,0.1,0.2,1.81E-04
@@ -10009,10 +10009,10 @@ Iowa,1 wk ahead,Bin,percent,12.3,12.4,1.83E-04
 Iowa,1 wk ahead,Bin,percent,12.4,12.5,0.000182846
 Iowa,1 wk ahead,Bin,percent,12.5,12.6,0.000182384
 Iowa,1 wk ahead,Bin,percent,12.6,12.7,0.000181765
-Iowa,1 wk ahead,Bin,percent,12.7,12.8,#VALUE!
+Iowa,1 wk ahead,Bin,percent,12.7,12.8,0.000179887
 Iowa,1 wk ahead,Bin,percent,12.8,12.9,0.000179887
 Iowa,1 wk ahead,Bin,percent,12.9,13,0.000178566
-Iowa,1 wk ahead,Bin,percent,13,100,0.000132055
+Iowa,1 wk ahead,Bin,percent,13,100,0.222354119
 Iowa,2 wk ahead,Point,percent,NA,NA,3.347992548
 Iowa,2 wk ahead,Bin,percent,0,0.1,1.05E-03
 Iowa,2 wk ahead,Bin,percent,0.1,0.2,1.18E-03
@@ -10134,7 +10134,7 @@ Iowa,2 wk ahead,Bin,percent,11.6,11.7,0.000173894
 Iowa,2 wk ahead,Bin,percent,11.7,11.8,1.74E-04
 Iowa,2 wk ahead,Bin,percent,11.8,11.9,1.74E-04
 Iowa,2 wk ahead,Bin,percent,11.9,12,2.40E-04
-Iowa,2 wk ahead,Bin,percent,12,12.1,#VALUE!
+Iowa,2 wk ahead,Bin,percent,12,12.1,0.000174
 Iowa,2 wk ahead,Bin,percent,12.1,12.2,1.74E-04
 Iowa,2 wk ahead,Bin,percent,12.2,12.3,1.74E-04
 Iowa,2 wk ahead,Bin,percent,12.3,12.4,2.40E-04
@@ -10144,7 +10144,7 @@ Iowa,2 wk ahead,Bin,percent,12.6,12.7,0.000173685
 Iowa,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Iowa,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Iowa,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Iowa,2 wk ahead,Bin,percent,13,100,0.000576808
+Iowa,2 wk ahead,Bin,percent,13,100,0.222795864
 Iowa,3 wk ahead,Point,percent,NA,NA,3.443680173
 Iowa,3 wk ahead,Bin,percent,0,0.1,2.17E-03
 Iowa,3 wk ahead,Bin,percent,0.1,0.2,0.002339688
@@ -10276,7 +10276,7 @@ Iowa,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Iowa,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Iowa,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Iowa,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Iowa,3 wk ahead,Bin,percent,13,100,0.000534584
+Iowa,3 wk ahead,Bin,percent,13,100,0.222626545
 Iowa,4 wk ahead,Point,percent,NA,NA,3.397985242
 Iowa,4 wk ahead,Bin,percent,0,0.1,0.003498534
 Iowa,4 wk ahead,Bin,percent,0.1,0.2,0.00393663
@@ -10408,7 +10408,7 @@ Iowa,4 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 Iowa,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Iowa,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Iowa,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Iowa,4 wk ahead,Bin,percent,13,100,0.000240824
+Iowa,4 wk ahead,Bin,percent,13,100,0.222515951
 Kansas,Season peak week,Point,week,NA,NA,6.333333333
 Kansas,Season peak week,Bin,week,40,41,0.000319677
 Kansas,Season peak week,Bin,week,41,42,0.000321922
@@ -10442,9 +10442,9 @@ Kansas,Season peak week,Bin,week,16,17,0.001652022
 Kansas,Season peak week,Bin,week,17,18,0.001071702
 Kansas,Season peak week,Bin,week,18,19,0.000789559
 Kansas,Season peak week,Bin,week,19,20,0.0006171
-Kansas,Season peak week,Bin,week,20,21,0.000571244
+Kansas,Season peak week,Bin,week,20,21,0.222793466
 Kansas,Season peak percentage,Point,percent,NA,NA,4.488888889
-Kansas,Season peak percentage,Bin,percent,0,0.1,9.98791E-05
+Kansas,Season peak percentage,Bin,percent,0,0.1,9.99E-05
 Kansas,Season peak percentage,Bin,percent,0.1,0.2,0.000102147
 Kansas,Season peak percentage,Bin,percent,0.2,0.3,0.000102762
 Kansas,Season peak percentage,Bin,percent,0.3,0.4,0.000103126
@@ -10574,7 +10574,7 @@ Kansas,Season peak percentage,Bin,percent,12.6,12.7,0.000171397
 Kansas,Season peak percentage,Bin,percent,12.7,12.8,0.000172049
 Kansas,Season peak percentage,Bin,percent,12.8,12.9,0.000170694
 Kansas,Season peak percentage,Bin,percent,12.9,13,0.000169866
-Kansas,Season peak percentage,Bin,percent,13,100,0.001408772
+Kansas,Season peak percentage,Bin,percent,13,100,0.223630971
 Kansas,1 wk ahead,Point,percent,NA,NA,3.203734062
 Kansas,1 wk ahead,Bin,percent,0,0.1,1.79E-04
 Kansas,1 wk ahead,Bin,percent,0.1,0.2,1.81E-04
@@ -10706,7 +10706,7 @@ Kansas,1 wk ahead,Bin,percent,12.6,12.7,0.000183915
 Kansas,1 wk ahead,Bin,percent,12.7,12.8,0.000183397
 Kansas,1 wk ahead,Bin,percent,12.8,12.9,0.000182314
 Kansas,1 wk ahead,Bin,percent,12.9,13,0.000180468
-Kansas,1 wk ahead,Bin,percent,13,100,0.000120935
+Kansas,1 wk ahead,Bin,percent,13,100,0.222341982
 Kansas,2 wk ahead,Point,percent,NA,NA,2.593720855
 Kansas,2 wk ahead,Bin,percent,0,0.1,5.81E-04
 Kansas,2 wk ahead,Bin,percent,0.1,0.2,6.62E-04
@@ -10838,7 +10838,7 @@ Kansas,2 wk ahead,Bin,percent,12.6,12.7,0.00017398
 Kansas,2 wk ahead,Bin,percent,12.7,12.8,0.00030617
 Kansas,2 wk ahead,Bin,percent,12.8,12.9,0.000173624
 Kansas,2 wk ahead,Bin,percent,12.9,13,0.000173076
-Kansas,2 wk ahead,Bin,percent,13,100,0.001175004
+Kansas,2 wk ahead,Bin,percent,13,100,0.223393166
 Kansas,3 wk ahead,Point,percent,NA,NA,2.120021463
 Kansas,3 wk ahead,Bin,percent,0,0.1,1.34E-03
 Kansas,3 wk ahead,Bin,percent,0.1,0.2,1.45E-03
@@ -10970,7 +10970,7 @@ Kansas,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Kansas,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Kansas,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Kansas,3 wk ahead,Bin,percent,12.9,13,2.40E-04
-Kansas,3 wk ahead,Bin,percent,13,100,0.000844152
+Kansas,3 wk ahead,Bin,percent,13,100,0.223070752
 Kansas,4 wk ahead,Point,percent,NA,NA,1.690475109
 Kansas,4 wk ahead,Bin,percent,0,0.1,2.13E-03
 Kansas,4 wk ahead,Bin,percent,0.1,0.2,2.23E-03
@@ -11102,7 +11102,7 @@ Kansas,4 wk ahead,Bin,percent,12.6,12.7,0.000174528
 Kansas,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Kansas,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Kansas,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Kansas,4 wk ahead,Bin,percent,13,100,0.000439811
+Kansas,4 wk ahead,Bin,percent,13,100,0.2226659
 Kentucky,Season peak week,Point,week,NA,NA,5.444444444
 Kentucky,Season peak week,Bin,week,40,41,0.000325182
 Kentucky,Season peak week,Bin,week,41,42,0.000327596
@@ -11136,9 +11136,9 @@ Kentucky,Season peak week,Bin,week,16,17,0.001483184
 Kentucky,Season peak week,Bin,week,17,18,0.001096164
 Kentucky,Season peak week,Bin,week,18,19,0.000703983
 Kentucky,Season peak week,Bin,week,19,20,0.000577147
-Kentucky,Season peak week,Bin,week,20,21,0.000576335
+Kentucky,Season peak week,Bin,week,20,21,0.222798555
 Kentucky,Season peak percentage,Point,percent,NA,NA,8.5
-Kentucky,Season peak percentage,Bin,percent,0,0.1,9.85582E-05
+Kentucky,Season peak percentage,Bin,percent,0,0.1,9.86E-05
 Kentucky,Season peak percentage,Bin,percent,0.1,0.2,0.000100595
 Kentucky,Season peak percentage,Bin,percent,0.2,0.3,0.000101853
 Kentucky,Season peak percentage,Bin,percent,0.3,0.4,0.000102678
@@ -11268,7 +11268,7 @@ Kentucky,Season peak percentage,Bin,percent,12.6,12.7,0.004596987
 Kentucky,Season peak percentage,Bin,percent,12.7,12.8,0.004050354
 Kentucky,Season peak percentage,Bin,percent,12.8,12.9,0.00386648
 Kentucky,Season peak percentage,Bin,percent,12.9,13,0.00360474
-Kentucky,Season peak percentage,Bin,percent,13,100,0.040431208
+Kentucky,Season peak percentage,Bin,percent,13,100,0.262653394
 Kentucky,1 wk ahead,Point,percent,NA,NA,4.276436222
 Kentucky,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Kentucky,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -11400,7 +11400,7 @@ Kentucky,1 wk ahead,Bin,percent,12.6,12.7,0.000181484
 Kentucky,1 wk ahead,Bin,percent,12.7,12.8,0.000205153
 Kentucky,1 wk ahead,Bin,percent,12.8,12.9,0.000179645
 Kentucky,1 wk ahead,Bin,percent,12.9,13,0.000178511
-Kentucky,1 wk ahead,Bin,percent,13,100,0.000157975
+Kentucky,1 wk ahead,Bin,percent,13,100,0.222379675
 Kentucky,2 wk ahead,Point,percent,NA,NA,3.285529201
 Kentucky,2 wk ahead,Bin,percent,0,0.1,4.43E-04
 Kentucky,2 wk ahead,Bin,percent,0.1,0.2,5.06E-04
@@ -11532,7 +11532,7 @@ Kentucky,2 wk ahead,Bin,percent,12.6,12.7,0.000198041
 Kentucky,2 wk ahead,Bin,percent,12.7,12.8,0.000197779
 Kentucky,2 wk ahead,Bin,percent,12.8,12.9,0.000197403
 Kentucky,2 wk ahead,Bin,percent,12.9,13,0.000172389
-Kentucky,2 wk ahead,Bin,percent,13,100,0.000715539
+Kentucky,2 wk ahead,Bin,percent,13,100,0.22293786
 Kentucky,3 wk ahead,Point,percent,NA,NA,2.599469188
 Kentucky,3 wk ahead,Bin,percent,0,0.1,1.47E-03
 Kentucky,3 wk ahead,Bin,percent,0.1,0.2,1.73E-03
@@ -11664,7 +11664,7 @@ Kentucky,3 wk ahead,Bin,percent,12.6,12.7,0.000174187
 Kentucky,3 wk ahead,Bin,percent,12.7,12.8,0.000198411
 Kentucky,3 wk ahead,Bin,percent,12.8,12.9,0.000173464
 Kentucky,3 wk ahead,Bin,percent,12.9,13,0.000197396
-Kentucky,3 wk ahead,Bin,percent,13,100,0.000498955
+Kentucky,3 wk ahead,Bin,percent,13,100,0.222720233
 Kentucky,4 wk ahead,Point,percent,NA,NA,2.082450115
 Kentucky,4 wk ahead,Bin,percent,0,0.1,2.67E-03
 Kentucky,4 wk ahead,Bin,percent,0.1,0.2,3.82E-03
@@ -11796,7 +11796,7 @@ Kentucky,4 wk ahead,Bin,percent,12.6,12.7,0.000173953
 Kentucky,4 wk ahead,Bin,percent,12.7,12.8,0.000173721
 Kentucky,4 wk ahead,Bin,percent,12.8,12.9,0.000173351
 Kentucky,4 wk ahead,Bin,percent,12.9,13,0.000172788
-Kentucky,4 wk ahead,Bin,percent,13,100,0.000223821
+Kentucky,4 wk ahead,Bin,percent,13,100,0.222445755
 Louisiana,Season peak week,Point,week,NA,NA,5.485596708
 Louisiana,Season peak week,Bin,week,40,41,0.001872065
 Louisiana,Season peak week,Bin,week,41,42,0.00148982
@@ -11830,16 +11830,16 @@ Louisiana,Season peak week,Bin,week,16,17,0.001809135
 Louisiana,Season peak week,Bin,week,17,18,0.001226007
 Louisiana,Season peak week,Bin,week,18,19,0.000841684
 Louisiana,Season peak week,Bin,week,19,20,0.000604376
-Louisiana,Season peak week,Bin,week,20,21,0.000571064
+Louisiana,Season peak week,Bin,week,20,21,0.222793287
 Louisiana,Season peak percentage,Point,percent,NA,NA,9.630555556
-Louisiana,Season peak percentage,Bin,percent,0,0.1,9.62471E-05
-Louisiana,Season peak percentage,Bin,percent,0.1,0.2,9.69428E-05
-Louisiana,Season peak percentage,Bin,percent,0.2,0.3,9.75208E-05
-Louisiana,Season peak percentage,Bin,percent,0.3,0.4,9.80697E-05
-Louisiana,Season peak percentage,Bin,percent,0.4,0.5,9.86003E-05
-Louisiana,Season peak percentage,Bin,percent,0.5,0.6,9.90824E-05
-Louisiana,Season peak percentage,Bin,percent,0.6,0.7,9.95404E-05
-Louisiana,Season peak percentage,Bin,percent,0.7,0.8,9.99575E-05
+Louisiana,Season peak percentage,Bin,percent,0,0.1,9.62E-05
+Louisiana,Season peak percentage,Bin,percent,0.1,0.2,9.69E-05
+Louisiana,Season peak percentage,Bin,percent,0.2,0.3,9.75E-05
+Louisiana,Season peak percentage,Bin,percent,0.3,0.4,9.81E-05
+Louisiana,Season peak percentage,Bin,percent,0.4,0.5,9.86E-05
+Louisiana,Season peak percentage,Bin,percent,0.5,0.6,9.91E-05
+Louisiana,Season peak percentage,Bin,percent,0.6,0.7,9.95E-05
+Louisiana,Season peak percentage,Bin,percent,0.7,0.8,1.00E-04
 Louisiana,Season peak percentage,Bin,percent,0.8,0.9,0.000100349
 Louisiana,Season peak percentage,Bin,percent,0.9,1,0.000100707
 Louisiana,Season peak percentage,Bin,percent,1,1.1,0.000101038
@@ -11962,7 +11962,7 @@ Louisiana,Season peak percentage,Bin,percent,12.6,12.7,0.03932032
 Louisiana,Season peak percentage,Bin,percent,12.7,12.8,0.02839287
 Louisiana,Season peak percentage,Bin,percent,12.8,12.9,0.034847618
 Louisiana,Season peak percentage,Bin,percent,12.9,13,0.006812505
-Louisiana,Season peak percentage,Bin,percent,13,100,0.112728848
+Louisiana,Season peak percentage,Bin,percent,13,100,0.334951129
 Louisiana,1 wk ahead,Point,percent,NA,NA,4.280965392
 Louisiana,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Louisiana,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -12094,7 +12094,7 @@ Louisiana,1 wk ahead,Bin,percent,12.6,12.7,0.00018948
 Louisiana,1 wk ahead,Bin,percent,12.7,12.8,0.000186609
 Louisiana,1 wk ahead,Bin,percent,12.8,12.9,1.84E-04
 Louisiana,1 wk ahead,Bin,percent,12.9,13,0.000180987
-Louisiana,1 wk ahead,Bin,percent,13,100,0.001140179
+Louisiana,1 wk ahead,Bin,percent,13,100,0.223367076
 Louisiana,2 wk ahead,Point,percent,NA,NA,3.424891409
 Louisiana,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Louisiana,2 wk ahead,Bin,percent,0.1,0.2,1.73E-04
@@ -12226,7 +12226,7 @@ Louisiana,2 wk ahead,Bin,percent,12.6,12.7,0.000178232
 Louisiana,2 wk ahead,Bin,percent,12.7,12.8,0.000176013
 Louisiana,2 wk ahead,Bin,percent,12.8,12.9,0.000240469
 Louisiana,2 wk ahead,Bin,percent,12.9,13,0.000173199
-Louisiana,2 wk ahead,Bin,percent,13,100,0.00107077
+Louisiana,2 wk ahead,Bin,percent,13,100,0.223301795
 Louisiana,3 wk ahead,Point,percent,NA,NA,2.739826
 Louisiana,3 wk ahead,Bin,percent,0,0.1,8.26E-04
 Louisiana,3 wk ahead,Bin,percent,0.1,0.2,9.10E-04
@@ -12358,7 +12358,7 @@ Louisiana,3 wk ahead,Bin,percent,12.6,12.7,0.000177789
 Louisiana,3 wk ahead,Bin,percent,12.7,12.8,0.000176369
 Louisiana,3 wk ahead,Bin,percent,12.8,12.9,0.000175097
 Louisiana,3 wk ahead,Bin,percent,12.9,13,0.000240088
-Louisiana,3 wk ahead,Bin,percent,13,100,0.000717438
+Louisiana,3 wk ahead,Bin,percent,13,100,0.222935968
 Louisiana,4 wk ahead,Point,percent,NA,NA,2.250463752
 Louisiana,4 wk ahead,Bin,percent,0,0.1,1.38E-03
 Louisiana,4 wk ahead,Bin,percent,0.1,0.2,1.48E-03
@@ -12490,7 +12490,7 @@ Louisiana,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Louisiana,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Louisiana,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Louisiana,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Louisiana,4 wk ahead,Bin,percent,13,100,0.000669305
+Louisiana,4 wk ahead,Bin,percent,13,100,0.222896429
 Maine,Season peak week,Point,week,NA,NA,5.777777778
 Maine,Season peak week,Bin,week,40,41,0.00032165
 Maine,Season peak week,Bin,week,41,42,0.000322712
@@ -12524,7 +12524,7 @@ Maine,Season peak week,Bin,week,16,17,0.003854751
 Maine,Season peak week,Bin,week,17,18,0.001916709
 Maine,Season peak week,Bin,week,18,19,0.001043623
 Maine,Season peak week,Bin,week,19,20,0.000925432
-Maine,Season peak week,Bin,week,20,21,0.000813682
+Maine,Season peak week,Bin,week,20,21,0.223035903
 Maine,Season peak percentage,Point,percent,NA,NA,2.633333333
 Maine,Season peak percentage,Bin,percent,0,0.1,0.000100756
 Maine,Season peak percentage,Bin,percent,0.1,0.2,0.000102715
@@ -12656,7 +12656,7 @@ Maine,Season peak percentage,Bin,percent,12.6,12.7,0.000171756
 Maine,Season peak percentage,Bin,percent,12.7,12.8,0.000171444
 Maine,Season peak percentage,Bin,percent,12.8,12.9,0.000171152
 Maine,Season peak percentage,Bin,percent,12.9,13,0.000170543
-Maine,Season peak percentage,Bin,percent,13,100,0.002164505
+Maine,Season peak percentage,Bin,percent,13,100,0.224386729
 Maine,1 wk ahead,Point,percent,NA,NA,1.941712204
 Maine,1 wk ahead,Bin,percent,0,0.1,5.72E-04
 Maine,1 wk ahead,Bin,percent,0.1,0.2,6.87E-04
@@ -12788,7 +12788,7 @@ Maine,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Maine,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Maine,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Maine,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Maine,1 wk ahead,Bin,percent,13,100,0.000118485
+Maine,1 wk ahead,Bin,percent,13,100,0.222343613
 Maine,2 wk ahead,Point,percent,NA,NA,1.745397169
 Maine,2 wk ahead,Bin,percent,0,0.1,2.27E-03
 Maine,2 wk ahead,Bin,percent,0.1,0.2,2.46E-03
@@ -12920,7 +12920,7 @@ Maine,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Maine,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Maine,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Maine,2 wk ahead,Bin,percent,12.9,13,1.74E-04
-Maine,2 wk ahead,Bin,percent,13,100,1.44E-03
+Maine,2 wk ahead,Bin,percent,13,100,2.24E-01
 Maine,3 wk ahead,Point,percent,NA,NA,1.528364525
 Maine,3 wk ahead,Bin,percent,0,0.1,3.19E-03
 Maine,3 wk ahead,Bin,percent,0.1,0.2,3.31E-03
@@ -13013,7 +13013,7 @@ Maine,3 wk ahead,Bin,percent,8.7,8.8,1.75E-04
 Maine,3 wk ahead,Bin,percent,8.8,8.9,1.75E-04
 Maine,3 wk ahead,Bin,percent,8.9,9,1.75E-04
 Maine,3 wk ahead,Bin,percent,9,9.1,2.41E-04
-Maine,3 wk ahead,Bin,percent,9.1,9.2,#VALUE!
+Maine,3 wk ahead,Bin,percent,9.1,9.2,0.000309
 Maine,3 wk ahead,Bin,percent,9.2,9.3,3.09E-04
 Maine,3 wk ahead,Bin,percent,9.3,9.4,1.75E-04
 Maine,3 wk ahead,Bin,percent,9.4,9.5,1.75E-04
@@ -13052,7 +13052,7 @@ Maine,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Maine,3 wk ahead,Bin,percent,12.7,12.8,2.41E-04
 Maine,3 wk ahead,Bin,percent,12.8,12.9,2.41E-04
 Maine,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Maine,3 wk ahead,Bin,percent,13,100,1.18E-03
+Maine,3 wk ahead,Bin,percent,13,100,2.23E-01
 Maine,4 wk ahead,Point,percent,NA,NA,1.37482491
 Maine,4 wk ahead,Bin,percent,0,0.1,3.54E-03
 Maine,4 wk ahead,Bin,percent,0.1,0.2,3.61E-03
@@ -13184,7 +13184,7 @@ Maine,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Maine,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Maine,4 wk ahead,Bin,percent,12.8,12.9,2.41E-04
 Maine,4 wk ahead,Bin,percent,12.9,13,2.40E-04
-Maine,4 wk ahead,Bin,percent,13,100,8.42E-04
+Maine,4 wk ahead,Bin,percent,13,100,2.23E-01
 Maryland,Season peak week,Point,week,NA,NA,3.555555556
 Maryland,Season peak week,Bin,week,40,41,0.000328318
 Maryland,Season peak week,Bin,week,41,42,0.000330017
@@ -13218,7 +13218,7 @@ Maryland,Season peak week,Bin,week,16,17,0.003417748
 Maryland,Season peak week,Bin,week,17,18,0.001595868
 Maryland,Season peak week,Bin,week,18,19,0.001432061
 Maryland,Season peak week,Bin,week,19,20,0.003693085
-Maryland,Season peak week,Bin,week,20,21,0.003045409
+Maryland,Season peak week,Bin,week,20,21,0.225267632
 Maryland,Season peak percentage,Point,percent,NA,NA,3.044444444
 Maryland,Season peak percentage,Bin,percent,0,0.1,0.000102594
 Maryland,Season peak percentage,Bin,percent,0.1,0.2,0.000105118
@@ -13350,7 +13350,7 @@ Maryland,Season peak percentage,Bin,percent,12.6,12.7,0.000174409
 Maryland,Season peak percentage,Bin,percent,12.7,12.8,0.000174002
 Maryland,Season peak percentage,Bin,percent,12.8,12.9,0.000173575
 Maryland,Season peak percentage,Bin,percent,12.9,13,0.000172902
-Maryland,Season peak percentage,Bin,percent,13,100,0.001275001
+Maryland,Season peak percentage,Bin,percent,13,100,0.223497221
 Maryland,1 wk ahead,Point,percent,NA,NA,2.176756059
 Maryland,1 wk ahead,Bin,percent,0,0.1,1.03E-03
 Maryland,1 wk ahead,Bin,percent,0.1,0.2,1.22E-03
@@ -13482,7 +13482,7 @@ Maryland,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 Maryland,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Maryland,1 wk ahead,Bin,percent,12.8,12.9,0.000181726
 Maryland,1 wk ahead,Bin,percent,12.9,13,0.000179935
-Maryland,1 wk ahead,Bin,percent,13,100,0.000121427
+Maryland,1 wk ahead,Bin,percent,13,100,0.222339488
 Maryland,2 wk ahead,Point,percent,NA,NA,2.015521529
 Maryland,2 wk ahead,Bin,percent,0,0.1,2.77E-03
 Maryland,2 wk ahead,Bin,percent,0.1,0.2,2.97E-03
@@ -13614,7 +13614,7 @@ Maryland,2 wk ahead,Bin,percent,12.6,12.7,0.00017386
 Maryland,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Maryland,2 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Maryland,2 wk ahead,Bin,percent,12.9,13,0.000172867
-Maryland,2 wk ahead,Bin,percent,13,100,0.000373289
+Maryland,2 wk ahead,Bin,percent,13,100,0.222588001
 Maryland,3 wk ahead,Point,percent,NA,NA,1.828180583
 Maryland,3 wk ahead,Bin,percent,0,0.1,3.56E-03
 Maryland,3 wk ahead,Bin,percent,0.1,0.2,3.68E-03
@@ -13746,7 +13746,7 @@ Maryland,3 wk ahead,Bin,percent,12.6,12.7,0.000240687
 Maryland,3 wk ahead,Bin,percent,12.7,12.8,0.000175622
 Maryland,3 wk ahead,Bin,percent,12.8,12.9,1.85E-04
 Maryland,3 wk ahead,Bin,percent,12.9,13,0.000223391
-Maryland,3 wk ahead,Bin,percent,13,100,0.001328973
+Maryland,3 wk ahead,Bin,percent,13,100,0.223548314
 Maryland,4 wk ahead,Point,percent,NA,NA,1.732037125
 Maryland,4 wk ahead,Bin,percent,0,0.1,3.66E-03
 Maryland,4 wk ahead,Bin,percent,0.1,0.2,3.75E-03
@@ -13878,7 +13878,7 @@ Maryland,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Maryland,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Maryland,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Maryland,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Maryland,4 wk ahead,Bin,percent,13,100,0.000922945
+Maryland,4 wk ahead,Bin,percent,13,100,0.223136831
 Massachusetts,Season peak week,Point,week,NA,NA,3.888888889
 Massachusetts,Season peak week,Bin,week,40,41,0.000321587
 Massachusetts,Season peak week,Bin,week,41,42,0.000323417
@@ -13912,7 +13912,7 @@ Massachusetts,Season peak week,Bin,week,16,17,0.002866092
 Massachusetts,Season peak week,Bin,week,17,18,0.001042186
 Massachusetts,Season peak week,Bin,week,18,19,0.000699804
 Massachusetts,Season peak week,Bin,week,19,20,0.000572971
-Massachusetts,Season peak week,Bin,week,20,21,0.000572789
+Massachusetts,Season peak week,Bin,week,20,21,0.222795012
 Massachusetts,Season peak percentage,Point,percent,NA,NA,2.711111111
 Massachusetts,Season peak percentage,Bin,percent,0,0.1,0.000100564
 Massachusetts,Season peak percentage,Bin,percent,0.1,0.2,0.000102409
@@ -14044,7 +14044,7 @@ Massachusetts,Season peak percentage,Bin,percent,12.6,12.7,0.000171446
 Massachusetts,Season peak percentage,Bin,percent,12.7,12.8,0.000171172
 Massachusetts,Season peak percentage,Bin,percent,12.8,12.9,0.000170768
 Massachusetts,Season peak percentage,Bin,percent,12.9,13,0.00017028
-Massachusetts,Season peak percentage,Bin,percent,13,100,0.001083946
+Massachusetts,Season peak percentage,Bin,percent,13,100,0.223306169
 Massachusetts,1 wk ahead,Point,percent,NA,NA,1.550182149
 Massachusetts,1 wk ahead,Bin,percent,0,0.1,9.06E-04
 Massachusetts,1 wk ahead,Bin,percent,0.1,0.2,1.08E-03
@@ -14176,7 +14176,7 @@ Massachusetts,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Massachusetts,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Massachusetts,1 wk ahead,Bin,percent,12.8,12.9,1.84E-04
 Massachusetts,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Massachusetts,1 wk ahead,Bin,percent,13,100,1.17E-04
+Massachusetts,1 wk ahead,Bin,percent,13,100,2.22E-01
 Massachusetts,2 wk ahead,Point,percent,NA,NA,1.40440843
 Massachusetts,2 wk ahead,Bin,percent,0,0.1,2.15E-03
 Massachusetts,2 wk ahead,Bin,percent,0.1,0.2,2.34E-03
@@ -14308,7 +14308,7 @@ Massachusetts,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Massachusetts,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Massachusetts,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Massachusetts,2 wk ahead,Bin,percent,12.9,13,1.74E-04
-Massachusetts,2 wk ahead,Bin,percent,13,100,1.06E-04
+Massachusetts,2 wk ahead,Bin,percent,13,100,2.22E-01
 Massachusetts,3 wk ahead,Point,percent,NA,NA,1.273028993
 Massachusetts,3 wk ahead,Bin,percent,0,0.1,2.68E-03
 Massachusetts,3 wk ahead,Bin,percent,0.1,0.2,2.81E-03
@@ -14429,7 +14429,7 @@ Massachusetts,3 wk ahead,Bin,percent,11.5,11.6,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,11.6,11.7,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,11.7,11.8,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,11.8,11.9,1.75E-04
-Massachusetts,3 wk ahead,Bin,percent,11.9,12,#VALUE!
+Massachusetts,3 wk ahead,Bin,percent,11.9,12,0.000175
 Massachusetts,3 wk ahead,Bin,percent,12,12.1,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,12.1,12.2,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,12.2,12.3,2.41E-04
@@ -14440,7 +14440,7 @@ Massachusetts,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Massachusetts,3 wk ahead,Bin,percent,12.9,13,1.75E-04
-Massachusetts,3 wk ahead,Bin,percent,13,100,0.000505772
+Massachusetts,3 wk ahead,Bin,percent,13,100,0.222750192
 Massachusetts,4 wk ahead,Point,percent,NA,NA,1.165705092
 Massachusetts,4 wk ahead,Bin,percent,0,0.1,3.03E-03
 Massachusetts,4 wk ahead,Bin,percent,0.1,0.2,3.12E-03
@@ -14572,7 +14572,7 @@ Massachusetts,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Massachusetts,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Massachusetts,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Massachusetts,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Massachusetts,4 wk ahead,Bin,percent,13,100,0.000973919
+Massachusetts,4 wk ahead,Bin,percent,13,100,0.223182421
 Michigan,Season peak week,Point,week,NA,NA,11.27572016
 Michigan,Season peak week,Bin,week,40,41,0.000315915
 Michigan,Season peak week,Bin,week,41,42,0.000316605
@@ -14606,9 +14606,9 @@ Michigan,Season peak week,Bin,week,16,17,0.015982896
 Michigan,Season peak week,Bin,week,17,18,0.029364145
 Michigan,Season peak week,Bin,week,18,19,0.057675808
 Michigan,Season peak week,Bin,week,19,20,0.087913408
-Michigan,Season peak week,Bin,week,20,21,0.144555976
+Michigan,Season peak week,Bin,week,20,21,0.366778201
 Michigan,Season peak percentage,Point,percent,NA,NA,4.092248677
-Michigan,Season peak percentage,Bin,percent,0,0.1,9.92813E-05
+Michigan,Season peak percentage,Bin,percent,0,0.1,9.93E-05
 Michigan,Season peak percentage,Bin,percent,0.1,0.2,0.00010128
 Michigan,Season peak percentage,Bin,percent,0.2,0.3,0.000102617
 Michigan,Season peak percentage,Bin,percent,0.3,0.4,0.000103425
@@ -14738,7 +14738,7 @@ Michigan,Season peak percentage,Bin,percent,12.6,12.7,0.000171851
 Michigan,Season peak percentage,Bin,percent,12.7,12.8,0.000171269
 Michigan,Season peak percentage,Bin,percent,12.8,12.9,0.000170346
 Michigan,Season peak percentage,Bin,percent,12.9,13,0.000168832
-Michigan,Season peak percentage,Bin,percent,13,100,0.001037212
+Michigan,Season peak percentage,Bin,percent,13,100,0.223259418
 Michigan,1 wk ahead,Point,percent,NA,NA,2.216598361
 Michigan,1 wk ahead,Bin,percent,0,0.1,3.07E-04
 Michigan,1 wk ahead,Bin,percent,0.1,0.2,3.67E-04
@@ -14870,7 +14870,7 @@ Michigan,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Michigan,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Michigan,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Michigan,1 wk ahead,Bin,percent,12.9,13,1.81E-04
-Michigan,1 wk ahead,Bin,percent,13,100,1.20E-04
+Michigan,1 wk ahead,Bin,percent,13,100,2.22E-01
 Michigan,2 wk ahead,Point,percent,NA,NA,2.177004267
 Michigan,2 wk ahead,Bin,percent,0,0.1,1.21E-03
 Michigan,2 wk ahead,Bin,percent,0.1,0.2,1.35E-03
@@ -15002,7 +15002,7 @@ Michigan,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Michigan,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Michigan,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Michigan,2 wk ahead,Bin,percent,12.9,13,0.000173359
-Michigan,2 wk ahead,Bin,percent,13,100,0.000639219
+Michigan,2 wk ahead,Bin,percent,13,100,0.222861433
 Michigan,3 wk ahead,Point,percent,NA,NA,2.148454816
 Michigan,3 wk ahead,Bin,percent,0,0.1,2.08E-03
 Michigan,3 wk ahead,Bin,percent,0.1,0.2,2.21E-03
@@ -15099,7 +15099,7 @@ Michigan,3 wk ahead,Bin,percent,9.1,9.2,2.41E-04
 Michigan,3 wk ahead,Bin,percent,9.2,9.3,0.00024132
 Michigan,3 wk ahead,Bin,percent,9.3,9.4,1.75E-04
 Michigan,3 wk ahead,Bin,percent,9.4,9.5,0.000175227
-Michigan,3 wk ahead,Bin,percent,9.5,9.6,#VALUE!
+Michigan,3 wk ahead,Bin,percent,9.5,9.6,0.000241
 Michigan,3 wk ahead,Bin,percent,9.6,9.7,2.41E-04
 Michigan,3 wk ahead,Bin,percent,9.7,9.8,1.75E-04
 Michigan,3 wk ahead,Bin,percent,9.8,9.9,1.75E-04
@@ -15134,8 +15134,8 @@ Michigan,3 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 Michigan,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Michigan,3 wk ahead,Bin,percent,12.8,12.9,2.41E-04
 Michigan,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Michigan,3 wk ahead,Bin,percent,13,100,0.000909681
-Michigan,4 wk ahead,Point,percent,NA,NA,2.235754306
+Michigan,3 wk ahead,Bin,percent,13,100,0.223126084
+Michigan,4 wk ahead,Point,percent,NA,NA,0.00208
 Michigan,4 wk ahead,Bin,percent,0,0.1,2.53E-03
 Michigan,4 wk ahead,Bin,percent,0.1,0.2,2.63E-03
 Michigan,4 wk ahead,Bin,percent,0.2,0.3,2.73E-03
@@ -15266,11 +15266,11 @@ Michigan,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Michigan,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Michigan,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Michigan,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Michigan,4 wk ahead,Bin,percent,13,100,0.000906304
+Michigan,4 wk ahead,Bin,percent,13,100,0.223108181
 Minnesota,Season peak week,Point,week,NA,NA,14
-Minnesota,Season peak week,Bin,week,40,41,4.63143E-05
-Minnesota,Season peak week,Bin,week,41,42,4.63143E-05
-Minnesota,Season peak week,Bin,week,42,43,4.63143E-05
+Minnesota,Season peak week,Bin,week,40,41,4.63E-05
+Minnesota,Season peak week,Bin,week,41,42,4.63E-05
+Minnesota,Season peak week,Bin,week,42,43,4.63E-05
 Minnesota,Season peak week,Bin,week,43,44,0.001140833
 Minnesota,Season peak week,Bin,week,44,45,0.004175541
 Minnesota,Season peak week,Bin,week,45,46,0.009170763
@@ -15300,7 +15300,7 @@ Minnesota,Season peak week,Bin,week,16,17,0.003884483
 Minnesota,Season peak week,Bin,week,17,18,0.002374253
 Minnesota,Season peak week,Bin,week,18,19,0.001146211
 Minnesota,Season peak week,Bin,week,19,20,0.001316283
-Minnesota,Season peak week,Bin,week,20,21,0.001164467
+Minnesota,Season peak week,Bin,week,20,21,0.251164509
 Minnesota,Season peak percentage,Point,percent,NA,NA,3.925
 Minnesota,Season peak percentage,Bin,percent,0,0.1,1.26E-05
 Minnesota,Season peak percentage,Bin,percent,0.1,0.2,1.26E-05
@@ -15324,16 +15324,16 @@ Minnesota,Season peak percentage,Bin,percent,1.8,1.9,1.26E-05
 Minnesota,Season peak percentage,Bin,percent,1.9,2,1.26E-05
 Minnesota,Season peak percentage,Bin,percent,2,2.1,1.26E-05
 Minnesota,Season peak percentage,Bin,percent,2.1,2.2,1.26E-05
-Minnesota,Season peak percentage,Bin,percent,2.2,2.3,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.3,2.4,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.4,2.5,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.5,2.6,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.6,2.7,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.7,2.8,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.8,2.9,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,2.9,3,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,3,3.1,1.25701E-05
-Minnesota,Season peak percentage,Bin,percent,3.1,3.2,1.25701E-05
+Minnesota,Season peak percentage,Bin,percent,2.2,2.3,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.3,2.4,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.4,2.5,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.5,2.6,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.6,2.7,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.7,2.8,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.8,2.9,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,2.9,3,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,3,3.1,1.26E-05
+Minnesota,Season peak percentage,Bin,percent,3.1,3.2,1.26E-05
 Minnesota,Season peak percentage,Bin,percent,3.2,3.3,0.000125948
 Minnesota,Season peak percentage,Bin,percent,3.3,3.4,0.000296021
 Minnesota,Season peak percentage,Bin,percent,3.4,3.5,0.000466096
@@ -15432,9 +15432,9 @@ Minnesota,Season peak percentage,Bin,percent,12.6,12.7,1.66E-04
 Minnesota,Season peak percentage,Bin,percent,12.7,12.8,1.66E-04
 Minnesota,Season peak percentage,Bin,percent,12.8,12.9,1.66E-04
 Minnesota,Season peak percentage,Bin,percent,12.9,13,1.66E-04
-Minnesota,Season peak percentage,Bin,percent,13,100,1.79451E-05
+Minnesota,Season peak percentage,Bin,percent,13,100,2.50E-01
 Minnesota,1 wk ahead,Point,percent,NA,NA,3.212646056
-Minnesota,1 wk ahead,Bin,percent,0,0.1,9.48223E-05
+Minnesota,1 wk ahead,Bin,percent,0,0.1,9.48E-05
 Minnesota,1 wk ahead,Bin,percent,0.1,0.2,0.000105942
 Minnesota,1 wk ahead,Bin,percent,0.2,0.3,0.000113019
 Minnesota,1 wk ahead,Bin,percent,0.3,0.4,0.000116755
@@ -15564,7 +15564,7 @@ Minnesota,1 wk ahead,Bin,percent,12.6,12.7,0.00011803
 Minnesota,1 wk ahead,Bin,percent,12.7,12.8,0.000115994
 Minnesota,1 wk ahead,Bin,percent,12.8,12.9,0.000111426
 Minnesota,1 wk ahead,Bin,percent,12.9,13,0.000103263
-Minnesota,1 wk ahead,Bin,percent,13,100,0.000137877
+Minnesota,1 wk ahead,Bin,percent,13,100,0.000138823
 Minnesota,2 wk ahead,Point,percent,NA,NA,2.273946255
 Minnesota,2 wk ahead,Bin,percent,0,0.1,1.17E-03
 Minnesota,2 wk ahead,Bin,percent,0.1,0.2,1.30E-03
@@ -15696,7 +15696,7 @@ Minnesota,2 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Minnesota,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Minnesota,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Minnesota,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Minnesota,2 wk ahead,Bin,percent,13,100,0.000439278
+Minnesota,2 wk ahead,Bin,percent,13,100,0.222661084
 Minnesota,3 wk ahead,Point,percent,NA,NA,2.627024428
 Minnesota,3 wk ahead,Bin,percent,0,0.1,5.82E-03
 Minnesota,3 wk ahead,Bin,percent,0.1,0.2,6.21E-03
@@ -15828,7 +15828,7 @@ Minnesota,3 wk ahead,Bin,percent,12.6,12.7,2.56E-04
 Minnesota,3 wk ahead,Bin,percent,12.7,12.8,2.55E-04
 Minnesota,3 wk ahead,Bin,percent,12.8,12.9,2.55E-04
 Minnesota,3 wk ahead,Bin,percent,12.9,13,2.53E-04
-Minnesota,3 wk ahead,Bin,percent,13,100,5.40361E-05
+Minnesota,3 wk ahead,Bin,percent,13,100,3.80E-05
 Minnesota,4 wk ahead,Point,percent,NA,NA,2.5
 Minnesota,4 wk ahead,Bin,percent,0,0.1,0.010988367
 Minnesota,4 wk ahead,Bin,percent,0.1,0.2,0.011439255
@@ -15960,7 +15960,7 @@ Minnesota,4 wk ahead,Bin,percent,12.6,12.7,3.06E-04
 Minnesota,4 wk ahead,Bin,percent,12.7,12.8,3.06E-04
 Minnesota,4 wk ahead,Bin,percent,12.8,12.9,0.00030627
 Minnesota,4 wk ahead,Bin,percent,12.9,13,3.06E-04
-Minnesota,4 wk ahead,Bin,percent,13,100,4.465E-12
+Minnesota,4 wk ahead,Bin,percent,13,100,0.00E+00
 Mississippi,Season peak week,Point,week,NA,NA,5.111111111
 Mississippi,Season peak week,Bin,week,40,41,0.000319957
 Mississippi,Season peak week,Bin,week,41,42,0.000322068
@@ -15994,9 +15994,9 @@ Mississippi,Season peak week,Bin,week,16,17,0.001465641
 Mississippi,Season peak week,Bin,week,17,18,0.000996848
 Mississippi,Season peak week,Bin,week,18,19,0.000698455
 Mississippi,Season peak week,Bin,week,19,20,0.000571621
-Mississippi,Season peak week,Bin,week,20,21,0.000571416
+Mississippi,Season peak week,Bin,week,20,21,0.222793638
 Mississippi,Season peak percentage,Point,percent,NA,NA,7.4
-Mississippi,Season peak percentage,Bin,percent,0,0.1,9.86093E-05
+Mississippi,Season peak percentage,Bin,percent,0,0.1,9.86E-05
 Mississippi,Season peak percentage,Bin,percent,0.1,0.2,0.000100599
 Mississippi,Season peak percentage,Bin,percent,0.2,0.3,0.000101541
 Mississippi,Season peak percentage,Bin,percent,0.3,0.4,0.000101968
@@ -16126,7 +16126,7 @@ Mississippi,Season peak percentage,Bin,percent,12.6,12.7,0.001290072
 Mississippi,Season peak percentage,Bin,percent,12.7,12.8,0.001209733
 Mississippi,Season peak percentage,Bin,percent,12.8,12.9,0.001094102
 Mississippi,Season peak percentage,Bin,percent,12.9,13,0.001003588
-Mississippi,Season peak percentage,Bin,percent,13,100,0.00841596
+Mississippi,Season peak percentage,Bin,percent,13,100,0.230638187
 Mississippi,1 wk ahead,Point,percent,NA,NA,2.890915301
 Mississippi,1 wk ahead,Bin,percent,0,0.1,1.79E-04
 Mississippi,1 wk ahead,Bin,percent,0.1,0.2,1.81E-04
@@ -16258,7 +16258,7 @@ Mississippi,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Mississippi,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Mississippi,1 wk ahead,Bin,percent,12.8,12.9,1.82E-04
 Mississippi,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Mississippi,1 wk ahead,Bin,percent,13,100,1.23E-04
+Mississippi,1 wk ahead,Bin,percent,13,100,2.22E-01
 Mississippi,2 wk ahead,Point,percent,NA,NA,2.456371327
 Mississippi,2 wk ahead,Bin,percent,0,0.1,4.09E-04
 Mississippi,2 wk ahead,Bin,percent,0.1,0.2,4.67E-04
@@ -16390,7 +16390,7 @@ Mississippi,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Mississippi,2 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 Mississippi,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Mississippi,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Mississippi,2 wk ahead,Bin,percent,13,100,4.42E-04
+Mississippi,2 wk ahead,Bin,percent,13,100,2.23E-01
 Mississippi,3 wk ahead,Point,percent,NA,NA,2.121342825
 Mississippi,3 wk ahead,Bin,percent,0,0.1,9.35E-04
 Mississippi,3 wk ahead,Bin,percent,0.1,0.2,1.03E-03
@@ -16522,7 +16522,7 @@ Mississippi,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Mississippi,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Mississippi,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Mississippi,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Mississippi,3 wk ahead,Bin,percent,13,100,8.45E-04
+Mississippi,3 wk ahead,Bin,percent,13,100,2.23E-01
 Mississippi,4 wk ahead,Point,percent,NA,NA,1.871412076
 Mississippi,4 wk ahead,Bin,percent,0,0.1,1.48E-03
 Mississippi,4 wk ahead,Bin,percent,0.1,0.2,1.58E-03
@@ -16654,7 +16654,7 @@ Mississippi,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Mississippi,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Mississippi,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Mississippi,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Mississippi,4 wk ahead,Bin,percent,13,100,7.76E-04
+Mississippi,4 wk ahead,Bin,percent,13,100,2.23E-01
 Missouri,Season peak week,Point,week,NA,NA,10.33333333
 Missouri,Season peak week,Bin,week,40,41,0.000320622
 Missouri,Season peak week,Bin,week,41,42,0.000323198
@@ -16688,10 +16688,10 @@ Missouri,Season peak week,Bin,week,16,17,0.060214833
 Missouri,Season peak week,Bin,week,17,18,0.055474549
 Missouri,Season peak week,Bin,week,18,19,0.043007471
 Missouri,Season peak week,Bin,week,19,20,0.024384902
-Missouri,Season peak week,Bin,week,20,21,0.001435591
+Missouri,Season peak week,Bin,week,20,21,0.223657811
 Missouri,Season peak percentage,Point,percent,NA,NA,9.497903564
-Missouri,Season peak percentage,Bin,percent,0,0.1,9.86649E-05
-Missouri,Season peak percentage,Bin,percent,0.1,0.2,9.99407E-05
+Missouri,Season peak percentage,Bin,percent,0,0.1,9.87E-05
+Missouri,Season peak percentage,Bin,percent,0.1,0.2,9.99E-05
 Missouri,Season peak percentage,Bin,percent,0.2,0.3,0.000100906
 Missouri,Season peak percentage,Bin,percent,0.3,0.4,0.000101668
 Missouri,Season peak percentage,Bin,percent,0.4,0.5,0.00010232
@@ -16820,7 +16820,7 @@ Missouri,Season peak percentage,Bin,percent,12.6,12.7,0.016723751
 Missouri,Season peak percentage,Bin,percent,12.7,12.8,0.038605046
 Missouri,Season peak percentage,Bin,percent,12.8,12.9,0.052151737
 Missouri,Season peak percentage,Bin,percent,12.9,13,0.08367045
-Missouri,Season peak percentage,Bin,percent,13,100,0.227744163
+Missouri,Season peak percentage,Bin,percent,13,100,0.449966391
 Missouri,1 wk ahead,Point,percent,NA,NA,7.589439982
 Missouri,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Missouri,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -16952,7 +16952,7 @@ Missouri,1 wk ahead,Bin,percent,12.6,12.7,3.99E-02
 Missouri,1 wk ahead,Bin,percent,12.7,12.8,0.024611783
 Missouri,1 wk ahead,Bin,percent,12.8,12.9,1.30E-02
 Missouri,1 wk ahead,Bin,percent,12.9,13,3.74E-03
-Missouri,1 wk ahead,Bin,percent,13,100,0.010829006
+Missouri,1 wk ahead,Bin,percent,13,100,0.23306602
 Missouri,2 wk ahead,Point,percent,NA,NA,7.482927152
 Missouri,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Missouri,2 wk ahead,Bin,percent,0.1,0.2,1.72E-04
@@ -17084,7 +17084,7 @@ Missouri,2 wk ahead,Bin,percent,12.6,12.7,0.000873474
 Missouri,2 wk ahead,Bin,percent,12.7,12.8,0.013497175
 Missouri,2 wk ahead,Bin,percent,12.8,12.9,0.034533519
 Missouri,2 wk ahead,Bin,percent,12.9,13,0.097706496
-Missouri,2 wk ahead,Bin,percent,13,100,0.194278683
+Missouri,2 wk ahead,Bin,percent,13,100,0.416498998
 Missouri,3 wk ahead,Point,percent,NA,NA,7.07625285
 Missouri,3 wk ahead,Bin,percent,0,0.1,1.78E-04
 Missouri,3 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -17216,7 +17216,7 @@ Missouri,3 wk ahead,Bin,percent,12.6,12.7,0.000391996
 Missouri,3 wk ahead,Bin,percent,12.7,12.8,0.013028298
 Missouri,3 wk ahead,Bin,percent,12.8,12.9,0.034106906
 Missouri,3 wk ahead,Bin,percent,12.9,13,0.097354664
-Missouri,3 wk ahead,Bin,percent,13,100,0.198473448
+Missouri,3 wk ahead,Bin,percent,13,100,0.42068039
 Missouri,4 wk ahead,Point,percent,NA,NA,6.473098396
 Missouri,4 wk ahead,Bin,percent,0,0.1,2.38E-04
 Missouri,4 wk ahead,Bin,percent,0.1,0.2,2.48E-04
@@ -17348,8 +17348,8 @@ Missouri,4 wk ahead,Bin,percent,12.6,12.7,3.77E-04
 Missouri,4 wk ahead,Bin,percent,12.7,12.8,0.013112825
 Missouri,4 wk ahead,Bin,percent,12.8,12.9,0.034081418
 Missouri,4 wk ahead,Bin,percent,12.9,13,0.097355624
-Missouri,4 wk ahead,Bin,percent,13,100,0.193393456
-Montana,Season peak week,Point,week,NA,NA,6.666666667
+Missouri,4 wk ahead,Bin,percent,13,100,0.415620118
+Montana,Season peak week,Point,week,NA,NA,0.000238
 Montana,Season peak week,Bin,week,40,41,0.000562009
 Montana,Season peak week,Bin,week,41,42,0.000328715
 Montana,Season peak week,Bin,week,42,43,0.000328712
@@ -17382,7 +17382,7 @@ Montana,Season peak week,Bin,week,16,17,0.001519457
 Montana,Season peak week,Bin,week,17,18,0.001262901
 Montana,Season peak week,Bin,week,18,19,0.000846595
 Montana,Season peak week,Bin,week,19,20,0.000578271
-Montana,Season peak week,Bin,week,20,21,0.000600957
+Montana,Season peak week,Bin,week,20,21,0.222823179
 Montana,Season peak percentage,Point,percent,NA,NA,3.177777778
 Montana,Season peak percentage,Bin,percent,0,0.1,0.000102876
 Montana,Season peak percentage,Bin,percent,0.1,0.2,0.000104806
@@ -17514,7 +17514,7 @@ Montana,Season peak percentage,Bin,percent,12.6,12.7,0.000174067
 Montana,Season peak percentage,Bin,percent,12.7,12.8,0.000198278
 Montana,Season peak percentage,Bin,percent,12.8,12.9,0.00019779
 Montana,Season peak percentage,Bin,percent,12.9,13,0.000246247
-Montana,Season peak percentage,Bin,percent,13,100,0.000881334
+Montana,Season peak percentage,Bin,percent,13,100,0.223103557
 Montana,1 wk ahead,Point,percent,NA,NA,2.137165963
 Montana,1 wk ahead,Bin,percent,0,0.1,0.000685376
 Montana,1 wk ahead,Bin,percent,0.1,0.2,0.000819771
@@ -17646,7 +17646,7 @@ Montana,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Montana,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Montana,1 wk ahead,Bin,percent,12.8,12.9,0.000183511
 Montana,1 wk ahead,Bin,percent,12.9,13,1.83E-04
-Montana,1 wk ahead,Bin,percent,13,100,0.000164428
+Montana,1 wk ahead,Bin,percent,13,100,0.222384852
 Montana,2 wk ahead,Point,percent,NA,NA,1.797363236
 Montana,2 wk ahead,Bin,percent,0,0.1,0.002495538
 Montana,2 wk ahead,Bin,percent,0.1,0.2,0.002808395
@@ -17778,7 +17778,7 @@ Montana,2 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Montana,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Montana,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Montana,2 wk ahead,Bin,percent,12.9,13,1.98E-04
-Montana,2 wk ahead,Bin,percent,13,100,0.000463011
+Montana,2 wk ahead,Bin,percent,13,100,0.222684777
 Montana,3 wk ahead,Point,percent,NA,NA,1.438108327
 Montana,3 wk ahead,Bin,percent,0,0.1,0.003827288
 Montana,3 wk ahead,Bin,percent,0.1,0.2,0.004242155
@@ -17910,7 +17910,7 @@ Montana,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Montana,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Montana,3 wk ahead,Bin,percent,12.8,12.9,0.000174311
 Montana,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Montana,3 wk ahead,Bin,percent,13,100,0.000375396
+Montana,3 wk ahead,Bin,percent,13,100,0.222584421
 Montana,4 wk ahead,Point,percent,NA,NA,1.194154735
 Montana,4 wk ahead,Bin,percent,0,0.1,0.005083427
 Montana,4 wk ahead,Bin,percent,0.1,0.2,0.006632933
@@ -18023,7 +18023,7 @@ Montana,4 wk ahead,Bin,percent,10.7,10.8,1.74E-04
 Montana,4 wk ahead,Bin,percent,10.8,10.9,1.74E-04
 Montana,4 wk ahead,Bin,percent,10.9,11,1.74E-04
 Montana,4 wk ahead,Bin,percent,11,11.1,2.40E-04
-Montana,4 wk ahead,Bin,percent,11.1,11.2,#VALUE!
+Montana,4 wk ahead,Bin,percent,11.1,11.2,0.000308
 Montana,4 wk ahead,Bin,percent,11.2,11.3,3.08E-04
 Montana,4 wk ahead,Bin,percent,11.3,11.4,1.74E-04
 Montana,4 wk ahead,Bin,percent,11.4,11.5,1.74E-04
@@ -18042,7 +18042,7 @@ Montana,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Montana,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Montana,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Montana,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Montana,4 wk ahead,Bin,percent,13,100,0.000240769
+Montana,4 wk ahead,Bin,percent,13,100,0.22233949
 Nebraska,Season peak week,Point,week,NA,NA,24.11111111
 Nebraska,Season peak week,Bin,week,40,41,0.003599263
 Nebraska,Season peak week,Bin,week,41,42,0.002311926
@@ -18076,7 +18076,7 @@ Nebraska,Season peak week,Bin,week,16,17,0.001508071
 Nebraska,Season peak week,Bin,week,17,18,0.001050597
 Nebraska,Season peak week,Bin,week,18,19,0.000740814
 Nebraska,Season peak week,Bin,week,19,20,0.000577817
-Nebraska,Season peak week,Bin,week,20,21,0.000577555
+Nebraska,Season peak week,Bin,week,20,21,0.222799777
 Nebraska,Season peak percentage,Point,percent,NA,NA,6.388888889
 Nebraska,Season peak percentage,Bin,percent,0,0.1,0.000100059
 Nebraska,Season peak percentage,Bin,percent,0.1,0.2,0.000102804
@@ -18208,7 +18208,7 @@ Nebraska,Season peak percentage,Bin,percent,12.6,12.7,0.00098425
 Nebraska,Season peak percentage,Bin,percent,12.7,12.8,0.00077923
 Nebraska,Season peak percentage,Bin,percent,12.8,12.9,0.000581951
 Nebraska,Season peak percentage,Bin,percent,12.9,13,0.000530602
-Nebraska,Season peak percentage,Bin,percent,13,100,0.003968689
+Nebraska,Season peak percentage,Bin,percent,13,100,0.226190905
 Nebraska,1 wk ahead,Point,percent,NA,NA,2.128288975
 Nebraska,1 wk ahead,Bin,percent,0,0.1,2.85E-04
 Nebraska,1 wk ahead,Bin,percent,0.1,0.2,3.43E-04
@@ -18340,8 +18340,8 @@ Nebraska,1 wk ahead,Bin,percent,12.6,12.7,0.000182325
 Nebraska,1 wk ahead,Bin,percent,12.7,12.8,0.000181462
 Nebraska,1 wk ahead,Bin,percent,12.8,12.9,0.000180324
 Nebraska,1 wk ahead,Bin,percent,12.9,13,0.000178849
-Nebraska,1 wk ahead,Bin,percent,13,100,0.000128124
-Nebraska,2 wk ahead,Point,percent,NA,NA,1.849421038
+Nebraska,1 wk ahead,Bin,percent,13,100,0.222350525
+Nebraska,2 wk ahead,Point,percent,NA,NA,0.000285
 Nebraska,2 wk ahead,Bin,percent,0,0.1,1.18E-03
 Nebraska,2 wk ahead,Bin,percent,0.1,0.2,1.34E-03
 Nebraska,2 wk ahead,Bin,percent,0.2,0.3,0.001511018
@@ -18472,7 +18472,7 @@ Nebraska,2 wk ahead,Bin,percent,12.6,12.7,0.000173712
 Nebraska,2 wk ahead,Bin,percent,12.7,12.8,0.000173502
 Nebraska,2 wk ahead,Bin,percent,12.8,12.9,0.000239225
 Nebraska,2 wk ahead,Bin,percent,12.9,13,0.000172564
-Nebraska,2 wk ahead,Bin,percent,13,100,0.000376479
+Nebraska,2 wk ahead,Bin,percent,13,100,0.222595004
 Nebraska,3 wk ahead,Point,percent,NA,NA,1.623283398
 Nebraska,3 wk ahead,Bin,percent,0,0.1,1.91E-03
 Nebraska,3 wk ahead,Bin,percent,0.1,0.2,0.002102828
@@ -18604,7 +18604,7 @@ Nebraska,3 wk ahead,Bin,percent,12.6,12.7,0.000240398
 Nebraska,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Nebraska,3 wk ahead,Bin,percent,12.8,12.9,0.00017359
 Nebraska,3 wk ahead,Bin,percent,12.9,13,0.000172971
-Nebraska,3 wk ahead,Bin,percent,13,100,0.000844881
+Nebraska,3 wk ahead,Bin,percent,13,100,0.223063786
 Nebraska,4 wk ahead,Point,percent,NA,NA,1.421931632
 Nebraska,4 wk ahead,Bin,percent,0,0.1,0.002872641
 Nebraska,4 wk ahead,Bin,percent,0.1,0.2,0.003112141
@@ -18736,7 +18736,7 @@ Nebraska,4 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Nebraska,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Nebraska,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Nebraska,4 wk ahead,Bin,percent,12.9,13,2.39E-04
-Nebraska,4 wk ahead,Bin,percent,13,100,0.000711919
+Nebraska,4 wk ahead,Bin,percent,13,100,0.222935657
 Nevada,Season peak week,Point,week,NA,NA,6.111111111
 Nevada,Season peak week,Bin,week,40,41,0.000322612
 Nevada,Season peak week,Bin,week,41,42,0.000324147
@@ -18770,9 +18770,9 @@ Nevada,Season peak week,Bin,week,16,17,0.006754909
 Nevada,Season peak week,Bin,week,17,18,0.001628649
 Nevada,Season peak week,Bin,week,18,19,0.002634985
 Nevada,Season peak week,Bin,week,19,20,0.001992028
-Nevada,Season peak week,Bin,week,20,21,0.0008209
+Nevada,Season peak week,Bin,week,20,21,0.223043121
 Nevada,Season peak percentage,Point,percent,NA,NA,2.733333333
-Nevada,Season peak percentage,Bin,percent,0,0.1,9.93282E-05
+Nevada,Season peak percentage,Bin,percent,0,0.1,9.93E-05
 Nevada,Season peak percentage,Bin,percent,0.1,0.2,0.000101548
 Nevada,Season peak percentage,Bin,percent,0.2,0.3,0.000102718
 Nevada,Season peak percentage,Bin,percent,0.3,0.4,0.000103349
@@ -18902,7 +18902,7 @@ Nevada,Season peak percentage,Bin,percent,12.6,12.7,0.00017168
 Nevada,Season peak percentage,Bin,percent,12.7,12.8,0.000242641
 Nevada,Season peak percentage,Bin,percent,12.8,12.9,0.000170508
 Nevada,Season peak percentage,Bin,percent,12.9,13,0.00016914
-Nevada,Season peak percentage,Bin,percent,13,100,0.001010627
+Nevada,Season peak percentage,Bin,percent,13,100,0.223232878
 Nevada,1 wk ahead,Point,percent,NA,NA,1.947723133
 Nevada,1 wk ahead,Bin,percent,0,0.1,5.43E-04
 Nevada,1 wk ahead,Bin,percent,0.1,0.2,6.52E-04
@@ -19034,7 +19034,7 @@ Nevada,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 Nevada,1 wk ahead,Bin,percent,12.7,12.8,1.82E-04
 Nevada,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 Nevada,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Nevada,1 wk ahead,Bin,percent,13,100,0.000127264
+Nevada,1 wk ahead,Bin,percent,13,100,0.222354353
 Nevada,2 wk ahead,Point,percent,NA,NA,1.796704556
 Nevada,2 wk ahead,Bin,percent,0,0.1,1.67E-03
 Nevada,2 wk ahead,Bin,percent,0.1,0.2,1.84E-03
@@ -19166,7 +19166,7 @@ Nevada,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Nevada,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Nevada,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Nevada,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Nevada,2 wk ahead,Bin,percent,13,100,5.07E-04
+Nevada,2 wk ahead,Bin,percent,13,100,2.23E-01
 Nevada,3 wk ahead,Point,percent,NA,NA,1.604725706
 Nevada,3 wk ahead,Bin,percent,0,0.1,2.36E-03
 Nevada,3 wk ahead,Bin,percent,0.1,0.2,2.50E-03
@@ -19298,7 +19298,7 @@ Nevada,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Nevada,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Nevada,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Nevada,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Nevada,3 wk ahead,Bin,percent,13,100,5.09E-04
+Nevada,3 wk ahead,Bin,percent,13,100,2.23E-01
 Nevada,4 wk ahead,Point,percent,NA,NA,1.358481923
 Nevada,4 wk ahead,Bin,percent,0,0.1,2.91E-03
 Nevada,4 wk ahead,Bin,percent,0.1,0.2,3.03E-03
@@ -19382,7 +19382,7 @@ Nevada,4 wk ahead,Bin,percent,7.8,7.9,2.65E-04
 Nevada,4 wk ahead,Bin,percent,7.9,8,1.99E-04
 Nevada,4 wk ahead,Bin,percent,8,8.1,2.41E-04
 Nevada,4 wk ahead,Bin,percent,8.1,8.2,2.41E-04
-Nevada,4 wk ahead,Bin,percent,8.2,8.3,#VALUE!
+Nevada,4 wk ahead,Bin,percent,8.2,8.3,0.000241
 Nevada,4 wk ahead,Bin,percent,8.3,8.4,2.41E-04
 Nevada,4 wk ahead,Bin,percent,8.4,8.5,2.41E-04
 Nevada,4 wk ahead,Bin,percent,8.5,8.6,1.75E-04
@@ -19430,7 +19430,7 @@ Nevada,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Nevada,4 wk ahead,Bin,percent,12.7,12.8,3.09E-04
 Nevada,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Nevada,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Nevada,4 wk ahead,Bin,percent,13,100,7.75E-04
+Nevada,4 wk ahead,Bin,percent,13,100,2.23E-01
 New Hampshire,Season peak week,Point,week,NA,NA,14.33333333
 New Hampshire,Season peak week,Bin,week,40,41,0.0407272
 New Hampshire,Season peak week,Bin,week,41,42,0.024808706
@@ -19464,7 +19464,7 @@ New Hampshire,Season peak week,Bin,week,16,17,0.00373579
 New Hampshire,Season peak week,Bin,week,17,18,0.001025214
 New Hampshire,Season peak week,Bin,week,18,19,0.001217813
 New Hampshire,Season peak week,Bin,week,19,20,0.000621299
-New Hampshire,Season peak week,Bin,week,20,21,0.000578049
+New Hampshire,Season peak week,Bin,week,20,21,0.222800272
 New Hampshire,Season peak percentage,Point,percent,NA,NA,2.379454927
 New Hampshire,Season peak percentage,Bin,percent,0,0.1,0.000101103
 New Hampshire,Season peak percentage,Bin,percent,0.1,0.2,0.000103616
@@ -19596,7 +19596,7 @@ New Hampshire,Season peak percentage,Bin,percent,12.6,12.7,0.000173073
 New Hampshire,Season peak percentage,Bin,percent,12.7,12.8,0.000172718
 New Hampshire,Season peak percentage,Bin,percent,12.8,12.9,0.000175593
 New Hampshire,Season peak percentage,Bin,percent,12.9,13,0.000171298
-New Hampshire,Season peak percentage,Bin,percent,13,100,0.001025426
+New Hampshire,Season peak percentage,Bin,percent,13,100,0.223247647
 New Hampshire,1 wk ahead,Point,percent,NA,NA,1.119805529
 New Hampshire,1 wk ahead,Bin,percent,0,0.1,3.50E-03
 New Hampshire,1 wk ahead,Bin,percent,0.1,0.2,3.95E-03
@@ -19728,7 +19728,7 @@ New Hampshire,1 wk ahead,Bin,percent,12.6,12.7,0.000183327
 New Hampshire,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 New Hampshire,1 wk ahead,Bin,percent,12.8,12.9,0.000181802
 New Hampshire,1 wk ahead,Bin,percent,12.9,13,0.000180158
-New Hampshire,1 wk ahead,Bin,percent,13,100,0.00012163
+New Hampshire,1 wk ahead,Bin,percent,13,100,0.222342754
 New Hampshire,2 wk ahead,Point,percent,NA,NA,0.994331488
 New Hampshire,2 wk ahead,Bin,percent,0,0.1,4.61E-03
 New Hampshire,2 wk ahead,Bin,percent,0.1,0.2,5.13E-03
@@ -19860,7 +19860,7 @@ New Hampshire,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 New Hampshire,2 wk ahead,Bin,percent,12.7,12.8,0.00017386
 New Hampshire,2 wk ahead,Bin,percent,12.8,12.9,0.000173684
 New Hampshire,2 wk ahead,Bin,percent,12.9,13,0.000173134
-New Hampshire,2 wk ahead,Bin,percent,13,100,0.000438828
+New Hampshire,2 wk ahead,Bin,percent,13,100,0.222658965
 New Hampshire,3 wk ahead,Point,percent,NA,NA,0.878617459
 New Hampshire,3 wk ahead,Bin,percent,0,0.1,5.42E-03
 New Hampshire,3 wk ahead,Bin,percent,0.1,0.2,0.006185916
@@ -19992,7 +19992,7 @@ New Hampshire,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 New Hampshire,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 New Hampshire,3 wk ahead,Bin,percent,12.8,12.9,0.000174378
 New Hampshire,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-New Hampshire,3 wk ahead,Bin,percent,13,100,0.000772311
+New Hampshire,3 wk ahead,Bin,percent,13,100,0.222976321
 New Hampshire,4 wk ahead,Point,percent,NA,NA,0.756400909
 New Hampshire,4 wk ahead,Bin,percent,0,0.1,6.06E-03
 New Hampshire,4 wk ahead,Bin,percent,0.1,0.2,0.008634652
@@ -20124,7 +20124,7 @@ New Hampshire,4 wk ahead,Bin,percent,12.6,12.7,0.000174343
 New Hampshire,4 wk ahead,Bin,percent,12.7,12.8,0.000174286
 New Hampshire,4 wk ahead,Bin,percent,12.8,12.9,0.000174077
 New Hampshire,4 wk ahead,Bin,percent,12.9,13,0.0001735
-New Hampshire,4 wk ahead,Bin,percent,13,100,0.000639749
+New Hampshire,4 wk ahead,Bin,percent,13,100,0.222864488
 New Jersey,Season peak week,Point,week,NA,NA,18.77777778
 New Jersey,Season peak week,Bin,week,40,41,0.000326464
 New Jersey,Season peak week,Bin,week,41,42,0.000328899
@@ -20158,7 +20158,7 @@ New Jersey,Season peak week,Bin,week,16,17,0.001895708
 New Jersey,Season peak week,Bin,week,17,18,0.001207944
 New Jersey,Season peak week,Bin,week,18,19,0.000728023
 New Jersey,Season peak week,Bin,week,19,20,0.000623859
-New Jersey,Season peak week,Bin,week,20,21,0.000600876
+New Jersey,Season peak week,Bin,week,20,21,0.222823098
 New Jersey,Season peak percentage,Point,percent,NA,NA,4.855555556
 New Jersey,Season peak percentage,Bin,percent,0,0.1,0.000101156
 New Jersey,Season peak percentage,Bin,percent,0.1,0.2,0.000103967
@@ -20290,7 +20290,7 @@ New Jersey,Season peak percentage,Bin,percent,12.6,12.7,0.000173095
 New Jersey,Season peak percentage,Bin,percent,12.7,12.8,0.000175704
 New Jersey,Season peak percentage,Bin,percent,12.8,12.9,0.000172471
 New Jersey,Season peak percentage,Bin,percent,12.9,13,0.00017176
-New Jersey,Season peak percentage,Bin,percent,13,100,0.000878577
+New Jersey,Season peak percentage,Bin,percent,13,100,0.223100791
 New Jersey,1 wk ahead,Point,percent,NA,NA,3.112116602
 New Jersey,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 New Jersey,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -20422,7 +20422,7 @@ New Jersey,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 New Jersey,1 wk ahead,Bin,percent,12.7,12.8,1.82E-04
 New Jersey,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 New Jersey,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-New Jersey,1 wk ahead,Bin,percent,13,100,1.23E-04
+New Jersey,1 wk ahead,Bin,percent,13,100,2.22E-01
 New Jersey,2 wk ahead,Point,percent,NA,NA,2.860083502
 New Jersey,2 wk ahead,Bin,percent,0,0.1,2.14E-04
 New Jersey,2 wk ahead,Bin,percent,0.1,0.2,2.40E-04
@@ -20554,7 +20554,7 @@ New Jersey,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 New Jersey,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 New Jersey,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 New Jersey,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-New Jersey,2 wk ahead,Bin,percent,13,100,3.74E-04
+New Jersey,2 wk ahead,Bin,percent,13,100,2.23E-01
 New Jersey,3 wk ahead,Point,percent,NA,NA,2.540479609
 New Jersey,3 wk ahead,Bin,percent,0,0.1,5.93E-04
 New Jersey,3 wk ahead,Bin,percent,0.1,0.2,6.57E-04
@@ -20686,7 +20686,7 @@ New Jersey,3 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 New Jersey,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 New Jersey,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 New Jersey,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-New Jersey,3 wk ahead,Bin,percent,13,100,7.09E-04
+New Jersey,3 wk ahead,Bin,percent,13,100,2.23E-01
 New Jersey,4 wk ahead,Point,percent,NA,NA,2.308379564
 New Jersey,4 wk ahead,Bin,percent,0,0.1,1.19E-03
 New Jersey,4 wk ahead,Bin,percent,0.1,0.2,1.27E-03
@@ -20818,7 +20818,7 @@ New Jersey,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 New Jersey,4 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 New Jersey,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 New Jersey,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-New Jersey,4 wk ahead,Bin,percent,13,100,5.06E-04
+New Jersey,4 wk ahead,Bin,percent,13,100,2.23E-01
 New Mexico,Season peak week,Point,week,NA,NA,10.74074074
 New Mexico,Season peak week,Bin,week,40,41,0.000319402
 New Mexico,Season peak week,Bin,week,41,42,0.000322012
@@ -20852,9 +20852,9 @@ New Mexico,Season peak week,Bin,week,16,17,0.001677189
 New Mexico,Season peak week,Bin,week,17,18,0.001064043
 New Mexico,Season peak week,Bin,week,18,19,0.000760838
 New Mexico,Season peak week,Bin,week,19,20,0.00061281
-New Mexico,Season peak week,Bin,week,20,21,0.000590872
+New Mexico,Season peak week,Bin,week,20,21,0.222813089
 New Mexico,Season peak percentage,Point,percent,NA,NA,5.011111111
-New Mexico,Season peak percentage,Bin,percent,0,0.1,9.90874E-05
+New Mexico,Season peak percentage,Bin,percent,0,0.1,9.91E-05
 New Mexico,Season peak percentage,Bin,percent,0.1,0.2,0.000101409
 New Mexico,Season peak percentage,Bin,percent,0.2,0.3,0.000102215
 New Mexico,Season peak percentage,Bin,percent,0.3,0.4,0.000102594
@@ -20984,7 +20984,7 @@ New Mexico,Season peak percentage,Bin,percent,12.6,12.7,0.000173238
 New Mexico,Season peak percentage,Bin,percent,12.7,12.8,0.000240576
 New Mexico,Season peak percentage,Bin,percent,12.8,12.9,0.000170105
 New Mexico,Season peak percentage,Bin,percent,12.9,13,0.000169062
-New Mexico,Season peak percentage,Bin,percent,13,100,0.00117779
+New Mexico,Season peak percentage,Bin,percent,13,100,0.223399995
 New Mexico,1 wk ahead,Point,percent,NA,NA,3.415300546
 New Mexico,1 wk ahead,Bin,percent,0,0.1,1.79E-04
 New Mexico,1 wk ahead,Bin,percent,0.1,0.2,1.81E-04
@@ -21116,7 +21116,7 @@ New Mexico,1 wk ahead,Bin,percent,12.6,12.7,0.000183809
 New Mexico,1 wk ahead,Bin,percent,12.7,12.8,0.000183337
 New Mexico,1 wk ahead,Bin,percent,12.8,12.9,0.000182359
 New Mexico,1 wk ahead,Bin,percent,12.9,13,0.000180586
-New Mexico,1 wk ahead,Bin,percent,13,100,0.000121173
+New Mexico,1 wk ahead,Bin,percent,13,100,0.222342049
 New Mexico,2 wk ahead,Point,percent,NA,NA,2.88377592
 New Mexico,2 wk ahead,Bin,percent,0,0.1,4.88E-04
 New Mexico,2 wk ahead,Bin,percent,0.1,0.2,5.57E-04
@@ -21248,7 +21248,7 @@ New Mexico,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 New Mexico,2 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 New Mexico,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 New Mexico,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-New Mexico,2 wk ahead,Bin,percent,13,100,0.000574366
+New Mexico,2 wk ahead,Bin,percent,13,100,0.2228038
 New Mexico,3 wk ahead,Point,percent,NA,NA,2.485777589
 New Mexico,3 wk ahead,Bin,percent,0,0.1,1.27E-03
 New Mexico,3 wk ahead,Bin,percent,0.1,0.2,1.38E-03
@@ -21380,7 +21380,7 @@ New Mexico,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 New Mexico,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 New Mexico,3 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 New Mexico,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-New Mexico,3 wk ahead,Bin,percent,13,100,8.47E-04
+New Mexico,3 wk ahead,Bin,percent,13,100,2.23E-01
 New Mexico,4 wk ahead,Point,percent,NA,NA,2.108640924
 New Mexico,4 wk ahead,Bin,percent,0,0.1,2.26E-03
 New Mexico,4 wk ahead,Bin,percent,0.1,0.2,2.37E-03
@@ -21512,7 +21512,7 @@ New Mexico,4 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 New Mexico,4 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 New Mexico,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 New Mexico,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-New Mexico,4 wk ahead,Bin,percent,13,100,9.10E-04
+New Mexico,4 wk ahead,Bin,percent,13,100,2.23E-01
 New York,Season peak week,Point,week,NA,NA,5.222222222
 New York,Season peak week,Bin,week,40,41,0.000320272
 New York,Season peak week,Bin,week,41,42,0.000322338
@@ -21546,7 +21546,7 @@ New York,Season peak week,Bin,week,16,17,0.002559015
 New York,Season peak week,Bin,week,17,18,0.001579257
 New York,Season peak week,Bin,week,18,19,0.001340969
 New York,Season peak week,Bin,week,19,20,0.000782856
-New York,Season peak week,Bin,week,20,21,0.000751803
+New York,Season peak week,Bin,week,20,21,0.222974026
 New York,Season peak percentage,Point,percent,NA,NA,3.372222222
 New York,Season peak percentage,Bin,percent,0,0.1,0.000100766
 New York,Season peak percentage,Bin,percent,0.1,0.2,0.000103146
@@ -21678,7 +21678,7 @@ New York,Season peak percentage,Bin,percent,12.6,12.7,0.000172577
 New York,Season peak percentage,Bin,percent,12.7,12.8,0.000172841
 New York,Season peak percentage,Bin,percent,12.8,12.9,0.00017238
 New York,Season peak percentage,Bin,percent,12.9,13,0.000171418
-New York,Season peak percentage,Bin,percent,13,100,0.001203121
+New York,Season peak percentage,Bin,percent,13,100,0.223425341
 New York,1 wk ahead,Point,percent,NA,NA,2.058014572
 New York,1 wk ahead,Bin,percent,0,0.1,1.80E-04
 New York,1 wk ahead,Bin,percent,0.1,0.2,1.83E-04
@@ -21810,7 +21810,7 @@ New York,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 New York,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 New York,1 wk ahead,Bin,percent,12.8,12.9,1.84E-04
 New York,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-New York,1 wk ahead,Bin,percent,13,100,1.17E-04
+New York,1 wk ahead,Bin,percent,13,100,2.22E-01
 New York,2 wk ahead,Point,percent,NA,NA,1.77074612
 New York,2 wk ahead,Bin,percent,0,0.1,8.45E-04
 New York,2 wk ahead,Bin,percent,0.1,0.2,9.59E-04
@@ -21942,7 +21942,7 @@ New York,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 New York,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 New York,2 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 New York,2 wk ahead,Bin,percent,12.9,13,2.40E-04
-New York,2 wk ahead,Bin,percent,13,100,7.75E-04
+New York,2 wk ahead,Bin,percent,13,100,2.23E-01
 New York,3 wk ahead,Point,percent,NA,NA,1.615461114
 New York,3 wk ahead,Bin,percent,0,0.1,8.98E-04
 New York,3 wk ahead,Bin,percent,0.1,0.2,9.86E-04
@@ -22074,7 +22074,7 @@ New York,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 New York,3 wk ahead,Bin,percent,12.7,12.8,2.41E-04
 New York,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 New York,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-New York,3 wk ahead,Bin,percent,13,100,0.000840904
+New York,3 wk ahead,Bin,percent,13,100,0.223065361
 New York,4 wk ahead,Point,percent,NA,NA,1.507192883
 New York,4 wk ahead,Bin,percent,0,0.1,8.17E-04
 New York,4 wk ahead,Bin,percent,0.1,0.2,8.87E-04
@@ -22206,7 +22206,7 @@ New York,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 New York,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 New York,4 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 New York,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-New York,4 wk ahead,Bin,percent,13,100,0.000773494
+New York,4 wk ahead,Bin,percent,13,100,0.222984679
 North Carolina,Season peak week,Point,week,NA,NA,4.96090535
 North Carolina,Season peak week,Bin,week,40,41,0.000322198
 North Carolina,Season peak week,Bin,week,41,42,0.000322795
@@ -22240,9 +22240,9 @@ North Carolina,Season peak week,Bin,week,16,17,0.001732669
 North Carolina,Season peak week,Bin,week,17,18,0.001152377
 North Carolina,Season peak week,Bin,week,18,19,0.000840685
 North Carolina,Season peak week,Bin,week,19,20,0.00105747
-North Carolina,Season peak week,Bin,week,20,21,0.000825675
+North Carolina,Season peak week,Bin,week,20,21,0.223047894
 North Carolina,Season peak percentage,Point,percent,NA,NA,5.077777778
-North Carolina,Season peak percentage,Bin,percent,0,0.1,9.96465E-05
+North Carolina,Season peak percentage,Bin,percent,0,0.1,9.96E-05
 North Carolina,Season peak percentage,Bin,percent,0.1,0.2,0.000101829
 North Carolina,Season peak percentage,Bin,percent,0.2,0.3,0.00010241
 North Carolina,Season peak percentage,Bin,percent,0.3,0.4,0.000102734
@@ -22372,7 +22372,7 @@ North Carolina,Season peak percentage,Bin,percent,12.6,12.7,0.00017246
 North Carolina,Season peak percentage,Bin,percent,12.7,12.8,0.000170729
 North Carolina,Season peak percentage,Bin,percent,12.8,12.9,0.000170362
 North Carolina,Season peak percentage,Bin,percent,12.9,13,0.00019552
-North Carolina,Season peak percentage,Bin,percent,13,100,0.000863588
+North Carolina,Season peak percentage,Bin,percent,13,100,0.223085857
 North Carolina,1 wk ahead,Point,percent,NA,NA,1.983094262
 North Carolina,1 wk ahead,Bin,percent,0,0.1,5.99E-04
 North Carolina,1 wk ahead,Bin,percent,0.1,0.2,7.18E-04
@@ -22504,7 +22504,7 @@ North Carolina,1 wk ahead,Bin,percent,12.6,12.7,0.000183164
 North Carolina,1 wk ahead,Bin,percent,12.7,12.8,1.82E-04
 North Carolina,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 North Carolina,1 wk ahead,Bin,percent,12.9,13,0.000179605
-North Carolina,1 wk ahead,Bin,percent,13,100,0.000125501
+North Carolina,1 wk ahead,Bin,percent,13,100,0.222350002
 North Carolina,2 wk ahead,Point,percent,NA,NA,1.587483772
 North Carolina,2 wk ahead,Bin,percent,0,0.1,2.56E-03
 North Carolina,2 wk ahead,Bin,percent,0.1,0.2,2.75E-03
@@ -22636,7 +22636,7 @@ North Carolina,2 wk ahead,Bin,percent,12.6,12.7,0.000240042
 North Carolina,2 wk ahead,Bin,percent,12.7,12.8,0.000173808
 North Carolina,2 wk ahead,Bin,percent,12.8,12.9,0.000173504
 North Carolina,2 wk ahead,Bin,percent,12.9,13,0.000172944
-North Carolina,2 wk ahead,Bin,percent,13,100,0.000305637
+North Carolina,2 wk ahead,Bin,percent,13,100,0.222516727
 North Carolina,3 wk ahead,Point,percent,NA,NA,1.304677454
 North Carolina,3 wk ahead,Bin,percent,0,0.1,3.75E-03
 North Carolina,3 wk ahead,Bin,percent,0.1,0.2,3.86E-03
@@ -22768,7 +22768,7 @@ North Carolina,3 wk ahead,Bin,percent,12.6,12.7,0.000175042
 North Carolina,3 wk ahead,Bin,percent,12.7,12.8,0.000174825
 North Carolina,3 wk ahead,Bin,percent,12.8,12.9,0.000174421
 North Carolina,3 wk ahead,Bin,percent,12.9,13,0.000173749
-North Carolina,3 wk ahead,Bin,percent,13,100,0.000443965
+North Carolina,3 wk ahead,Bin,percent,13,100,0.222663056
 North Carolina,4 wk ahead,Point,percent,NA,NA,1.058156351
 North Carolina,4 wk ahead,Bin,percent,0,0.1,4.40E-03
 North Carolina,4 wk ahead,Bin,percent,0.1,0.2,4.48E-03
@@ -22900,7 +22900,7 @@ North Carolina,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 North Carolina,4 wk ahead,Bin,percent,12.7,12.8,0.000174405
 North Carolina,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 North Carolina,4 wk ahead,Bin,percent,12.9,13,0.000173474
-North Carolina,4 wk ahead,Bin,percent,13,100,0.000239819
+North Carolina,4 wk ahead,Bin,percent,13,100,0.222458335
 North Dakota,Season peak week,Point,week,NA,NA,6.555555556
 North Dakota,Season peak week,Bin,week,40,41,0.00032508
 North Dakota,Season peak week,Bin,week,41,42,0.000327832
@@ -22934,7 +22934,7 @@ North Dakota,Season peak week,Bin,week,16,17,0.007200937
 North Dakota,Season peak week,Bin,week,17,18,0.004809152
 North Dakota,Season peak week,Bin,week,18,19,0.003457949
 North Dakota,Season peak week,Bin,week,19,20,0.001017041
-North Dakota,Season peak week,Bin,week,20,21,0.000947437
+North Dakota,Season peak week,Bin,week,20,21,0.223169662
 North Dakota,Season peak percentage,Point,percent,NA,NA,3.868763103
 North Dakota,Season peak percentage,Bin,percent,0,0.1,0.000102051
 North Dakota,Season peak percentage,Bin,percent,0.1,0.2,0.000104363
@@ -23066,7 +23066,7 @@ North Dakota,Season peak percentage,Bin,percent,12.6,12.7,0.000173736
 North Dakota,Season peak percentage,Bin,percent,12.7,12.8,0.000173353
 North Dakota,Season peak percentage,Bin,percent,12.8,12.9,0.000198466
 North Dakota,Season peak percentage,Bin,percent,12.9,13,0.000173185
-North Dakota,Season peak percentage,Bin,percent,13,100,0.000784805
+North Dakota,Season peak percentage,Bin,percent,13,100,0.223007027
 North Dakota,1 wk ahead,Point,percent,NA,NA,2.427629017
 North Dakota,1 wk ahead,Bin,percent,0,0.1,2.24E-04
 North Dakota,1 wk ahead,Bin,percent,0.1,0.2,0.000260198
@@ -23198,7 +23198,7 @@ North Dakota,1 wk ahead,Bin,percent,12.6,12.7,0.000181937
 North Dakota,1 wk ahead,Bin,percent,12.7,12.8,0.00018111
 North Dakota,1 wk ahead,Bin,percent,12.8,12.9,0.000180033
 North Dakota,1 wk ahead,Bin,percent,12.9,13,0.000178697
-North Dakota,1 wk ahead,Bin,percent,13,100,0.000130726
+North Dakota,1 wk ahead,Bin,percent,13,100,0.222352674
 North Dakota,2 wk ahead,Point,percent,NA,NA,2.043163693
 North Dakota,2 wk ahead,Bin,percent,0,0.1,0.001559153
 North Dakota,2 wk ahead,Bin,percent,0.1,0.2,0.001723941
@@ -23330,7 +23330,7 @@ North Dakota,2 wk ahead,Bin,percent,12.6,12.7,0.000173693
 North Dakota,2 wk ahead,Bin,percent,12.7,12.8,1.73E-04
 North Dakota,2 wk ahead,Bin,percent,12.8,12.9,1.98E-04
 North Dakota,2 wk ahead,Bin,percent,12.9,13,2.39E-04
-North Dakota,2 wk ahead,Bin,percent,13,100,0.0006431
+North Dakota,2 wk ahead,Bin,percent,13,100,0.222864745
 North Dakota,3 wk ahead,Point,percent,NA,NA,1.700890153
 North Dakota,3 wk ahead,Bin,percent,0,0.1,0.002665965
 North Dakota,3 wk ahead,Bin,percent,0.1,0.2,0.002865438
@@ -23455,14 +23455,14 @@ North Dakota,3 wk ahead,Bin,percent,11.9,12,0.000174561
 North Dakota,3 wk ahead,Bin,percent,12,12.1,0.000240652
 North Dakota,3 wk ahead,Bin,percent,12.1,12.2,0.000174555
 North Dakota,3 wk ahead,Bin,percent,12.2,12.3,0.000240641
-North Dakota,3 wk ahead,Bin,percent,12.3,12.4,#VALUE!
+North Dakota,3 wk ahead,Bin,percent,12.3,12.4,0.000174502
 North Dakota,3 wk ahead,Bin,percent,12.4,12.5,0.000174502
 North Dakota,3 wk ahead,Bin,percent,12.5,12.6,0.000174432
 North Dakota,3 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 North Dakota,3 wk ahead,Bin,percent,12.7,12.8,0.000240109
 North Dakota,3 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 North Dakota,3 wk ahead,Bin,percent,12.9,13,0.000172937
-North Dakota,3 wk ahead,Bin,percent,13,100,0.000602667
+North Dakota,3 wk ahead,Bin,percent,13,100,0.222823649
 North Dakota,4 wk ahead,Point,percent,NA,NA,1.369676476
 North Dakota,4 wk ahead,Bin,percent,0,0.1,0.003776516
 North Dakota,4 wk ahead,Bin,percent,0.1,0.2,0.003999502
@@ -23594,7 +23594,7 @@ North Dakota,4 wk ahead,Bin,percent,12.6,12.7,0.000173892
 North Dakota,4 wk ahead,Bin,percent,12.7,12.8,0.000239721
 North Dakota,4 wk ahead,Bin,percent,12.8,12.9,0.000173212
 North Dakota,4 wk ahead,Bin,percent,12.9,13,0.000172634
-North Dakota,4 wk ahead,Bin,percent,13,100,0.000309297
+North Dakota,4 wk ahead,Bin,percent,13,100,0.222531521
 Ohio,Season peak week,Point,week,NA,NA,7.777777778
 Ohio,Season peak week,Bin,week,40,41,0.000315644
 Ohio,Season peak week,Bin,week,41,42,0.000316737
@@ -23628,9 +23628,9 @@ Ohio,Season peak week,Bin,week,16,17,0.004903586
 Ohio,Season peak week,Bin,week,17,18,0.001805366
 Ohio,Season peak week,Bin,week,18,19,0.000826755
 Ohio,Season peak week,Bin,week,19,20,0.000570924
-Ohio,Season peak week,Bin,week,20,21,0.000565498
+Ohio,Season peak week,Bin,week,20,21,0.22278772
 Ohio,Season peak percentage,Point,percent,NA,NA,2.506944444
-Ohio,Season peak percentage,Bin,percent,0,0.1,9.97065E-05
+Ohio,Season peak percentage,Bin,percent,0,0.1,9.97E-05
 Ohio,Season peak percentage,Bin,percent,0.1,0.2,0.000102098
 Ohio,Season peak percentage,Bin,percent,0.2,0.3,0.000102927
 Ohio,Season peak percentage,Bin,percent,0.3,0.4,0.000103335
@@ -23760,7 +23760,7 @@ Ohio,Season peak percentage,Bin,percent,12.6,12.7,0.000171608
 Ohio,Season peak percentage,Bin,percent,12.7,12.8,0.000171283
 Ohio,Season peak percentage,Bin,percent,12.8,12.9,0.000170815
 Ohio,Season peak percentage,Bin,percent,12.9,13,0.000169754
-Ohio,Season peak percentage,Bin,percent,13,100,0.000313
+Ohio,Season peak percentage,Bin,percent,13,100,0.222535225
 Ohio,1 wk ahead,Point,percent,NA,NA,2.054007286
 Ohio,1 wk ahead,Bin,percent,0,0.1,6.07E-04
 Ohio,1 wk ahead,Bin,percent,0.1,0.2,7.28E-04
@@ -23892,7 +23892,7 @@ Ohio,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Ohio,1 wk ahead,Bin,percent,12.7,12.8,0.000183458
 Ohio,1 wk ahead,Bin,percent,12.8,12.9,0.000182489
 Ohio,1 wk ahead,Bin,percent,12.9,13,1.81E-04
-Ohio,1 wk ahead,Bin,percent,13,100,#VALUE!
+Ohio,1 wk ahead,Bin,percent,13,100,0.222353687
 Ohio,2 wk ahead,Point,percent,NA,NA,1.80952863
 Ohio,2 wk ahead,Bin,percent,0,0.1,2.00E-03
 Ohio,2 wk ahead,Bin,percent,0.1,0.2,2.18E-03
@@ -24024,7 +24024,7 @@ Ohio,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Ohio,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Ohio,2 wk ahead,Bin,percent,12.8,12.9,0.00017374
 Ohio,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Ohio,2 wk ahead,Bin,percent,13,100,0.000238832
+Ohio,2 wk ahead,Bin,percent,13,100,0.222448112
 Ohio,3 wk ahead,Point,percent,NA,NA,1.540103307
 Ohio,3 wk ahead,Bin,percent,0,0.1,3.19E-03
 Ohio,3 wk ahead,Bin,percent,0.1,0.2,3.31E-03
@@ -24156,7 +24156,7 @@ Ohio,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Ohio,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Ohio,3 wk ahead,Bin,percent,12.8,12.9,0.00017489
 Ohio,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Ohio,3 wk ahead,Bin,percent,13,100,0.000306256
+Ohio,3 wk ahead,Bin,percent,13,100,0.222527096
 Ohio,4 wk ahead,Point,percent,NA,NA,1.268900246
 Ohio,4 wk ahead,Bin,percent,0,0.1,3.82E-03
 Ohio,4 wk ahead,Bin,percent,0.1,0.2,3.88E-03
@@ -24288,7 +24288,7 @@ Ohio,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Ohio,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Ohio,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Ohio,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Ohio,4 wk ahead,Bin,percent,13,100,0.00030477
+Ohio,4 wk ahead,Bin,percent,13,100,0.222503513
 Oklahoma,Season peak week,Point,week,NA,NA,5.111111111
 Oklahoma,Season peak week,Bin,week,40,41,0.000327563
 Oklahoma,Season peak week,Bin,week,41,42,0.0003281
@@ -24322,9 +24322,9 @@ Oklahoma,Season peak week,Bin,week,16,17,0.001483632
 Oklahoma,Season peak week,Bin,week,17,18,0.001026345
 Oklahoma,Season peak week,Bin,week,18,19,0.000704485
 Oklahoma,Season peak week,Bin,week,19,20,0.000601093
-Oklahoma,Season peak week,Bin,week,20,21,0.000623746
+Oklahoma,Season peak week,Bin,week,20,21,0.222845972
 Oklahoma,Season peak percentage,Point,percent,NA,NA,8.344444444
-Oklahoma,Season peak percentage,Bin,percent,0,0.1,9.99116E-05
+Oklahoma,Season peak percentage,Bin,percent,0,0.1,9.99E-05
 Oklahoma,Season peak percentage,Bin,percent,0.1,0.2,0.000102269
 Oklahoma,Season peak percentage,Bin,percent,0.2,0.3,0.000103434
 Oklahoma,Season peak percentage,Bin,percent,0.3,0.4,0.000104016
@@ -24454,7 +24454,7 @@ Oklahoma,Season peak percentage,Bin,percent,12.6,12.7,0.004151422
 Oklahoma,Season peak percentage,Bin,percent,12.7,12.8,0.003440119
 Oklahoma,Season peak percentage,Bin,percent,12.8,12.9,0.003489344
 Oklahoma,Season peak percentage,Bin,percent,12.9,13,0.002815205
-Oklahoma,Season peak percentage,Bin,percent,13,100,0.028331268
+Oklahoma,Season peak percentage,Bin,percent,13,100,0.250553508
 Oklahoma,1 wk ahead,Point,percent,NA,NA,4.340088445
 Oklahoma,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Oklahoma,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -24586,7 +24586,7 @@ Oklahoma,1 wk ahead,Bin,percent,12.6,12.7,0.000210335
 Oklahoma,1 wk ahead,Bin,percent,12.7,12.8,0.000184191
 Oklahoma,1 wk ahead,Bin,percent,12.8,12.9,0.00018216
 Oklahoma,1 wk ahead,Bin,percent,12.9,13,0.000179948
-Oklahoma,1 wk ahead,Bin,percent,13,100,0.00137761
+Oklahoma,1 wk ahead,Bin,percent,13,100,0.223601856
 Oklahoma,2 wk ahead,Point,percent,NA,NA,3.309971208
 Oklahoma,2 wk ahead,Bin,percent,0,0.1,2.00E-04
 Oklahoma,2 wk ahead,Bin,percent,0.1,0.2,2.22E-04
@@ -24718,7 +24718,7 @@ Oklahoma,2 wk ahead,Bin,percent,12.6,12.7,0.000239913
 Oklahoma,2 wk ahead,Bin,percent,12.7,12.8,0.000173423
 Oklahoma,2 wk ahead,Bin,percent,12.8,12.9,0.000172987
 Oklahoma,2 wk ahead,Bin,percent,12.9,13,0.000172437
-Oklahoma,2 wk ahead,Bin,percent,13,100,0.001002921
+Oklahoma,2 wk ahead,Bin,percent,13,100,0.223226604
 Oklahoma,3 wk ahead,Point,percent,NA,NA,2.643357921
 Oklahoma,3 wk ahead,Bin,percent,0,0.1,1.17E-03
 Oklahoma,3 wk ahead,Bin,percent,0.1,0.2,1.27E-03
@@ -24850,7 +24850,7 @@ Oklahoma,3 wk ahead,Bin,percent,12.6,12.7,0.000181264
 Oklahoma,3 wk ahead,Bin,percent,12.7,12.8,0.000205123
 Oklahoma,3 wk ahead,Bin,percent,12.8,12.9,1.80E-04
 Oklahoma,3 wk ahead,Bin,percent,12.9,13,0.000178851
-Oklahoma,3 wk ahead,Bin,percent,13,100,0.000881127
+Oklahoma,3 wk ahead,Bin,percent,13,100,0.223105703
 Oklahoma,4 wk ahead,Point,percent,NA,NA,2.158887656
 Oklahoma,4 wk ahead,Bin,percent,0,0.1,2.04E-03
 Oklahoma,4 wk ahead,Bin,percent,0.1,0.2,2.15E-03
@@ -24982,7 +24982,7 @@ Oklahoma,4 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Oklahoma,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Oklahoma,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Oklahoma,4 wk ahead,Bin,percent,12.9,13,0.000238761
-Oklahoma,4 wk ahead,Bin,percent,13,100,0.000691681
+Oklahoma,4 wk ahead,Bin,percent,13,100,0.222916786
 Oregon,Season peak week,Point,week,NA,NA,9
 Oregon,Season peak week,Bin,week,40,41,0.000321619
 Oregon,Season peak week,Bin,week,41,42,0.000322783
@@ -25016,7 +25016,7 @@ Oregon,Season peak week,Bin,week,16,17,0.018703637
 Oregon,Season peak week,Bin,week,17,18,0.009494257
 Oregon,Season peak week,Bin,week,18,19,0.004088813
 Oregon,Season peak week,Bin,week,19,20,0.00094324
-Oregon,Season peak week,Bin,week,20,21,0.000640433
+Oregon,Season peak week,Bin,week,20,21,0.222862657
 Oregon,Season peak percentage,Point,percent,NA,NA,3.755555556
 Oregon,Season peak percentage,Bin,percent,0,0.1,0.000101569
 Oregon,Season peak percentage,Bin,percent,0.1,0.2,0.000103747
@@ -25148,7 +25148,7 @@ Oregon,Season peak percentage,Bin,percent,12.6,12.7,0.000175224
 Oregon,Season peak percentage,Bin,percent,12.7,12.8,0.000242296
 Oregon,Season peak percentage,Bin,percent,12.8,12.9,0.000173426
 Oregon,Season peak percentage,Bin,percent,12.9,13,0.000171322
-Oregon,Season peak percentage,Bin,percent,13,100,0.003449365
+Oregon,Season peak percentage,Bin,percent,13,100,0.225671584
 Oregon,1 wk ahead,Point,percent,NA,NA,3.329136914
 Oregon,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Oregon,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -25280,7 +25280,7 @@ Oregon,1 wk ahead,Bin,percent,12.6,12.7,0.000181856
 Oregon,1 wk ahead,Bin,percent,12.7,12.8,0.000181118
 Oregon,1 wk ahead,Bin,percent,12.8,12.9,0.000180115
 Oregon,1 wk ahead,Bin,percent,12.9,13,0.000178773
-Oregon,1 wk ahead,Bin,percent,13,100,0.000155875
+Oregon,1 wk ahead,Bin,percent,13,100,0.222377301
 Oregon,2 wk ahead,Point,percent,NA,NA,3.04598079
 Oregon,2 wk ahead,Bin,percent,0,0.1,5.75E-04
 Oregon,2 wk ahead,Bin,percent,0.1,0.2,6.55E-04
@@ -25412,7 +25412,7 @@ Oregon,2 wk ahead,Bin,percent,12.6,12.7,0.000173765
 Oregon,2 wk ahead,Bin,percent,12.7,12.8,5.08E-04
 Oregon,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Oregon,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Oregon,2 wk ahead,Bin,percent,13,100,0.001934914
+Oregon,2 wk ahead,Bin,percent,13,100,0.224160601
 Oregon,3 wk ahead,Point,percent,NA,NA,2.600550195
 Oregon,3 wk ahead,Bin,percent,0,0.1,1.94E-03
 Oregon,3 wk ahead,Bin,percent,0.1,0.2,2.08E-03
@@ -25544,7 +25544,7 @@ Oregon,3 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Oregon,3 wk ahead,Bin,percent,12.7,12.8,0.000174184
 Oregon,3 wk ahead,Bin,percent,12.8,12.9,3.08E-04
 Oregon,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Oregon,3 wk ahead,Bin,percent,13,100,0.001376659
+Oregon,3 wk ahead,Bin,percent,13,100,0.223591811
 Oregon,4 wk ahead,Point,percent,NA,NA,2.298085627
 Oregon,4 wk ahead,Bin,percent,0,0.1,3.79E-03
 Oregon,4 wk ahead,Bin,percent,0.1,0.2,4.03E-03
@@ -25676,7 +25676,7 @@ Oregon,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Oregon,4 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 Oregon,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Oregon,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Oregon,4 wk ahead,Bin,percent,13,100,0.000772528
+Oregon,4 wk ahead,Bin,percent,13,100,0.223003322
 Pennsylvania,Season peak week,Point,week,NA,NA,6.082304527
 Pennsylvania,Season peak week,Bin,week,40,41,0.00032021
 Pennsylvania,Season peak week,Bin,week,41,42,0.000322166
@@ -25710,7 +25710,7 @@ Pennsylvania,Season peak week,Bin,week,16,17,0.002304294
 Pennsylvania,Season peak week,Bin,week,17,18,0.001192439
 Pennsylvania,Season peak week,Bin,week,18,19,0.00079902
 Pennsylvania,Season peak week,Bin,week,19,20,0.000633799
-Pennsylvania,Season peak week,Bin,week,20,21,0.000641494
+Pennsylvania,Season peak week,Bin,week,20,21,0.222863718
 Pennsylvania,Season peak percentage,Point,percent,NA,NA,2.75
 Pennsylvania,Season peak percentage,Bin,percent,0,0.1,0.000100128
 Pennsylvania,Season peak percentage,Bin,percent,0.1,0.2,0.0001021
@@ -25842,7 +25842,7 @@ Pennsylvania,Season peak percentage,Bin,percent,12.6,12.7,0.000172247
 Pennsylvania,Season peak percentage,Bin,percent,12.7,12.8,0.000171772
 Pennsylvania,Season peak percentage,Bin,percent,12.8,12.9,0.000171003
 Pennsylvania,Season peak percentage,Bin,percent,12.9,13,0.000169723
-Pennsylvania,Season peak percentage,Bin,percent,13,100,0.001572402
+Pennsylvania,Season peak percentage,Bin,percent,13,100,0.223794625
 Pennsylvania,1 wk ahead,Point,percent,NA,NA,2.33424408
 Pennsylvania,1 wk ahead,Bin,percent,0,0.1,2.80E-04
 Pennsylvania,1 wk ahead,Bin,percent,0.1,0.2,3.34E-04
@@ -25974,7 +25974,7 @@ Pennsylvania,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Pennsylvania,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Pennsylvania,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Pennsylvania,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Pennsylvania,1 wk ahead,Bin,percent,13,100,0.000117783
+Pennsylvania,1 wk ahead,Bin,percent,13,100,0.222337881
 Pennsylvania,2 wk ahead,Point,percent,NA,NA,2.13732767
 Pennsylvania,2 wk ahead,Bin,percent,0,0.1,1.34E-03
 Pennsylvania,2 wk ahead,Bin,percent,0.1,0.2,1.48E-03
@@ -26106,7 +26106,7 @@ Pennsylvania,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Pennsylvania,2 wk ahead,Bin,percent,12.7,12.8,2.40E-04
 Pennsylvania,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Pennsylvania,2 wk ahead,Bin,percent,12.9,13,2.40E-04
-Pennsylvania,2 wk ahead,Bin,percent,13,100,0.001041869
+Pennsylvania,2 wk ahead,Bin,percent,13,100,0.223277368
 Pennsylvania,3 wk ahead,Point,percent,NA,NA,1.939740864
 Pennsylvania,3 wk ahead,Bin,percent,0,0.1,2.45E-03
 Pennsylvania,3 wk ahead,Bin,percent,0.1,0.2,2.58E-03
@@ -26238,7 +26238,7 @@ Pennsylvania,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Pennsylvania,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Pennsylvania,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Pennsylvania,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Pennsylvania,3 wk ahead,Bin,percent,13,100,0.001043631
+Pennsylvania,3 wk ahead,Bin,percent,13,100,0.223267156
 Pennsylvania,4 wk ahead,Point,percent,NA,NA,1.770645467
 Pennsylvania,4 wk ahead,Bin,percent,0,0.1,2.69E-03
 Pennsylvania,4 wk ahead,Bin,percent,0.1,0.2,2.79E-03
@@ -26316,7 +26316,7 @@ Pennsylvania,4 wk ahead,Bin,percent,7.2,7.3,2.41E-04
 Pennsylvania,4 wk ahead,Bin,percent,7.3,7.4,1.75E-04
 Pennsylvania,4 wk ahead,Bin,percent,7.4,7.5,1.75E-04
 Pennsylvania,4 wk ahead,Bin,percent,7.5,7.6,1.75E-04
-Pennsylvania,4 wk ahead,Bin,percent,7.6,7.7,#VALUE!
+Pennsylvania,4 wk ahead,Bin,percent,7.6,7.7,0.000175
 Pennsylvania,4 wk ahead,Bin,percent,7.7,7.8,1.75E-04
 Pennsylvania,4 wk ahead,Bin,percent,7.8,7.9,3.09E-04
 Pennsylvania,4 wk ahead,Bin,percent,7.9,8,1.75E-04
@@ -26370,7 +26370,7 @@ Pennsylvania,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Pennsylvania,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Pennsylvania,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Pennsylvania,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Pennsylvania,4 wk ahead,Bin,percent,13,100,0.000575371
+Pennsylvania,4 wk ahead,Bin,percent,13,100,0.22284499
 Puerto Rico,Season peak week,Point,week,NA,NA,18.88888889
 Puerto Rico,Season peak week,Bin,week,40,41,0.000325778
 Puerto Rico,Season peak week,Bin,week,41,42,0.000328661
@@ -26404,9 +26404,9 @@ Puerto Rico,Season peak week,Bin,week,16,17,0.00308677
 Puerto Rico,Season peak week,Bin,week,17,18,0.004246497
 Puerto Rico,Season peak week,Bin,week,18,19,0.005565978
 Puerto Rico,Season peak week,Bin,week,19,20,0.002163121
-Puerto Rico,Season peak week,Bin,week,20,21,0.001581277
+Puerto Rico,Season peak week,Bin,week,20,21,0.2238035
 Puerto Rico,Season peak percentage,Point,percent,NA,NA,8.822222222
-Puerto Rico,Season peak percentage,Bin,percent,0,0.1,9.91877E-05
+Puerto Rico,Season peak percentage,Bin,percent,0,0.1,9.92E-05
 Puerto Rico,Season peak percentage,Bin,percent,0.1,0.2,0.000101368
 Puerto Rico,Season peak percentage,Bin,percent,0.2,0.3,0.000102588
 Puerto Rico,Season peak percentage,Bin,percent,0.3,0.4,0.000103227
@@ -26536,7 +26536,7 @@ Puerto Rico,Season peak percentage,Bin,percent,12.6,12.7,0.013055067
 Puerto Rico,Season peak percentage,Bin,percent,12.7,12.8,0.010069943
 Puerto Rico,Season peak percentage,Bin,percent,12.8,12.9,0.007651757
 Puerto Rico,Season peak percentage,Bin,percent,12.9,13,0.00782703
-Puerto Rico,Season peak percentage,Bin,percent,13,100,0.090181874
+Puerto Rico,Season peak percentage,Bin,percent,13,100,0.312404088
 Puerto Rico,1 wk ahead,Point,percent,NA,NA,5.82347114
 Puerto Rico,1 wk ahead,Bin,percent,0,0.1,1.77E-04
 Puerto Rico,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -26668,7 +26668,7 @@ Puerto Rico,1 wk ahead,Bin,percent,12.6,12.7,0.00022074
 Puerto Rico,1 wk ahead,Bin,percent,12.7,12.8,0.000237019
 Puerto Rico,1 wk ahead,Bin,percent,12.8,12.9,0.000231565
 Puerto Rico,1 wk ahead,Bin,percent,12.9,13,0.000203862
-Puerto Rico,1 wk ahead,Bin,percent,13,100,0.000526401
+Puerto Rico,1 wk ahead,Bin,percent,13,100,0.222746398
 Puerto Rico,2 wk ahead,Point,percent,NA,NA,5.328805917
 Puerto Rico,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Puerto Rico,2 wk ahead,Bin,percent,0.1,0.2,1.72E-04
@@ -26800,7 +26800,7 @@ Puerto Rico,2 wk ahead,Bin,percent,12.6,12.7,0.000198081
 Puerto Rico,2 wk ahead,Bin,percent,12.7,12.8,0.000268168
 Puerto Rico,2 wk ahead,Bin,percent,12.8,12.9,0.000281187
 Puerto Rico,2 wk ahead,Bin,percent,12.9,13,0.000309162
-Puerto Rico,2 wk ahead,Bin,percent,13,100,0.002760034
+Puerto Rico,2 wk ahead,Bin,percent,13,100,0.224981752
 Puerto Rico,3 wk ahead,Point,percent,NA,NA,5.0336302
 Puerto Rico,3 wk ahead,Bin,percent,0,0.1,1.72E-04
 Puerto Rico,3 wk ahead,Bin,percent,0.1,0.2,1.73E-04
@@ -26932,7 +26932,7 @@ Puerto Rico,3 wk ahead,Bin,percent,12.6,12.7,0.000363685
 Puerto Rico,3 wk ahead,Bin,percent,12.7,12.8,0.000496287
 Puerto Rico,3 wk ahead,Bin,percent,12.8,12.9,0.000360957
 Puerto Rico,3 wk ahead,Bin,percent,12.9,13,0.000306323
-Puerto Rico,3 wk ahead,Bin,percent,13,100,0.004480517
+Puerto Rico,3 wk ahead,Bin,percent,13,100,0.226703565
 Puerto Rico,4 wk ahead,Point,percent,NA,NA,4.672421232
 Puerto Rico,4 wk ahead,Bin,percent,0,0.1,1.73E-04
 Puerto Rico,4 wk ahead,Bin,percent,0.1,0.2,1.74E-04
@@ -27064,7 +27064,7 @@ Puerto Rico,4 wk ahead,Bin,percent,12.6,12.7,0.00035003
 Puerto Rico,4 wk ahead,Bin,percent,12.7,12.8,0.000341679
 Puerto Rico,4 wk ahead,Bin,percent,12.8,12.9,0.00031633
 Puerto Rico,4 wk ahead,Bin,percent,12.9,13,0.000249381
-Puerto Rico,4 wk ahead,Bin,percent,13,100,0.004026107
+Puerto Rico,4 wk ahead,Bin,percent,13,100,0.226248067
 Rhode Island,Season peak week,Point,week,NA,NA,4.666666667
 Rhode Island,Season peak week,Bin,week,40,41,0.000326077
 Rhode Island,Season peak week,Bin,week,41,42,0.000328233
@@ -27098,7 +27098,7 @@ Rhode Island,Season peak week,Bin,week,16,17,0.002454351
 Rhode Island,Season peak week,Bin,week,17,18,0.001456792
 Rhode Island,Season peak week,Bin,week,18,19,0.00101153
 Rhode Island,Season peak week,Bin,week,19,20,0.000577789
-Rhode Island,Season peak week,Bin,week,20,21,0.000577121
+Rhode Island,Season peak week,Bin,week,20,21,0.222799343
 Rhode Island,Season peak percentage,Point,percent,NA,NA,4.977777778
 Rhode Island,Season peak percentage,Bin,percent,0,0.1,0.000100427
 Rhode Island,Season peak percentage,Bin,percent,0.1,0.2,0.000103042
@@ -27230,7 +27230,7 @@ Rhode Island,Season peak percentage,Bin,percent,12.6,12.7,0.000172468
 Rhode Island,Season peak percentage,Bin,percent,12.7,12.8,0.000172114
 Rhode Island,Season peak percentage,Bin,percent,12.8,12.9,0.000171671
 Rhode Island,Season peak percentage,Bin,percent,12.9,13,0.00017069
-Rhode Island,Season peak percentage,Bin,percent,13,100,0.00102385
+Rhode Island,Season peak percentage,Bin,percent,13,100,0.223246066
 Rhode Island,1 wk ahead,Point,percent,NA,NA,2.370749486
 Rhode Island,1 wk ahead,Bin,percent,0,0.1,3.27E-04
 Rhode Island,1 wk ahead,Bin,percent,0.1,0.2,3.91E-04
@@ -27362,7 +27362,7 @@ Rhode Island,1 wk ahead,Bin,percent,12.6,12.7,0.000182233
 Rhode Island,1 wk ahead,Bin,percent,12.7,12.8,0.000181491
 Rhode Island,1 wk ahead,Bin,percent,12.8,12.9,0.000180417
 Rhode Island,1 wk ahead,Bin,percent,12.9,13,0.000178977
-Rhode Island,1 wk ahead,Bin,percent,13,100,0.00012916
+Rhode Island,1 wk ahead,Bin,percent,13,100,0.22235131
 Rhode Island,2 wk ahead,Point,percent,NA,NA,1.969461769
 Rhode Island,2 wk ahead,Bin,percent,0,0.1,1.79E-03
 Rhode Island,2 wk ahead,Bin,percent,0.1,0.2,2.10E-03
@@ -27494,7 +27494,7 @@ Rhode Island,2 wk ahead,Bin,percent,12.6,12.7,0.000173708
 Rhode Island,2 wk ahead,Bin,percent,12.7,12.8,0.000173516
 Rhode Island,2 wk ahead,Bin,percent,12.8,12.9,0.000173157
 Rhode Island,2 wk ahead,Bin,percent,12.9,13,0.0001726
-Rhode Island,2 wk ahead,Bin,percent,13,100,0.000642968
+Rhode Island,2 wk ahead,Bin,percent,13,100,0.22286042
 Rhode Island,3 wk ahead,Point,percent,NA,NA,1.656453984
 Rhode Island,3 wk ahead,Bin,percent,0,0.1,2.81E-03
 Rhode Island,3 wk ahead,Bin,percent,0.1,0.2,3.16E-03
@@ -27626,7 +27626,7 @@ Rhode Island,3 wk ahead,Bin,percent,12.6,12.7,0.00019879
 Rhode Island,3 wk ahead,Bin,percent,12.7,12.8,0.000174021
 Rhode Island,3 wk ahead,Bin,percent,12.8,12.9,0.000173592
 Rhode Island,3 wk ahead,Bin,percent,12.9,13,0.000172968
-Rhode Island,3 wk ahead,Bin,percent,13,100,0.000600852
+Rhode Island,3 wk ahead,Bin,percent,13,100,0.222824238
 Rhode Island,4 wk ahead,Point,percent,NA,NA,1.414767264
 Rhode Island,4 wk ahead,Bin,percent,0,0.1,3.62E-03
 Rhode Island,4 wk ahead,Bin,percent,0.1,0.2,4.25E-03
@@ -27758,7 +27758,7 @@ Rhode Island,4 wk ahead,Bin,percent,12.6,12.7,0.000174026
 Rhode Island,4 wk ahead,Bin,percent,12.7,12.8,0.000173835
 Rhode Island,4 wk ahead,Bin,percent,12.8,12.9,0.000173459
 Rhode Island,4 wk ahead,Bin,percent,12.9,13,0.000172842
-Rhode Island,4 wk ahead,Bin,percent,13,100,0.000538572
+Rhode Island,4 wk ahead,Bin,percent,13,100,0.222765254
 South Carolina,Season peak week,Point,week,NA,NA,5
 South Carolina,Season peak week,Bin,week,40,41,0.000325812
 South Carolina,Season peak week,Bin,week,41,42,0.000327863
@@ -27792,9 +27792,9 @@ South Carolina,Season peak week,Bin,week,16,17,0.001924608
 South Carolina,Season peak week,Bin,week,17,18,0.001026155
 South Carolina,Season peak week,Bin,week,18,19,0.000704252
 South Carolina,Season peak week,Bin,week,19,20,0.000577419
-South Carolina,Season peak week,Bin,week,20,21,0.000576754
+South Carolina,Season peak week,Bin,week,20,21,0.222798978
 South Carolina,Season peak percentage,Point,percent,NA,NA,7.511111111
-South Carolina,Season peak percentage,Bin,percent,0,0.1,9.93152E-05
+South Carolina,Season peak percentage,Bin,percent,0,0.1,9.93E-05
 South Carolina,Season peak percentage,Bin,percent,0.1,0.2,0.000101676
 South Carolina,Season peak percentage,Bin,percent,0.2,0.3,0.000102842
 South Carolina,Season peak percentage,Bin,percent,0.3,0.4,0.000103375
@@ -27924,7 +27924,7 @@ South Carolina,Season peak percentage,Bin,percent,12.6,12.7,0.001506133
 South Carolina,Season peak percentage,Bin,percent,12.7,12.8,0.001400611
 South Carolina,Season peak percentage,Bin,percent,12.8,12.9,0.00129905
 South Carolina,Season peak percentage,Bin,percent,12.9,13,0.00120119
-South Carolina,Season peak percentage,Bin,percent,13,100,0.01008697
+South Carolina,Season peak percentage,Bin,percent,13,100,0.232309207
 South Carolina,1 wk ahead,Point,percent,NA,NA,3.084051444
 South Carolina,1 wk ahead,Bin,percent,0,0.1,1.82E-04
 South Carolina,1 wk ahead,Bin,percent,0.1,0.2,2.09E-04
@@ -28056,7 +28056,7 @@ South Carolina,1 wk ahead,Bin,percent,12.6,12.7,0.000181744
 South Carolina,1 wk ahead,Bin,percent,12.7,12.8,0.000205399
 South Carolina,1 wk ahead,Bin,percent,12.8,12.9,0.000179823
 South Carolina,1 wk ahead,Bin,percent,12.9,13,0.000178522
-South Carolina,1 wk ahead,Bin,percent,13,100,0.000131899
+South Carolina,1 wk ahead,Bin,percent,13,100,0.222358298
 South Carolina,2 wk ahead,Point,percent,NA,NA,2.269625672
 South Carolina,2 wk ahead,Bin,percent,0,0.1,1.83E-03
 South Carolina,2 wk ahead,Bin,percent,0.1,0.2,2.00E-03
@@ -28188,7 +28188,7 @@ South Carolina,2 wk ahead,Bin,percent,12.6,12.7,0.000239545
 South Carolina,2 wk ahead,Bin,percent,12.7,12.8,0.000173184
 South Carolina,2 wk ahead,Bin,percent,12.8,12.9,0.000172817
 South Carolina,2 wk ahead,Bin,percent,12.9,13,0.000172344
-South Carolina,2 wk ahead,Bin,percent,13,100,0.000447502
+South Carolina,2 wk ahead,Bin,percent,13,100,0.222674878
 South Carolina,3 wk ahead,Point,percent,NA,NA,1.768254405
 South Carolina,3 wk ahead,Bin,percent,0,0.1,4.18E-03
 South Carolina,3 wk ahead,Bin,percent,0.1,0.2,4.28E-03
@@ -28320,8 +28320,8 @@ South Carolina,3 wk ahead,Bin,percent,12.6,12.7,0.000174066
 South Carolina,3 wk ahead,Bin,percent,12.7,12.8,0.000173761
 South Carolina,3 wk ahead,Bin,percent,12.8,12.9,0.000173337
 South Carolina,3 wk ahead,Bin,percent,12.9,13,0.000172799
-South Carolina,3 wk ahead,Bin,percent,13,100,0.000407172
-South Carolina,4 wk ahead,Point,percent,NA,NA,#VALUE!
+South Carolina,3 wk ahead,Bin,percent,13,100,0.222634348
+South Carolina,4 wk ahead,Point,percent,NA,NA,1.768254405
 South Carolina,4 wk ahead,Bin,percent,0,0.1,5.11E-03
 South Carolina,4 wk ahead,Bin,percent,0.1,0.2,5.14E-03
 South Carolina,4 wk ahead,Bin,percent,0.2,0.3,5.40E-03
@@ -28452,7 +28452,7 @@ South Carolina,4 wk ahead,Bin,percent,12.6,12.7,0.000173919
 South Carolina,4 wk ahead,Bin,percent,12.7,12.8,0.000173664
 South Carolina,4 wk ahead,Bin,percent,12.8,12.9,0.000173279
 South Carolina,4 wk ahead,Bin,percent,12.9,13,0.000172744
-South Carolina,4 wk ahead,Bin,percent,13,100,0.000175393
+South Carolina,4 wk ahead,Bin,percent,13,100,0.222395714
 South Dakota,Season peak week,Point,week,NA,NA,17
 South Dakota,Season peak week,Bin,week,40,41,0.047733807
 South Dakota,Season peak week,Bin,week,41,42,0.029050842
@@ -28486,7 +28486,7 @@ South Dakota,Season peak week,Bin,week,16,17,0.003478041
 South Dakota,Season peak week,Bin,week,17,18,0.003386175
 South Dakota,Season peak week,Bin,week,18,19,0.004610398
 South Dakota,Season peak week,Bin,week,19,20,0.004517756
-South Dakota,Season peak week,Bin,week,20,21,0.006085668
+South Dakota,Season peak week,Bin,week,20,21,0.22830789
 South Dakota,Season peak percentage,Point,percent,NA,NA,2.011111111
 South Dakota,Season peak percentage,Bin,percent,0,0.1,0.000100976
 South Dakota,Season peak percentage,Bin,percent,0.1,0.2,0.000102334
@@ -28618,7 +28618,7 @@ South Dakota,Season peak percentage,Bin,percent,12.6,12.7,0.000170891
 South Dakota,Season peak percentage,Bin,percent,12.7,12.8,0.000170566
 South Dakota,Season peak percentage,Bin,percent,12.8,12.9,0.000170519
 South Dakota,Season peak percentage,Bin,percent,12.9,13,0.000170127
-South Dakota,Season peak percentage,Bin,percent,13,100,0.000965754
+South Dakota,Season peak percentage,Bin,percent,13,100,0.223187975
 South Dakota,1 wk ahead,Point,percent,NA,NA,1.554007286
 South Dakota,1 wk ahead,Bin,percent,0,0.1,1.65E-03
 South Dakota,1 wk ahead,Bin,percent,0.1,0.2,1.91E-03
@@ -28750,7 +28750,7 @@ South Dakota,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 South Dakota,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 South Dakota,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 South Dakota,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-South Dakota,1 wk ahead,Bin,percent,13,100,1.17E-04
+South Dakota,1 wk ahead,Bin,percent,13,100,2.22E-01
 South Dakota,2 wk ahead,Point,percent,NA,NA,1.407684856
 South Dakota,2 wk ahead,Bin,percent,0,0.1,3.00E-03
 South Dakota,2 wk ahead,Bin,percent,0.1,0.2,3.20E-03
@@ -28882,7 +28882,7 @@ South Dakota,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 South Dakota,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 South Dakota,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 South Dakota,2 wk ahead,Bin,percent,12.9,13,1.74E-04
-South Dakota,2 wk ahead,Bin,percent,13,100,4.40E-04
+South Dakota,2 wk ahead,Bin,percent,13,100,2.23E-01
 South Dakota,3 wk ahead,Point,percent,NA,NA,1.239132194
 South Dakota,3 wk ahead,Bin,percent,0,0.1,3.64E-03
 South Dakota,3 wk ahead,Bin,percent,0.1,0.2,3.75E-03
@@ -29014,7 +29014,7 @@ South Dakota,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 South Dakota,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 South Dakota,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 South Dakota,3 wk ahead,Bin,percent,12.9,13,1.75E-04
-South Dakota,3 wk ahead,Bin,percent,13,100,3.75E-04
+South Dakota,3 wk ahead,Bin,percent,13,100,2.23E-01
 South Dakota,4 wk ahead,Point,percent,NA,NA,1.115864092
 South Dakota,4 wk ahead,Bin,percent,0,0.1,3.94E-03
 South Dakota,4 wk ahead,Bin,percent,0.1,0.2,4.02E-03
@@ -29146,7 +29146,7 @@ South Dakota,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 South Dakota,4 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 South Dakota,4 wk ahead,Bin,percent,12.8,12.9,2.41E-04
 South Dakota,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-South Dakota,4 wk ahead,Bin,percent,13,100,7.07E-04
+South Dakota,4 wk ahead,Bin,percent,13,100,2.23E-01
 Tennessee,Season peak week,Point,week,NA,NA,4.777777778
 Tennessee,Season peak week,Bin,week,40,41,0.000320834
 Tennessee,Season peak week,Bin,week,41,42,0.000322761
@@ -29180,9 +29180,9 @@ Tennessee,Season peak week,Bin,week,16,17,0.001735245
 Tennessee,Season peak week,Bin,week,17,18,0.001226971
 Tennessee,Season peak week,Bin,week,18,19,0.000841791
 Tennessee,Season peak week,Bin,week,19,20,0.00066741
-Tennessee,Season peak week,Bin,week,20,21,0.000714774
+Tennessee,Season peak week,Bin,week,20,21,0.222936996
 Tennessee,Season peak percentage,Point,percent,NA,NA,4.438888889
-Tennessee,Season peak percentage,Bin,percent,0,0.1,9.96223E-05
+Tennessee,Season peak percentage,Bin,percent,0,0.1,9.96E-05
 Tennessee,Season peak percentage,Bin,percent,0.1,0.2,0.000101847
 Tennessee,Season peak percentage,Bin,percent,0.2,0.3,0.000102383
 Tennessee,Season peak percentage,Bin,percent,0.3,0.4,0.000102731
@@ -29312,7 +29312,7 @@ Tennessee,Season peak percentage,Bin,percent,12.6,12.7,0.000171009
 Tennessee,Season peak percentage,Bin,percent,12.7,12.8,0.000170719
 Tennessee,Season peak percentage,Bin,percent,12.8,12.9,0.000170346
 Tennessee,Season peak percentage,Bin,percent,12.9,13,0.000169594
-Tennessee,Season peak percentage,Bin,percent,13,100,0.000998915
+Tennessee,Season peak percentage,Bin,percent,13,100,0.223221166
 Tennessee,1 wk ahead,Point,percent,NA,NA,1.585883424
 Tennessee,1 wk ahead,Bin,percent,0,0.1,9.97E-04
 Tennessee,1 wk ahead,Bin,percent,0.1,0.2,1.19E-03
@@ -29444,7 +29444,7 @@ Tennessee,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Tennessee,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Tennessee,1 wk ahead,Bin,percent,12.8,12.9,1.82E-04
 Tennessee,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Tennessee,1 wk ahead,Bin,percent,13,100,1.23E-04
+Tennessee,1 wk ahead,Bin,percent,13,100,2.22E-01
 Tennessee,2 wk ahead,Point,percent,NA,NA,1.284536851
 Tennessee,2 wk ahead,Bin,percent,0,0.1,2.69E-03
 Tennessee,2 wk ahead,Bin,percent,0.1,0.2,2.91E-03
@@ -29576,7 +29576,7 @@ Tennessee,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Tennessee,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Tennessee,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Tennessee,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Tennessee,2 wk ahead,Bin,percent,13,100,0.000708642
+Tennessee,2 wk ahead,Bin,percent,13,100,0.222927609
 Tennessee,3 wk ahead,Point,percent,NA,NA,1.048791234
 Tennessee,3 wk ahead,Bin,percent,0,0.1,3.73E-03
 Tennessee,3 wk ahead,Bin,percent,0.1,0.2,3.93E-03
@@ -29708,7 +29708,7 @@ Tennessee,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Tennessee,3 wk ahead,Bin,percent,12.7,12.8,0.000174868
 Tennessee,3 wk ahead,Bin,percent,12.8,12.9,0.000174492
 Tennessee,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Tennessee,3 wk ahead,Bin,percent,13,100,0.00037387
+Tennessee,3 wk ahead,Bin,percent,13,100,0.222603439
 Tennessee,4 wk ahead,Point,percent,NA,NA,0.88590195
 Tennessee,4 wk ahead,Bin,percent,0,0.1,4.65E-03
 Tennessee,4 wk ahead,Bin,percent,0.1,0.2,0.00479434
@@ -29840,7 +29840,7 @@ Tennessee,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Tennessee,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Tennessee,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Tennessee,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Tennessee,4 wk ahead,Bin,percent,13,100,0.000174318
+Tennessee,4 wk ahead,Bin,percent,13,100,0.222391874
 Texas,Season peak week,Point,week,NA,NA,5.444444444
 Texas,Season peak week,Bin,week,40,41,0.000319307
 Texas,Season peak week,Bin,week,41,42,0.000321403
@@ -29874,9 +29874,9 @@ Texas,Season peak week,Bin,week,16,17,0.001554975
 Texas,Season peak week,Bin,week,17,18,0.00103869
 Texas,Season peak week,Bin,week,18,19,0.000719043
 Texas,Season peak week,Bin,week,19,20,0.000570956
-Texas,Season peak week,Bin,week,20,21,0.000570751
+Texas,Season peak week,Bin,week,20,21,0.222792973
 Texas,Season peak percentage,Point,percent,NA,NA,8.169444444
-Texas,Season peak percentage,Bin,percent,0,0.1,9.87336E-05
+Texas,Season peak percentage,Bin,percent,0,0.1,9.87E-05
 Texas,Season peak percentage,Bin,percent,0.1,0.2,0.000100702
 Texas,Season peak percentage,Bin,percent,0.2,0.3,0.000101582
 Texas,Season peak percentage,Bin,percent,0.3,0.4,0.000101925
@@ -30006,7 +30006,7 @@ Texas,Season peak percentage,Bin,percent,12.6,12.7,0.002793035
 Texas,Season peak percentage,Bin,percent,12.7,12.8,0.0026928
 Texas,Season peak percentage,Bin,percent,12.8,12.9,0.002704648
 Texas,Season peak percentage,Bin,percent,12.9,13,0.002664331
-Texas,Season peak percentage,Bin,percent,13,100,0.052109656
+Texas,Season peak percentage,Bin,percent,13,100,0.274331914
 Texas,1 wk ahead,Point,percent,NA,NA,5.311384335
 Texas,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Texas,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -30138,7 +30138,7 @@ Texas,1 wk ahead,Bin,percent,12.6,12.7,0.000232133
 Texas,1 wk ahead,Bin,percent,12.7,12.8,0.000182288
 Texas,1 wk ahead,Bin,percent,12.8,12.9,0.000181111
 Texas,1 wk ahead,Bin,percent,12.9,13,0.000179524
-Texas,1 wk ahead,Bin,percent,13,100,0.0001505
+Texas,1 wk ahead,Bin,percent,13,100,0.222376023
 Texas,2 wk ahead,Point,percent,NA,NA,4.367996704
 Texas,2 wk ahead,Bin,percent,0,0.1,1.72E-04
 Texas,2 wk ahead,Bin,percent,0.1,0.2,1.73E-04
@@ -30270,7 +30270,7 @@ Texas,2 wk ahead,Bin,percent,12.6,12.7,0.000198375
 Texas,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Texas,2 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Texas,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Texas,2 wk ahead,Bin,percent,13,100,0.001291056
+Texas,2 wk ahead,Bin,percent,13,100,0.223525831
 Texas,3 wk ahead,Point,percent,NA,NA,3.785686394
 Texas,3 wk ahead,Bin,percent,0,0.1,3.32E-04
 Texas,3 wk ahead,Bin,percent,0.1,0.2,3.68E-04
@@ -30402,7 +30402,7 @@ Texas,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Texas,3 wk ahead,Bin,percent,12.7,12.8,0.0001746
 Texas,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Texas,3 wk ahead,Bin,percent,12.9,13,0.000173548
-Texas,3 wk ahead,Bin,percent,13,100,0.001068808
+Texas,3 wk ahead,Bin,percent,13,100,0.223290363
 Texas,4 wk ahead,Point,percent,NA,NA,3.282509938
 Texas,4 wk ahead,Bin,percent,0,0.1,6.16E-04
 Texas,4 wk ahead,Bin,percent,0.1,0.2,6.71E-04
@@ -30534,7 +30534,7 @@ Texas,4 wk ahead,Bin,percent,12.6,12.7,1.99E-04
 Texas,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Texas,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Texas,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Texas,4 wk ahead,Bin,percent,13,100,0.000734698
+Texas,4 wk ahead,Bin,percent,13,100,0.222936039
 Utah,Season peak week,Point,week,NA,NA,5.888888889
 Utah,Season peak week,Bin,week,40,41,0.000319994
 Utah,Season peak week,Bin,week,41,42,0.000322235
@@ -30568,9 +30568,9 @@ Utah,Season peak week,Bin,week,16,17,0.001706789
 Utah,Season peak week,Bin,week,17,18,0.001369439
 Utah,Season peak week,Bin,week,18,19,0.000764344
 Utah,Season peak week,Bin,week,19,20,0.000615603
-Utah,Season peak week,Bin,week,20,21,0.000659186
+Utah,Season peak week,Bin,week,20,21,0.222881406
 Utah,Season peak percentage,Point,percent,NA,NA,5.222222222
-Utah,Season peak percentage,Bin,percent,0,0.1,9.90153E-05
+Utah,Season peak percentage,Bin,percent,0,0.1,9.90E-05
 Utah,Season peak percentage,Bin,percent,0.1,0.2,0.000101616
 Utah,Season peak percentage,Bin,percent,0.2,0.3,0.000101941
 Utah,Season peak percentage,Bin,percent,0.3,0.4,0.000102277
@@ -30700,7 +30700,7 @@ Utah,Season peak percentage,Bin,percent,12.6,12.7,0.000170568
 Utah,Season peak percentage,Bin,percent,12.7,12.8,0.000170217
 Utah,Season peak percentage,Bin,percent,12.8,12.9,0.000173227
 Utah,Season peak percentage,Bin,percent,12.9,13,0.000169456
-Utah,Season peak percentage,Bin,percent,13,100,0.000717089
+Utah,Season peak percentage,Bin,percent,13,100,0.222939324
 Utah,1 wk ahead,Point,percent,NA,NA,3.028506375
 Utah,1 wk ahead,Bin,percent,0,0.1,1.80E-04
 Utah,1 wk ahead,Bin,percent,0.1,0.2,1.83E-04
@@ -30832,7 +30832,7 @@ Utah,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Utah,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Utah,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Utah,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Utah,1 wk ahead,Bin,percent,13,100,1.18E-04
+Utah,1 wk ahead,Bin,percent,13,100,2.22E-01
 Utah,2 wk ahead,Point,percent,NA,NA,2.58026194
 Utah,2 wk ahead,Bin,percent,0,0.1,8.88E-04
 Utah,2 wk ahead,Bin,percent,0.1,0.2,1.00E-03
@@ -30964,7 +30964,7 @@ Utah,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Utah,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Utah,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Utah,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Utah,2 wk ahead,Bin,percent,13,100,3.73E-04
+Utah,2 wk ahead,Bin,percent,13,100,2.23E-01
 Utah,3 wk ahead,Point,percent,NA,NA,2.172554944
 Utah,3 wk ahead,Bin,percent,0,0.1,2.15E-03
 Utah,3 wk ahead,Bin,percent,0.1,0.2,2.28E-03
@@ -31096,7 +31096,7 @@ Utah,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Utah,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Utah,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Utah,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Utah,3 wk ahead,Bin,percent,13,100,3.75E-04
+Utah,3 wk ahead,Bin,percent,13,100,2.23E-01
 Utah,4 wk ahead,Point,percent,NA,NA,1.843475298
 Utah,4 wk ahead,Bin,percent,0,0.1,2.93E-03
 Utah,4 wk ahead,Bin,percent,0.1,0.2,0.003041721
@@ -31228,7 +31228,7 @@ Utah,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Utah,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Utah,4 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Utah,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Utah,4 wk ahead,Bin,percent,13,100,4.42E-04
+Utah,4 wk ahead,Bin,percent,13,100,2.23E-01
 Vermont,Season peak week,Point,week,NA,NA,2.555555556
 Vermont,Season peak week,Bin,week,40,41,0.0003289
 Vermont,Season peak week,Bin,week,41,42,0.000329338
@@ -31262,7 +31262,7 @@ Vermont,Season peak week,Bin,week,16,17,0.002777535
 Vermont,Season peak week,Bin,week,17,18,0.001887241
 Vermont,Season peak week,Bin,week,18,19,0.001385652
 Vermont,Season peak week,Bin,week,19,20,0.000858325
-Vermont,Season peak week,Bin,week,20,21,0.000837377
+Vermont,Season peak week,Bin,week,20,21,0.223059598
 Vermont,Season peak percentage,Point,percent,NA,NA,3.344444444
 Vermont,Season peak percentage,Bin,percent,0,0.1,0.000101512
 Vermont,Season peak percentage,Bin,percent,0.1,0.2,0.000104197
@@ -31394,7 +31394,7 @@ Vermont,Season peak percentage,Bin,percent,12.6,12.7,0.000174213
 Vermont,Season peak percentage,Bin,percent,12.7,12.8,0.000173796
 Vermont,Season peak percentage,Bin,percent,12.8,12.9,0.000173134
 Vermont,Season peak percentage,Bin,percent,12.9,13,0.00017176
-Vermont,Season peak percentage,Bin,percent,13,100,0.002158557
+Vermont,Season peak percentage,Bin,percent,13,100,0.224380776
 Vermont,1 wk ahead,Point,percent,NA,NA,1.738258682
 Vermont,1 wk ahead,Bin,percent,0,0.1,6.91E-04
 Vermont,1 wk ahead,Bin,percent,0.1,0.2,8.26E-04
@@ -31526,7 +31526,7 @@ Vermont,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 Vermont,1 wk ahead,Bin,percent,12.7,12.8,1.83E-04
 Vermont,1 wk ahead,Bin,percent,12.8,12.9,1.82E-04
 Vermont,1 wk ahead,Bin,percent,12.9,13,1.80E-04
-Vermont,1 wk ahead,Bin,percent,13,100,1.21E-04
+Vermont,1 wk ahead,Bin,percent,13,100,2.22E-01
 Vermont,2 wk ahead,Point,percent,NA,NA,1.685107451
 Vermont,2 wk ahead,Bin,percent,0,0.1,1.66E-03
 Vermont,2 wk ahead,Bin,percent,0.1,0.2,1.83E-03
@@ -31658,7 +31658,7 @@ Vermont,2 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Vermont,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Vermont,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Vermont,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Vermont,2 wk ahead,Bin,percent,13,100,8.40E-04
+Vermont,2 wk ahead,Bin,percent,13,100,2.23E-01
 Vermont,3 wk ahead,Point,percent,NA,NA,1.583473342
 Vermont,3 wk ahead,Bin,percent,0,0.1,2.23E-03
 Vermont,3 wk ahead,Bin,percent,0.1,0.2,2.37E-03
@@ -31790,7 +31790,7 @@ Vermont,3 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 Vermont,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Vermont,3 wk ahead,Bin,percent,12.8,12.9,2.40E-04
 Vermont,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Vermont,3 wk ahead,Bin,percent,13,100,1.44E-03
+Vermont,3 wk ahead,Bin,percent,13,100,2.24E-01
 Vermont,4 wk ahead,Point,percent,NA,NA,1.479375143
 Vermont,4 wk ahead,Bin,percent,0,0.1,2.50E-03
 Vermont,4 wk ahead,Bin,percent,0.1,0.2,2.61E-03
@@ -31922,7 +31922,7 @@ Vermont,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Vermont,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Vermont,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Vermont,4 wk ahead,Bin,percent,12.9,13,2.39E-04
-Vermont,4 wk ahead,Bin,percent,13,100,1.51E-03
+Vermont,4 wk ahead,Bin,percent,13,100,2.24E-01
 Virgin Islands,Season peak week,Point,week,NA,NA,2.444444444
 Virgin Islands,Season peak week,Bin,week,40,41,0.001396713
 Virgin Islands,Season peak week,Bin,week,41,42,0.000424141
@@ -31956,7 +31956,7 @@ Virgin Islands,Season peak week,Bin,week,16,17,0.002941313
 Virgin Islands,Season peak week,Bin,week,17,18,0.0019992
 Virgin Islands,Season peak week,Bin,week,18,19,0.001252008
 Virgin Islands,Season peak week,Bin,week,19,20,0.001143124
-Virgin Islands,Season peak week,Bin,week,20,21,0.001195982
+Virgin Islands,Season peak week,Bin,week,20,21,0.223418207
 Virgin Islands,Season peak percentage,Point,percent,NA,NA,3.288888889
 Virgin Islands,Season peak percentage,Bin,percent,0,0.1,0.000100466
 Virgin Islands,Season peak percentage,Bin,percent,0.1,0.2,0.000103067
@@ -32088,7 +32088,7 @@ Virgin Islands,Season peak percentage,Bin,percent,12.6,12.7,0.000172703
 Virgin Islands,Season peak percentage,Bin,percent,12.7,12.8,0.000172281
 Virgin Islands,Season peak percentage,Bin,percent,12.8,12.9,0.000171809
 Virgin Islands,Season peak percentage,Bin,percent,12.9,13,0.000170719
-Virgin Islands,Season peak percentage,Bin,percent,13,100,0.000291337
+Virgin Islands,Season peak percentage,Bin,percent,13,100,0.222513558
 Virgin Islands,1 wk ahead,Point,percent,NA,NA,0.633569999
 Virgin Islands,1 wk ahead,Bin,percent,0,0.1,0.003717605
 Virgin Islands,1 wk ahead,Bin,percent,0.1,0.2,0.035015737
@@ -32220,7 +32220,7 @@ Virgin Islands,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Virgin Islands,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Virgin Islands,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Virgin Islands,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Virgin Islands,1 wk ahead,Bin,percent,13,100,1.18E-04
+Virgin Islands,1 wk ahead,Bin,percent,13,100,2.22E-01
 Virgin Islands,2 wk ahead,Point,percent,NA,NA,0.51947376
 Virgin Islands,2 wk ahead,Bin,percent,0,0.1,0.005184335
 Virgin Islands,2 wk ahead,Bin,percent,0.1,0.2,0.061164663
@@ -32352,7 +32352,7 @@ Virgin Islands,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Virgin Islands,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Virgin Islands,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Virgin Islands,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Virgin Islands,2 wk ahead,Bin,percent,13,100,1.73E-04
+Virgin Islands,2 wk ahead,Bin,percent,13,100,2.22E-01
 Virgin Islands,3 wk ahead,Point,percent,NA,NA,0.496701736
 Virgin Islands,3 wk ahead,Bin,percent,0,0.1,0.005685248
 Virgin Islands,3 wk ahead,Bin,percent,0.1,0.2,0.077621035
@@ -32484,7 +32484,7 @@ Virgin Islands,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Virgin Islands,3 wk ahead,Bin,percent,12.7,12.8,1.75E-04
 Virgin Islands,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Virgin Islands,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Virgin Islands,3 wk ahead,Bin,percent,13,100,1.74E-04
+Virgin Islands,3 wk ahead,Bin,percent,13,100,2.22E-01
 Virgin Islands,4 wk ahead,Point,percent,NA,NA,0.503811134
 Virgin Islands,4 wk ahead,Bin,percent,0,0.1,0.005163466
 Virgin Islands,4 wk ahead,Bin,percent,0.1,0.2,0.07933917
@@ -32616,7 +32616,7 @@ Virgin Islands,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Virgin Islands,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Virgin Islands,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Virgin Islands,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Virgin Islands,4 wk ahead,Bin,percent,13,100,3.32E-04
+Virgin Islands,4 wk ahead,Bin,percent,13,100,2.23E-01
 Virginia,Season peak week,Point,week,NA,NA,6.222222222
 Virginia,Season peak week,Bin,week,40,41,0.000319455
 Virginia,Season peak week,Bin,week,41,42,0.000321706
@@ -32650,9 +32650,9 @@ Virginia,Season peak week,Bin,week,16,17,0.001465279
 Virginia,Season peak week,Bin,week,17,18,0.000996486
 Virginia,Season peak week,Bin,week,18,19,0.000698092
 Virginia,Season peak week,Bin,week,19,20,0.000571259
-Virginia,Season peak week,Bin,week,20,21,0.000571027
+Virginia,Season peak week,Bin,week,20,21,0.22279325
 Virginia,Season peak percentage,Point,percent,NA,NA,5.988888889
-Virginia,Season peak percentage,Bin,percent,0,0.1,9.99346E-05
+Virginia,Season peak percentage,Bin,percent,0,0.1,9.99E-05
 Virginia,Season peak percentage,Bin,percent,0.1,0.2,0.000102552
 Virginia,Season peak percentage,Bin,percent,0.2,0.3,0.000103208
 Virginia,Season peak percentage,Bin,percent,0.3,0.4,0.000103516
@@ -32782,7 +32782,7 @@ Virginia,Season peak percentage,Bin,percent,12.6,12.7,0.000288212
 Virginia,Season peak percentage,Bin,percent,12.7,12.8,0.000329719
 Virginia,Season peak percentage,Bin,percent,12.8,12.9,0.000243172
 Virginia,Season peak percentage,Bin,percent,12.9,13,0.000223711
-Virginia,Season peak percentage,Bin,percent,13,100,0.001548705
+Virginia,Season peak percentage,Bin,percent,13,100,0.22377096
 Virginia,1 wk ahead,Point,percent,NA,NA,4.170400729
 Virginia,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Virginia,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -32914,7 +32914,7 @@ Virginia,1 wk ahead,Bin,percent,12.6,12.7,0.000183318
 Virginia,1 wk ahead,Bin,percent,12.7,12.8,0.000182534
 Virginia,1 wk ahead,Bin,percent,12.8,12.9,0.000181315
 Virginia,1 wk ahead,Bin,percent,12.9,13,0.000179681
-Virginia,1 wk ahead,Bin,percent,13,100,0.000124708
+Virginia,1 wk ahead,Bin,percent,13,100,0.222345126
 Virginia,2 wk ahead,Point,percent,NA,NA,3.432576067
 Virginia,2 wk ahead,Bin,percent,0,0.1,3.82E-04
 Virginia,2 wk ahead,Bin,percent,0.1,0.2,4.36E-04
@@ -33046,7 +33046,7 @@ Virginia,2 wk ahead,Bin,percent,12.6,12.7,0.00023996
 Virginia,2 wk ahead,Bin,percent,12.7,12.8,0.000239789
 Virginia,2 wk ahead,Bin,percent,12.8,12.9,0.000239473
 Virginia,2 wk ahead,Bin,percent,12.9,13,0.000172847
-Virginia,2 wk ahead,Bin,percent,13,100,0.000708814
+Virginia,2 wk ahead,Bin,percent,13,100,0.222940413
 Virginia,3 wk ahead,Point,percent,NA,NA,2.784280314
 Virginia,3 wk ahead,Bin,percent,0,0.1,2.15E-03
 Virginia,3 wk ahead,Bin,percent,0.1,0.2,2.29E-03
@@ -33178,7 +33178,7 @@ Virginia,3 wk ahead,Bin,percent,12.6,12.7,0.000240968
 Virginia,3 wk ahead,Bin,percent,12.7,12.8,0.000174642
 Virginia,3 wk ahead,Bin,percent,12.8,12.9,0.000174245
 Virginia,3 wk ahead,Bin,percent,12.9,13,0.000173617
-Virginia,3 wk ahead,Bin,percent,13,100,0.000643365
+Virginia,3 wk ahead,Bin,percent,13,100,0.222876316
 Virginia,4 wk ahead,Point,percent,NA,NA,2.370933182
 Virginia,4 wk ahead,Bin,percent,0,0.1,3.03E-03
 Virginia,4 wk ahead,Bin,percent,0.1,0.2,3.12E-03
@@ -33310,7 +33310,7 @@ Virginia,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Virginia,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Virginia,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Virginia,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Virginia,4 wk ahead,Bin,percent,13,100,0.000440897
+Virginia,4 wk ahead,Bin,percent,13,100,0.222651716
 Washington,Season peak week,Point,week,NA,NA,10.33333333
 Washington,Season peak week,Bin,week,40,41,0.000321864
 Washington,Season peak week,Bin,week,41,42,0.000323028
@@ -33344,7 +33344,7 @@ Washington,Season peak week,Bin,week,16,17,0.063108983
 Washington,Season peak week,Bin,week,17,18,0.059767921
 Washington,Season peak week,Bin,week,18,19,0.04777753
 Washington,Season peak week,Bin,week,19,20,0.028960807
-Washington,Season peak week,Bin,week,20,21,0.000570959
+Washington,Season peak week,Bin,week,20,21,0.22279318
 Washington,Season peak percentage,Point,percent,NA,NA,6.175262055
 Washington,Season peak percentage,Bin,percent,0,0.1,0.000100723
 Washington,Season peak percentage,Bin,percent,0.1,0.2,0.000102741
@@ -33476,7 +33476,7 @@ Washington,Season peak percentage,Bin,percent,12.6,12.7,0.008679279
 Washington,Season peak percentage,Bin,percent,12.7,12.8,0.00646176
 Washington,Season peak percentage,Bin,percent,12.8,12.9,0.004367053
 Washington,Season peak percentage,Bin,percent,12.9,13,0.003026321
-Washington,Season peak percentage,Bin,percent,13,100,0.002561974
+Washington,Season peak percentage,Bin,percent,13,100,0.224784199
 Washington,1 wk ahead,Point,percent,NA,NA,3.681610408
 Washington,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Washington,1 wk ahead,Bin,percent,0.1,0.2,1.80E-04
@@ -33608,7 +33608,7 @@ Washington,1 wk ahead,Bin,percent,12.6,12.7,0.000182704
 Washington,1 wk ahead,Bin,percent,12.7,12.8,0.000181907
 Washington,1 wk ahead,Bin,percent,12.8,12.9,0.000180723
 Washington,1 wk ahead,Bin,percent,12.9,13,0.000179158
-Washington,1 wk ahead,Bin,percent,13,100,0.000125816
+Washington,1 wk ahead,Bin,percent,13,100,0.2223487
 Washington,2 wk ahead,Point,percent,NA,NA,3.700063733
 Washington,2 wk ahead,Bin,percent,0,0.1,5.61E-04
 Washington,2 wk ahead,Bin,percent,0.1,0.2,6.39E-04
@@ -33740,7 +33740,7 @@ Washington,2 wk ahead,Bin,percent,12.6,12.7,0.000173793
 Washington,2 wk ahead,Bin,percent,12.7,12.8,0.000173648
 Washington,2 wk ahead,Bin,percent,12.8,12.9,0.00017333
 Washington,2 wk ahead,Bin,percent,12.9,13,0.000172753
-Washington,2 wk ahead,Bin,percent,13,100,0.00030767
+Washington,2 wk ahead,Bin,percent,13,100,0.222530012
 Washington,3 wk ahead,Point,percent,NA,NA,3.902491609
 Washington,3 wk ahead,Bin,percent,0,0.1,1.91E-03
 Washington,3 wk ahead,Bin,percent,0.1,0.2,2.06E-03
@@ -33872,7 +33872,7 @@ Washington,3 wk ahead,Bin,percent,12.6,12.7,2.40E-04
 Washington,3 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Washington,3 wk ahead,Bin,percent,12.8,12.9,0.0001738
 Washington,3 wk ahead,Bin,percent,12.9,13,1.73E-04
-Washington,3 wk ahead,Bin,percent,13,100,0.000108769
+Washington,3 wk ahead,Bin,percent,13,100,0.222338541
 Washington,4 wk ahead,Point,percent,NA,NA,4.248237967
 Washington,4 wk ahead,Bin,percent,0,0.1,3.41E-03
 Washington,4 wk ahead,Bin,percent,0.1,0.2,3.55E-03
@@ -34004,7 +34004,7 @@ Washington,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Washington,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Washington,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Washington,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Washington,4 wk ahead,Bin,percent,13,100,0.000108037
+Washington,4 wk ahead,Bin,percent,13,100,0.222157065
 West Virginia,Season peak week,Point,week,NA,NA,6.176954733
 West Virginia,Season peak week,Bin,week,40,41,0.000321195
 West Virginia,Season peak week,Bin,week,41,42,0.000321806
@@ -34038,9 +34038,9 @@ West Virginia,Season peak week,Bin,week,16,17,0.001465403
 West Virginia,Season peak week,Bin,week,17,18,0.001040352
 West Virginia,Season peak week,Bin,week,18,19,0.000700837
 West Virginia,Season peak week,Bin,week,19,20,0.000936073
-West Virginia,Season peak week,Bin,week,20,21,0.000637332
+West Virginia,Season peak week,Bin,week,20,21,0.222859552
 West Virginia,Season peak percentage,Point,percent,NA,NA,5.088888889
-West Virginia,Season peak percentage,Bin,percent,0,0.1,9.85427E-05
+West Virginia,Season peak percentage,Bin,percent,0,0.1,9.85E-05
 West Virginia,Season peak percentage,Bin,percent,0.1,0.2,0.000100753
 West Virginia,Season peak percentage,Bin,percent,0.2,0.3,0.00010138
 West Virginia,Season peak percentage,Bin,percent,0.3,0.4,0.000101716
@@ -34170,7 +34170,7 @@ West Virginia,Season peak percentage,Bin,percent,12.6,12.7,0.000169988
 West Virginia,Season peak percentage,Bin,percent,12.7,12.8,0.000169706
 West Virginia,Season peak percentage,Bin,percent,12.8,12.9,0.000169323
 West Virginia,Season peak percentage,Bin,percent,12.9,13,0.000168462
-West Virginia,Season peak percentage,Bin,percent,13,100,0.001005772
+West Virginia,Season peak percentage,Bin,percent,13,100,0.223228031
 West Virginia,1 wk ahead,Point,percent,NA,NA,1.882422587
 West Virginia,1 wk ahead,Bin,percent,0,0.1,1.27E-03
 West Virginia,1 wk ahead,Bin,percent,0.1,0.2,1.48E-03
@@ -34302,7 +34302,7 @@ West Virginia,1 wk ahead,Bin,percent,12.6,12.7,1.83E-04
 West Virginia,1 wk ahead,Bin,percent,12.7,12.8,1.82E-04
 West Virginia,1 wk ahead,Bin,percent,12.8,12.9,1.81E-04
 West Virginia,1 wk ahead,Bin,percent,12.9,13,1.79E-04
-West Virginia,1 wk ahead,Bin,percent,13,100,1.27E-04
+West Virginia,1 wk ahead,Bin,percent,13,100,2.22E-01
 West Virginia,2 wk ahead,Point,percent,NA,NA,1.505805028
 West Virginia,2 wk ahead,Bin,percent,0,0.1,3.83E-03
 West Virginia,2 wk ahead,Bin,percent,0.1,0.2,4.02E-03
@@ -34434,7 +34434,7 @@ West Virginia,2 wk ahead,Bin,percent,12.6,12.7,0.000173919
 West Virginia,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 West Virginia,2 wk ahead,Bin,percent,12.8,12.9,0.000239532
 West Virginia,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-West Virginia,2 wk ahead,Bin,percent,13,100,0.00064032
+West Virginia,2 wk ahead,Bin,percent,13,100,0.222860858
 West Virginia,3 wk ahead,Point,percent,NA,NA,1.166304211
 West Virginia,3 wk ahead,Bin,percent,0,0.1,4.91E-03
 West Virginia,3 wk ahead,Bin,percent,0.1,0.2,4.99E-03
@@ -34566,7 +34566,7 @@ West Virginia,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 West Virginia,3 wk ahead,Bin,percent,12.7,12.8,0.000174774
 West Virginia,3 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 West Virginia,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-West Virginia,3 wk ahead,Bin,percent,13,100,0.000776818
+West Virginia,3 wk ahead,Bin,percent,13,100,0.223003808
 West Virginia,4 wk ahead,Point,percent,NA,NA,0.952235472
 West Virginia,4 wk ahead,Bin,percent,0,0.1,5.02E-03
 West Virginia,4 wk ahead,Bin,percent,0.1,0.2,5.25E-03
@@ -34698,7 +34698,7 @@ West Virginia,4 wk ahead,Bin,percent,12.6,12.7,2.41E-04
 West Virginia,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 West Virginia,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 West Virginia,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-West Virginia,4 wk ahead,Bin,percent,13,100,0.000508815
+West Virginia,4 wk ahead,Bin,percent,13,100,0.22272884
 Wisconsin,Season peak week,Point,week,NA,NA,11.57613169
 Wisconsin,Season peak week,Bin,week,40,41,0.000316896
 Wisconsin,Season peak week,Bin,week,41,42,0.000317707
@@ -34732,9 +34732,9 @@ Wisconsin,Season peak week,Bin,week,16,17,0.034244764
 Wisconsin,Season peak week,Bin,week,17,18,0.049987181
 Wisconsin,Season peak week,Bin,week,18,19,0.063724771
 Wisconsin,Season peak week,Bin,week,19,20,0.081325965
-Wisconsin,Season peak week,Bin,week,20,21,0.085669244
+Wisconsin,Season peak week,Bin,week,20,21,0.307891467
 Wisconsin,Season peak percentage,Point,percent,NA,NA,4.091666667
-Wisconsin,Season peak percentage,Bin,percent,0,0.1,9.99213E-05
+Wisconsin,Season peak percentage,Bin,percent,0,0.1,9.99E-05
 Wisconsin,Season peak percentage,Bin,percent,0.1,0.2,0.0001021
 Wisconsin,Season peak percentage,Bin,percent,0.2,0.3,0.000103302
 Wisconsin,Season peak percentage,Bin,percent,0.3,0.4,0.00010395
@@ -34864,7 +34864,7 @@ Wisconsin,Season peak percentage,Bin,percent,12.6,12.7,0.000172293
 Wisconsin,Season peak percentage,Bin,percent,12.7,12.8,0.000238092
 Wisconsin,Season peak percentage,Bin,percent,12.8,12.9,0.000171083
 Wisconsin,Season peak percentage,Bin,percent,12.9,13,0.000169668
-Wisconsin,Season peak percentage,Bin,percent,13,100,0.001561606
+Wisconsin,Season peak percentage,Bin,percent,13,100,0.223783849
 Wisconsin,1 wk ahead,Point,percent,NA,NA,2.455009107
 Wisconsin,1 wk ahead,Bin,percent,0,0.1,3.98E-04
 Wisconsin,1 wk ahead,Bin,percent,0.1,0.2,4.93E-04
@@ -34996,7 +34996,7 @@ Wisconsin,1 wk ahead,Bin,percent,12.6,12.7,1.84E-04
 Wisconsin,1 wk ahead,Bin,percent,12.7,12.8,1.84E-04
 Wisconsin,1 wk ahead,Bin,percent,12.8,12.9,1.83E-04
 Wisconsin,1 wk ahead,Bin,percent,12.9,13,1.82E-04
-Wisconsin,1 wk ahead,Bin,percent,13,100,1.18E-04
+Wisconsin,1 wk ahead,Bin,percent,13,100,2.22E-01
 Wisconsin,2 wk ahead,Point,percent,NA,NA,2.526017734
 Wisconsin,2 wk ahead,Bin,percent,0,0.1,1.63E-03
 Wisconsin,2 wk ahead,Bin,percent,0.1,0.2,1.81E-03
@@ -35128,7 +35128,7 @@ Wisconsin,2 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Wisconsin,2 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Wisconsin,2 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Wisconsin,2 wk ahead,Bin,percent,12.9,13,1.73E-04
-Wisconsin,2 wk ahead,Bin,percent,13,100,1.18E-03
+Wisconsin,2 wk ahead,Bin,percent,13,100,2.23E-01
 Wisconsin,3 wk ahead,Point,percent,NA,NA,2.451556907
 Wisconsin,3 wk ahead,Bin,percent,0,0.1,3.08E-03
 Wisconsin,3 wk ahead,Bin,percent,0.1,0.2,3.22E-03
@@ -35260,7 +35260,7 @@ Wisconsin,3 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Wisconsin,3 wk ahead,Bin,percent,12.7,12.8,2.41E-04
 Wisconsin,3 wk ahead,Bin,percent,12.8,12.9,1.75E-04
 Wisconsin,3 wk ahead,Bin,percent,12.9,13,1.74E-04
-Wisconsin,3 wk ahead,Bin,percent,13,100,7.76E-04
+Wisconsin,3 wk ahead,Bin,percent,13,100,2.23E-01
 Wisconsin,4 wk ahead,Point,percent,NA,NA,2.547883778
 Wisconsin,4 wk ahead,Bin,percent,0,0.1,3.86E-03
 Wisconsin,4 wk ahead,Bin,percent,0.1,0.2,3.95E-03
@@ -35392,7 +35392,7 @@ Wisconsin,4 wk ahead,Bin,percent,12.6,12.7,1.75E-04
 Wisconsin,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Wisconsin,4 wk ahead,Bin,percent,12.8,12.9,1.74E-04
 Wisconsin,4 wk ahead,Bin,percent,12.9,13,1.74E-04
-Wisconsin,4 wk ahead,Bin,percent,13,100,7.08E-04
+Wisconsin,4 wk ahead,Bin,percent,13,100,2.23E-01
 Wyoming,Season peak week,Point,week,NA,NA,5.666666667
 Wyoming,Season peak week,Bin,week,40,41,0.000327497
 Wyoming,Season peak week,Bin,week,41,42,0.000328061
@@ -35426,7 +35426,7 @@ Wyoming,Season peak week,Bin,week,16,17,0.00184302
 Wyoming,Season peak week,Bin,week,17,18,0.001188283
 Wyoming,Season peak week,Bin,week,18,19,0.000866718
 Wyoming,Season peak week,Bin,week,19,20,0.000577617
-Wyoming,Season peak week,Bin,week,20,21,0.000646334
+Wyoming,Season peak week,Bin,week,20,21,0.222868556
 Wyoming,Season peak percentage,Point,percent,NA,NA,4.622222222
 Wyoming,Season peak percentage,Bin,percent,0,0.1,0.00010113
 Wyoming,Season peak percentage,Bin,percent,0.1,0.2,0.000103503
@@ -35558,7 +35558,7 @@ Wyoming,Season peak percentage,Bin,percent,12.6,12.7,0.0001729
 Wyoming,Season peak percentage,Bin,percent,12.7,12.8,0.000197046
 Wyoming,Season peak percentage,Bin,percent,12.8,12.9,0.000172121
 Wyoming,Season peak percentage,Bin,percent,12.9,13,0.00024472
-Wyoming,Season peak percentage,Bin,percent,13,100,0.001386241
+Wyoming,Season peak percentage,Bin,percent,13,100,0.223608466
 Wyoming,1 wk ahead,Point,percent,NA,NA,3.100868225
 Wyoming,1 wk ahead,Bin,percent,0,0.1,1.78E-04
 Wyoming,1 wk ahead,Bin,percent,0.1,0.2,1.79E-04
@@ -35690,7 +35690,7 @@ Wyoming,1 wk ahead,Bin,percent,12.6,12.7,0.000182557
 Wyoming,1 wk ahead,Bin,percent,12.7,12.8,0.00018169
 Wyoming,1 wk ahead,Bin,percent,12.8,12.9,0.000180481
 Wyoming,1 wk ahead,Bin,percent,12.9,13,0.000227995
-Wyoming,1 wk ahead,Bin,percent,13,100,0.000126774
+Wyoming,1 wk ahead,Bin,percent,13,100,0.222349726
 Wyoming,2 wk ahead,Point,percent,NA,NA,2.640204422
 Wyoming,2 wk ahead,Bin,percent,0,0.1,7.64E-04
 Wyoming,2 wk ahead,Bin,percent,0.1,0.2,8.65E-04
@@ -35822,7 +35822,7 @@ Wyoming,2 wk ahead,Bin,percent,12.6,12.7,0.000173784
 Wyoming,2 wk ahead,Bin,percent,12.7,12.8,0.000173606
 Wyoming,2 wk ahead,Bin,percent,12.8,12.9,0.000173255
 Wyoming,2 wk ahead,Bin,percent,12.9,13,0.000238759
-Wyoming,2 wk ahead,Bin,percent,13,100,0.001090232
+Wyoming,2 wk ahead,Bin,percent,13,100,0.223309726
 Wyoming,3 wk ahead,Point,percent,NA,NA,2.239949767
 Wyoming,3 wk ahead,Bin,percent,0,0.1,1.81E-03
 Wyoming,3 wk ahead,Bin,percent,0.1,0.2,1.95E-03
@@ -35954,7 +35954,7 @@ Wyoming,3 wk ahead,Bin,percent,12.6,12.7,0.000174321
 Wyoming,3 wk ahead,Bin,percent,12.7,12.8,0.000264665
 Wyoming,3 wk ahead,Bin,percent,12.8,12.9,0.000173623
 Wyoming,3 wk ahead,Bin,percent,12.9,13,0.000197488
-Wyoming,3 wk ahead,Bin,percent,13,100,0.00113536
+Wyoming,3 wk ahead,Bin,percent,13,100,0.223362
 Wyoming,4 wk ahead,Point,percent,NA,NA,1.80997869
 Wyoming,4 wk ahead,Bin,percent,0,0.1,2.98E-03
 Wyoming,4 wk ahead,Bin,percent,0.1,0.2,3.11E-03
@@ -36086,7 +36086,7 @@ Wyoming,4 wk ahead,Bin,percent,12.6,12.7,1.74E-04
 Wyoming,4 wk ahead,Bin,percent,12.7,12.8,1.74E-04
 Wyoming,4 wk ahead,Bin,percent,12.8,12.9,1.73E-04
 Wyoming,4 wk ahead,Bin,percent,12.9,13,1.73E-04
-Wyoming,4 wk ahead,Bin,percent,13,100,0.000440485
+Wyoming,4 wk ahead,Bin,percent,13,100,0.222664035
 New York City,Season peak week,Point,week,NA,NA,13.11111111
 New York City,Season peak week,Bin,week,40,41,0.00036041
 New York City,Season peak week,Bin,week,41,42,0.000363446
@@ -36120,7 +36120,7 @@ New York City,Season peak week,Bin,week,16,17,0.001768681
 New York City,Season peak week,Bin,week,17,18,0.00046189
 New York City,Season peak week,Bin,week,18,19,0.00038568
 New York City,Season peak week,Bin,week,19,20,0.000363443
-New York City,Season peak week,Bin,week,20,21,0.000363364
+New York City,Season peak week,Bin,week,20,21,0.250363366
 New York City,Season peak percentage,Point,percent,NA,NA,3.275
 New York City,Season peak percentage,Bin,percent,0,0.1,0.000113455
 New York City,Season peak percentage,Bin,percent,0.1,0.2,0.000115703
@@ -36252,7 +36252,7 @@ New York City,Season peak percentage,Bin,percent,12.6,12.7,0.000116967
 New York City,Season peak percentage,Bin,percent,12.7,12.8,0.000116637
 New York City,Season peak percentage,Bin,percent,12.8,12.9,0.000116171
 New York City,Season peak percentage,Bin,percent,12.9,13,0.000190894
-New York City,Season peak percentage,Bin,percent,13,100,0.001491359
+New York City,Season peak percentage,Bin,percent,13,100,0.25149136
 New York City,1 wk ahead,Point,percent,NA,NA,1.905840164
 New York City,1 wk ahead,Bin,percent,0,0.1,1.25E-04
 New York City,1 wk ahead,Bin,percent,0.1,0.2,1.28E-04
@@ -36384,7 +36384,7 @@ New York City,1 wk ahead,Bin,percent,12.6,12.7,1.31E-04
 New York City,1 wk ahead,Bin,percent,12.7,12.8,1.30E-04
 New York City,1 wk ahead,Bin,percent,12.8,12.9,1.29E-04
 New York City,1 wk ahead,Bin,percent,12.9,13,1.27E-04
-New York City,1 wk ahead,Bin,percent,13,100,1.34E-04
+New York City,1 wk ahead,Bin,percent,13,100,2.50E-01
 New York City,2 wk ahead,Point,percent,NA,NA,1.808584696
 New York City,2 wk ahead,Bin,percent,0,0.1,1.18E-04
 New York City,2 wk ahead,Bin,percent,0.1,0.2,1.23E-04
@@ -36516,7 +36516,7 @@ New York City,2 wk ahead,Bin,percent,12.6,12.7,1.19E-04
 New York City,2 wk ahead,Bin,percent,12.7,12.8,1.19E-04
 New York City,2 wk ahead,Bin,percent,12.8,12.9,1.19E-04
 New York City,2 wk ahead,Bin,percent,12.9,13,1.19E-04
-New York City,2 wk ahead,Bin,percent,13,100,6.42E-04
+New York City,2 wk ahead,Bin,percent,13,100,2.51E-01
 New York City,3 wk ahead,Point,percent,NA,NA,1.620065352
 New York City,3 wk ahead,Bin,percent,0,0.1,1.19E-04
 New York City,3 wk ahead,Bin,percent,0.1,0.2,1.20E-04
@@ -36648,7 +36648,7 @@ New York City,3 wk ahead,Bin,percent,12.6,12.7,1.21E-04
 New York City,3 wk ahead,Bin,percent,12.7,12.8,1.20E-04
 New York City,3 wk ahead,Bin,percent,12.8,12.9,1.20E-04
 New York City,3 wk ahead,Bin,percent,12.9,13,1.94E-04
-New York City,3 wk ahead,Bin,percent,13,100,8.72E-04
+New York City,3 wk ahead,Bin,percent,13,100,2.51E-01
 New York City,4 wk ahead,Point,percent,NA,NA,1.503095187
 New York City,4 wk ahead,Bin,percent,0,0.1,1.28E-04
 New York City,4 wk ahead,Bin,percent,0.1,0.2,1.27E-04
@@ -36780,4 +36780,4 @@ New York City,4 wk ahead,Bin,percent,12.6,12.7,1.20E-04
 New York City,4 wk ahead,Bin,percent,12.7,12.8,1.20E-04
 New York City,4 wk ahead,Bin,percent,12.8,12.9,1.20E-04
 New York City,4 wk ahead,Bin,percent,12.9,13,1.94E-04
-New York City,4 wk ahead,Bin,percent,13,100,7.22E-04
+New York City,4 wk ahead,Bin,percent,13,100,2.51E-01
