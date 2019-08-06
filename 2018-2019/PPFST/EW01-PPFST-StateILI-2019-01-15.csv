@@ -2108,7 +2108,7 @@ Arkansas,Season peak week,Bin,week,10,11,0.000633661
 Arkansas,Season peak week,Bin,week,11,12,0.000475241
 Arkansas,Season peak week,Bin,week,12,13,0.000316841
 Arkansas,Season peak week,Bin,week,13,14,0.000158416
-Arkansas,Season peak week,Bin,week,14,15,7.92081E-05
+Arkansas,Season peak week,Bin,week,14,15,7.92E-05
 Arkansas,Season peak week,Bin,week,15,16,0
 Arkansas,Season peak week,Bin,week,16,17,0
 Arkansas,Season peak week,Bin,week,17,18,0
@@ -2942,25 +2942,25 @@ California,Season peak percentage,Bin,percent,12.8,12.9,2.25E-04
 California,Season peak percentage,Bin,percent,12.9,13,2.12E-04
 California,Season peak percentage,Bin,percent,13,100,1.01E-03
 California,1 wk ahead,Point,percent,NA,NA,3.306196677
-California,1 wk ahead,Bin,percent,0,0.1,1.17895E-12
-California,1 wk ahead,Bin,percent,0.1,0.2,3.3197E-12
-California,1 wk ahead,Bin,percent,0.2,0.3,9.13694E-12
-California,1 wk ahead,Bin,percent,0.3,0.4,2.45801E-11
-California,1 wk ahead,Bin,percent,0.4,0.5,6.46279E-11
-California,1 wk ahead,Bin,percent,0.5,0.6,1.66067E-10
-California,1 wk ahead,Bin,percent,0.6,0.7,4.1701E-10
-California,1 wk ahead,Bin,percent,0.7,0.8,1.02323E-09
-California,1 wk ahead,Bin,percent,0.8,0.9,2.45321E-09
-California,1 wk ahead,Bin,percent,0.9,1,5.74635E-09
-California,1 wk ahead,Bin,percent,1,1.1,1.31495E-08
-California,1 wk ahead,Bin,percent,1.1,1.2,2.93934E-08
-California,1 wk ahead,Bin,percent,1.2,1.3,6.41765E-08
-California,1 wk ahead,Bin,percent,1.3,1.4,1.36851E-07
-California,1 wk ahead,Bin,percent,1.4,1.5,2.8499E-07
-California,1 wk ahead,Bin,percent,1.5,1.6,5.7954E-07
-California,1 wk ahead,Bin,percent,1.6,1.7,1.15073E-06
-California,1 wk ahead,Bin,percent,1.7,1.8,2.23081E-06
-California,1 wk ahead,Bin,percent,1.8,1.9,7.08887E-05
+California,1 wk ahead,Bin,percent,0,0.1,1.18E-12
+California,1 wk ahead,Bin,percent,0.1,0.2,3.32E-12
+California,1 wk ahead,Bin,percent,0.2,0.3,9.14E-12
+California,1 wk ahead,Bin,percent,0.3,0.4,2.46E-11
+California,1 wk ahead,Bin,percent,0.4,0.5,6.46E-11
+California,1 wk ahead,Bin,percent,0.5,0.6,1.66E-10
+California,1 wk ahead,Bin,percent,0.6,0.7,4.17E-10
+California,1 wk ahead,Bin,percent,0.7,0.8,1.02E-09
+California,1 wk ahead,Bin,percent,0.8,0.9,2.45E-09
+California,1 wk ahead,Bin,percent,0.9,1,5.75E-09
+California,1 wk ahead,Bin,percent,1,1.1,1.31E-08
+California,1 wk ahead,Bin,percent,1.1,1.2,2.94E-08
+California,1 wk ahead,Bin,percent,1.2,1.3,6.42E-08
+California,1 wk ahead,Bin,percent,1.3,1.4,1.37E-07
+California,1 wk ahead,Bin,percent,1.4,1.5,2.85E-07
+California,1 wk ahead,Bin,percent,1.5,1.6,5.80E-07
+California,1 wk ahead,Bin,percent,1.6,1.7,1.15E-06
+California,1 wk ahead,Bin,percent,1.7,1.8,2.23E-06
+California,1 wk ahead,Bin,percent,1.8,1.9,7.09E-05
 California,1 wk ahead,Bin,percent,1.9,2,0.000374467
 California,1 wk ahead,Bin,percent,2,2.1,0.001280734
 California,1 wk ahead,Bin,percent,2.1,2.2,0.003191429
@@ -3007,72 +3007,72 @@ California,1 wk ahead,Bin,percent,6.1,6.2,0.000423503
 California,1 wk ahead,Bin,percent,6.2,6.3,0.000281819
 California,1 wk ahead,Bin,percent,6.3,6.4,0.000183362
 California,1 wk ahead,Bin,percent,6.4,6.5,0.000116648
-California,1 wk ahead,Bin,percent,6.5,6.6,7.25578E-05
-California,1 wk ahead,Bin,percent,6.6,6.7,4.41293E-05
-California,1 wk ahead,Bin,percent,6.7,6.8,2.62427E-05
-California,1 wk ahead,Bin,percent,6.8,6.9,1.5259E-05
-California,1 wk ahead,Bin,percent,6.9,7,8.67529E-06
-California,1 wk ahead,Bin,percent,7,7.1,4.82255E-06
-California,1 wk ahead,Bin,percent,7.1,7.2,2.62122E-06
-California,1 wk ahead,Bin,percent,7.2,7.3,1.39303E-06
-California,1 wk ahead,Bin,percent,7.3,7.4,7.23855E-07
-California,1 wk ahead,Bin,percent,7.4,7.5,3.67765E-07
-California,1 wk ahead,Bin,percent,7.5,7.6,1.82691E-07
-California,1 wk ahead,Bin,percent,7.6,7.7,8.87349E-08
-California,1 wk ahead,Bin,percent,7.7,7.8,4.21405E-08
-California,1 wk ahead,Bin,percent,7.8,7.9,1.95674E-08
-California,1 wk ahead,Bin,percent,7.9,8,8.88384E-09
-California,1 wk ahead,Bin,percent,8,8.1,3.94368E-09
-California,1 wk ahead,Bin,percent,8.1,8.2,1.71175E-09
-California,1 wk ahead,Bin,percent,8.2,8.3,7.2647E-10
-California,1 wk ahead,Bin,percent,8.3,8.4,3.01468E-10
-California,1 wk ahead,Bin,percent,8.4,8.5,1.22325E-10
-California,1 wk ahead,Bin,percent,8.5,8.6,4.85334E-11
-California,1 wk ahead,Bin,percent,8.6,8.7,1.8829E-11
-California,1 wk ahead,Bin,percent,8.7,8.8,7.14294E-12
-California,1 wk ahead,Bin,percent,8.8,8.9,2.6497E-12
-California,1 wk ahead,Bin,percent,8.9,9,9.61144E-13
-California,1 wk ahead,Bin,percent,9,9.1,3.40926E-13
-California,1 wk ahead,Bin,percent,9.1,9.2,1.18253E-13
-California,1 wk ahead,Bin,percent,9.2,9.3,4.011E-14
-California,1 wk ahead,Bin,percent,9.3,9.4,1.3304E-14
-California,1 wk ahead,Bin,percent,9.4,9.5,4.31522E-15
-California,1 wk ahead,Bin,percent,9.5,9.6,1.36873E-15
-California,1 wk ahead,Bin,percent,9.6,9.7,4.24551E-16
-California,1 wk ahead,Bin,percent,9.7,9.8,1.28777E-16
-California,1 wk ahead,Bin,percent,9.8,9.9,3.8198E-17
-California,1 wk ahead,Bin,percent,9.9,10,1.108E-17
-California,1 wk ahead,Bin,percent,10,10.1,3.14292E-18
-California,1 wk ahead,Bin,percent,10.1,10.2,8.71804E-19
-California,1 wk ahead,Bin,percent,10.2,10.3,2.36479E-19
-California,1 wk ahead,Bin,percent,10.3,10.4,6.27267E-20
-California,1 wk ahead,Bin,percent,10.4,10.5,1.62702E-20
-California,1 wk ahead,Bin,percent,10.5,10.6,4.12679E-21
-California,1 wk ahead,Bin,percent,10.6,10.7,1.02353E-21
-California,1 wk ahead,Bin,percent,10.7,10.8,2.48232E-22
-California,1 wk ahead,Bin,percent,10.8,10.9,5.88672E-23
-California,1 wk ahead,Bin,percent,10.9,11,1.36503E-23
-California,1 wk ahead,Bin,percent,11,11.1,3.095E-24
-California,1 wk ahead,Bin,percent,11.1,11.2,6.86149E-25
-California,1 wk ahead,Bin,percent,11.2,11.3,1.48734E-25
-California,1 wk ahead,Bin,percent,11.3,11.4,3.15229E-26
-California,1 wk ahead,Bin,percent,11.4,11.5,6.53226E-27
-California,1 wk ahead,Bin,percent,11.5,11.6,1.32347E-27
-California,1 wk ahead,Bin,percent,11.6,11.7,2.6216E-28
-California,1 wk ahead,Bin,percent,11.7,11.8,5.07713E-29
-California,1 wk ahead,Bin,percent,11.8,11.9,9.61306E-30
-California,1 wk ahead,Bin,percent,11.9,12,1.77946E-30
-California,1 wk ahead,Bin,percent,12,12.1,3.22029E-31
-California,1 wk ahead,Bin,percent,12.1,12.2,5.69733E-32
-California,1 wk ahead,Bin,percent,12.2,12.3,9.85401E-33
-California,1 wk ahead,Bin,percent,12.3,12.4,1.66615E-33
-California,1 wk ahead,Bin,percent,12.4,12.5,2.75403E-34
-California,1 wk ahead,Bin,percent,12.5,12.6,4.45011E-35
-California,1 wk ahead,Bin,percent,12.6,12.7,7.02936E-36
-California,1 wk ahead,Bin,percent,12.7,12.8,1.08542E-36
-California,1 wk ahead,Bin,percent,12.8,12.9,1.63838E-37
-California,1 wk ahead,Bin,percent,12.9,13,2.41746E-38
-California,1 wk ahead,Bin,percent,13,100,4.05668E-39
+California,1 wk ahead,Bin,percent,6.5,6.6,7.26E-05
+California,1 wk ahead,Bin,percent,6.6,6.7,4.41E-05
+California,1 wk ahead,Bin,percent,6.7,6.8,2.62E-05
+California,1 wk ahead,Bin,percent,6.8,6.9,1.53E-05
+California,1 wk ahead,Bin,percent,6.9,7,8.68E-06
+California,1 wk ahead,Bin,percent,7,7.1,4.82E-06
+California,1 wk ahead,Bin,percent,7.1,7.2,2.62E-06
+California,1 wk ahead,Bin,percent,7.2,7.3,1.39E-06
+California,1 wk ahead,Bin,percent,7.3,7.4,7.24E-07
+California,1 wk ahead,Bin,percent,7.4,7.5,3.68E-07
+California,1 wk ahead,Bin,percent,7.5,7.6,1.83E-07
+California,1 wk ahead,Bin,percent,7.6,7.7,8.87E-08
+California,1 wk ahead,Bin,percent,7.7,7.8,4.21E-08
+California,1 wk ahead,Bin,percent,7.8,7.9,1.96E-08
+California,1 wk ahead,Bin,percent,7.9,8,8.88E-09
+California,1 wk ahead,Bin,percent,8,8.1,3.94E-09
+California,1 wk ahead,Bin,percent,8.1,8.2,1.71E-09
+California,1 wk ahead,Bin,percent,8.2,8.3,7.26E-10
+California,1 wk ahead,Bin,percent,8.3,8.4,3.01E-10
+California,1 wk ahead,Bin,percent,8.4,8.5,1.22E-10
+California,1 wk ahead,Bin,percent,8.5,8.6,4.85E-11
+California,1 wk ahead,Bin,percent,8.6,8.7,1.88E-11
+California,1 wk ahead,Bin,percent,8.7,8.8,7.14E-12
+California,1 wk ahead,Bin,percent,8.8,8.9,2.65E-12
+California,1 wk ahead,Bin,percent,8.9,9,9.61E-13
+California,1 wk ahead,Bin,percent,9,9.1,3.41E-13
+California,1 wk ahead,Bin,percent,9.1,9.2,1.18E-13
+California,1 wk ahead,Bin,percent,9.2,9.3,4.01E-14
+California,1 wk ahead,Bin,percent,9.3,9.4,1.33E-14
+California,1 wk ahead,Bin,percent,9.4,9.5,4.32E-15
+California,1 wk ahead,Bin,percent,9.5,9.6,1.37E-15
+California,1 wk ahead,Bin,percent,9.6,9.7,4.25E-16
+California,1 wk ahead,Bin,percent,9.7,9.8,1.29E-16
+California,1 wk ahead,Bin,percent,9.8,9.9,3.82E-17
+California,1 wk ahead,Bin,percent,9.9,10,1.11E-17
+California,1 wk ahead,Bin,percent,10,10.1,3.14E-18
+California,1 wk ahead,Bin,percent,10.1,10.2,8.72E-19
+California,1 wk ahead,Bin,percent,10.2,10.3,2.36E-19
+California,1 wk ahead,Bin,percent,10.3,10.4,6.27E-20
+California,1 wk ahead,Bin,percent,10.4,10.5,1.63E-20
+California,1 wk ahead,Bin,percent,10.5,10.6,4.13E-21
+California,1 wk ahead,Bin,percent,10.6,10.7,1.02E-21
+California,1 wk ahead,Bin,percent,10.7,10.8,2.48E-22
+California,1 wk ahead,Bin,percent,10.8,10.9,5.89E-23
+California,1 wk ahead,Bin,percent,10.9,11,1.37E-23
+California,1 wk ahead,Bin,percent,11,11.1,3.10E-24
+California,1 wk ahead,Bin,percent,11.1,11.2,6.86E-25
+California,1 wk ahead,Bin,percent,11.2,11.3,1.49E-25
+California,1 wk ahead,Bin,percent,11.3,11.4,3.15E-26
+California,1 wk ahead,Bin,percent,11.4,11.5,6.53E-27
+California,1 wk ahead,Bin,percent,11.5,11.6,1.32E-27
+California,1 wk ahead,Bin,percent,11.6,11.7,2.62E-28
+California,1 wk ahead,Bin,percent,11.7,11.8,5.08E-29
+California,1 wk ahead,Bin,percent,11.8,11.9,9.61E-30
+California,1 wk ahead,Bin,percent,11.9,12,1.78E-30
+California,1 wk ahead,Bin,percent,12,12.1,3.22E-31
+California,1 wk ahead,Bin,percent,12.1,12.2,5.70E-32
+California,1 wk ahead,Bin,percent,12.2,12.3,9.85E-33
+California,1 wk ahead,Bin,percent,12.3,12.4,1.67E-33
+California,1 wk ahead,Bin,percent,12.4,12.5,2.75E-34
+California,1 wk ahead,Bin,percent,12.5,12.6,4.45E-35
+California,1 wk ahead,Bin,percent,12.6,12.7,7.03E-36
+California,1 wk ahead,Bin,percent,12.7,12.8,1.09E-36
+California,1 wk ahead,Bin,percent,12.8,12.9,1.64E-37
+California,1 wk ahead,Bin,percent,12.9,13,2.42E-38
+California,1 wk ahead,Bin,percent,13,100,4.06E-39
 California,2 wk ahead,Point,percent,NA,NA,3.391771409
 California,2 wk ahead,Bin,percent,0,0.1,3.34E-04
 California,2 wk ahead,Bin,percent,0.1,0.2,3.35E-04
@@ -3329,19 +3329,19 @@ California,3 wk ahead,Bin,percent,11.9,12,0.000107176
 California,3 wk ahead,Bin,percent,12,12.1,0.000105486
 California,3 wk ahead,Bin,percent,12.1,12.2,0.000103588
 California,3 wk ahead,Bin,percent,12.2,12.3,0.000101664
-California,3 wk ahead,Bin,percent,12.3,12.4,9.94982E-05
-California,3 wk ahead,Bin,percent,12.4,12.5,9.73196E-05
-California,3 wk ahead,Bin,percent,12.5,12.6,9.49492E-05
-California,3 wk ahead,Bin,percent,12.6,12.7,9.24588E-05
-California,3 wk ahead,Bin,percent,12.7,12.8,8.97789E-05
-California,3 wk ahead,Bin,percent,12.8,12.9,8.67103E-05
-California,3 wk ahead,Bin,percent,12.9,13,8.33252E-05
+California,3 wk ahead,Bin,percent,12.3,12.4,9.95E-05
+California,3 wk ahead,Bin,percent,12.4,12.5,9.73E-05
+California,3 wk ahead,Bin,percent,12.5,12.6,9.49E-05
+California,3 wk ahead,Bin,percent,12.6,12.7,9.25E-05
+California,3 wk ahead,Bin,percent,12.7,12.8,8.98E-05
+California,3 wk ahead,Bin,percent,12.8,12.9,8.67E-05
+California,3 wk ahead,Bin,percent,12.9,13,8.33E-05
 California,3 wk ahead,Bin,percent,13,100,0.000427095
 California,4 wk ahead,Point,percent,NA,NA,3.644988049
-California,4 wk ahead,Bin,percent,0,0.1,5.72164E-05
-California,4 wk ahead,Bin,percent,0.1,0.2,6.86619E-05
-California,4 wk ahead,Bin,percent,0.2,0.3,8.21326E-05
-California,4 wk ahead,Bin,percent,0.3,0.4,9.79293E-05
+California,4 wk ahead,Bin,percent,0,0.1,5.72E-05
+California,4 wk ahead,Bin,percent,0.1,0.2,6.87E-05
+California,4 wk ahead,Bin,percent,0.2,0.3,8.21E-05
+California,4 wk ahead,Bin,percent,0.3,0.4,9.79E-05
 California,4 wk ahead,Bin,percent,0.4,0.5,0.000116385
 California,4 wk ahead,Bin,percent,0.5,0.6,0.000137869
 California,4 wk ahead,Bin,percent,0.6,0.7,0.000162783
@@ -10433,7 +10433,7 @@ Kansas,Season peak week,Bin,week,7,8,0.20664056
 Kansas,Season peak week,Bin,week,8,9,0.011405931
 Kansas,Season peak week,Bin,week,9,10,0.005465367
 Kansas,Season peak week,Bin,week,10,11,0.001346532
-Kansas,Season peak week,Bin,week,11,12,7.92075E-05
+Kansas,Season peak week,Bin,week,11,12,7.92E-05
 Kansas,Season peak week,Bin,week,12,13,0
 Kansas,Season peak week,Bin,week,13,14,0
 Kansas,Season peak week,Bin,week,14,15,0
@@ -14598,7 +14598,7 @@ Michigan,Season peak week,Bin,week,8,9,0.024908678
 Michigan,Season peak week,Bin,week,9,10,0.014099009
 Michigan,Season peak week,Bin,week,10,11,0.007128805
 Michigan,Season peak week,Bin,week,11,12,0.001425741
-Michigan,Season peak week,Bin,week,12,13,7.92081E-05
+Michigan,Season peak week,Bin,week,12,13,7.92E-05
 Michigan,Season peak week,Bin,week,13,14,0
 Michigan,Season peak week,Bin,week,14,15,0
 Michigan,Season peak week,Bin,week,15,16,0
@@ -22236,7 +22236,7 @@ North Carolina,Season peak week,Bin,week,12,13,0.014115913
 North Carolina,Season peak week,Bin,week,13,14,0.006978656
 North Carolina,Season peak week,Bin,week,14,15,0.002141217
 North Carolina,Season peak week,Bin,week,15,16,0.000396523
-North Carolina,Season peak week,Bin,week,16,17,7.93026E-05
+North Carolina,Season peak week,Bin,week,16,17,7.93E-05
 North Carolina,Season peak week,Bin,week,17,18,0
 North Carolina,Season peak week,Bin,week,18,19,0
 North Carolina,Season peak week,Bin,week,19,20,0
@@ -25013,7 +25013,7 @@ Oregon,Season peak week,Bin,week,13,14,0.011969912
 Oregon,Season peak week,Bin,week,14,15,0.005786854
 Oregon,Season peak week,Bin,week,15,16,0.001981779
 Oregon,Season peak week,Bin,week,16,17,0.000475624
-Oregon,Season peak week,Bin,week,17,18,7.92707E-05
+Oregon,Season peak week,Bin,week,17,18,7.93E-05
 Oregon,Season peak week,Bin,week,18,19,0
 Oregon,Season peak week,Bin,week,19,20,0
 Oregon,Season peak week,Bin,week,20,21,0
@@ -29865,7 +29865,7 @@ Texas,Season peak week,Bin,week,7,8,0.027802052
 Texas,Season peak week,Bin,week,8,9,0.019802037
 Texas,Season peak week,Bin,week,9,10,0.011802022
 Texas,Season peak week,Bin,week,10,11,0.004039608
-Texas,Season peak week,Bin,week,11,12,7.92081E-05
+Texas,Season peak week,Bin,week,11,12,7.92E-05
 Texas,Season peak week,Bin,week,12,13,0
 Texas,Season peak week,Bin,week,13,14,0
 Texas,Season peak week,Bin,week,14,15,0
@@ -32648,7 +32648,7 @@ Virginia,Season peak week,Bin,week,14,15,0.003326799
 Virginia,Season peak week,Bin,week,15,16,0.001901
 Virginia,Season peak week,Bin,week,16,17,0.00079208
 Virginia,Season peak week,Bin,week,17,18,0.00023762
-Virginia,Season peak week,Bin,week,18,19,7.9208E-05
+Virginia,Season peak week,Bin,week,18,19,7.92E-05
 Virginia,Season peak week,Bin,week,19,20,0
 Virginia,Season peak week,Bin,week,20,21,0
 Virginia,Season peak percentage,Point,percent,NA,NA,5.09901682
@@ -36781,18 +36781,3 @@ New York City,4 wk ahead,Bin,percent,12.7,12.8,0.002029214
 New York City,4 wk ahead,Bin,percent,12.8,12.9,0.001949214
 New York City,4 wk ahead,Bin,percent,12.9,13,0.001869214
 New York City,4 wk ahead,Bin,percent,13,100,0.010194731
-,,,,,,2113.681764
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,881.2997817
-,,,,,,1144.205687
-,,,,,,
-,,,,,,392.9902766
-,,,,,,1026.321589
-,,,,,,103.5090949
-,,,,,,57.08738019
-,,,,,,1933.71657
-,,,,,,141.7670452
-,,,,,,1010.795106
-,,,,,,40.90577991
