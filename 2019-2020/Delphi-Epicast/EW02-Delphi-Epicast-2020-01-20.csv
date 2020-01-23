@@ -1,0 +1,2083 @@
+Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,Value
+District of Columbia,Season peak week,Point,week,NA,NA,52
+District of Columbia,Season peak week,Bin,week,40,41,0.0007240309685583213
+District of Columbia,Season peak week,Bin,week,41,42,0.001173577736589433
+District of Columbia,Season peak week,Bin,week,42,43,0.0020188303045596996
+District of Columbia,Season peak week,Bin,week,43,44,0.0035934018574367388
+District of Columbia,Season peak week,Bin,week,44,45,0.006471064057350774
+District of Columbia,Season peak week,Bin,week,45,46,0.011564954250577141
+District of Columbia,Season peak week,Bin,week,46,47,0.020155662386216446
+District of Columbia,Season peak week,Bin,week,47,48,0.033672249763426434
+District of Columbia,Season peak week,Bin,week,48,49,0.05298963839369224
+District of Columbia,Season peak week,Bin,week,49,50,0.07719461146623208
+District of Columbia,Season peak week,Bin,week,50,51,0.10241897772509799
+District of Columbia,Season peak week,Bin,week,51,52,0.1220923141637183
+District of Columbia,Season peak week,Bin,week,52,53,0.12959402871693
+District of Columbia,Season peak week,Bin,week,1,2,0.12209231416371835
+District of Columbia,Season peak week,Bin,week,2,3,0.10241897772509799
+District of Columbia,Season peak week,Bin,week,3,4,0.07719461146623208
+District of Columbia,Season peak week,Bin,week,4,5,0.05298963839369224
+District of Columbia,Season peak week,Bin,week,5,6,0.033672249763426504
+District of Columbia,Season peak week,Bin,week,6,7,0.02015566238621637
+District of Columbia,Season peak week,Bin,week,7,8,0.011564954250577117
+District of Columbia,Season peak week,Bin,week,8,9,0.006471064057350793
+District of Columbia,Season peak week,Bin,week,9,10,0.003593401857436691
+District of Columbia,Season peak week,Bin,week,10,11,0.0020188303045596905
+District of Columbia,Season peak week,Bin,week,11,12,0.001173577736589507
+District of Columbia,Season peak week,Bin,week,12,13,0.0007240309685583204
+District of Columbia,Season peak week,Bin,week,13,14,0.000485395706337227
+District of Columbia,Season peak week,Bin,week,14,15,0.0003582696401193197
+District of Columbia,Season peak week,Bin,week,15,16,0.00029003748150704505
+District of Columbia,Season peak week,Bin,week,16,17,0.000253036926123489
+District of Columbia,Season peak week,Bin,week,17,18,0.00023272652765487812
+District of Columbia,Season peak week,Bin,week,18,19,0.00022142708219098945
+District of Columbia,Season peak week,Bin,week,19,20,0.0002150511155344671
+District of Columbia,Season peak week,Bin,week,20,21,0.0002114006566915422
+District of Columbia,Season peak percentage,Point,percent,NA,NA,5.763096684536194
+District of Columbia,Season peak percentage,Bin,percent,0,0.1,0.0010000001191316377
+District of Columbia,Season peak percentage,Bin,percent,0.1,0.2,0.0010000001484035657
+District of Columbia,Season peak percentage,Bin,percent,0.2,0.3,0.00100000018553492
+District of Columbia,Season peak percentage,Bin,percent,0.3,0.4,0.0010000002328200256
+District of Columbia,Season peak percentage,Bin,percent,0.4,0.5,0.0010000002932781995
+District of Columbia,Season peak percentage,Bin,percent,0.5,0.6,0.0010000003709007767
+District of Columbia,Season peak percentage,Bin,percent,0.6,0.7,0.0010000004709885798
+District of Columbia,Season peak percentage,Bin,percent,0.7,0.8,0.0010000006006153092
+District of Columbia,Season peak percentage,Bin,percent,0.8,0.9,0.0010000007692671875
+District of Columbia,Season peak percentage,Bin,percent,0.9,1,0.0010000009897306926
+District of Columbia,Season peak percentage,Bin,percent,1,1.1,0.001000001279331495
+District of Columbia,Season peak percentage,Bin,percent,1.1,1.2,0.0010000016616735089
+District of Columbia,Season peak percentage,Bin,percent,1.2,1.3,0.0010000021690944362
+District of Columbia,Season peak percentage,Bin,percent,1.3,1.4,0.0010000028461542329
+District of Columbia,Season peak percentage,Bin,percent,1.4,1.5,0.001000003754622289
+District of Columbia,Season peak percentage,Bin,percent,1.5,1.6,0.0010000049806535955
+District of Columbia,Season peak percentage,Bin,percent,1.6,1.7,0.0010000066451839786
+District of Columbia,Season peak percentage,Bin,percent,1.7,1.8,0.0010000089190925516
+District of Columbia,Season peak percentage,Bin,percent,1.8,1.9,0.0010000120454752548
+District of Columbia,Season peak percentage,Bin,percent,1.9,2,0.0010000163726048728
+District of Columbia,Season peak percentage,Bin,percent,2,2.1,0.0010000224030737236
+District of Columbia,Season peak percentage,Bin,percent,2.1,2.2,0.00100003086763513
+District of Columbia,Season peak percentage,Bin,percent,2.2,2.3,0.0010000428370463817
+District of Columbia,Season peak percentage,Bin,percent,2.3,2.4,0.0010000598928659938
+District of Columbia,Season peak percentage,Bin,percent,2.4,2.5,0.0010000843904883231
+District of Columbia,Season peak percentage,Bin,percent,2.5,2.6,0.0010001198677433746
+District of Columbia,Season peak percentage,Bin,percent,2.6,2.7,0.0010001716852595264
+District of Columbia,Season peak percentage,Bin,percent,2.7,2.8,0.0010002480391611685
+District of Columbia,Season peak percentage,Bin,percent,2.8,2.9,0.0010003615774125383
+District of Columbia,Season peak percentage,Bin,percent,2.9,3,0.0010005320038712034
+District of Columbia,Season peak percentage,Bin,percent,3,3.1,0.0010007903134836979
+District of Columbia,Season peak percentage,Bin,percent,3.1,3.2,0.0010011857461674858
+District of Columbia,Season peak percentage,Bin,percent,3.2,3.3,0.0010017973135007553
+District of Columbia,Season peak percentage,Bin,percent,3.3,3.4,0.0010027530854969625
+District of Columbia,Season peak percentage,Bin,percent,3.4,3.5,0.0010042627589443604
+District of Columbia,Season peak percentage,Bin,percent,3.5,3.6,0.0010066731390635888
+District of Columbia,Season peak percentage,Bin,percent,3.6,3.7,0.0010105634346888612
+District of Columbia,Season peak percentage,Bin,percent,3.7,3.8,0.0010169101490459746
+District of Columbia,Season peak percentage,Bin,percent,3.8,3.9,0.0010273741660924535
+District of Columbia,Season peak percentage,Bin,percent,3.9,4,0.0010448028718248335
+District of Columbia,Season peak percentage,Bin,percent,4,4.1,0.001074110412522626
+District of Columbia,Season peak percentage,Bin,percent,4.1,4.2,0.0011238196972326137
+District of Columbia,Season peak percentage,Bin,percent,4.2,4.3,0.0012087502713085875
+District of Columbia,Season peak percentage,Bin,percent,4.3,4.4,0.0013546533966658017
+District of Columbia,Season peak percentage,Bin,percent,4.4,4.5,0.0016060548887113556
+District of Columbia,Season peak percentage,Bin,percent,4.5,4.6,0.002039122199408271
+District of Columbia,Season peak percentage,Bin,percent,4.6,4.7,0.0027817611782237858
+District of Columbia,Season peak percentage,Bin,percent,4.7,4.8,0.004042589715923901
+District of Columbia,Season peak percentage,Bin,percent,4.8,4.9,0.006147189578227161
+District of Columbia,Season peak percentage,Bin,percent,4.9,5,0.009571148965676516
+District of Columbia,Season peak percentage,Bin,percent,5,5.1,0.014941839940995405
+District of Columbia,Season peak percentage,Bin,percent,5.1,5.2,0.022956427688177804
+District of Columbia,Season peak percentage,Bin,percent,5.2,5.3,0.034149266719944525
+District of Columbia,Season peak percentage,Bin,percent,5.3,5.4,0.04847860558662099
+District of Columbia,Season peak percentage,Bin,percent,5.4,5.5,0.06483672732412533
+District of Columbia,Season peak percentage,Bin,percent,5.5,5.6,0.08079467747564316
+District of Columbia,Season peak percentage,Bin,percent,5.6,5.7,0.09298796175817227
+District of Columbia,Season peak percentage,Bin,percent,5.7,5.8,0.09827105394120643
+District of Columbia,Season peak percentage,Bin,percent,5.8,5.9,0.09513999256615277
+District of Columbia,Season peak percentage,Bin,percent,5.9,6,0.08449603997313179
+District of Columbia,Season peak percentage,Bin,percent,6,6.1,0.06918231838670498
+District of Columbia,Season peak percentage,Bin,percent,6.1,6.2,0.05264278644483105
+District of Columbia,Season peak percentage,Bin,percent,6.2,6.3,0.0376220196371033
+District of Columbia,Season peak percentage,Bin,percent,6.3,6.4,0.025568518020798212
+District of Columbia,Season peak percentage,Bin,percent,6.4,6.5,0.016758290148561176
+District of Columbia,Season peak percentage,Bin,percent,6.5,6.6,0.010761425109125741
+District of Columbia,Season peak percentage,Bin,percent,6.6,6.7,0.006893442325092062
+District of Columbia,Season peak percentage,Bin,percent,6.7,6.8,0.004495804115545656
+District of Columbia,Season peak percentage,Bin,percent,6.8,6.9,0.0030510593350619153
+District of Columbia,Season peak percentage,Bin,percent,6.9,7,0.0021969351165688367
+District of Columbia,Season peak percentage,Bin,percent,7,7.1,0.0016978408154442889
+District of Columbia,Season peak percentage,Bin,percent,7.1,7.2,0.0014078986584438425
+District of Columbia,Season peak percentage,Bin,percent,7.2,7.3,0.0012396756575867233
+District of Columbia,Season peak percentage,Bin,percent,7.3,7.4,0.0011418557395119953
+District of Columbia,Season peak percentage,Bin,percent,7.4,7.5,0.0010846957696644098
+District of Columbia,Season peak percentage,Bin,percent,7.5,7.6,0.0010510647276509872
+District of Columbia,Season peak percentage,Bin,percent,7.6,7.7,0.0010311120969805033
+District of Columbia,Season peak percentage,Bin,percent,7.7,7.8,0.0010191635207257893
+District of Columbia,Season peak percentage,Bin,percent,7.8,7.9,0.0010119359913004795
+District of Columbia,Season peak percentage,Bin,percent,7.9,8,0.0010075181323888319
+District of Columbia,Season peak percentage,Bin,percent,8,8.1,0.0010047886072008657
+District of Columbia,Season peak percentage,Bin,percent,8.1,8.2,0.0010030838784377085
+District of Columbia,Season peak percentage,Bin,percent,8.2,8.3,0.0010020076450630126
+District of Columbia,Season peak percentage,Bin,percent,8.3,8.4,0.001001320903196412
+District of Columbia,Season peak percentage,Bin,percent,8.4,8.5,0.0010008780681643116
+District of Columbia,Season peak percentage,Bin,percent,8.5,8.6,0.0010005895604787095
+District of Columbia,Season peak percentage,Bin,percent,8.6,8.7,0.0010003997014011571
+District of Columbia,Season peak percentage,Bin,percent,8.7,8.8,0.001000273534321446
+District of Columbia,Season peak percentage,Bin,percent,8.8,8.9,0.0010001888939339756
+District of Columbia,Season peak percentage,Bin,percent,8.9,9,0.0010001315880649607
+District of Columbia,Season peak percentage,Bin,percent,9,9.1,0.0010000924425325804
+District of Columbia,Season peak percentage,Bin,percent,9.1,9.2,0.001000065471406025
+District of Columbia,Season peak percentage,Bin,percent,9.2,9.3,0.0010000467333978486
+District of Columbia,Season peak percentage,Bin,percent,9.3,9.4,0.0010000336104532446
+District of Columbia,Season peak percentage,Bin,percent,9.4,9.5,0.0010000243485178727
+District of Columbia,Season peak percentage,Bin,percent,9.5,9.6,0.0010000177625847317
+District of Columbia,Season peak percentage,Bin,percent,9.6,9.7,0.0010000130456024204
+District of Columbia,Season peak percentage,Bin,percent,9.7,9.8,0.0010000096436149418
+District of Columbia,Season peak percentage,Bin,percent,9.8,9.9,0.0010000071735019175
+District of Columbia,Season peak percentage,Bin,percent,9.9,10,0.0010000053683454871
+District of Columbia,Season peak percentage,Bin,percent,10,10.1,0.0010000040408624932
+District of Columbia,Season peak percentage,Bin,percent,10.1,10.2,0.0010000030587411332
+District of Columbia,Season peak percentage,Bin,percent,10.2,10.3,0.0010000023278819903
+District of Columbia,Season peak percentage,Bin,percent,10.3,10.4,0.0010000017809312879
+District of Columbia,Season peak percentage,Bin,percent,10.4,10.5,0.0010000013693781521
+District of Columbia,Season peak percentage,Bin,percent,10.5,10.6,0.0010000010580716498
+District of Columbia,Season peak percentage,Bin,percent,10.6,10.7,0.0010000008213932013
+District of Columbia,Season peak percentage,Bin,percent,10.7,10.8,0.0010000006405655086
+District of Columbia,Season peak percentage,Bin,percent,10.8,10.9,0.0010000005017498093
+District of Columbia,Season peak percentage,Bin,percent,10.9,11,0.0010000003946937317
+District of Columbia,Season peak percentage,Bin,percent,11,11.1,0.0010000003117617837
+District of Columbia,Season peak percentage,Bin,percent,11.1,11.2,0.0010000002472399369
+District of Columbia,Season peak percentage,Bin,percent,11.2,11.3,0.0010000001968307546
+District of Columbia,Season peak percentage,Bin,percent,11.3,11.4,0.0010000001572873537
+District of Columbia,Season peak percentage,Bin,percent,11.4,11.5,0.001000000126145483
+District of Columbia,Season peak percentage,Bin,percent,11.5,11.6,0.0010000001015262262
+District of Columbia,Season peak percentage,Bin,percent,11.6,11.7,0.0010000000819914768
+District of Columbia,Season peak percentage,Bin,percent,11.7,11.8,0.001000000066435206
+District of Columbia,Season peak percentage,Bin,percent,11.8,11.9,0.0010000000540039667
+District of Columbia,Season peak percentage,Bin,percent,11.9,12,0.0010000000440363028
+District of Columbia,Season peak percentage,Bin,percent,12,12.1,0.0010000000360175022
+District of Columbia,Season peak percentage,Bin,percent,12.1,12.2,0.0010000000295460217
+District of Columbia,Season peak percentage,Bin,percent,12.2,12.3,0.0010000000243069562
+District of Columbia,Season peak percentage,Bin,percent,12.3,12.4,0.001000000020052549
+District of Columbia,Season peak percentage,Bin,percent,12.4,12.5,0.0010000000165880105
+District of Columbia,Season peak percentage,Bin,percent,12.5,12.6,0.0010000000137582031
+District of Columbia,Season peak percentage,Bin,percent,12.6,12.7,0.0010000000114405029
+District of Columbia,Season peak percentage,Bin,percent,12.7,12.8,0.0010000000095371775
+District of Columbia,Season peak percentage,Bin,percent,12.8,12.9,0.001000000007969886
+District of Columbia,Season peak percentage,Bin,percent,12.9,13,0.001000000006675918
+District of Columbia,Season peak percentage,Bin,percent,13,100,0.001000000037774663
+District of Columbia,1 wk ahead,Point,percent,NA,NA,3.13788
+District of Columbia,1 wk ahead,Bin,percent,0,0.1,0.001014905855583757
+District of Columbia,1 wk ahead,Bin,percent,0.1,0.2,0.00102024956156255
+District of Columbia,1 wk ahead,Bin,percent,0.2,0.3,0.0010276277508073134
+District of Columbia,1 wk ahead,Bin,percent,0.3,0.4,0.00103785328394767
+District of Columbia,1 wk ahead,Bin,percent,0.4,0.5,0.001052075100083371
+District of Columbia,1 wk ahead,Bin,percent,0.5,0.6,0.0010719194187692141
+District of Columbia,1 wk ahead,Bin,percent,0.6,0.7,0.0010996896441421763
+District of Columbia,1 wk ahead,Bin,percent,0.7,0.8,0.0011386480244485722
+District of Columbia,1 wk ahead,Bin,percent,0.8,0.9,0.0011934098033835035
+District of Columbia,1 wk ahead,Bin,percent,0.9,1,0.001270489631303172
+District of Columbia,1 wk ahead,Bin,percent,1,1.1,0.0013790494918496973
+District of Columbia,1 wk ahead,Bin,percent,1.1,1.2,0.0015319051561463117
+District of Columbia,1 wk ahead,Bin,percent,1.2,1.3,0.001746849792584252
+District of Columbia,1 wk ahead,Bin,percent,1.3,1.4,0.0020483409298463337
+District of Columbia,1 wk ahead,Bin,percent,1.4,1.5,0.002469557640014522
+District of Columbia,1 wk ahead,Bin,percent,1.5,1.6,0.0030547497192977787
+District of Columbia,1 wk ahead,Bin,percent,1.6,1.7,0.003861645621992251
+District of Columbia,1 wk ahead,Bin,percent,1.7,1.8,0.004963436378407827
+District of Columbia,1 wk ahead,Bin,percent,1.8,1.9,0.0064494965784682905
+District of Columbia,1 wk ahead,Bin,percent,1.9,2,0.008423565699219489
+District of Columbia,1 wk ahead,Bin,percent,2,2.1,0.010997692796963606
+District of Columbia,1 wk ahead,Bin,percent,2.1,2.2,0.014280058756575249
+District of Columbia,1 wk ahead,Bin,percent,2.2,2.3,0.018355177186693255
+District of Columbia,1 wk ahead,Bin,percent,2.3,2.4,0.023256352125343733
+District of Columbia,1 wk ahead,Bin,percent,2.4,2.5,0.028932927237791367
+District of Columbia,1 wk ahead,Bin,percent,2.5,2.6,0.03521861645989545
+District of Columbia,1 wk ahead,Bin,percent,2.6,2.7,0.04181103228047661
+District of Columbia,1 wk ahead,Bin,percent,2.7,2.8,0.04827444727150447
+District of Columbia,1 wk ahead,Bin,percent,2.8,2.9,0.05407547966787439
+District of Columbia,1 wk ahead,Bin,percent,2.9,3,0.05865343663584193
+District of Columbia,1 wk ahead,Bin,percent,3,3.1,0.06151479419249884
+District of Columbia,1 wk ahead,Bin,percent,3.1,3.2,0.0623293387960312
+District of Columbia,1 wk ahead,Bin,percent,3.2,3.3,0.06100009858514307
+District of Columbia,1 wk ahead,Bin,percent,3.3,3.4,0.0576846470968967
+District of Columbia,1 wk ahead,Bin,percent,3.4,3.5,0.05276065790082996
+District of Columbia,1 wk ahead,Bin,percent,3.5,3.6,0.04674716025610384
+District of Columbia,1 wk ahead,Bin,percent,3.6,3.7,0.04020628276092253
+District of Columbia,1 wk ahead,Bin,percent,3.7,3.8,0.03365295227515275
+District of Columbia,1 wk ahead,Bin,percent,3.8,3.9,0.02749249130052894
+District of Columbia,1 wk ahead,Bin,percent,3.9,4,0.021993468322333832
+District of Columbia,1 wk ahead,Bin,percent,4,4.1,0.017291637434564053
+District of Columbia,1 wk ahead,Bin,percent,4.1,4.2,0.013414210801255873
+District of Columbia,1 wk ahead,Bin,percent,4.2,4.3,0.01031258771380587
+District of Columbia,1 wk ahead,Bin,percent,4.3,4.4,0.007894265238881959
+District of Columbia,1 wk ahead,Bin,percent,4.4,4.5,0.006048613190346958
+District of Columbia,1 wk ahead,Bin,percent,4.5,4.6,0.004664742083046935
+District of Columbia,1 wk ahead,Bin,percent,4.6,4.7,0.003642031022318132
+District of Columbia,1 wk ahead,Bin,percent,4.7,4.8,0.0028949834549714523
+District of Columbia,1 wk ahead,Bin,percent,4.8,4.9,0.0023542885864283923
+District of Columbia,1 wk ahead,Bin,percent,4.9,5,0.001965694465111483
+District of Columbia,1 wk ahead,Bin,percent,5,5.1,0.0016878595353015005
+District of Columbia,1 wk ahead,Bin,percent,5.1,5.2,0.0014899258740779006
+District of Columbia,1 wk ahead,Bin,percent,5.2,5.3,0.0013492266786143013
+District of Columbia,1 wk ahead,Bin,percent,5.3,5.4,0.0012493158512292518
+District of Columbia,1 wk ahead,Bin,percent,5.4,5.5,0.001178371841084138
+District of Columbia,1 wk ahead,Bin,percent,5.5,5.6,0.001127955960998229
+District of Columbia,1 wk ahead,Bin,percent,5.6,5.7,0.0010920740829147948
+District of Columbia,1 wk ahead,Bin,percent,5.7,5.8,0.001066482558365828
+District of Columbia,1 wk ahead,Bin,percent,5.8,5.9,0.0010481828836066606
+District of Columbia,1 wk ahead,Bin,percent,5.9,6,0.00103505810682287
+District of Columbia,1 wk ahead,Bin,percent,6,6.1,0.001025613490496553
+District of Columbia,1 wk ahead,Bin,percent,6.1,6.2,0.001018792694609089
+District of Columbia,1 wk ahead,Bin,percent,6.2,6.3,0.0010138480547661607
+District of Columbia,1 wk ahead,Bin,percent,6.3,6.4,0.0010102492918962391
+District of Columbia,1 wk ahead,Bin,percent,6.4,6.5,0.001007619366609874
+District of Columbia,1 wk ahead,Bin,percent,6.5,6.6,0.001005689429931282
+District of Columbia,1 wk ahead,Bin,percent,6.6,6.7,0.00100426717483395
+District of Columbia,1 wk ahead,Bin,percent,6.7,6.8,0.0010032145794521318
+District of Columbia,1 wk ahead,Bin,percent,6.8,6.9,0.0010024322300333545
+District of Columbia,1 wk ahead,Bin,percent,6.9,7,0.0010018482557006643
+District of Columbia,1 wk ahead,Bin,percent,7,7.1,0.0010014104992511466
+District of Columbia,1 wk ahead,Bin,percent,7.1,7.2,0.0010010809623330992
+District of Columbia,1 wk ahead,Bin,percent,7.2,7.3,0.0010008318524384096
+District of Columbia,1 wk ahead,Bin,percent,7.3,7.4,0.0010006427607620466
+District of Columbia,1 wk ahead,Bin,percent,7.4,7.5,0.0010004986406184357
+District of Columbia,1 wk ahead,Bin,percent,7.5,7.6,0.0010003883542504379
+District of Columbia,1 wk ahead,Bin,percent,7.6,7.7,0.0010003036244676511
+District of Columbia,1 wk ahead,Bin,percent,7.7,7.8,0.0010002382755634636
+District of Columbia,1 wk ahead,Bin,percent,7.8,7.9,0.0010001876816476453
+District of Columbia,1 wk ahead,Bin,percent,7.9,8,0.0010001483642193654
+District of Columbia,1 wk ahead,Bin,percent,8,8.1,0.0010001176975008084
+District of Columbia,1 wk ahead,Bin,percent,8.1,8.2,0.0010000936918672023
+District of Columbia,1 wk ahead,Bin,percent,8.2,8.3,0.001000074834073595
+District of Columbia,1 wk ahead,Bin,percent,8.3,8.4,0.0010000599689471807
+District of Columbia,1 wk ahead,Bin,percent,8.4,8.5,0.001000048211453735
+District of Columbia,1 wk ahead,Bin,percent,8.5,8.6,0.0010000388811045782
+District of Columbia,1 wk ahead,Bin,percent,8.6,8.7,0.0010000314528454926
+District of Columbia,1 wk ahead,Bin,percent,8.7,8.8,0.001000025520156769
+District of Columbia,1 wk ahead,Bin,percent,8.8,8.9,0.0010000207672276045
+District of Columbia,1 wk ahead,Bin,percent,8.9,9,0.0010000169479014106
+District of Columbia,1 wk ahead,Bin,percent,9,9.1,0.0010000138696884303
+District of Columbia,1 wk ahead,Bin,percent,9.1,9.2,0.0010000113815835574
+District of Columbia,1 wk ahead,Bin,percent,9.2,9.3,0.001000009364755501
+District of Columbia,1 wk ahead,Bin,percent,9.3,9.4,0.0010000077254047049
+District of Columbia,1 wk ahead,Bin,percent,9.4,9.5,0.0010000063892669792
+District of Columbia,1 wk ahead,Bin,percent,9.5,9.6,0.0010000052973724804
+District of Columbia,1 wk ahead,Bin,percent,9.6,9.7,0.0010000044027599696
+District of Columbia,1 wk ahead,Bin,percent,9.7,9.8,0.0010000036679258916
+District of Columbia,1 wk ahead,Bin,percent,9.8,9.9,0.0010000030628367202
+District of Columbia,1 wk ahead,Bin,percent,9.9,10,0.0010000025633752874
+District of Columbia,1 wk ahead,Bin,percent,10,10.1,0.001000002150124418
+District of Columbia,1 wk ahead,Bin,percent,10.1,10.2,0.0010000018074097184
+District of Columbia,1 wk ahead,Bin,percent,10.2,10.3,0.001000001522546235
+District of Columbia,1 wk ahead,Bin,percent,10.3,10.4,0.0010000012852418969
+District of Columbia,1 wk ahead,Bin,percent,10.4,10.5,0.0010000010871271609
+District of Columbia,1 wk ahead,Bin,percent,10.5,10.6,0.0010000009213773744
+District of Columbia,1 wk ahead,Bin,percent,10.6,10.7,0.0010000007824165725
+District of Columbia,1 wk ahead,Bin,percent,10.7,10.8,0.0010000006656776198
+District of Columbia,1 wk ahead,Bin,percent,10.8,10.9,0.001000000567410595
+District of Columbia,1 wk ahead,Bin,percent,10.9,11,0.0010000004845311188
+District of Columbia,1 wk ahead,Bin,percent,11,11.1,0.0010000004144958905
+District of Columbia,1 wk ahead,Bin,percent,11.1,11.2,0.001000000355203117
+District of Columbia,1 wk ahead,Bin,percent,11.2,11.3,0.001000000304912914
+District of Columbia,1 wk ahead,Bin,percent,11.3,11.4,0.0010000002621814088
+District of Columbia,1 wk ahead,Bin,percent,11.4,11.5,0.0010000002258087344
+District of Columbia,1 wk ahead,Bin,percent,11.5,11.6,0.0010000001947949374
+District of Columbia,1 wk ahead,Bin,percent,11.6,11.7,0.0010000001683055336
+District of Columbia,1 wk ahead,Bin,percent,11.7,11.8,0.0010000001456431414
+District of Columbia,1 wk ahead,Bin,percent,11.8,11.9,0.0010000001262231682
+District of Columbia,1 wk ahead,Bin,percent,11.9,12,0.0010000001095549
+District of Columbia,1 wk ahead,Bin,percent,12,12.1,0.001000000095226449
+District of Columbia,1 wk ahead,Bin,percent,12.1,12.2,0.0010000000828900893
+District of Columbia,1 wk ahead,Bin,percent,12.2,12.3,0.001000000072252898
+District of Columbia,1 wk ahead,Bin,percent,12.3,12.4,0.0010000000630672984
+District of Columbia,1 wk ahead,Bin,percent,12.4,12.5,0.001000000055123825
+District of Columbia,1 wk ahead,Bin,percent,12.5,12.6,0.001000000048244563
+District of Columbia,1 wk ahead,Bin,percent,12.6,12.7,0.001000000042278516
+District of Columbia,1 wk ahead,Bin,percent,12.7,12.8,0.0010000000370975538
+District of Columbia,1 wk ahead,Bin,percent,12.8,12.9,0.0010000000325922644
+District of Columbia,1 wk ahead,Bin,percent,12.9,13,0.0010000000286692519
+District of Columbia,1 wk ahead,Bin,percent,13,100,0.0010000002286356961
+District of Columbia,2 wk ahead,Point,percent,NA,NA,3.19762
+District of Columbia,2 wk ahead,Bin,percent,0,0.1,0.0010229768268365878
+District of Columbia,2 wk ahead,Bin,percent,0.1,0.2,0.0010307350277037205
+District of Columbia,2 wk ahead,Bin,percent,0.2,0.3,0.001041259728361325
+District of Columbia,2 wk ahead,Bin,percent,0.3,0.4,0.0010555792385469646
+District of Columbia,2 wk ahead,Bin,percent,0.4,0.5,0.0010751140134455822
+District of Columbia,2 wk ahead,Bin,percent,0.5,0.6,0.0011018268175909405
+District of Columbia,2 wk ahead,Bin,percent,0.6,0.7,0.001138428721352569
+District of Columbia,2 wk ahead,Bin,percent,0.7,0.8,0.0011886598195167653
+District of Columbia,2 wk ahead,Bin,percent,0.8,0.9,0.0012576683971689154
+District of Columbia,2 wk ahead,Bin,percent,0.9,1,0.0013525171074550946
+District of Columbia,2 wk ahead,Bin,percent,1,1.1,0.0014828483912957668
+District of Columbia,2 wk ahead,Bin,percent,1.1,1.2,0.0016617416573211957
+District of Columbia,2 wk ahead,Bin,percent,1.2,1.3,0.001906787905852541
+District of Columbia,2 wk ahead,Bin,percent,1.3,1.4,0.002241387666894387
+District of Columbia,2 wk ahead,Bin,percent,1.4,1.5,0.0026962369470966406
+District of Columbia,2 wk ahead,Bin,percent,1.5,1.6,0.0033108926367427867
+District of Columbia,2 wk ahead,Bin,percent,1.6,1.7,0.004135192110639975
+District of Columbia,2 wk ahead,Bin,percent,1.7,1.8,0.005230133741811629
+District of Columbia,2 wk ahead,Bin,percent,1.8,1.9,0.00666760980158263
+District of Columbia,2 wk ahead,Bin,percent,1.9,2,0.008528149811750964
+District of Columbia,2 wk ahead,Bin,percent,2,2.1,0.010895651249138591
+District of Columbia,2 wk ahead,Bin,percent,2.1,2.2,0.013848070401930274
+District of Columbia,2 wk ahead,Bin,percent,2.2,2.3,0.017443394393173377
+District of Columbia,2 wk ahead,Bin,percent,2.3,2.4,0.02170110019823277
+District of Columbia,2 wk ahead,Bin,percent,2.4,2.5,0.026580824287246525
+District of Columbia,2 wk ahead,Bin,percent,2.5,2.6,0.03196197811862581
+District of Columbia,2 wk ahead,Bin,percent,2.6,2.7,0.03763003156569048
+District of Columbia,2 wk ahead,Bin,percent,2.7,2.8,0.0432762279269381
+District of Columbia,2 wk ahead,Bin,percent,2.8,2.9,0.048516505856377
+District of Columbia,2 wk ahead,Bin,percent,2.9,3,0.05293168461811691
+District of Columbia,2 wk ahead,Bin,percent,3,3.1,0.056124879757799506
+District of Columbia,2 wk ahead,Bin,percent,3.1,3.2,0.05778544479967647
+District of Columbia,2 wk ahead,Bin,percent,3.2,3.3,0.057744279879440315
+District of Columbia,2 wk ahead,Bin,percent,3.3,3.4,0.05600563829088751
+District of Columbia,2 wk ahead,Bin,percent,3.4,3.5,0.05274631269291466
+District of Columbia,2 wk ahead,Bin,percent,3.5,3.6,0.04828243884795053
+District of Columbia,2 wk ahead,Bin,percent,3.6,3.7,0.04301341478550068
+District of Columbia,2 wk ahead,Bin,percent,3.7,3.8,0.03735794612221239
+District of Columbia,2 wk ahead,Bin,percent,3.8,3.9,0.03169725693053606
+District of Columbia,2 wk ahead,Bin,percent,3.9,4,0.02633587957250201
+District of Columbia,2 wk ahead,Bin,percent,4,4.1,0.021483733885699963
+District of Columbia,2 wk ahead,Bin,percent,4.1,4.2,0.017257200298209995
+District of Columbia,2 wk ahead,Bin,percent,4.2,4.3,0.01369330505705424
+District of Columbia,2 wk ahead,Bin,percent,4.3,4.4,0.01077026566629052
+District of Columbia,2 wk ahead,Bin,percent,4.4,4.5,0.008428756150534993
+District of Columbia,2 wk ahead,Bin,percent,4.5,4.6,0.00659025789029479
+District of Columbia,2 wk ahead,Bin,percent,4.6,4.7,0.005170858223385463
+District of Columbia,2 wk ahead,Bin,percent,4.7,4.8,0.004090347338062543
+District of Columbia,2 wk ahead,Bin,percent,4.8,4.9,0.0032773198607205273
+District of Columbia,2 wk ahead,Bin,percent,4.9,5,0.0026713146030982
+District of Columbia,2 wk ahead,Bin,percent,5,5.1,0.002223009748067227
+District of Columbia,2 wk ahead,Bin,percent,5.1,5.2,0.001893304728212438
+District of Columbia,2 wk ahead,Bin,percent,5.2,5.3,0.001651886303057871
+District of Columbia,2 wk ahead,Bin,percent,5.3,5.4,0.0014756629435541
+District of Columbia,2 wk ahead,Bin,percent,5.4,5.5,0.0013472861042816066
+District of Columbia,2 wk ahead,Bin,percent,5.5,5.6,0.001253862546379634
+District of Columbia,2 wk ahead,Bin,percent,5.6,5.7,0.0011858904210175166
+District of Columbia,2 wk ahead,Bin,percent,5.7,5.8,0.0011364118925178317
+District of Columbia,2 wk ahead,Bin,percent,5.8,5.9,0.0011003560535126507
+District of Columbia,2 wk ahead,Bin,percent,5.9,6,0.0010740395030510415
+District of Columbia,2 wk ahead,Bin,percent,6,6.1,0.001054792478009237
+District of Columbia,2 wk ahead,Bin,percent,6.1,6.2,0.0010406821895270386
+District of Columbia,2 wk ahead,Bin,percent,6.2,6.3,0.0010303098757738162
+District of Columbia,2 wk ahead,Bin,percent,6.3,6.4,0.0010226629005271495
+District of Columbia,2 wk ahead,Bin,percent,6.4,6.5,0.0010170074804557328
+District of Columbia,2 wk ahead,Bin,percent,6.5,6.6,0.0010128111392295996
+District of Columbia,2 wk ahead,Bin,percent,6.6,6.7,0.0010096867713570176
+District of Columbia,2 wk ahead,Bin,percent,6.7,6.8,0.0010073523414458846
+District of Columbia,2 wk ahead,Bin,percent,6.8,6.9,0.0010056018593832868
+District of Columbia,2 wk ahead,Bin,percent,6.9,7,0.0010042844703931368
+District of Columbia,2 wk ahead,Bin,percent,7,7.1,0.0010032893783806492
+District of Columbia,2 wk ahead,Bin,percent,7.1,7.2,0.0010025349609533588
+District of Columbia,2 wk ahead,Bin,percent,7.2,7.3,0.0010019608973631659
+District of Columbia,2 wk ahead,Bin,percent,7.3,7.4,0.0010015224638849564
+District of Columbia,2 wk ahead,Bin,percent,7.4,7.5,0.0010011863904044176
+District of Columbia,2 wk ahead,Bin,percent,7.5,7.6,0.0010009278433997125
+District of Columbia,2 wk ahead,Bin,percent,7.6,7.7,0.0010007282232008985
+District of Columbia,2 wk ahead,Bin,percent,7.7,7.8,0.001000573551196951
+District of Columbia,2 wk ahead,Bin,percent,7.8,7.9,0.0010004532855042963
+District of Columbia,2 wk ahead,Bin,percent,7.9,8,0.0010003594486248729
+District of Columbia,2 wk ahead,Bin,percent,8,8.1,0.0010002859829003142
+District of Columbia,2 wk ahead,Bin,percent,8.1,8.2,0.0010002282727751925
+District of Columbia,2 wk ahead,Bin,percent,8.2,8.3,0.0010001827895593704
+District of Columbia,2 wk ahead,Bin,percent,8.3,8.4,0.0010001468264280511
+District of Columbia,2 wk ahead,Bin,percent,8.4,8.5,0.0010001183000979258
+District of Columbia,2 wk ahead,Bin,percent,8.5,8.6,0.0010000956019184711
+District of Columbia,2 wk ahead,Bin,percent,8.6,8.7,0.0010000774857068337
+District of Columbia,2 wk ahead,Bin,percent,8.7,8.8,0.0010000629829858309
+District of Columbia,2 wk ahead,Bin,percent,8.8,8.9,0.0010000513387243583
+District of Columbia,2 wk ahead,Bin,percent,8.9,9,0.0010000419624677738
+District of Columbia,2 wk ahead,Bin,percent,9,9.1,0.001000034391051864
+District of Columbia,2 wk ahead,Bin,percent,9.1,9.2,0.0010000282600701603
+District of Columbia,2 wk ahead,Bin,percent,9.2,9.3,0.0010000232819674622
+District of Columbia,2 wk ahead,Bin,percent,9.3,9.4,0.0010000192291739075
+District of Columbia,2 wk ahead,Bin,percent,9.4,9.5,0.0010000159210768894
+District of Columbia,2 wk ahead,Bin,percent,9.5,9.6,0.0010000132139293455
+District of Columbia,2 wk ahead,Bin,percent,9.6,9.7,0.0010000109930111013
+District of Columbia,2 wk ahead,Bin,percent,9.7,9.8,0.0010000091665184805
+District of Columbia,2 wk ahead,Bin,percent,9.8,9.9,0.0010000076607927593
+District of Columbia,2 wk ahead,Bin,percent,9.9,10,0.0010000064165784225
+District of Columbia,2 wk ahead,Bin,percent,10,10.1,0.0010000053860865978
+District of Columbia,2 wk ahead,Bin,percent,10.1,10.2,0.0010000045306778377
+District of Columbia,2 wk ahead,Bin,percent,10.2,10.3,0.0010000038190346656
+District of Columbia,2 wk ahead,Bin,percent,10.3,10.4,0.0010000032257119632
+District of Columbia,2 wk ahead,Bin,percent,10.4,10.5,0.0010000027299874314
+District of Columbia,2 wk ahead,Bin,percent,10.5,10.6,0.001000002314945644
+District of Columbia,2 wk ahead,Bin,percent,10.6,10.7,0.0010000019667467772
+District of Columbia,2 wk ahead,Bin,percent,10.7,10.8,0.0010000016740427697
+District of Columbia,2 wk ahead,Bin,percent,10.8,10.9,0.0010000014275077232
+District of Columbia,2 wk ahead,Bin,percent,10.9,11,0.001000001219461123
+District of Columbia,2 wk ahead,Bin,percent,11,11.1,0.0010000010435643884
+District of Columbia,2 wk ahead,Bin,percent,11.1,11.2,0.0010000008945756026
+District of Columbia,2 wk ahead,Bin,percent,11.2,11.3,0.0010000007681504638
+District of Columbia,2 wk ahead,Bin,percent,11.3,11.4,0.0010000006606820184
+District of Columbia,2 wk ahead,Bin,percent,11.4,11.5,0.001000000569169345
+District of Columbia,2 wk ahead,Bin,percent,11.5,11.6,0.0010000004911105496
+District of Columbia,2 wk ahead,Bin,percent,11.6,11.7,0.0010000004244170866
+District of Columbia,2 wk ahead,Bin,percent,11.7,11.8,0.001000000367340139
+District of Columbia,2 wk ahead,Bin,percent,11.8,11.9,0.0010000003184153319
+District of Columbia,2 wk ahead,Bin,percent,11.9,12,0.0010000002764117874
+District of Columbia,2 wk ahead,Bin,percent,12,12.1,0.0010000002402947852
+District of Columbia,2 wk ahead,Bin,percent,12.1,12.2,0.0010000002091920873
+District of Columbia,2 wk ahead,Bin,percent,12.2,12.3,0.001000000182367792
+District of Columbia,2 wk ahead,Bin,percent,12.3,12.4,0.001000000159199561
+District of Columbia,2 wk ahead,Bin,percent,12.4,12.5,0.0010000001391600964
+District of Columbia,2 wk ahead,Bin,percent,12.5,12.6,0.0010000001218027623
+District of Columbia,2 wk ahead,Bin,percent,12.6,12.7,0.0010000001067475952
+District of Columbia,2 wk ahead,Bin,percent,12.7,12.8,0.001000000093671558
+District of Columbia,2 wk ahead,Bin,percent,12.8,12.9,0.0010000000822992785
+District of Columbia,2 wk ahead,Bin,percent,12.9,13,0.0010000000723958125
+District of Columbia,2 wk ahead,Bin,percent,13,100,0.0010000005772194992
+District of Columbia,3 wk ahead,Point,percent,NA,NA,3.599
+District of Columbia,3 wk ahead,Bin,percent,0,0.1,0.0010089095141787947
+District of Columbia,3 wk ahead,Bin,percent,0.1,0.2,0.0010117042769980126
+District of Columbia,3 wk ahead,Bin,percent,0.2,0.3,0.001015431717267425
+District of Columbia,3 wk ahead,Bin,percent,0.3,0.4,0.0010204195511341661
+District of Columbia,3 wk ahead,Bin,percent,0.4,0.5,0.0010271153270534636
+District of Columbia,3 wk ahead,Bin,percent,0.5,0.6,0.0010361313799006923
+District of Columbia,3 wk ahead,Bin,percent,0.6,0.7,0.001048306755732411
+District of Columbia,3 wk ahead,Bin,percent,0.7,0.8,0.0010647923638024536
+District of Columbia,3 wk ahead,Bin,percent,0.8,0.9,0.0010871677407406737
+District of Columbia,3 wk ahead,Bin,percent,0.9,1,0.0011176005138456963
+District of Columbia,3 wk ahead,Bin,percent,1,1.1,0.0011590629613284797
+District of Columbia,3 wk ahead,Bin,percent,1.1,1.2,0.001215623913990516
+District of Columbia,3 wk ahead,Bin,percent,1.2,1.3,0.0012928383366428845
+District of Columbia,3 wk ahead,Bin,percent,1.3,1.4,0.0013982605926802375
+District of Columbia,3 wk ahead,Bin,percent,1.4,1.5,0.001542109311745465
+District of Columbia,3 wk ahead,Bin,percent,1.5,1.6,0.0017381096322108534
+District of Columbia,3 wk ahead,Bin,percent,1.6,1.7,0.0020045286379013136
+District of Columbia,3 wk ahead,Bin,percent,1.7,1.8,0.002365396481054837
+District of Columbia,3 wk ahead,Bin,percent,1.8,1.9,0.002851861417323626
+District of Columbia,3 wk ahead,Bin,percent,1.9,2,0.0035035527511273067
+District of Columbia,3 wk ahead,Bin,percent,2,2.1,0.004369712980548896
+District of Columbia,3 wk ahead,Bin,percent,2.1,2.2,0.005509705597784844
+District of Columbia,3 wk ahead,Bin,percent,2.2,2.3,0.006992317016172827
+District of Columbia,3 wk ahead,Bin,percent,2.3,2.4,0.008893082758797296
+District of Columbia,3 wk ahead,Bin,percent,2.4,2.5,0.011288748497284899
+District of Columbia,3 wk ahead,Bin,percent,2.5,2.6,0.014248038645316114
+District of Columbia,3 wk ahead,Bin,percent,2.6,2.7,0.017818295918370274
+District of Columbia,3 wk ahead,Bin,percent,2.7,2.8,0.022008413211027325
+District of Columbia,3 wk ahead,Bin,percent,2.8,2.9,0.026769848907433117
+District of Columbia,3 wk ahead,Bin,percent,2.9,3,0.03197923043566568
+District of Columbia,3 wk ahead,Bin,percent,3,3.1,0.037427628155694226
+District of Columbia,3 wk ahead,Bin,percent,3.1,3.2,0.04282224264376726
+District of Columbia,3 wk ahead,Bin,percent,3.2,3.3,0.04780513846812174
+District of Columbia,3 wk ahead,Bin,percent,3.3,3.4,0.051990298692579706
+District of Columbia,3 wk ahead,Bin,percent,3.4,3.5,0.05501507862375096
+District of Columbia,3 wk ahead,Bin,percent,3.5,3.6,0.05659663827877401
+District of Columbia,3 wk ahead,Bin,percent,3.6,3.7,0.05658039820634259
+District of Columbia,3 wk ahead,Bin,percent,3.7,3.8,0.05496796863282183
+District of Columbia,3 wk ahead,Bin,percent,3.8,3.9,0.05191685357669032
+District of Columbia,3 wk ahead,Bin,percent,3.9,4,0.04771201307143134
+District of Columbia,3 wk ahead,Bin,percent,4,4.1,0.04271711580982805
+District of Columbia,3 wk ahead,Bin,percent,4.1,4.2,0.03731808554660411
+District of Columbia,3 wk ahead,Bin,percent,4.2,4.3,0.03187185969313803
+District of Columbia,3 wk ahead,Bin,percent,4.3,4.4,0.02666968198283373
+District of Columbia,3 wk ahead,Bin,percent,4.4,4.5,0.021918736982682284
+District of Columbia,3 wk ahead,Bin,percent,4.5,4.6,0.01774076379864879
+District of Columbia,3 wk ahead,Bin,percent,4.6,4.7,0.01418297207262173
+District of Columbia,3 wk ahead,Bin,percent,4.7,4.8,0.011235515658791825
+District of Columbia,3 wk ahead,Bin,percent,4.8,4.9,0.008850467410465267
+District of Columbia,3 wk ahead,Bin,percent,4.9,5,0.006958825365253624
+District of Columbia,3 wk ahead,Bin,percent,5,5.1,0.005483791008451601
+District of Columbia,3 wk ahead,Bin,percent,5.1,5.2,0.004349920556270669
+District of Columbia,3 wk ahead,Bin,percent,5.2,5.3,0.0034885978617674243
+District of Columbia,3 wk ahead,Bin,percent,5.3,5.4,0.00284066018361617
+District of Columbia,3 wk ahead,Bin,percent,5.4,5.5,0.0023570651712459595
+District of Columbia,3 wk ahead,Bin,percent,5.5,5.6,0.0019983655376361507
+District of Columbia,3 wk ahead,Bin,percent,5.6,5.7,0.001733569024311213
+District of Columbia,3 wk ahead,Bin,percent,5.7,5.8,0.0015387737202296793
+District of Columbia,3 wk ahead,Bin,percent,5.8,5.9,0.0013958147761012787
+District of Columbia,3 wk ahead,Bin,percent,5.9,6,0.0012910466784114153
+District of Columbia,3 wk ahead,Bin,percent,6,6.1,0.0012143117095944542
+District of Columbia,3 wk ahead,Bin,percent,6.1,6.2,0.001158101458921391
+District of Columbia,3 wk ahead,Bin,percent,6.2,6.3,0.0011168952564417935
+District of Columbia,3 wk ahead,Bin,percent,6.3,6.4,0.0010866496540562873
+District of Columbia,3 wk ahead,Bin,percent,6.4,6.5,0.0010644110420464413
+District of Columbia,3 wk ahead,Bin,percent,6.5,6.6,0.0010480254595857156
+District of Columbia,3 wk ahead,Bin,percent,6.6,6.7,0.0010359233417167792
+District of Columbia,3 wk ahead,Bin,percent,6.7,6.8,0.0010269610391226809
+District of Columbia,3 wk ahead,Bin,percent,6.8,6.9,0.0010203047848360396
+District of Columbia,3 wk ahead,Bin,percent,6.9,7,0.0010153460809466535
+District of Columbia,3 wk ahead,Bin,percent,7,7.1,0.001011640168367641
+District of Columbia,3 wk ahead,Bin,percent,7.1,7.2,0.0010088613602855978
+District of Columbia,3 wk ahead,Bin,percent,7.2,7.3,0.0010067706460213867
+District of Columbia,3 wk ahead,Bin,percent,7.3,7.4,0.0010051921983969434
+District of Columbia,3 wk ahead,Bin,percent,7.4,7.5,0.0010039963302956912
+District of Columbia,3 wk ahead,Bin,percent,7.5,7.6,0.0010030871184818389
+District of Columbia,3 wk ahead,Bin,percent,7.6,7.7,0.00100239340445546
+District of Columbia,3 wk ahead,Bin,percent,7.7,7.8,0.001001862239759351
+District of Columbia,3 wk ahead,Bin,percent,7.8,7.9,0.0010014541022489944
+District of Columbia,3 wk ahead,Bin,percent,7.9,8,0.001001139397057126
+District of Columbia,3 wk ahead,Bin,percent,8,8.1,0.0010008958910183562
+District of Columbia,3 wk ahead,Bin,percent,8.1,8.2,0.0010007068266484683
+District of Columbia,3 wk ahead,Bin,percent,8.2,8.3,0.0010005595318962495
+District of Columbia,3 wk ahead,Bin,percent,8.3,8.4,0.0010004443924408184
+District of Columbia,3 wk ahead,Bin,percent,8.4,8.5,0.0010003540897703636
+District of Columbia,3 wk ahead,Bin,percent,8.5,8.6,0.0010002830346192962
+District of Columbia,3 wk ahead,Bin,percent,8.6,8.7,0.0010002269443947912
+District of Columbia,3 wk ahead,Bin,percent,8.7,8.8,0.0010001825270286066
+District of Columbia,3 wk ahead,Bin,percent,8.8,8.9,0.0010001472437233968
+District of Columbia,3 wk ahead,Bin,percent,8.9,9,0.0010001191303459509
+District of Columbia,3 wk ahead,Bin,percent,9,9.1,0.0010000966625590896
+District of Columbia,3 wk ahead,Bin,percent,9.1,9.2,0.0010000786536592437
+District of Columbia,3 wk ahead,Bin,percent,9.2,9.3,0.0010000641769534924
+District of Columbia,3 wk ahead,Bin,percent,9.3,9.4,0.001000052506596558
+District of Columbia,3 wk ahead,Bin,percent,9.4,9.5,0.0010000430723635292
+District of Columbia,3 wk ahead,Bin,percent,9.5,9.6,0.0010000354249670757
+District of Columbia,3 wk ahead,Bin,percent,9.6,9.7,0.0010000292093838108
+District of Columbia,3 wk ahead,Bin,percent,9.7,9.8,0.0010000241442798424
+District of Columbia,3 wk ahead,Bin,percent,9.8,9.9,0.001000020006089641
+District of Columbia,3 wk ahead,Bin,percent,9.9,10,0.0010000166166671456
+District of Columbia,3 wk ahead,Bin,percent,10,10.1,0.0010000138336733809
+District of Columbia,3 wk ahead,Bin,percent,10.1,10.2,0.001000011543077509
+District of Columbia,3 wk ahead,Bin,percent,10.2,10.3,0.00100000965328929
+District of Columbia,3 wk ahead,Bin,percent,10.3,10.4,0.001000008090553235
+District of Columbia,3 wk ahead,Bin,percent,10.4,10.5,0.0010000067953275505
+District of Columbia,3 wk ahead,Bin,percent,10.5,10.6,0.0010000057194249953
+District of Columbia,3 wk ahead,Bin,percent,10.6,10.7,0.0010000048237545336
+District of Columbia,3 wk ahead,Bin,percent,10.7,10.8,0.001000004076527352
+District of Columbia,3 wk ahead,Bin,percent,10.8,10.9,0.001000003451833175
+District of Columbia,3 wk ahead,Bin,percent,10.9,11,0.0010000029285048674
+District of Columbia,3 wk ahead,Bin,percent,11,11.1,0.0010000024892105404
+District of Columbia,3 wk ahead,Bin,percent,11.1,11.2,0.001000002119728106
+District of Columbia,3 wk ahead,Bin,percent,11.2,11.3,0.0010000018083613689
+District of Columbia,3 wk ahead,Bin,percent,11.3,11.4,0.001000001545471414
+District of Columbia,3 wk ahead,Bin,percent,11.4,11.5,0.001000001323097724
+District of Columbia,3 wk ahead,Bin,percent,11.5,11.6,0.001000001134653006
+District of Columbia,3 wk ahead,Bin,percent,11.6,11.7,0.0010000009746745583
+District of Columbia,3 wk ahead,Bin,percent,11.7,11.8,0.0010000008386242649
+District of Columbia,3 wk ahead,Bin,percent,11.8,11.9,0.0010000007227238996
+District of Columbia,3 wk ahead,Bin,percent,11.9,12,0.0010000006238225607
+District of Columbia,3 wk ahead,Bin,percent,12,12.1,0.0010000005392874537
+District of Columbia,3 wk ahead,Bin,percent,12.1,12.2,0.0010000004669140665
+District of Columbia,3 wk ahead,Bin,percent,12.2,12.3,0.0010000004048542912
+District of Columbia,3 wk ahead,Bin,percent,12.3,12.4,0.001000000351554964
+District of Columbia,3 wk ahead,Bin,percent,12.4,12.5,0.0010000003057092392
+District of Columbia,3 wk ahead,Bin,percent,12.5,12.6,0.001000000266215392
+District of Columbia,3 wk ahead,Bin,percent,12.6,12.7,0.0010000002321431446
+District of Columbia,3 wk ahead,Bin,percent,12.7,12.8,0.0010000002027053024
+District of Columbia,3 wk ahead,Bin,percent,12.8,12.9,0.0010000001772354661
+District of Columbia,3 wk ahead,Bin,percent,12.9,13,0.001000000155167963
+District of Columbia,3 wk ahead,Bin,percent,13,100,0.0010000011898918097
+District of Columbia,4 wk ahead,Point,percent,NA,NA,3.613
+District of Columbia,4 wk ahead,Bin,percent,0,0.1,0.0010641574372184286
+District of Columbia,4 wk ahead,Bin,percent,0.1,0.2,0.0010809018379794371
+District of Columbia,4 wk ahead,Bin,percent,0.2,0.3,0.0011021803479030127
+District of Columbia,4 wk ahead,Bin,percent,0.3,0.4,0.0011292454187482087
+District of Columbia,4 wk ahead,Bin,percent,0.4,0.5,0.0011636944791517357
+District of Columbia,4 wk ahead,Bin,percent,0.5,0.6,0.0012075613637722096
+District of Columbia,4 wk ahead,Bin,percent,0.6,0.7,0.0012634294792693225
+District of Columbia,4 wk ahead,Bin,percent,0.7,0.8,0.0013345704676849955
+District of Columbia,4 wk ahead,Bin,percent,0.8,0.9,0.0014251120010640498
+District of Columbia,4 wk ahead,Bin,percent,0.9,1,0.0015402376803019882
+District of Columbia,4 wk ahead,Bin,percent,1,1.1,0.0016864205106739958
+District of Columbia,4 wk ahead,Bin,percent,1.1,1.2,0.001871688681519552
+District of Columbia,4 wk ahead,Bin,percent,1.2,1.3,0.0021059178834318877
+District of Columbia,4 wk ahead,Bin,percent,1.3,1.4,0.002401137572488094
+District of Columbia,4 wk ahead,Bin,percent,1.4,1.5,0.002771828848523592
+District of Columbia,4 wk ahead,Bin,percent,1.5,1.6,0.0032351784899995544
+District of Columbia,4 wk ahead,Bin,percent,1.6,1.7,0.0038112370714617283
+District of Columbia,4 wk ahead,Bin,percent,1.7,1.8,0.004522909563599308
+District of Columbia,4 wk ahead,Bin,percent,1.8,1.9,0.005395686106717041
+District of Columbia,4 wk ahead,Bin,percent,1.9,2,0.006457002139882645
+District of Columbia,4 wk ahead,Bin,percent,2,2.1,0.007735106254966102
+District of Columbia,4 wk ahead,Bin,percent,2.1,2.2,0.009257318796663493
+District of Columbia,4 wk ahead,Bin,percent,2.2,2.3,0.0110475939234942
+District of Columbia,4 wk ahead,Bin,percent,2.3,2.4,0.01312336246248573
+District of Columbia,4 wk ahead,Bin,percent,2.4,2.5,0.015491739744671315
+District of Columbia,4 wk ahead,Bin,percent,2.5,2.6,0.01814533218027647
+District of Columbia,4 wk ahead,Bin,percent,2.6,2.7,0.021058057237963276
+District of Columbia,4 wk ahead,Bin,percent,2.7,2.8,0.02418157621873314
+District of Columbia,4 wk ahead,Bin,percent,2.8,2.9,0.027443083070223823
+District of Columbia,4 wk ahead,Bin,percent,2.9,3,0.03074523856686568
+District of Columbia,4 wk ahead,Bin,percent,3,3.1,0.03396893123115636
+District of Columbia,4 wk ahead,Bin,percent,3.1,3.2,0.03697924875555515
+District of Columbia,4 wk ahead,Bin,percent,3.2,3.3,0.03963456357758507
+District of Columbia,4 wk ahead,Bin,percent,3.3,3.4,0.0417980392058128
+District of Columbia,4 wk ahead,Bin,percent,3.4,3.5,0.043350272584514266
+District of Columbia,4 wk ahead,Bin,percent,3.5,3.6,0.04420135765338188
+District of Columbia,4 wk ahead,Bin,percent,3.6,3.7,0.044300529469029036
+District of Columbia,4 wk ahead,Bin,percent,3.7,3.8,0.04364180578573071
+District of Columbia,4 wk ahead,Bin,percent,3.8,3.9,0.042264660803796136
+District of Columbia,4 wk ahead,Bin,percent,3.9,4,0.04024961402095313
+District of Columbia,4 wk ahead,Bin,percent,4,4.1,0.03770949377935944
+District of Columbia,4 wk ahead,Bin,percent,4.1,4.2,0.03477782913235423
+District of Columbia,4 wk ahead,Bin,percent,4.2,4.3,0.0315961816259601
+District of Columbia,4 wk ahead,Bin,percent,4.3,4.4,0.02830219853040162
+District of Columbia,4 wk ahead,Bin,percent,4.4,4.5,0.025019805993210534
+District of Columbia,4 wk ahead,Bin,percent,4.5,4.6,0.021852395811632924
+District of Columbia,4 wk ahead,Bin,percent,4.6,4.7,0.01887925021384332
+District of Columbia,4 wk ahead,Bin,percent,4.7,4.8,0.01615492971680334
+District of Columbia,4 wk ahead,Bin,percent,4.8,4.9,0.013711001191875797
+District of Columbia,4 wk ahead,Bin,percent,4.9,5,0.011559328079344355
+District of Columbia,4 wk ahead,Bin,percent,5,5.1,0.00969615569751377
+District of Columbia,4 wk ahead,Bin,percent,5.1,5.2,0.008106348765060487
+District of Columbia,4 wk ahead,Bin,percent,5.2,5.3,0.006767317294091043
+District of Columbia,4 wk ahead,Bin,percent,5.3,5.4,0.005652352270561067
+District of Columbia,4 wk ahead,Bin,percent,5.4,5.5,0.004733251944436577
+District of Columbia,4 wk ahead,Bin,percent,5.5,5.6,0.00398223785639182
+District of Columbia,4 wk ahead,Bin,percent,5.6,5.7,0.00337323481498078
+District of Columbia,4 wk ahead,Bin,percent,5.7,5.8,0.002882626903192035
+District of Columbia,4 wk ahead,Bin,percent,5.8,5.9,0.002489611786076069
+District of Columbia,4 wk ahead,Bin,percent,5.9,6,0.0021762679635784774
+District of Columbia,4 wk ahead,Bin,percent,6,6.1,0.0019274324837568824
+District of Columbia,4 wk ahead,Bin,percent,6.1,6.2,0.0017304660904125064
+District of Columbia,4 wk ahead,Bin,percent,6.2,6.3,0.0015749627216619547
+District of Columbia,4 wk ahead,Bin,percent,6.3,6.4,0.0014524428094159583
+District of Columbia,4 wk ahead,Bin,percent,6.4,6.5,0.0013560557868563827
+District of Columbia,4 wk ahead,Bin,percent,6.5,6.6,0.0012803066242978397
+District of Columbia,4 wk ahead,Bin,percent,6.6,6.7,0.001220813685731099
+District of Columbia,4 wk ahead,Bin,percent,6.7,6.8,0.0011741001563146847
+District of Columbia,4 wk ahead,Bin,percent,6.8,6.9,0.001137418143628484
+District of Columbia,4 wk ahead,Bin,percent,6.9,7,0.0011086027745183219
+District of Columbia,4 wk ahead,Bin,percent,7,7.1,0.0010859527634338399
+District of Columbia,4 wk ahead,Bin,percent,7.1,7.2,0.0010681336868473652
+District of Columbia,4 wk ahead,Bin,percent,7.2,7.3,0.001054100321552261
+District of Columbia,4 wk ahead,Bin,percent,7.3,7.4,0.0010430347260568208
+District of Columbia,4 wk ahead,Bin,percent,7.4,7.5,0.001034297154197702
+District of Columbia,4 wk ahead,Bin,percent,7.5,7.6,0.001027387319999727
+District of Columbia,4 wk ahead,Bin,percent,7.6,7.7,0.0010219139429282612
+District of Columbia,4 wk ahead,Bin,percent,7.7,7.8,0.0010175708725134326
+District of Columbia,4 wk ahead,Bin,percent,7.8,7.9,0.0010141184124977127
+District of Columbia,4 wk ahead,Bin,percent,7.9,8,0.0010113687362598549
+District of Columbia,4 wk ahead,Bin,percent,8,8.1,0.0010091745104397062
+District of Columbia,4 wk ahead,Bin,percent,8.1,8.2,0.0010074200275584698
+District of Columbia,4 wk ahead,Bin,percent,8.2,8.3,0.001006014296811845
+District of Columbia,4 wk ahead,Bin,percent,8.3,8.4,0.0010048856608642189
+District of Columbia,4 wk ahead,Bin,percent,8.4,8.5,0.0010039776006289514
+District of Columbia,4 wk ahead,Bin,percent,8.5,8.6,0.001003245464316462
+District of Columbia,4 wk ahead,Bin,percent,8.6,8.7,0.0010026539153721956
+District of Columbia,4 wk ahead,Bin,percent,8.7,8.8,0.0010021749395829043
+District of Columbia,4 wk ahead,Bin,percent,8.8,8.9,0.001001786287231822
+District of Columbia,4 wk ahead,Bin,percent,8.9,9,0.0010014702539164577
+District of Columbia,4 wk ahead,Bin,percent,9,9.1,0.0010012127251774268
+District of Columbia,4 wk ahead,Bin,percent,9.1,9.2,0.0010010024268152758
+District of Columbia,4 wk ahead,Bin,percent,9.2,9.3,0.0010008303357420445
+District of Columbia,4 wk ahead,Bin,percent,9.3,9.4,0.001000689216270151
+District of Columbia,4 wk ahead,Bin,percent,9.4,9.5,0.0010005732545430132
+District of Columbia,4 wk ahead,Bin,percent,9.5,9.6,0.0010004777698490173
+District of Columbia,4 wk ahead,Bin,percent,9.6,9.7,0.0010003989862620748
+District of Columbia,4 wk ahead,Bin,percent,9.7,9.8,0.0010003338516800014
+District of Columbia,4 wk ahead,Bin,percent,9.8,9.9,0.0010002798941689682
+District of Columbia,4 wk ahead,Bin,percent,9.9,10,0.0010002351077144415
+District of Columbia,4 wk ahead,Bin,percent,10,10.1,0.0010001978611925962
+District of Columbia,4 wk ahead,Bin,percent,10.1,10.2,0.001000166825708673
+District of Columbia,4 wk ahead,Bin,percent,10.2,10.3,0.0010001409164878342
+District of Columbia,4 wk ahead,Bin,percent,10.3,10.4,0.001000119246318015
+District of Columbia,4 wk ahead,Bin,percent,10.4,10.5,0.0010001010881768736
+District of Columbia,4 wk ahead,Bin,percent,10.5,10.6,0.001000085845176681
+District of Columbia,4 wk ahead,Bin,percent,10.6,10.7,0.0010000730263479878
+District of Columbia,4 wk ahead,Bin,percent,10.7,10.8,0.0010000622270914356
+District of Columbia,4 wk ahead,Bin,percent,10.8,10.9,0.001000053113368736
+District of Columbia,4 wk ahead,Bin,percent,10.9,11,0.0010000454088944406
+District of Columbia,4 wk ahead,Bin,percent,11,11.1,0.0010000388847382668
+District of Columbia,4 wk ahead,Bin,percent,11.1,11.2,0.0010000333508709788
+District of Columbia,4 wk ahead,Bin,percent,11.2,11.3,0.0010000286492758076
+District of Columbia,4 wk ahead,Bin,percent,11.3,11.4,0.0010000246483282637
+District of Columbia,4 wk ahead,Bin,percent,11.4,11.5,0.001000021238198538
+District of Columbia,4 wk ahead,Bin,percent,11.5,11.6,0.0010000183270883047
+District of Columbia,4 wk ahead,Bin,percent,11.6,11.7,0.0010000158381420117
+District of Columbia,4 wk ahead,Bin,percent,11.7,11.8,0.0010000137069082603
+District of Columbia,4 wk ahead,Bin,percent,11.8,11.9,0.001000011879249463
+District of Columbia,4 wk ahead,Bin,percent,11.9,12,0.0010000103096189973
+District of Columbia,4 wk ahead,Bin,percent,12,12.1,0.0010000089596373404
+District of Columbia,4 wk ahead,Bin,percent,12.1,12.2,0.0010000077969126561
+District of Columbia,4 wk ahead,Bin,percent,12.2,12.3,0.0010000067940662664
+District of Columbia,4 wk ahead,Bin,percent,12.3,12.4,0.0010000059279201574
+District of Columbia,4 wk ahead,Bin,percent,12.4,12.5,0.0010000051788238429
+District of Columbia,4 wk ahead,Bin,percent,12.5,12.6,0.001000004530092886
+District of Columbia,4 wk ahead,Bin,percent,12.6,12.7,0.0010000039675407428
+District of Columbia,4 wk ahead,Bin,percent,12.7,12.8,0.0010000034790866546
+District of Columbia,4 wk ahead,Bin,percent,12.8,12.9,0.001000003054429936
+District of Columbia,4 wk ahead,Bin,percent,12.9,13,0.0010000026847740615
+District of Columbia,4 wk ahead,Bin,percent,13,100,0.0010000212017902694
+Georgia,Season peak week,Point,week,NA,NA,52
+Georgia,Season peak week,Bin,week,40,41,0.00020606060606060607
+Georgia,Season peak week,Bin,week,41,42,0.00020606060606060607
+Georgia,Season peak week,Bin,week,42,43,0.00020606060606060607
+Georgia,Season peak week,Bin,week,43,44,0.00020606060606060607
+Georgia,Season peak week,Bin,week,44,45,0.00020606060606060607
+Georgia,Season peak week,Bin,week,45,46,0.00020606060606060607
+Georgia,Season peak week,Bin,week,46,47,0.00020606060606060607
+Georgia,Season peak week,Bin,week,47,48,0.00020606060606060607
+Georgia,Season peak week,Bin,week,48,49,0.00020606060606060607
+Georgia,Season peak week,Bin,week,49,50,0.00020606060606060607
+Georgia,Season peak week,Bin,week,50,51,0.00020606060606060607
+Georgia,Season peak week,Bin,week,51,52,0.00020606060606060607
+Georgia,Season peak week,Bin,week,52,53,0.9934060606060606
+Georgia,Season peak week,Bin,week,1,2,0.00020606060606060607
+Georgia,Season peak week,Bin,week,2,3,0.00020606060606060607
+Georgia,Season peak week,Bin,week,3,4,0.00020606060606060607
+Georgia,Season peak week,Bin,week,4,5,0.00020606060606060607
+Georgia,Season peak week,Bin,week,5,6,0.00020606060606060607
+Georgia,Season peak week,Bin,week,6,7,0.00020606060606060607
+Georgia,Season peak week,Bin,week,7,8,0.00020606060606060607
+Georgia,Season peak week,Bin,week,8,9,0.00020606060606060607
+Georgia,Season peak week,Bin,week,9,10,0.00020606060606060607
+Georgia,Season peak week,Bin,week,10,11,0.00020606060606060607
+Georgia,Season peak week,Bin,week,11,12,0.00020606060606060607
+Georgia,Season peak week,Bin,week,12,13,0.00020606060606060607
+Georgia,Season peak week,Bin,week,13,14,0.00020606060606060607
+Georgia,Season peak week,Bin,week,14,15,0.00020606060606060607
+Georgia,Season peak week,Bin,week,15,16,0.00020606060606060607
+Georgia,Season peak week,Bin,week,16,17,0.00020606060606060607
+Georgia,Season peak week,Bin,week,17,18,0.00020606060606060607
+Georgia,Season peak week,Bin,week,18,19,0.00020606060606060607
+Georgia,Season peak week,Bin,week,19,20,0.00020606060606060607
+Georgia,Season peak week,Bin,week,20,21,0.00020606060606060607
+Georgia,Season peak percentage,Point,percent,NA,NA,12.265280073437571
+Georgia,Season peak percentage,Bin,percent,0,0.1,0.001
+Georgia,Season peak percentage,Bin,percent,0.1,0.2,0.001
+Georgia,Season peak percentage,Bin,percent,0.2,0.3,0.001
+Georgia,Season peak percentage,Bin,percent,0.3,0.4,0.001
+Georgia,Season peak percentage,Bin,percent,0.4,0.5,0.001
+Georgia,Season peak percentage,Bin,percent,0.5,0.6,0.001
+Georgia,Season peak percentage,Bin,percent,0.6,0.7,0.001
+Georgia,Season peak percentage,Bin,percent,0.7,0.8,0.001
+Georgia,Season peak percentage,Bin,percent,0.8,0.9,0.001
+Georgia,Season peak percentage,Bin,percent,0.9,1,0.001
+Georgia,Season peak percentage,Bin,percent,1,1.1,0.001
+Georgia,Season peak percentage,Bin,percent,1.1,1.2,0.001
+Georgia,Season peak percentage,Bin,percent,1.2,1.3,0.001
+Georgia,Season peak percentage,Bin,percent,1.3,1.4,0.001
+Georgia,Season peak percentage,Bin,percent,1.4,1.5,0.001
+Georgia,Season peak percentage,Bin,percent,1.5,1.6,0.001
+Georgia,Season peak percentage,Bin,percent,1.6,1.7,0.001
+Georgia,Season peak percentage,Bin,percent,1.7,1.8,0.001
+Georgia,Season peak percentage,Bin,percent,1.8,1.9,0.001
+Georgia,Season peak percentage,Bin,percent,1.9,2,0.001
+Georgia,Season peak percentage,Bin,percent,2,2.1,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.1,2.2,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.2,2.3,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.3,2.4,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.4,2.5,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.5,2.6,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.6,2.7,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.7,2.8,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.8,2.9,0.0010000000000000002
+Georgia,Season peak percentage,Bin,percent,2.9,3,0.0010000000000000005
+Georgia,Season peak percentage,Bin,percent,3,3.1,0.0010000000000000005
+Georgia,Season peak percentage,Bin,percent,3.1,3.2,0.0010000000000000005
+Georgia,Season peak percentage,Bin,percent,3.2,3.3,0.0010000000000000007
+Georgia,Season peak percentage,Bin,percent,3.3,3.4,0.0010000000000000007
+Georgia,Season peak percentage,Bin,percent,3.4,3.5,0.0010000000000000007
+Georgia,Season peak percentage,Bin,percent,3.5,3.6,0.0010000000000000009
+Georgia,Season peak percentage,Bin,percent,3.6,3.7,0.001000000000000001
+Georgia,Season peak percentage,Bin,percent,3.7,3.8,0.001000000000000001
+Georgia,Season peak percentage,Bin,percent,3.8,3.9,0.0010000000000000013
+Georgia,Season peak percentage,Bin,percent,3.9,4,0.0010000000000000015
+Georgia,Season peak percentage,Bin,percent,4,4.1,0.001000000000000002
+Georgia,Season peak percentage,Bin,percent,4.1,4.2,0.0010000000000000022
+Georgia,Season peak percentage,Bin,percent,4.2,4.3,0.0010000000000000026
+Georgia,Season peak percentage,Bin,percent,4.3,4.4,0.001000000000000003
+Georgia,Season peak percentage,Bin,percent,4.4,4.5,0.0010000000000000035
+Georgia,Season peak percentage,Bin,percent,4.5,4.6,0.0010000000000000041
+Georgia,Season peak percentage,Bin,percent,4.6,4.7,0.001000000000000005
+Georgia,Season peak percentage,Bin,percent,4.7,4.8,0.0010000000000000059
+Georgia,Season peak percentage,Bin,percent,4.8,4.9,0.001000000000000007
+Georgia,Season peak percentage,Bin,percent,4.9,5,0.0010000000000000083
+Georgia,Season peak percentage,Bin,percent,5,5.1,0.00100000000000001
+Georgia,Season peak percentage,Bin,percent,5.1,5.2,0.001000000000000012
+Georgia,Season peak percentage,Bin,percent,5.2,5.3,0.0010000000000000143
+Georgia,Season peak percentage,Bin,percent,5.3,5.4,0.0010000000000000172
+Georgia,Season peak percentage,Bin,percent,5.4,5.5,0.0010000000000000208
+Georgia,Season peak percentage,Bin,percent,5.5,5.6,0.0010000000000000252
+Georgia,Season peak percentage,Bin,percent,5.6,5.7,0.0010000000000000306
+Georgia,Season peak percentage,Bin,percent,5.7,5.8,0.0010000000000000373
+Georgia,Season peak percentage,Bin,percent,5.8,5.9,0.0010000000000000456
+Georgia,Season peak percentage,Bin,percent,5.9,6,0.0010000000000000557
+Georgia,Season peak percentage,Bin,percent,6,6.1,0.0010000000000000688
+Georgia,Season peak percentage,Bin,percent,6.1,6.2,0.0010000000000000848
+Georgia,Season peak percentage,Bin,percent,6.2,6.3,0.001000000000000105
+Georgia,Season peak percentage,Bin,percent,6.3,6.4,0.0010000000000001303
+Georgia,Season peak percentage,Bin,percent,6.4,6.5,0.0010000000000001624
+Georgia,Season peak percentage,Bin,percent,6.5,6.6,0.0010000000000002034
+Georgia,Season peak percentage,Bin,percent,6.6,6.7,0.0010000000000002557
+Georgia,Season peak percentage,Bin,percent,6.7,6.8,0.0010000000000003225
+Georgia,Season peak percentage,Bin,percent,6.8,6.9,0.0010000000000004088
+Georgia,Season peak percentage,Bin,percent,6.9,7,0.0010000000000005202
+Georgia,Season peak percentage,Bin,percent,7,7.1,0.001000000000000665
+Georgia,Season peak percentage,Bin,percent,7.1,7.2,0.0010000000000008542
+Georgia,Season peak percentage,Bin,percent,7.2,7.3,0.0010000000000011024
+Georgia,Season peak percentage,Bin,percent,7.3,7.4,0.0010000000000014303
+Georgia,Season peak percentage,Bin,percent,7.4,7.5,0.0010000000000018655
+Georgia,Season peak percentage,Bin,percent,7.5,7.6,0.0010000000000024466
+Georgia,Season peak percentage,Bin,percent,7.6,7.7,0.001000000000003227
+Georgia,Season peak percentage,Bin,percent,7.7,7.8,0.0010000000000042822
+Georgia,Season peak percentage,Bin,percent,7.8,7.9,0.0010000000000057177
+Georgia,Season peak percentage,Bin,percent,7.9,8,0.0010000000000076844
+Georgia,Season peak percentage,Bin,percent,8,8.1,0.0010000000000103984
+Georgia,Season peak percentage,Bin,percent,8.1,8.2,0.001000000000014172
+Georgia,Season peak percentage,Bin,percent,8.2,8.3,0.0010000000000194601
+Georgia,Season peak percentage,Bin,percent,8.3,8.4,0.0010000000000269323
+Georgia,Season peak percentage,Bin,percent,8.4,8.5,0.0010000000000375822
+Georgia,Season peak percentage,Bin,percent,8.5,8.6,0.0010000000000529008
+Georgia,Season peak percentage,Bin,percent,8.6,8.7,0.0010000000000751467
+Georgia,Season peak percentage,Bin,percent,8.7,8.8,0.0010000000001077812
+Georgia,Season peak percentage,Bin,percent,8.8,8.9,0.001000000000156168
+Georgia,Season peak percentage,Bin,percent,8.9,9,0.001000000000228724
+Georgia,Season peak percentage,Bin,percent,9,9.1,0.0010000000003388256
+Georgia,Season peak percentage,Bin,percent,9.1,9.2,0.0010000000005080262
+Georgia,Season peak percentage,Bin,percent,9.2,9.3,0.0010000000007715575
+Georgia,Season peak percentage,Bin,percent,9.3,9.4,0.0010000000011879042
+Georgia,Season peak percentage,Bin,percent,9.4,9.5,0.0010000000018557471
+Georgia,Season peak percentage,Bin,percent,9.5,9.6,0.0010000000029445136
+Georgia,Season peak percentage,Bin,percent,9.6,9.7,0.0010000000047505494
+Georgia,Season peak percentage,Bin,percent,9.7,9.8,0.0010000000078025917
+Georgia,Season peak percentage,Bin,percent,9.8,9.9,0.0010000000130643153
+Georgia,Season peak percentage,Bin,percent,9.9,10,0.0010000000223327542
+Georgia,Season peak percentage,Bin,percent,10,10.1,0.001000000039042572
+Georgia,Season peak percentage,Bin,percent,10.1,10.2,0.0010000000699354299
+Georgia,Season peak percentage,Bin,percent,10.2,10.3,0.001000000128630796
+Georgia,Season peak percentage,Bin,percent,10.3,10.4,0.0010000002435167621
+Georgia,Season peak percentage,Bin,percent,10.4,10.5,0.0010000004758147275
+Georgia,Season peak percentage,Bin,percent,10.5,10.6,0.001000000962558021
+Georgia,Season peak percentage,Bin,percent,10.6,10.7,0.0010000020232325342
+Georgia,Season peak percentage,Bin,percent,10.7,10.8,0.00100000443683563
+Georgia,Season peak percentage,Bin,percent,10.8,10.9,0.0010000101989791376
+Georgia,Season peak percentage,Bin,percent,10.9,11,0.0010000247090129605
+Georgia,Season peak percentage,Bin,percent,11,11.1,0.0010000634873304805
+Georgia,Season peak percentage,Bin,percent,11.1,11.2,0.0010001742479662206
+Georgia,Season peak percentage,Bin,percent,11.2,11.3,0.0010005150259727346
+Georgia,Season peak percentage,Bin,percent,11.3,11.4,0.001001654151273456
+Georgia,Season peak percentage,Bin,percent,11.4,11.5,0.00100582766388121
+Georgia,Season peak percentage,Bin,percent,11.5,11.6,0.0010227170067592687
+Georgia,Season peak percentage,Bin,percent,11.6,11.7,0.001098487488890858
+Georgia,Season peak percentage,Bin,percent,11.7,11.8,0.0014727587237585288
+Georgia,Season peak percentage,Bin,percent,11.8,11.9,0.0034464960338982825
+Georgia,Season peak percentage,Bin,percent,11.9,12,0.01370422897473235
+Georgia,Season peak percentage,Bin,percent,12,12.1,0.05811455679874748
+Georgia,Season peak percentage,Bin,percent,12.1,12.2,0.17695076832704199
+Georgia,Season peak percentage,Bin,percent,12.2,12.3,0.28965247433578156
+Georgia,Season peak percentage,Bin,percent,12.3,12.4,0.22197223967045657
+Georgia,Season peak percentage,Bin,percent,12.4,12.5,0.08589677627498155
+Georgia,Season peak percentage,Bin,percent,12.5,12.6,0.02161218430101905
+Georgia,Season peak percentage,Bin,percent,12.6,12.7,0.0050664020572011
+Georgia,Season peak percentage,Bin,percent,12.7,12.8,0.0017767589532519633
+Georgia,Season peak percentage,Bin,percent,12.8,12.9,0.0011574560963503039
+Georgia,Season peak percentage,Bin,percent,12.9,13,0.0010351643555952213
+Georgia,Season peak percentage,Bin,percent,13,100,0.0010122526812335495
+Georgia,1 wk ahead,Point,percent,NA,NA,6.43974
+Georgia,1 wk ahead,Bin,percent,0,0.1,0.001004913653050439
+Georgia,1 wk ahead,Bin,percent,0.1,0.2,0.0010057151397801578
+Georgia,1 wk ahead,Bin,percent,0.2,0.3,0.0010066548558360928
+Georgia,1 wk ahead,Bin,percent,0.3,0.4,0.0010077577883768726
+Georgia,1 wk ahead,Bin,percent,0.4,0.5,0.0010090536150324065
+Georgia,1 wk ahead,Bin,percent,0.5,0.6,0.0010105776086135187
+Georgia,1 wk ahead,Bin,percent,0.6,0.7,0.0010123717187879519
+Georgia,1 wk ahead,Bin,percent,0.7,0.8,0.0010144858651934547
+Georgia,1 wk ahead,Bin,percent,0.8,0.9,0.0010169794829526738
+Georgia,1 wk ahead,Bin,percent,0.9,1,0.0010199233691655727
+Georgia,1 wk ahead,Bin,percent,1,1.1,0.001023401887831918
+Georgia,1 wk ahead,Bin,percent,1.1,1.2,0.0010275156009499767
+Georgia,1 wk ahead,Bin,percent,1.2,1.3,0.0010323844053923964
+Georgia,1 wk ahead,Bin,percent,1.3,1.4,0.0010381512687008922
+Georgia,1 wk ahead,Bin,percent,1.4,1.5,0.0010449866722534275
+Georgia,1 wk ahead,Bin,percent,1.5,1.6,0.0010530938873605635
+Georgia,1 wk ahead,Bin,percent,1.6,1.7,0.0010627152286573891
+Georgia,1 wk ahead,Bin,percent,1.7,1.8,0.0010741394494360853
+Georgia,1 wk ahead,Bin,percent,1.8,1.9,0.0010877104648530046
+Georgia,1 wk ahead,Bin,percent,1.9,2,0.0011038376104777422
+Georgia,1 wk ahead,Bin,percent,2,2.1,0.0011230076642475587
+Georgia,1 wk ahead,Bin,percent,2.1,2.2,0.0011457988778136546
+Georgia,1 wk ahead,Bin,percent,2.2,2.3,0.001172897276062705
+Georgia,1 wk ahead,Bin,percent,2.3,2.4,0.0012051154879030074
+Georgia,1 wk ahead,Bin,percent,2.4,2.5,0.0012434143627240543
+Georgia,1 wk ahead,Bin,percent,2.5,2.6,0.0012889275994111696
+Georgia,1 wk ahead,Bin,percent,2.6,2.7,0.0013429895609660901
+Georgia,1 wk ahead,Bin,percent,2.7,2.8,0.0014071663583992745
+Georgia,1 wk ahead,Bin,percent,2.8,2.9,0.0014832901514568607
+Georgia,1 wk ahead,Bin,percent,2.9,3,0.0015734964178848072
+Georgia,1 wk ahead,Bin,percent,3,3.1,0.001680263672674687
+Georgia,1 wk ahead,Bin,percent,3.1,3.2,0.0018064547584945383
+Georgia,1 wk ahead,Bin,percent,3.2,3.3,0.001955358362924083
+Georgia,1 wk ahead,Bin,percent,3.3,3.4,0.002130728833939455
+Georgia,1 wk ahead,Bin,percent,3.4,3.5,0.0023368216539597078
+Georgia,1 wk ahead,Bin,percent,3.5,3.6,0.0025784210950148714
+Georgia,1 wk ahead,Bin,percent,3.6,3.7,0.0028608556272545086
+Georgia,1 wk ahead,Bin,percent,3.7,3.8,0.003189995623886805
+Georgia,1 wk ahead,Bin,percent,3.8,3.9,0.003572226858209372
+Georgia,1 wk ahead,Bin,percent,3.9,4,0.004014392316935289
+Georgia,1 wk ahead,Bin,percent,4,4.1,0.004523694092772706
+Georgia,1 wk ahead,Bin,percent,4.1,4.2,0.005107546745962336
+Georgia,1 wk ahead,Bin,percent,4.2,4.3,0.005773373759255705
+Georgia,1 wk ahead,Bin,percent,4.3,4.4,0.006528339806901632
+Georgia,1 wk ahead,Bin,percent,4.4,4.5,0.007379013782475158
+Georgia,1 wk ahead,Bin,percent,4.5,4.6,0.00833096113029233
+Georgia,1 wk ahead,Bin,percent,4.6,4.7,0.00938826918110585
+Georgia,1 wk ahead,Bin,percent,4.7,4.8,0.010553015956864129
+Georgia,1 wk ahead,Bin,percent,4.8,4.9,0.011824701135326219
+Georgia,1 wk ahead,Bin,percent,4.9,5,0.01319966713971409
+Georgia,1 wk ahead,Bin,percent,5,5.1,0.01467054790739759
+Georgia,1 wk ahead,Bin,percent,5.1,5.2,0.016225791722856205
+Georgia,1 wk ahead,Bin,percent,5.2,5.3,0.01784931120273722
+Georgia,1 wk ahead,Bin,percent,5.3,5.4,0.01952031653832699
+Georgia,1 wk ahead,Bin,percent,5.4,5.5,0.021213385888410118
+Georgia,1 wk ahead,Bin,percent,5.5,5.6,0.022898818112141357
+Georgia,1 wk ahead,Bin,percent,5.6,5.7,0.02454329717558124
+Georgia,1 wk ahead,Bin,percent,5.7,5.8,0.02611087480005702
+Georgia,1 wk ahead,Bin,percent,5.8,5.9,0.02756424961474754
+Georgia,1 wk ahead,Bin,percent,5.9,6,0.02886628978457706
+Georgia,1 wk ahead,Bin,percent,6,6.1,0.029981715383353574
+Georgia,1 wk ahead,Bin,percent,6.1,6.2,0.030878830855396694
+Georgia,1 wk ahead,Bin,percent,6.2,6.3,0.03153118092337684
+Georgia,1 wk ahead,Bin,percent,6.3,6.4,0.031918998661016974
+Georgia,1 wk ahead,Bin,percent,6.4,6.5,0.0320303240865952
+Georgia,1 wk ahead,Bin,percent,6.5,6.6,0.03186169548388554
+Georgia,1 wk ahead,Bin,percent,6.6,6.7,0.03141835148730575
+Georgia,1 wk ahead,Bin,percent,6.7,6.8,0.030713925609373027
+Georgia,1 wk ahead,Bin,percent,6.8,6.9,0.029769660869876993
+Georgia,1 wk ahead,Bin,percent,6.9,7,0.028613214640170793
+Georgia,1 wk ahead,Bin,percent,7,7.1,0.027277157471429968
+Georgia,1 wk ahead,Bin,percent,7.1,7.2,0.02579729072158844
+Georgia,1 wk ahead,Bin,percent,7.2,7.3,0.024210914438127167
+Georgia,1 wk ahead,Bin,percent,7.3,7.4,0.02255516956623704
+Georgia,1 wk ahead,Bin,percent,7.4,7.5,0.02086555941780869
+Georgia,1 wk ahead,Bin,percent,7.5,7.6,0.019174728079368708
+Georgia,1 wk ahead,Bin,percent,7.6,7.7,0.017511542285532783
+Georgia,1 wk ahead,Bin,percent,7.7,7.8,0.015900492343257213
+Georgia,1 wk ahead,Bin,percent,7.8,7.9,0.014361400352954568
+Georgia,1 wk ahead,Bin,percent,7.9,8,0.012909402552259714
+Georgia,1 wk ahead,Bin,percent,8,8.1,0.011555158233837366
+Georgia,1 wk ahead,Bin,percent,8.1,8.2,0.010305230395570703
+Georgia,1 wk ahead,Bin,percent,8.2,8.3,0.009162582258924804
+Georgia,1 wk ahead,Bin,percent,8.3,8.4,0.008127137694871302
+Georgia,1 wk ahead,Bin,percent,8.4,8.5,0.007196360859346232
+Georgia,1 wk ahead,Bin,percent,8.5,8.6,0.006365819430062874
+Georgia,1 wk ahead,Bin,percent,8.6,8.7,0.005629705437287778
+Georgia,1 wk ahead,Bin,percent,8.7,8.8,0.00498129678924413
+Georgia,1 wk ahead,Bin,percent,8.8,8.9,0.004413350542862782
+Georgia,1 wk ahead,Bin,percent,8.9,9,0.003918425409065784
+Georgia,1 wk ahead,Bin,percent,9,9.1,0.003489135808973057
+Georgia,1 wk ahead,Bin,percent,9.1,9.2,0.0031183430973210444
+Georgia,1 wk ahead,Bin,percent,9.2,9.3,0.0027992915407283455
+Georgia,1 wk ahead,Bin,percent,9.3,9.4,0.002525697536074435
+Georgia,1 wk ahead,Bin,percent,9.4,9.5,0.0022918006444973063
+Georgia,1 wk ahead,Bin,percent,9.5,9.6,0.0020923845470091967
+Georgia,1 wk ahead,Bin,percent,9.6,9.7,0.0019227752102999832
+Georgia,1 wk ahead,Bin,percent,9.7,9.8,0.001778822554690617
+Georgia,1 wk ahead,Bin,percent,9.8,9.9,0.0016568708660416966
+Georgia,1 wk ahead,Bin,percent,9.9,10,0.001553722176512963
+Georgia,1 wk ahead,Bin,percent,10,10.1,0.0014665959098148062
+Georgia,1 wk ahead,Bin,percent,10.1,10.2,0.0013930872742170019
+Georgia,1 wk ahead,Bin,percent,10.2,10.3,0.0013311262018155614
+Georgia,1 wk ahead,Bin,percent,10.3,10.4,0.0012789380736133878
+Georgia,1 wk ahead,Bin,percent,10.4,10.5,0.001235007027188133
+Georgia,1 wk ahead,Bin,percent,10.5,10.6,0.0011980423032229347
+Georgia,1 wk ahead,Bin,percent,10.6,10.7,0.0011669478334394704
+Georgia,1 wk ahead,Bin,percent,10.7,10.8,0.0011407950900230901
+Georgia,1 wk ahead,Bin,percent,10.8,10.9,0.0011187990911171936
+Georgia,1 wk ahead,Bin,percent,10.9,11,0.0011002973757192728
+Georgia,1 wk ahead,Bin,percent,11,11.1,0.0010847317135762075
+Georgia,1 wk ahead,Bin,percent,11.1,11.2,0.0010716322925624167
+Georgia,1 wk ahead,Bin,percent,11.2,11.3,0.0010606041204452063
+Georgia,1 wk ahead,Bin,percent,11.3,11.4,0.0010513153843093677
+Georgia,1 wk ahead,Bin,percent,11.4,11.5,0.001043487525009667
+Georgia,1 wk ahead,Bin,percent,11.5,11.6,0.0010368868026620192
+Georgia,1 wk ahead,Bin,percent,11.6,11.7,0.0010313171500909042
+Georgia,1 wk ahead,Bin,percent,11.7,11.8,0.0010266141327227914
+Georgia,1 wk ahead,Bin,percent,11.8,11.9,0.0010226398545389007
+Georgia,1 wk ahead,Bin,percent,11.9,12,0.0010192786697137877
+Georgia,1 wk ahead,Bin,percent,12,12.1,0.0010164335780342283
+Georgia,1 wk ahead,Bin,percent,12.1,12.2,0.0010140231989354959
+Georgia,1 wk ahead,Bin,percent,12.2,12.3,0.0010119792339322489
+Georgia,1 wk ahead,Bin,percent,12.3,12.4,0.001010244340411204
+Georgia,1 wk ahead,Bin,percent,12.4,12.5,0.0010087703512745437
+Georgia,1 wk ahead,Bin,percent,12.5,12.6,0.001007516784910242
+Georgia,1 wk ahead,Bin,percent,12.6,12.7,0.0010064495985801691
+Georgia,1 wk ahead,Bin,percent,12.7,12.8,0.0010055401456732032
+Georgia,1 wk ahead,Bin,percent,12.8,12.9,0.0010047643035644741
+Georgia,1 wk ahead,Bin,percent,12.9,13,0.001004101744150572
+Georgia,1 wk ahead,Bin,percent,13,100,0.0010271090222260858
+Georgia,2 wk ahead,Point,percent,NA,NA,6.003
+Georgia,2 wk ahead,Bin,percent,0,0.1,0.0010315686078831024
+Georgia,2 wk ahead,Bin,percent,0.1,0.2,0.0010363597212969772
+Georgia,2 wk ahead,Bin,percent,0.2,0.3,0.0010419058591063964
+Georgia,2 wk ahead,Bin,percent,0.3,0.4,0.001048328934312816
+Georgia,2 wk ahead,Bin,percent,0.4,0.5,0.0010557706971040246
+Georgia,2 wk ahead,Bin,percent,0.5,0.6,0.0010643959117025896
+Georgia,2 wk ahead,Bin,percent,0.6,0.7,0.0010743960144023112
+Georgia,2 wk ahead,Bin,percent,0.7,0.8,0.0010859933159681496
+Georgia,2 wk ahead,Bin,percent,0.8,0.9,0.0010994458167545816
+Georgia,2 wk ahead,Bin,percent,0.9,1,0.0011150527074469255
+Georgia,2 wk ahead,Bin,percent,1,1.1,0.0011331606317845435
+Georgia,2 wk ahead,Bin,percent,1.1,1.2,0.001154170789371526
+Georgia,2 wk ahead,Bin,percent,1.2,1.3,0.0011785469559318746
+Georgia,2 wk ahead,Bin,percent,1.3,1.4,0.0012068244941250438
+Georgia,2 wk ahead,Bin,percent,1.4,1.5,0.0012396204190657746
+Georgia,2 wk ahead,Bin,percent,1.5,1.6,0.0012776445674778868
+Georgia,2 wk ahead,Bin,percent,1.6,1.7,0.0013217118961455243
+Georgia,2 wk ahead,Bin,percent,1.7,1.8,0.0013727559018864711
+Georgia,2 wk ahead,Bin,percent,1.8,1.9,0.001431843109230916
+Georgia,2 wk ahead,Bin,percent,1.9,2,0.0015001885106442762
+Georgia,2 wk ahead,Bin,percent,2,2.1,0.0015791717645831972
+Georgia,2 wk ahead,Bin,percent,2.1,2.2,0.001670353855952849
+Georgia,2 wk ahead,Bin,percent,2.2,2.3,0.0017754937988108195
+Georgia,2 wk ahead,Bin,percent,2.3,2.4,0.0018965648100504034
+Georgia,2 wk ahead,Bin,percent,2.4,2.5,0.002035769203749966
+Georgia,2 wk ahead,Bin,percent,2.5,2.6,0.002195551048748517
+Georgia,2 wk ahead,Bin,percent,2.6,2.7,0.0023786053987225374
+Georgia,2 wk ahead,Bin,percent,2.7,2.8,0.0025878826494060356
+Georgia,2 wk ahead,Bin,percent,2.8,2.9,0.0028265863102541373
+Georgia,2 wk ahead,Bin,percent,2.9,3,0.0030981622112542066
+Georgia,2 wk ahead,Bin,percent,3,3.1,0.003406276919005486
+Georgia,2 wk ahead,Bin,percent,3.1,3.2,0.0037547829355119734
+Georgia,2 wk ahead,Bin,percent,3.2,3.3,0.004147668131371858
+Georgia,2 wk ahead,Bin,percent,3.3,3.4,0.004588986862254656
+Georgia,2 wk ahead,Bin,percent,3.4,3.5,0.005082770379824923
+Georgia,2 wk ahead,Bin,percent,3.5,3.6,0.005632914525652786
+Georgia,2 wk ahead,Bin,percent,3.6,3.7,0.006243043339462708
+Georgia,2 wk ahead,Bin,percent,3.7,3.8,0.006916348166612224
+Georgia,2 wk ahead,Bin,percent,3.8,3.9,0.007655403147076776
+Georgia,2 wk ahead,Bin,percent,3.9,4,0.008461959621639203
+Georgia,2 wk ahead,Bin,percent,4,4.1,0.009336723981870024
+Georgia,2 wk ahead,Bin,percent,4.1,4.2,0.010279125759543102
+Georgia,2 wk ahead,Bin,percent,4.2,4.3,0.01128708518966803
+Georgia,2 wk ahead,Bin,percent,4.3,4.4,0.012356791925857615
+Georgia,2 wk ahead,Bin,percent,4.4,4.5,0.013482508818951109
+Georgia,2 wk ahead,Bin,percent,4.5,4.6,0.014656416424139975
+Georgia,2 wk ahead,Bin,percent,4.6,4.7,0.015868514882449027
+Georgia,2 wk ahead,Bin,percent,4.7,4.8,0.017106599730459422
+Georgia,2 wk ahead,Bin,percent,4.8,4.9,0.018356326762290556
+Georgia,2 wk ahead,Bin,percent,4.9,5,0.019601378111909894
+Georgia,2 wk ahead,Bin,percent,5,5.1,0.020823737175886075
+Georgia,2 wk ahead,Bin,percent,5.1,5.2,0.022004073953488693
+Georgia,2 wk ahead,Bin,percent,5.2,5.3,0.023122235128795098
+Georgia,2 wk ahead,Bin,percent,5.3,5.4,0.02415782523965421
+Georgia,2 wk ahead,Bin,percent,5.4,5.5,0.025090857225516527
+Georgia,2 wk ahead,Bin,percent,5.5,5.6,0.025902443295398044
+Georgia,2 wk ahead,Bin,percent,5.6,5.7,0.02657549122367022
+Georgia,2 wk ahead,Bin,percent,5.7,5.8,0.027095367619328688
+Georgia,2 wk ahead,Bin,percent,5.8,5.9,0.027450489010554576
+Georgia,2 wk ahead,Bin,percent,5.9,6,0.027632804063047585
+Georgia,2 wk ahead,Bin,percent,6,6.1,0.027638135897374086
+Georgia,2 wk ahead,Bin,percent,6.1,6.2,0.027466361918412265
+Georgia,2 wk ahead,Bin,percent,6.2,6.3,0.027121419116306014
+Georgia,2 wk ahead,Bin,percent,6.3,6.4,0.02661113448221989
+Georgia,2 wk ahead,Bin,percent,6.4,6.5,0.025946891899960956
+Georgia,2 wk ahead,Bin,percent,6.5,6.6,0.025143157518256562
+Georgia,2 wk ahead,Bin,percent,6.6,6.7,0.024216894205078124
+Georgia,2 wk ahead,Bin,percent,6.7,6.8,0.02318690151417673
+Georgia,2 wk ahead,Bin,percent,6.8,6.9,0.022073120264709443
+Georgia,2 wk ahead,Bin,percent,6.9,7,0.020895940315796523
+Georgia,2 wk ahead,Bin,percent,7,7.1,0.019675546712963503
+Georgia,2 wk ahead,Bin,percent,7.1,7.2,0.018431333666019904
+Georgia,2 wk ahead,Bin,percent,7.2,7.3,0.01718140853532607
+Georgia,2 wk ahead,Bin,percent,7.3,7.4,0.015942199969982463
+Georgia,2 wk ahead,Bin,percent,7.4,7.5,0.014728176337315598
+Georgia,2 wk ahead,Bin,percent,7.5,7.6,0.013551673271662554
+Georgia,2 wk ahead,Bin,percent,7.6,7.7,0.012422823044666131
+Georgia,2 wk ahead,Bin,percent,7.7,7.8,0.011349573817108424
+Georgia,2 wk ahead,Bin,percent,7.8,7.9,0.010337783781238011
+Georgia,2 wk ahead,Bin,percent,7.9,8,0.009391373685444834
+Georgia,2 wk ahead,Bin,percent,8,8.1,0.008512521067800616
+Georgia,2 wk ahead,Bin,percent,8.1,8.2,0.007701880449542858
+Georgia,2 wk ahead,Bin,percent,8.2,8.3,0.006958815455997671
+Georgia,2 wk ahead,Bin,percent,8.3,8.4,0.006281631043862555
+Georgia,2 wk ahead,Bin,percent,8.4,8.5,0.005667796452245204
+Georgia,2 wk ahead,Bin,percent,8.5,8.6,0.005114151938927197
+Georgia,2 wk ahead,Bin,percent,8.6,8.7,0.004617094646133834
+Georgia,2 wk ahead,Bin,percent,8.7,8.8,0.004172740949801177
+Georgia,2 wk ahead,Bin,percent,8.8,8.9,0.0037770643208854073
+Georgia,2 wk ahead,Bin,percent,8.9,9,0.0034260090459133615
+Georgia,2 wk ahead,Bin,percent,9,9.1,0.003115581127381955
+Georgia,2 wk ahead,Bin,percent,9.1,9.2,0.002841918344866535
+Georgia,2 wk ahead,Bin,percent,9.2,9.3,0.0026013418496159506
+Georgia,2 wk ahead,Bin,percent,9.3,9.4,0.0023903918391445225
+Georgia,2 wk ahead,Bin,percent,9.4,9.5,0.0022058498640914006
+Georgia,2 wk ahead,Bin,percent,9.5,9.6,0.0020447502038055004
+Georgia,2 wk ahead,Bin,percent,9.6,9.7,0.001904382550156876
+Georgia,2 wk ahead,Bin,percent,9.7,9.8,0.0017822879944605888
+Georgia,2 wk ahead,Bin,percent,9.8,9.9,0.0016762500463881227
+Georgia,2 wk ahead,Bin,percent,9.9,10,0.0015842821460151971
+Georgia,2 wk ahead,Bin,percent,10,10.1,0.0015046128744763691
+Georgia,2 wk ahead,Bin,percent,10.1,10.2,0.001435669833951632
+Georgia,2 wk ahead,Bin,percent,10.2,10.3,0.0013760629589479774
+Georgia,2 wk ahead,Bin,percent,10.3,10.4,0.001324567840084613
+Georgia,2 wk ahead,Bin,percent,10.4,10.5,0.0012801094888399635
+Georgia,2 wk ahead,Bin,percent,10.5,10.6,0.0012417468454731548
+Georgia,2 wk ahead,Bin,percent,10.6,10.7,0.0012086582302460029
+Georgia,2 wk ahead,Bin,percent,10.7,10.8,0.001180127857338001
+Georgia,2 wk ahead,Bin,percent,10.8,10.9,0.0011555334684921906
+Georgia,2 wk ahead,Bin,percent,10.9,11,0.0011343350965467953
+Georgia,2 wk ahead,Bin,percent,11,11.1,0.0011160649348898506
+Georgia,2 wk ahead,Bin,percent,11.1,11.2,0.0011003182650500733
+Georgia,2 wk ahead,Bin,percent,11.2,11.3,0.0010867453790078373
+Georgia,2 wk ahead,Bin,percent,11.3,11.4,0.0010750444234952023
+Georgia,2 wk ahead,Bin,percent,11.4,11.5,0.0010649550890768063
+Georgia,2 wk ahead,Bin,percent,11.5,11.6,0.0010562530658693725
+Georgia,2 wk ahead,Bin,percent,11.6,11.7,0.0010487451893838528
+Georgia,2 wk ahead,Bin,percent,11.7,11.8,0.0010422652033378256
+Georgia,2 wk ahead,Bin,percent,11.8,11.9,0.0010366700707933098
+Georgia,2 wk ahead,Bin,percent,11.9,12,0.001031836770119033
+Georgia,2 wk ahead,Bin,percent,12,12.1,0.0010276595177356421
+Georgia,2 wk ahead,Bin,percent,12.1,12.2,0.0010240473650964287
+Georgia,2 wk ahead,Bin,percent,12.2,12.3,0.0010209221227195648
+Georgia,2 wk ahead,Bin,percent,12.3,12.4,0.0010182165691921647
+Georgia,2 wk ahead,Bin,percent,12.4,12.5,0.0010158729078365105
+Georgia,2 wk ahead,Bin,percent,12.5,12.6,0.001013841438130365
+Georgia,2 wk ahead,Bin,percent,12.6,12.7,0.0010120794129698577
+Georgia,2 wk ahead,Bin,percent,12.7,12.8,0.0010105500564871939
+Georgia,2 wk ahead,Bin,percent,12.8,12.9,0.0010092217203591174
+Georgia,2 wk ahead,Bin,percent,12.9,13,0.0010080671594257394
+Georgia,2 wk ahead,Bin,percent,13,100,0.0010598320895071512
+Georgia,3 wk ahead,Point,percent,NA,NA,5.539
+Georgia,3 wk ahead,Bin,percent,0,0.1,0.0010158739431814828
+Georgia,3 wk ahead,Bin,percent,0.1,0.2,0.0010187019469516207
+Georgia,3 wk ahead,Bin,percent,0.2,0.3,0.0010220582367779871
+Georgia,3 wk ahead,Bin,percent,0.3,0.4,0.0010260451497450067
+Georgia,3 wk ahead,Bin,percent,0.4,0.5,0.001030785317485476
+Georgia,3 wk ahead,Bin,percent,0.5,0.6,0.001036425718809651
+Georgia,3 wk ahead,Bin,percent,0.6,0.7,0.001043142527862329
+Georgia,3 wk ahead,Bin,percent,0.7,0.8,0.0010511469050382596
+Georgia,3 wk ahead,Bin,percent,0.8,0.9,0.0010606919012393558
+Georgia,3 wk ahead,Bin,percent,0.9,1,0.0010720806715482163
+Georgia,3 wk ahead,Bin,percent,1,1.1,0.0010856762215404104
+Georgia,3 wk ahead,Bin,percent,1.1,1.2,0.0011019129374037282
+Georgia,3 wk ahead,Bin,percent,1.2,1.3,0.001121310178395788
+Georgia,3 wk ahead,Bin,percent,1.3,1.4,0.001144488234865295
+Georgia,3 wk ahead,Bin,percent,1.4,1.5,0.0011721869740719312
+Georgia,3 wk ahead,Bin,percent,1.5,1.6,0.0012052875051505876
+Georgia,3 wk ahead,Bin,percent,1.6,1.7,0.0012448371880583375
+Georgia,3 wk ahead,Bin,percent,1.7,1.8,0.0012920782816536953
+Georgia,3 wk ahead,Bin,percent,1.8,1.9,0.0013484804634415811
+Georgia,3 wk ahead,Bin,percent,1.9,2,0.0014157773457416372
+Georgia,3 wk ahead,Bin,percent,2,2.1,0.0014960069451857715
+Georgia,3 wk ahead,Bin,percent,2.1,2.2,0.0015915558169331211
+Georgia,3 wk ahead,Bin,percent,2.2,2.3,0.0017052062218943012
+Georgia,3 wk ahead,Bin,percent,2.3,2.4,0.0018401852332395063
+Georgia,3 wk ahead,Bin,percent,2.4,2.5,0.0020002140864034124
+Georgia,3 wk ahead,Bin,percent,2.5,2.6,0.0021895553164917965
+Georgia,3 wk ahead,Bin,percent,2.6,2.7,0.002413054297172545
+Georgia,3 wk ahead,Bin,percent,2.7,2.8,0.0026761706970743456
+Georgia,3 wk ahead,Bin,percent,2.8,2.9,0.002984994124557809
+Georgia,3 wk ahead,Bin,percent,2.9,3,0.003346236889431195
+Georgia,3 wk ahead,Bin,percent,3,3.1,0.003767195459662545
+Georgia,3 wk ahead,Bin,percent,3.1,3.2,0.004255670970472103
+Georgia,3 wk ahead,Bin,percent,3.2,3.3,0.004819838248138362
+Georgia,3 wk ahead,Bin,percent,3.3,3.4,0.0054680524989226586
+Georgia,3 wk ahead,Bin,percent,3.4,3.5,0.006208583399847705
+Georgia,3 wk ahead,Bin,percent,3.5,3.6,0.007049268168763473
+Georgia,3 wk ahead,Bin,percent,3.6,3.7,0.007997078649445283
+Georgia,3 wk ahead,Bin,percent,3.7,3.8,0.009057602839253474
+Georgia,3 wk ahead,Bin,percent,3.8,3.9,0.010234448804172472
+Georgia,3 wk ahead,Bin,percent,3.9,4,0.011528588542316965
+Georgia,3 wk ahead,Bin,percent,4,4.1,0.012937670724104532
+Georgia,3 wk ahead,Bin,percent,4.1,4.2,0.014455343592431426
+Georgia,3 wk ahead,Bin,percent,4.2,4.3,0.016070641415066835
+Georgia,3 wk ahead,Bin,percent,4.3,4.4,0.017767498049476558
+Georgia,3 wk ahead,Bin,percent,4.4,4.5,0.019524457363075294
+Georgia,3 wk ahead,Bin,percent,4.5,4.6,0.021314650286487203
+Georgia,3 wk ahead,Bin,percent,4.6,4.7,0.0231061002340909
+Georgia,3 wk ahead,Bin,percent,4.7,4.8,0.02486240124880802
+Georgia,3 wk ahead,Bin,percent,4.8,4.9,0.026543786392992683
+Georgia,3 wk ahead,Bin,percent,4.9,5,0.02810856899670161
+Georgia,3 wk ahead,Bin,percent,5,5.1,0.02951489944542475
+Georgia,3 wk ahead,Bin,percent,5.1,5.2,0.030722739830357323
+Georgia,3 wk ahead,Bin,percent,5.2,5.3,0.03169592360678614
+Georgia,3 wk ahead,Bin,percent,5.3,5.4,0.03240414319596979
+Georgia,3 wk ahead,Bin,percent,5.4,5.5,0.032824700124361644
+Georgia,3 wk ahead,Bin,percent,5.5,5.6,0.032943862781412925
+Georgia,3 wk ahead,Bin,percent,5.6,5.7,0.032757706412774826
+Georgia,3 wk ahead,Bin,percent,5.7,5.8,0.03227235571190777
+Georgia,3 wk ahead,Bin,percent,5.8,5.9,0.031503606732165956
+Georgia,3 wk ahead,Bin,percent,5.9,6,0.030475964345327275
+Georgia,3 wk ahead,Bin,percent,6,6.1,0.029221186090484484
+Georgia,3 wk ahead,Bin,percent,6.1,6.2,0.027776465831130494
+Georgia,3 wk ahead,Bin,percent,6.2,6.3,0.026182416120251104
+Georgia,3 wk ahead,Bin,percent,6.3,6.4,0.024481014394977095
+Georgia,3 wk ahead,Bin,percent,6.4,6.5,0.02271366595298449
+Georgia,3 wk ahead,Bin,percent,6.5,6.6,0.020919509571207962
+Georgia,3 wk ahead,Bin,percent,6.6,6.7,0.0191340548041107
+Georgia,3 wk ahead,Bin,percent,6.7,6.8,0.017388199277432455
+Georgia,3 wk ahead,Bin,percent,6.8,6.9,0.015707635122645083
+Georgia,3 wk ahead,Bin,percent,6.9,7,0.014112620359728635
+Georgia,3 wk ahead,Bin,percent,7,7.1,0.0126180662198523
+Georgia,3 wk ahead,Bin,percent,7.1,7.2,0.011233876132612498
+Georgia,3 wk ahead,Bin,percent,7.2,7.3,0.009965465974863051
+Georgia,3 wk ahead,Bin,percent,7.3,7.4,0.00881439674547304
+Georgia,3 wk ahead,Bin,percent,7.4,7.5,0.007779058075993925
+Georgia,3 wk ahead,Bin,percent,7.5,7.6,0.006855351748137099
+Georgia,3 wk ahead,Bin,percent,7.6,7.7,0.006037336682290369
+Georgia,3 wk ahead,Bin,percent,7.7,7.8,0.005317809088123706
+Georgia,3 wk ahead,Bin,percent,7.8,7.9,0.004688802500015984
+Georgia,3 wk ahead,Bin,percent,7.9,8,0.004142001591589447
+Georgia,3 wk ahead,Bin,percent,8,8.1,0.003669070706373561
+Georgia,3 wk ahead,Bin,percent,8.1,8.2,0.0032619029858845256
+Georgia,3 wk ahead,Bin,percent,8.2,8.3,0.002912799049045666
+Georgia,3 wk ahead,Bin,percent,8.3,8.4,0.0026145857099970646
+Georgia,3 wk ahead,Bin,percent,8.4,8.5,0.0023606855805436886
+Georgia,3 wk ahead,Bin,percent,8.5,8.6,0.0021451479380880482
+Georgia,3 wk ahead,Bin,percent,8.6,8.7,0.0019626502532692617
+Georgia,3 wk ahead,Bin,percent,8.7,8.8,0.0018084785076250905
+Georgia,3 wk ahead,Bin,percent,8.8,8.9,0.0016784930728921954
+Georgia,3 wk ahead,Bin,percent,8.9,9,0.0015690855965381947
+Georgia,3 wk ahead,Bin,percent,9,9.1,0.0014771311221867534
+Georgia,3 wk ahead,Bin,percent,9.1,9.2,0.0013999386115632283
+Georgia,3 wk ahead,Bin,percent,9.2,9.3,0.0013352021424846957
+Georgia,3 wk ahead,Bin,percent,9.3,9.4,0.0012809543332089825
+Georgia,3 wk ahead,Bin,percent,9.4,9.5,0.0012355229739269941
+Georgia,3 wk ahead,Bin,percent,9.5,9.6,0.0011974914121715696
+Georgia,3 wk ahead,Bin,percent,9.6,9.7,0.0011656629190981839
+Georgia,3 wk ahead,Bin,percent,9.7,9.8,0.0011390290367924523
+Georgia,3 wk ahead,Bin,percent,9.8,9.9,0.0011167417535450285
+Georgia,3 wk ahead,Bin,percent,9.9,10,0.0010980892573764732
+Georgia,3 wk ahead,Bin,percent,10,10.1,0.001082474963684124
+Georgia,3 wk ahead,Bin,percent,10.1,10.2,0.0010693994890484126
+Georgia,3 wk ahead,Bin,percent,10.2,10.3,0.0010584452407387539
+Georgia,3 wk ahead,Bin,percent,10.3,10.4,0.0010492633031909144
+Georgia,3 wk ahead,Bin,percent,10.4,10.5,0.001041562323291968
+Georgia,3 wk ahead,Bin,percent,10.5,10.6,0.0010350991218219436
+Georgia,3 wk ahead,Bin,percent,10.6,10.7,0.001029670786037324
+Georgia,3 wk ahead,Bin,percent,10.7,10.8,0.0010251080262523595
+Georgia,3 wk ahead,Bin,percent,10.8,10.9,0.0010212696061164023
+Georgia,3 wk ahead,Bin,percent,10.9,11,0.0010180376813356093
+Georgia,3 wk ahead,Bin,percent,11,11.1,0.0010153139044339018
+Georgia,3 wk ahead,Bin,percent,11.1,11.2,0.0010130161736180857
+Georgia,3 wk ahead,Bin,percent,11.2,11.3,0.0010110759219081327
+Georgia,3 wk ahead,Bin,percent,11.3,11.4,0.0010094358584952221
+Georgia,3 wk ahead,Bin,percent,11.4,11.5,0.0010080480879904026
+Georgia,3 wk ahead,Bin,percent,11.5,11.6,0.0010068725449890084
+Georgia,3 wk ahead,Bin,percent,11.6,11.7,0.0010058756914337833
+Georgia,3 wk ahead,Bin,percent,11.7,11.8,0.001005029432795057
+Georgia,3 wk ahead,Bin,percent,11.8,11.9,0.001004310216316624
+Georgia,3 wk ahead,Bin,percent,11.9,12,0.0010036982806630665
+Georgia,3 wk ahead,Bin,percent,12,12.1,0.0010031770314185618
+Georgia,3 wk ahead,Bin,percent,12.1,12.2,0.001002732521175466
+Georgia,3 wk ahead,Bin,percent,12.2,12.3,0.0010023530165306092
+Georgia,3 wk ahead,Bin,percent,12.3,12.4,0.0010020286373002227
+Georgia,3 wk ahead,Bin,percent,12.4,12.5,0.0010017510557512265
+Georgia,3 wk ahead,Bin,percent,12.5,12.6,0.0010015132457195772
+Georgia,3 wk ahead,Bin,percent,12.6,12.7,0.0010013092732095588
+Georgia,3 wk ahead,Bin,percent,12.7,12.8,0.001001134121495566
+Georgia,3 wk ahead,Bin,percent,12.8,12.9,0.0010009835449355906
+Georgia,3 wk ahead,Bin,percent,12.9,13,0.0010008539466894411
+Georgia,3 wk ahead,Bin,percent,13,100,0.001006046357032464
+Georgia,4 wk ahead,Point,percent,NA,NA,5.36494
+Georgia,4 wk ahead,Bin,percent,0,0.1,0.0010037831497471757
+Georgia,4 wk ahead,Bin,percent,0.1,0.2,0.0010045591549623935
+Georgia,4 wk ahead,Bin,percent,0.2,0.3,0.0010055042975262243
+Georgia,4 wk ahead,Bin,percent,0.3,0.4,0.0010066574180293375
+Georgia,4 wk ahead,Bin,percent,0.4,0.5,0.0010080666711358177
+Georgia,4 wk ahead,Bin,percent,0.5,0.6,0.0010097918348995643
+Georgia,4 wk ahead,Bin,percent,0.6,0.7,0.0010119072049949184
+Georgia,4 wk ahead,Bin,percent,0.7,0.8,0.0010145052227923486
+Georgia,4 wk ahead,Bin,percent,0.8,0.9,0.0010177010234113245
+Georgia,4 wk ahead,Bin,percent,0.9,1,0.0010216381358045658
+Georgia,4 wk ahead,Bin,percent,1,1.1,0.0010264956232931774
+Georgia,4 wk ahead,Bin,percent,1.1,1.2,0.0010324970216729799
+Georgia,4 wk ahead,Bin,percent,1.2,1.3,0.0010399215150271243
+Georgia,4 wk ahead,Bin,percent,1.3,1.4,0.0010491178886162626
+Georgia,4 wk ahead,Bin,percent,1.4,1.5,0.001060521915244212
+Georgia,4 wk ahead,Bin,percent,1.5,1.6,0.0010746779671161738
+Georgia,4 wk ahead,Bin,percent,1.6,1.7,0.0010922657987980687
+Georgia,4 wk ahead,Bin,percent,1.7,1.8,0.001114133615440232
+Georgia,4 wk ahead,Bin,percent,1.8,1.9,0.0011413387171673667
+Georgia,4 wk ahead,Bin,percent,1.9,2,0.001175197183000512
+Georgia,4 wk ahead,Bin,percent,2,2.1,0.0012173442051723884
+Georgia,4 wk ahead,Bin,percent,2.1,2.2,0.0012698067750085405
+Georgia,4 wk ahead,Bin,percent,2.2,2.3,0.0013350904068962937
+Georgia,4 wk ahead,Bin,percent,2.3,2.4,0.0014162813992625524
+Georgia,4 wk ahead,Bin,percent,2.4,2.5,0.0015171656778686401
+Georgia,4 wk ahead,Bin,percent,2.5,2.6,0.0016423644247418859
+Georgia,4 wk ahead,Bin,percent,2.6,2.7,0.0017974853119223696
+Georgia,4 wk ahead,Bin,percent,2.7,2.8,0.001989286050108222
+Georgia,4 wk ahead,Bin,percent,2.8,2.9,0.0022258439268113598
+Georgia,4 wk ahead,Bin,percent,2.9,3,0.002516720849871236
+Georgia,4 wk ahead,Bin,percent,3,3.1,0.0028731079793216296
+Georgia,4 wk ahead,Bin,percent,3.1,3.2,0.0033079272850435625
+Georgia,4 wk ahead,Bin,percent,3.2,3.3,0.0038358594778744788
+Georgia,4 wk ahead,Bin,percent,3.3,3.4,0.004473259227263894
+Georgia,4 wk ahead,Bin,percent,3.4,3.5,0.0052379103727091475
+Georgia,4 wk ahead,Bin,percent,3.5,3.6,0.006148567545322371
+Georgia,4 wk ahead,Bin,percent,3.6,3.7,0.007224228527623769
+Georgia,4 wk ahead,Bin,percent,3.7,3.8,0.008483086752493615
+Georgia,4 wk ahead,Bin,percent,3.8,3.9,0.009941128965752603
+Georgia,4 wk ahead,Bin,percent,3.9,4,0.011610372529093797
+Georgia,4 wk ahead,Bin,percent,4,4.1,0.013496782378466174
+Georgia,4 wk ahead,Bin,percent,4.1,4.2,0.0155979692597971
+Georgia,4 wk ahead,Bin,percent,4.2,4.3,0.01790084481577967
+Georgia,4 wk ahead,Bin,percent,4.3,4.4,0.02037948672750553
+Georgia,4 wk ahead,Bin,percent,4.4,4.5,0.022993534334733872
+Georgia,4 wk ahead,Bin,percent,4.5,4.6,0.025687473405664695
+Georgia,4 wk ahead,Bin,percent,4.6,4.7,0.028391157871317636
+Georgia,4 wk ahead,Bin,percent,4.7,4.8,0.031021839627008236
+Georgia,4 wk ahead,Bin,percent,4.8,4.9,0.03348782781810813
+Georgia,4 wk ahead,Bin,percent,4.9,5,0.035693684822279415
+Georgia,4 wk ahead,Bin,percent,5,5.1,0.03754661469950337
+Georgia,4 wk ahead,Bin,percent,5.1,5.2,0.03896345561988494
+Georgia,4 wk ahead,Bin,percent,5.2,5.3,0.03987750441124652
+Georgia,4 wk ahead,Bin,percent,5.3,5.4,0.040244328867735844
+Georgia,4 wk ahead,Bin,percent,5.4,5.5,0.040045793156231003
+Georgia,4 wk ahead,Bin,percent,5.5,5.6,0.039291734423102236
+Georgia,4 wk ahead,Bin,percent,5.6,5.7,0.03801905101081475
+Georgia,4 wk ahead,Bin,percent,5.7,5.8,0.03628833297038023
+Georgia,4 wk ahead,Bin,percent,5.8,5.9,0.034178509578747365
+Georgia,4 wk ahead,Bin,percent,5.9,6,0.03178023906666343
+Georgia,4 wk ahead,Bin,percent,6,6.1,0.029188879688072288
+Georgia,4 wk ahead,Bin,percent,6.1,6.2,0.02649784917432249
+Georgia,4 wk ahead,Bin,percent,6.2,6.3,0.02379302470458066
+Georgia,4 wk ahead,Bin,percent,6.3,6.4,0.021148603714436054
+Georgia,4 wk ahead,Bin,percent,6.4,6.5,0.01862459128876364
+Georgia,4 wk ahead,Bin,percent,6.5,6.6,0.01626585083288183
+Georgia,4 wk ahead,Bin,percent,6.6,6.7,0.01410248403963707
+Georgia,4 wk ahead,Bin,percent,6.7,6.8,0.012151207793353047
+Georgia,4 wk ahead,Bin,percent,6.8,6.9,0.010417366561962536
+Georgia,4 wk ahead,Bin,percent,6.9,7,0.008897244471122678
+Georgia,4 wk ahead,Bin,percent,7,7.1,0.0075804019077976275
+Georgia,4 wk ahead,Bin,percent,7.1,7.2,0.006451837733205427
+Georgia,4 wk ahead,Bin,percent,7.2,7.3,0.005493854390473759
+Georgia,4 wk ahead,Bin,percent,7.3,7.4,0.004687569082386621
+Georgia,4 wk ahead,Bin,percent,7.4,7.5,0.004014064676368362
+Georgia,4 wk ahead,Bin,percent,7.5,7.6,0.003455208092569473
+Georgia,4 wk ahead,Bin,percent,7.6,7.7,0.002994183368450392
+Georgia,4 wk ahead,Bin,percent,7.7,7.8,0.002615794455054908
+Georgia,4 wk ahead,Bin,percent,7.8,7.9,0.0023065925151944293
+Georgia,4 wk ahead,Bin,percent,7.9,8,0.002054877186509927
+Georgia,4 wk ahead,Bin,percent,8,8.1,0.0018506134416904209
+Georgia,4 wk ahead,Bin,percent,8.1,8.2,0.001685297114457932
+Georgia,4 wk ahead,Bin,percent,8.2,8.3,0.0015517940065263574
+Georgia,4 wk ahead,Bin,percent,8.3,8.4,0.0014441703732505453
+Georgia,4 wk ahead,Bin,percent,8.4,8.5,0.0013575267573455456
+Georgia,4 wk ahead,Bin,percent,8.5,8.6,0.0012878426128212909
+Georgia,4 wk ahead,Bin,percent,8.6,8.7,0.0012318358097011897
+Georgia,4 wk ahead,Bin,percent,8.7,8.8,0.001186838745675869
+Georgia,4 wk ahead,Bin,percent,8.8,8.9,0.0011506912103762964
+Georgia,4 wk ahead,Bin,percent,8.9,9,0.0011216491614924747
+Georgia,4 wk ahead,Bin,percent,9,9.1,0.0010983080165342164
+Georgia,4 wk ahead,Bin,percent,9.1,9.2,0.0010795388079545482
+Georgia,4 wk ahead,Bin,percent,9.2,9.3,0.0010644354911952094
+Georgia,4 wk ahead,Bin,percent,9.3,9.4,0.0010522717599893124
+Georgia,4 wk ahead,Bin,percent,9.4,9.5,0.0010424658576634232
+Georgia,4 wk ahead,Bin,percent,9.5,9.6,0.0010345520408004002
+Georgia,4 wk ahead,Bin,percent,9.6,9.7,0.001028157528716256
+Georgia,4 wk ahead,Bin,percent,9.7,9.8,0.0010229839441225652
+Georgia,4 wk ahead,Bin,percent,9.8,9.9,0.0010187924088681558
+Georgia,4 wk ahead,Bin,percent,9.9,10,0.0010153915997925533
+Georgia,4 wk ahead,Bin,percent,10,10.1,0.0010126281922742406
+Georgia,4 wk ahead,Bin,percent,10.1,10.2,0.0010103792234632493
+Georgia,4 wk ahead,Bin,percent,10.2,10.3,0.0010085459948657705
+Georgia,4 wk ahead,Bin,percent,10.3,10.4,0.0010070492067128646
+Georgia,4 wk ahead,Bin,percent,10.4,10.5,0.0010058250763945705
+Georgia,4 wk ahead,Bin,percent,10.5,10.6,0.0010048222420942323
+Georgia,4 wk ahead,Bin,percent,10.6,10.7,0.0010039992923943936
+Georgia,4 wk ahead,Bin,percent,10.7,10.8,0.001003322794633141
+Georgia,4 wk ahead,Bin,percent,10.8,10.9,0.0010027657205209542
+Georgia,4 wk ahead,Bin,percent,10.9,11,0.0010023061881604884
+Georgia,4 wk ahead,Bin,percent,11,11.1,0.0010019264561043986
+Georgia,4 wk ahead,Bin,percent,11.1,11.2,0.001001612118237866
+Georgia,4 wk ahead,Bin,percent,11.2,11.3,0.001001351458765332
+Georgia,4 wk ahead,Bin,percent,11.3,11.4,0.0010011349349034603
+Georgia,4 wk ahead,Bin,percent,11.4,11.5,0.0010009547615264683
+Georgia,4 wk ahead,Bin,percent,11.5,11.6,0.0010008045772619085
+Georgia,4 wk ahead,Bin,percent,11.6,11.7,0.0010006791757278164
+Georgia,4 wk ahead,Bin,percent,11.7,11.8,0.001000574288915005
+Georgia,4 wk ahead,Bin,percent,11.8,11.9,0.0010004864123608855
+Georgia,4 wk ahead,Bin,percent,11.9,12,0.0010004126638550152
+Georgia,4 wk ahead,Bin,percent,12,12.1,0.0010003506690811545
+Georgia,4 wk ahead,Bin,percent,12.1,12.2,0.001000298468927123
+Georgia,4 wk ahead,Bin,percent,12.2,12.3,0.0010002544442439412
+Georgia,4 wk ahead,Bin,percent,12.3,12.4,0.001000217254681487
+Georgia,4 wk ahead,Bin,percent,12.4,12.5,0.0010001857888882132
+Georgia,4 wk ahead,Bin,percent,12.5,12.6,0.0010001591239056581
+Georgia,4 wk ahead,Bin,percent,12.6,12.7,0.0010001364920069129
+Georgia,4 wk ahead,Bin,percent,12.7,12.8,0.0010001172535738102
+Georgia,4 wk ahead,Bin,percent,12.8,12.9,0.0010001008748798592
+Georgia,4 wk ahead,Bin,percent,12.9,13,0.0010000869098627495
+Georgia,4 wk ahead,Bin,percent,13,100,0.001000585660847135
+California,Season peak week,Point,week,NA,NA,1
+California,Season peak week,Bin,week,40,41,0.00020606060606061905
+California,Season peak week,Bin,week,41,42,0.00020606060606064299
+California,Season peak week,Bin,week,42,43,0.00020606060606072124
+California,Season peak week,Bin,week,43,44,0.00020606060606100703
+California,Season peak week,Bin,week,44,45,0.00020606060606220177
+California,Season peak week,Bin,week,45,46,0.00020606060606810175
+California,Season peak week,Bin,week,46,47,0.00020606060610411407
+California,Season peak week,Bin,week,47,48,0.00020606060639455506
+California,Season peak week,Bin,week,48,49,0.00020606060983272651
+California,Season peak week,Bin,week,49,50,0.00020606068135033866
+California,Season peak week,Bin,week,50,51,0.00020606437564627103
+California,Season peak week,Bin,week,51,52,0.00020709099359112997
+California,Season peak week,Bin,week,52,53,0.007829054426013556
+California,Season peak week,Bin,week,1,2,0.9781580044930243
+California,Season peak week,Bin,week,2,3,0.00782905442601353
+California,Season peak week,Bin,week,3,4,0.0002070909935911601
+California,Season peak week,Bin,week,4,5,0.00020606437564625677
+California,Season peak week,Bin,week,5,6,0.00020606068135027106
+California,Season peak week,Bin,week,6,7,0.00020606060983274188
+California,Season peak week,Bin,week,7,8,0.00020606060639460588
+California,Season peak week,Bin,week,8,9,0.0002060606061040514
+California,Season peak week,Bin,week,9,10,0.00020606060606810425
+California,Season peak week,Bin,week,10,11,0.00020606060606226007
+California,Season peak week,Bin,week,11,12,0.00020606060606104715
+California,Season peak week,Bin,week,12,13,0.00020606060606071633
+California,Season peak week,Bin,week,13,14,0.00020606060606060607
+California,Season peak week,Bin,week,14,15,0.00020606060606060607
+California,Season peak week,Bin,week,15,16,0.00020606060606060607
+California,Season peak week,Bin,week,16,17,0.00020606060606060607
+California,Season peak week,Bin,week,17,18,0.00020606060606060607
+California,Season peak week,Bin,week,18,19,0.00020606060606060607
+California,Season peak week,Bin,week,19,20,0.00020606060606060607
+California,Season peak week,Bin,week,20,21,0.00020606060606060607
+California,Season peak percentage,Point,percent,NA,NA,5.285477241864383
+California,Season peak percentage,Bin,percent,0,0.1,0.0010000000000035974
+California,Season peak percentage,Bin,percent,0.1,0.2,0.0010000000000046144
+California,Season peak percentage,Bin,percent,0.2,0.3,0.001000000000005947
+California,Season peak percentage,Bin,percent,0.3,0.4,0.0010000000000077035
+California,Season peak percentage,Bin,percent,0.4,0.5,0.0010000000000100306
+California,Season peak percentage,Bin,percent,0.5,0.6,0.001000000000013132
+California,Season peak percentage,Bin,percent,0.6,0.7,0.0010000000000172898
+California,Season peak percentage,Bin,percent,0.7,0.8,0.0010000000000228984
+California,Season peak percentage,Bin,percent,0.8,0.9,0.0010000000000305132
+California,Season peak percentage,Bin,percent,0.9,1,0.001000000000040922
+California,Season peak percentage,Bin,percent,1,1.1,0.0010000000000552512
+California,Season peak percentage,Bin,percent,1.1,1.2,0.0010000000000751233
+California,Season peak percentage,Bin,percent,1.2,1.3,0.0010000000001028967
+California,Season peak percentage,Bin,percent,1.3,1.4,0.0010000000001420281
+California,Season peak percentage,Bin,percent,1.4,1.5,0.0010000000001976338
+California,Season peak percentage,Bin,percent,1.5,1.6,0.0010000000002773572
+California,Season peak percentage,Bin,percent,1.6,1.7,0.0010000000003927366
+California,Season peak percentage,Bin,percent,1.7,1.8,0.0010000000005613765
+California,Season peak percentage,Bin,percent,1.8,1.9,0.0010000000008104418
+California,Season peak percentage,Bin,percent,1.9,2,0.001000000001182352
+California,Season peak percentage,Bin,percent,2,2.1,0.0010000000017441836
+California,Season peak percentage,Bin,percent,2.1,2.2,0.0010000000026034192
+California,Season peak percentage,Bin,percent,2.2,2.3,0.0010000000039347226
+California,Season peak percentage,Bin,percent,2.3,2.4,0.001000000006026186
+California,Season peak percentage,Bin,percent,2.4,2.5,0.0010000000093605612
+California,Season peak percentage,Bin,percent,2.5,2.6,0.0010000000147604928
+California,Season peak percentage,Bin,percent,2.6,2.7,0.0010000000236531541
+California,Season peak percentage,Bin,percent,2.7,2.8,0.00100000003856225
+California,Season peak percentage,Bin,percent,2.8,2.9,0.0010000000640426304
+California,Season peak percentage,Bin,percent,2.9,3,0.0010000001084969742
+California,Season peak percentage,Bin,percent,3,3.1,0.0010000001877950655
+California,Season peak percentage,Bin,percent,3.1,3.2,0.0010000003326773946
+California,Season peak percentage,Bin,percent,3.2,3.3,0.001000000604336688
+California,Season peak percentage,Bin,percent,3.3,3.4,0.001000001128230804
+California,Season peak percentage,Bin,percent,3.4,3.5,0.0010000021699271152
+California,Season peak percentage,Bin,percent,3.5,3.6,0.0010000043114270366
+California,Season peak percentage,Bin,percent,3.6,3.7,0.0010000088773110443
+California,Season peak percentage,Bin,percent,3.7,3.8,0.0010000190089825803
+California,Season peak percentage,Bin,percent,3.8,3.9,0.001000042499580112
+California,Season peak percentage,Bin,percent,3.9,4,0.001000099657210492
+California,Season peak percentage,Bin,percent,4,4.1,0.0010002463270806768
+California,Season peak percentage,Bin,percent,4.1,4.2,0.0010006453579755063
+California,Season peak percentage,Bin,percent,4.2,4.3,0.001001802844039258
+California,Season peak percentage,Bin,percent,4.3,4.4,0.0010054027868201172
+California,Season peak percentage,Bin,percent,4.4,4.5,0.0010174650935046933
+California,Season peak percentage,Bin,percent,4.5,4.6,0.00106111669107942
+California,Season peak percentage,Bin,percent,4.6,4.7,0.0012312465482272762
+California,Season peak percentage,Bin,percent,4.7,4.8,0.0019355735656509745
+California,Season peak percentage,Bin,percent,4.8,4.9,0.004926228312209492
+California,Season peak percentage,Bin,percent,4.9,5,0.01703433654260651
+California,Season peak percentage,Bin,percent,5,5.1,0.05793665872323586
+California,Season peak percentage,Bin,percent,5.1,5.2,0.15052002689022048
+California,Season peak percentage,Bin,percent,5.2,5.3,0.24560843939367275
+California,Season peak percentage,Bin,percent,5.3,5.4,0.22545824969183037
+California,Season peak percentage,Bin,percent,5.4,5.5,0.118766223623563
+California,Season peak percentage,Bin,percent,5.5,5.6,0.041328637751668
+California,Season peak percentage,Bin,percent,5.6,5.7,0.011744821809285048
+California,Season peak percentage,Bin,percent,5.7,5.8,0.003586373718982357
+California,Season peak percentage,Bin,percent,5.8,5.9,0.0016199186410732007
+California,Season peak percentage,Bin,percent,5.9,6,0.0011559157299169808
+California,Season peak percentage,Bin,percent,6,6.1,0.0010421289014793777
+California,Season peak percentage,Bin,percent,6.1,6.2,0.0010123214893522471
+California,Season peak percentage,Bin,percent,6.2,6.3,0.001003898314801114
+California,Season peak percentage,Bin,percent,6.3,6.4,0.0010013284396752328
+California,Season peak percentage,Bin,percent,6.4,6.5,0.001000484788019848
+California,Season peak percentage,Bin,percent,6.5,6.6,0.0010001883074078222
+California,Season peak percentage,Bin,percent,6.6,6.7,0.001000077401210549
+California,Season peak percentage,Bin,percent,6.7,6.8,0.0010000334849769152
+California,Season peak percentage,Bin,percent,6.8,6.9,0.0010000151726240341
+California,Season peak percentage,Bin,percent,6.9,7,0.0010000071696034147
+California,Season peak percentage,Bin,percent,7,7.1,0.0010000035195079852
+California,Season peak percentage,Bin,percent,7.1,7.2,0.0010000017887196004
+California,Season peak percentage,Bin,percent,7.2,7.3,0.001000000938355582
+California,Season peak percentage,Bin,percent,7.3,7.4,0.0010000005067554933
+California,Season peak percentage,Bin,percent,7.4,7.5,0.0010000002810646783
+California,Season peak percentage,Bin,percent,7.5,7.6,0.0010000001597626994
+California,Season peak percentage,Bin,percent,7.6,7.7,0.001000000092894402
+California,Season peak percentage,Bin,percent,7.7,7.8,0.0010000000551591023
+California,Season peak percentage,Bin,percent,7.8,7.9,0.0010000000333967635
+California,Season peak percentage,Bin,percent,7.9,8,0.0010000000205901266
+California,Season peak percentage,Bin,percent,8,8.1,0.001000000012910737
+California,Season peak percentage,Bin,percent,8.1,8.2,0.001000000008224203
+California,Season peak percentage,Bin,percent,8.2,8.3,0.0010000000053169236
+California,Season peak percentage,Bin,percent,8.3,8.4,0.0010000000034852815
+California,Season peak percentage,Bin,percent,8.4,8.5,0.0010000000023145164
+California,Season peak percentage,Bin,percent,8.5,8.6,0.0010000000015560999
+California,Season peak percentage,Bin,percent,8.6,8.7,0.0010000000010583678
+California,Season peak percentage,Bin,percent,8.7,8.8,0.00100000000072764
+California,Season peak percentage,Bin,percent,8.8,8.9,0.0010000000005055468
+California,Season peak percentage,Bin,percent,8.9,9,0.0010000000003546545
+California,Season peak percentage,Bin,percent,9,9.1,0.0010000000002511333
+California,Season peak percentage,Bin,percent,9.1,9.2,0.0010000000001794498
+California,Season peak percentage,Bin,percent,9.2,9.3,0.0010000000001291847
+California,Season peak percentage,Bin,percent,9.3,9.4,0.0010000000000938735
+California,Season peak percentage,Bin,percent,9.4,9.5,0.0010000000000686927
+California,Season peak percentage,Bin,percent,9.5,9.6,0.0010000000000505546
+California,Season peak percentage,Bin,percent,9.6,9.7,0.0010000000000375301
+California,Season peak percentage,Bin,percent,9.7,9.8,0.0010000000000280752
+California,Season peak percentage,Bin,percent,9.8,9.9,0.0010000000000210322
+California,Season peak percentage,Bin,percent,9.9,10,0.0010000000000160154
+California,Season peak percentage,Bin,percent,10,10.1,0.0010000000000121563
+California,Season peak percentage,Bin,percent,10.1,10.2,0.001000000000009262
+California,Season peak percentage,Bin,percent,10.2,10.3,0.0010000000000071395
+California,Season peak percentage,Bin,percent,10.3,10.4,0.0010000000000054993
+California,Season peak percentage,Bin,percent,10.4,10.5,0.0010000000000043416
+California,Season peak percentage,Bin,percent,10.5,10.6,0.0010000000000032804
+California,Season peak percentage,Bin,percent,10.6,10.7,0.001000000000002605
+California,Season peak percentage,Bin,percent,10.7,10.8,0.0010000000000021225
+California,Season peak percentage,Bin,percent,10.8,10.9,0.0010000000000016402
+California,Season peak percentage,Bin,percent,10.9,11,0.0010000000000013507
+California,Season peak percentage,Bin,percent,11,11.1,0.0010000000000009647
+California,Season peak percentage,Bin,percent,11.1,11.2,0.0010000000000008682
+California,Season peak percentage,Bin,percent,11.2,11.3,0.0010000000000006753
+California,Season peak percentage,Bin,percent,11.3,11.4,0.0010000000000004825
+California,Season peak percentage,Bin,percent,11.4,11.5,0.0010000000000004825
+California,Season peak percentage,Bin,percent,11.5,11.6,0.0010000000000002895
+California,Season peak percentage,Bin,percent,11.6,11.7,0.0010000000000002895
+California,Season peak percentage,Bin,percent,11.7,11.8,0.0010000000000002895
+California,Season peak percentage,Bin,percent,11.8,11.9,0.001000000000000193
+California,Season peak percentage,Bin,percent,11.9,12,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12,12.1,0.001000000000000193
+California,Season peak percentage,Bin,percent,12.1,12.2,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12.2,12.3,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12.3,12.4,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12.4,12.5,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12.5,12.6,0.001
+California,Season peak percentage,Bin,percent,12.6,12.7,0.0010000000000000965
+California,Season peak percentage,Bin,percent,12.7,12.8,0.001
+California,Season peak percentage,Bin,percent,12.8,12.9,0.001
+California,Season peak percentage,Bin,percent,12.9,13,0.0010000000000000965
+California,Season peak percentage,Bin,percent,13,100,0.0010000000000000965
+California,1 wk ahead,Point,percent,NA,NA,4.1317
+California,1 wk ahead,Bin,percent,0,0.1,0.0010000002676382252
+California,1 wk ahead,Bin,percent,0.1,0.2,0.0010000003639795891
+California,1 wk ahead,Bin,percent,0.2,0.3,0.0010000004985108253
+California,1 wk ahead,Bin,percent,0.3,0.4,0.0010000006878220417
+California,1 wk ahead,Bin,percent,0.4,0.5,0.0010000009563681563
+California,1 wk ahead,Bin,percent,0.5,0.6,0.0010000013405226749
+California,1 wk ahead,Bin,percent,0.6,0.7,0.0010000018948957837
+California,1 wk ahead,Bin,percent,0.7,0.8,0.001000002702283327
+California,1 wk ahead,Bin,percent,0.8,0.9,0.001000003889501972
+California,1 wk ahead,Bin,percent,0.9,1,0.0010000056528758137
+California,1 wk ahead,Bin,percent,1,1.1,0.0010000082997364819
+California,1 wk ahead,Bin,percent,1.1,1.2,0.0010000123168213955
+California,1 wk ahead,Bin,percent,1.2,1.3,0.0010000184844349159
+California,1 wk ahead,Bin,percent,1.3,1.4,0.0010000280695096142
+California,1 wk ahead,Bin,percent,1.4,1.5,0.0010000431565905642
+California,1 wk ahead,Bin,percent,1.5,1.6,0.0010000672233956684
+California,1 wk ahead,Bin,percent,1.6,1.7,0.0010001061565554036
+California,1 wk ahead,Bin,percent,1.7,1.8,0.0010001700717999578
+California,1 wk ahead,Bin,percent,1.8,1.9,0.001000276627685997
+California,1 wk ahead,Bin,percent,1.9,2,0.0010004571574618072
+California,1 wk ahead,Bin,percent,2,2.1,0.001000768206887538
+California,1 wk ahead,Bin,percent,2.1,2.2,0.0010013136166431625
+California,1 wk ahead,Bin,percent,2.2,2.3,0.0010022875186359859
+California,1 wk ahead,Bin,percent,2.3,2.4,0.001004059499301818
+California,1 wk ahead,Bin,percent,2.4,2.5,0.0010073461320225386
+California,1 wk ahead,Bin,percent,2.5,2.6,0.0010135620110937823
+California,1 wk ahead,Bin,percent,2.6,2.7,0.00102554855984937
+California,1 wk ahead,Bin,percent,2.7,2.8,0.0010491054043195373
+California,1 wk ahead,Bin,percent,2.8,2.9,0.0010962345430306005
+California,1 wk ahead,Bin,percent,2.9,3,0.0011920294271396677
+California,1 wk ahead,Bin,percent,3,3.1,0.0013892103596304505
+California,1 wk ahead,Bin,percent,3.1,3.2,0.001798187170355492
+California,1 wk ahead,Bin,percent,3.2,3.3,0.0026467175279058343
+California,1 wk ahead,Bin,percent,3.3,3.4,0.004389467413937337
+California,1 wk ahead,Bin,percent,3.4,3.5,0.007881579597403321
+California,1 wk ahead,Bin,percent,3.5,3.6,0.014574959112244983
+California,1 wk ahead,Bin,percent,3.6,3.7,0.026528282507208043
+California,1 wk ahead,Bin,percent,3.7,3.8,0.04574215437438439
+California,1 wk ahead,Bin,percent,3.8,3.9,0.07228775556473599
+California,1 wk ahead,Bin,percent,3.9,4,0.10173938267139225
+California,1 wk ahead,Bin,percent,4,4.1,0.12463924586989611
+California,1 wk ahead,Bin,percent,4.1,4.2,0.13101099278986425
+California,1 wk ahead,Bin,percent,4.2,4.3,0.11772418674861294
+California,1 wk ahead,Bin,percent,4.3,4.4,0.09113793053243123
+California,1 wk ahead,Bin,percent,4.4,4.5,0.06187960626636101
+California,1 wk ahead,Bin,percent,4.5,4.6,0.037791287244893605
+California,1 wk ahead,Bin,percent,4.6,4.7,0.02140021145221025
+California,1 wk ahead,Bin,percent,4.7,4.8,0.011633748383780604
+California,1 wk ahead,Bin,percent,4.8,4.9,0.006323420075333828
+California,1 wk ahead,Bin,percent,4.9,5,0.003604851092623865
+California,1 wk ahead,Bin,percent,5,5.1,0.002263009470767745
+California,1 wk ahead,Bin,percent,5.1,5.2,0.0016130383367775362
+California,1 wk ahead,Bin,percent,5.2,5.3,0.0013000497050317536
+California,1 wk ahead,Bin,percent,5.3,5.4,0.0011488334280963367
+California,1 wk ahead,Bin,percent,5.4,5.5,0.0010750647376232708
+California,1 wk ahead,Bin,percent,5.5,5.6,0.0010385720107851833
+California,1 wk ahead,Bin,percent,5.6,5.7,0.0010202153907836044
+California,1 wk ahead,Bin,percent,5.7,5.8,0.0010108107317622862
+California,1 wk ahead,Bin,percent,5.8,5.9,0.0010058990762060553
+California,1 wk ahead,Bin,percent,5.9,6,0.0010032834340008743
+California,1 wk ahead,Bin,percent,6,6.1,0.001001863200080471
+California,1 wk ahead,Bin,percent,6.1,6.2,0.0010010771939777815
+California,1 wk ahead,Bin,percent,6.2,6.3,0.001000634038616469
+California,1 wk ahead,Bin,percent,6.3,6.4,0.001000379658453252
+California,1 wk ahead,Bin,percent,6.4,6.5,0.0010002310944329461
+California,1 wk ahead,Bin,percent,6.5,6.6,0.0010001428799643662
+California,1 wk ahead,Bin,percent,6.6,6.7,0.0010000896629514795
+California,1 wk ahead,Bin,percent,6.7,6.8,0.0010000570690005231
+California,1 wk ahead,Bin,percent,6.8,6.9,0.0010000368156094985
+California,1 wk ahead,Bin,percent,6.9,7,0.0010000240558943206
+California,1 wk ahead,Bin,percent,7,7.1,0.0010000159109777287
+California,1 wk ahead,Bin,percent,7.1,7.2,0.0010000106463546035
+California,1 wk ahead,Bin,percent,7.2,7.3,0.00100000720262855
+California,1 wk ahead,Bin,percent,7.3,7.4,0.0010000049242318643
+California,1 wk ahead,Bin,percent,7.4,7.5,0.0010000034003852633
+California,1 wk ahead,Bin,percent,7.5,7.6,0.0010000023705951894
+California,1 wk ahead,Bin,percent,7.6,7.7,0.0010000016677689976
+California,1 wk ahead,Bin,percent,7.7,7.8,0.0010000011835441965
+California,1 wk ahead,Bin,percent,7.8,7.9,0.0010000008469051727
+California,1 wk ahead,Bin,percent,7.9,8,0.0010000006108409057
+California,1 wk ahead,Bin,percent,8,8.1,0.0010000004439309912
+California,1 wk ahead,Bin,percent,8.1,8.2,0.0010000003249798044
+California,1 wk ahead,Bin,percent,8.2,8.3,0.0010000002395621874
+California,1 wk ahead,Bin,percent,8.3,8.4,0.0010000001777774323
+California,1 wk ahead,Bin,percent,8.4,8.5,0.0010000001327741268
+California,1 wk ahead,Bin,percent,8.5,8.6,0.0010000000997742755
+California,1 wk ahead,Bin,percent,8.6,8.7,0.0010000000754197553
+California,1 wk ahead,Bin,percent,8.7,8.8,0.0010000000573345935
+California,1 wk ahead,Bin,percent,8.8,8.9,0.0010000000438244363
+California,1 wk ahead,Bin,percent,8.9,9,0.0010000000336741388
+California,1 wk ahead,Bin,percent,9,9.1,0.001000000026006037
+California,1 wk ahead,Bin,percent,9.1,9.2,0.0010000000201823124
+California,1 wk ahead,Bin,percent,9.2,9.3,0.0010000000157362992
+California,1 wk ahead,Bin,percent,9.3,9.4,0.0010000000123256921
+California,1 wk ahead,Bin,percent,9.4,9.5,0.0010000000096964633
+California,1 wk ahead,Bin,percent,9.5,9.6,0.00100000000766048
+California,1 wk ahead,Bin,percent,9.6,9.7,0.0010000000060767873
+California,1 wk ahead,Bin,percent,9.7,9.8,0.001000000004839452
+California,1 wk ahead,Bin,percent,9.8,9.9,0.0010000000038690726
+California,1 wk ahead,Bin,percent,9.9,10,0.0010000000031043848
+California,1 wk ahead,Bin,percent,10,10.1,0.0010000000025001407
+California,1 wk ahead,Bin,percent,10.1,10.2,0.0010000000020201608
+California,1 wk ahead,Bin,percent,10.2,10.3,0.0010000000016381066
+California,1 wk ahead,Bin,percent,10.3,10.4,0.0010000000013323665
+California,1 wk ahead,Bin,percent,10.4,10.5,0.0010000000010874077
+California,1 wk ahead,Bin,percent,10.5,10.6,0.0010000000008900131
+California,1 wk ahead,Bin,percent,10.6,10.7,0.0010000000007307273
+California,1 wk ahead,Bin,percent,10.7,10.8,0.0010000000006016392
+California,1 wk ahead,Bin,percent,10.8,10.9,0.0010000000004967671
+California,1 wk ahead,Bin,percent,10.9,11,0.0010000000004112873
+California,1 wk ahead,Bin,percent,11,11.1,0.001000000000341437
+California,1 wk ahead,Bin,percent,11.1,11.2,0.0010000000002841289
+California,1 wk ahead,Bin,percent,11.2,11.3,0.0010000000002371439
+California,1 wk ahead,Bin,percent,11.3,11.4,0.0010000000001983596
+California,1 wk ahead,Bin,percent,11.4,11.5,0.0010000000001662323
+California,1 wk ahead,Bin,percent,11.5,11.6,0.0010000000001397973
+California,1 wk ahead,Bin,percent,11.6,11.7,0.0010000000001177036
+California,1 wk ahead,Bin,percent,11.7,11.8,0.0010000000000992763
+California,1 wk ahead,Bin,percent,11.8,11.9,0.0010000000000841291
+California,1 wk ahead,Bin,percent,11.9,12,0.001000000000071201
+California,1 wk ahead,Bin,percent,12,12.1,0.0010000000000605885
+California,1 wk ahead,Bin,percent,12.1,12.2,0.0010000000000515196
+California,1 wk ahead,Bin,percent,12.2,12.3,0.0010000000000438976
+California,1 wk ahead,Bin,percent,12.3,12.4,0.0010000000000375301
+California,1 wk ahead,Bin,percent,12.4,12.5,0.0010000000000321273
+California,1 wk ahead,Bin,percent,12.5,12.6,0.0010000000000275927
+California,1 wk ahead,Bin,percent,12.6,12.7,0.0010000000000237336
+California,1 wk ahead,Bin,percent,12.7,12.8,0.001000000000020357
+California,1 wk ahead,Bin,percent,12.8,12.9,0.0010000000000175591
+California,1 wk ahead,Bin,percent,12.9,13,0.0010000000000151472
+California,1 wk ahead,Bin,percent,13,100,0.0010000000001051616
+California,2 wk ahead,Point,percent,NA,NA,4.03236
+California,2 wk ahead,Bin,percent,0,0.1,0.0010000146990464382
+California,2 wk ahead,Bin,percent,0.1,0.2,0.0010000198502611729
+California,2 wk ahead,Bin,percent,0.2,0.3,0.0010000269776634205
+California,2 wk ahead,Bin,percent,0.3,0.4,0.001000036906649324
+California,2 wk ahead,Bin,percent,0.4,0.5,0.001000050836088068
+California,2 wk ahead,Bin,percent,0.5,0.6,0.0010000705205547395
+California,2 wk ahead,Bin,percent,0.6,0.7,0.0010000985480345527
+California,2 wk ahead,Bin,percent,0.7,0.8,0.0010001387665730548
+California,2 wk ahead,Bin,percent,0.8,0.9,0.0010001969452310515
+California,2 wk ahead,Bin,percent,0.9,1,0.0010002818067325896
+California,2 wk ahead,Bin,percent,1,1.1,0.0010004066547900088
+California,2 wk ahead,Bin,percent,1.1,1.2,0.0010005919610442853
+California,2 wk ahead,Bin,percent,1.2,1.3,0.0010008695138469504
+California,2 wk ahead,Bin,percent,1.3,1.4,0.0010012891308034612
+California,2 wk ahead,Bin,percent,1.4,1.5,0.0010019296151686924
+California,2 wk ahead,Bin,percent,1.5,1.6,0.0010029167946322695
+California,2 wk ahead,Bin,percent,1.6,1.7,0.0010044534717454227
+California,2 wk ahead,Bin,percent,1.7,1.8,0.0010068695530649613
+California,2 wk ahead,Bin,percent,1.8,1.9,0.0010107065818376645
+California,2 wk ahead,Bin,percent,1.9,2,0.0010168612400616361
+California,2 wk ahead,Bin,percent,2,2.1,0.0010268303156573259
+California,2 wk ahead,Bin,percent,2.1,2.2,0.0010431305719442187
+California,2 wk ahead,Bin,percent,2.2,2.3,0.0010700198284058291
+California,2 wk ahead,Bin,percent,2.3,2.4,0.001114734359444099
+California,2 wk ahead,Bin,percent,2.4,2.5,0.0011896026579004356
+California,2 wk ahead,Bin,percent,2.5,2.6,0.0013156213637721017
+California,2 wk ahead,Bin,percent,2.6,2.7,0.0015284036496439131
+California,2 wk ahead,Bin,percent,2.7,2.8,0.0018878095157663023
+California,2 wk ahead,Bin,percent,2.8,2.9,0.00249288873626611
+California,2 wk ahead,Bin,percent,2.9,3,0.003503555120932487
+California,2 wk ahead,Bin,percent,3,3.1,0.005168634859750946
+California,2 wk ahead,Bin,percent,3.1,3.2,0.007854761419329715
+California,2 wk ahead,Bin,percent,3.2,3.3,0.012059787743478767
+California,2 wk ahead,Bin,percent,3.3,3.4,0.018377601540798802
+California,2 wk ahead,Bin,percent,3.4,3.5,0.027365606616334578
+California,2 wk ahead,Bin,percent,3.5,3.6,0.03927353477583273
+California,2 wk ahead,Bin,percent,3.6,3.7,0.05365683170916239
+California,2 wk ahead,Bin,percent,3.7,3.8,0.0690332171773911
+California,2 wk ahead,Bin,percent,3.8,3.9,0.08287646018491984
+California,2 wk ahead,Bin,percent,3.9,4,0.09220292728222187
+California,2 wk ahead,Bin,percent,4,4.1,0.09466561120395162
+California,2 wk ahead,Bin,percent,4.1,4.2,0.08960254417211483
+California,2 wk ahead,Bin,percent,4.2,4.3,0.07835584964097346
+California,2 wk ahead,Bin,percent,4.3,4.4,0.06363497087307073
+California,2 wk ahead,Bin,percent,4.4,4.5,0.04836839663835113
+California,2 wk ahead,Bin,percent,4.5,4.6,0.034747579653870334
+California,2 wk ahead,Bin,percent,4.6,4.7,0.023863579963571697
+California,2 wk ahead,Bin,percent,4.7,4.8,0.015869367254554838
+California,2 wk ahead,Bin,percent,4.8,4.9,0.010366719317103631
+California,2 wk ahead,Bin,percent,4.9,5,0.0067620215386791
+California,2 wk ahead,Bin,percent,5,5.1,0.004486274306546872
+California,2 wk ahead,Bin,percent,5.1,5.2,0.0030873193571624062
+California,2 wk ahead,Bin,percent,5.2,5.3,0.002242927512245584
+California,2 wk ahead,Bin,percent,5.3,5.4,0.001739105159992325
+California,2 wk ahead,Bin,percent,5.4,5.5,0.0014403307335789269
+California,2 wk ahead,Bin,percent,5.5,5.6,0.0012634881264221346
+California,2 wk ahead,Bin,percent,5.6,5.7,0.0011586679002054468
+California,2 wk ahead,Bin,percent,5.7,5.8,0.0010962911531681096
+California,2 wk ahead,Bin,percent,5.8,5.9,0.0010589527216755916
+California,2 wk ahead,Bin,percent,5.9,6,0.0010364380097560948
+California,2 wk ahead,Bin,percent,6,6.1,0.001022747992005162
+California,2 wk ahead,Bin,percent,6.1,6.2,0.001014347896541087
+California,2 wk ahead,Bin,percent,6.2,6.3,0.001009144147467151
+California,2 wk ahead,Bin,percent,6.3,6.4,0.0010058885775091249
+California,2 wk ahead,Bin,percent,6.4,6.5,0.0010038313664163148
+California,2 wk ahead,Bin,percent,6.5,6.6,0.001002518304734247
+California,2 wk ahead,Bin,percent,6.6,6.7,0.0010016718151917492
+California,2 wk ahead,Bin,percent,6.7,6.8,0.0010011207084469776
+California,2 wk ahead,Bin,percent,6.8,6.9,0.001000758420421525
+California,2 wk ahead,Bin,percent,6.9,7,0.001000517991030152
+California,2 wk ahead,Bin,percent,7,7.1,0.0010003569498713398
+California,2 wk ahead,Bin,percent,7.1,7.2,0.0010002481082172555
+California,2 wk ahead,Bin,percent,7.2,7.3,0.001000173900183622
+California,2 wk ahead,Bin,percent,7.3,7.4,0.0010001228743075862
+California,2 wk ahead,Bin,percent,7.4,7.5,0.0010000874990851827
+California,2 wk ahead,Bin,percent,7.5,7.6,0.0010000627782628853
+California,2 wk ahead,Bin,percent,7.6,7.7,0.001000045369459699
+California,2 wk ahead,Bin,percent,7.7,7.8,0.0010000330183351255
+California,2 wk ahead,Bin,percent,7.8,7.9,0.001000024192260636
+California,2 wk ahead,Bin,percent,7.9,8,0.0010000178411888252
+California,2 wk ahead,Bin,percent,8,8.1,0.0010000132402876128
+California,2 wk ahead,Bin,percent,8.1,8.2,0.0010000098855651026
+California,2 wk ahead,Bin,percent,8.2,8.3,0.0010000074241040336
+California,2 wk ahead,Bin,percent,8.3,8.4,0.0010000056070813424
+California,2 wk ahead,Bin,percent,8.4,8.5,0.0010000042578996143
+California,2 wk ahead,Bin,percent,8.5,8.6,0.001000003250414807
+California,2 wk ahead,Bin,percent,8.6,8.7,0.0010000024939599097
+California,2 wk ahead,Bin,percent,8.7,8.8,0.0010000019229734218
+California,2 wk ahead,Bin,percent,8.8,8.9,0.0010000014897702252
+California,2 wk ahead,Bin,percent,8.9,9,0.0010000011594699103
+California,2 wk ahead,Bin,percent,9,9.1,0.0010000009064189707
+California,2 wk ahead,Bin,percent,9.1,9.2,0.0010000007116484052
+California,2 wk ahead,Bin,percent,9.2,9.3,0.0010000005610600199
+California,2 wk ahead,Bin,percent,9.3,9.4,0.0010000004441235852
+California,2 wk ahead,Bin,percent,9.4,9.5,0.0010000003529344337
+California,2 wk ahead,Bin,percent,9.5,9.6,0.0010000002815320345
+California,2 wk ahead,Bin,percent,9.6,9.7,0.00100000022540062
+California,2 wk ahead,Bin,percent,9.7,9.8,0.0010000001811038234
+California,2 wk ahead,Bin,percent,9.8,9.9,0.0010000001460158886
+California,2 wk ahead,Bin,percent,9.9,10,0.0010000001181209963
+California,2 wk ahead,Bin,percent,10,10.1,0.001000000095866713
+California,2 wk ahead,Bin,percent,10.1,10.2,0.0010000000780512072
+California,2 wk ahead,Bin,percent,10.2,10.3,0.0010000000637420154
+California,2 wk ahead,Bin,percent,10.3,10.4,0.0010000000522116905
+California,2 wk ahead,Bin,percent,10.4,10.5,0.0010000000428912032
+California,2 wk ahead,Bin,percent,10.5,10.6,0.001000000035334244
+California,2 wk ahead,Bin,percent,10.6,10.7,0.0010000000291886673
+California,2 wk ahead,Bin,percent,10.7,10.8,0.0010000000241764224
+California,2 wk ahead,Bin,percent,10.8,10.9,0.0010000000200771522
+California,2 wk ahead,Bin,percent,10.9,11,0.0010000000167149769
+California,2 wk ahead,Bin,percent,11,11.1,0.0010000000139503888
+California,2 wk ahead,Bin,percent,11.1,11.2,0.0010000000116709904
+California,2 wk ahead,Bin,percent,11.2,11.3,0.0010000000097869605
+California,2 wk ahead,Bin,percent,11.3,11.4,0.0010000000082257471
+California,2 wk ahead,Bin,percent,11.4,11.5,0.0010000000069290778
+California,2 wk ahead,Bin,percent,11.5,11.6,0.0010000000058494845
+California,2 wk ahead,Bin,percent,11.6,11.7,0.0010000000049485694
+California,2 wk ahead,Bin,percent,11.7,11.8,0.0010000000041950731
+California,2 wk ahead,Bin,percent,11.8,11.9,0.0010000000035634293
+California,2 wk ahead,Bin,percent,11.9,12,0.001000000003032991
+California,2 wk ahead,Bin,percent,12,12.1,0.0010000000025863925
+California,2 wk ahead,Bin,percent,12.1,12.2,0.0010000000022097409
+California,2 wk ahead,Bin,percent,12.2,12.3,0.0010000000018914588
+California,2 wk ahead,Bin,percent,12.3,12.4,0.0010000000016218017
+California,2 wk ahead,Bin,percent,12.4,12.5,0.001000000001393148
+California,2 wk ahead,Bin,percent,12.5,12.6,0.0010000000011988405
+California,2 wk ahead,Bin,percent,12.6,12.7,0.001000000001033187
+California,2 wk ahead,Bin,percent,12.7,12.8,0.0010000000008921356
+California,2 wk ahead,Bin,percent,12.8,12.9,0.0010000000007713448
+California,2 wk ahead,Bin,percent,12.9,13,0.0010000000006680164
+California,2 wk ahead,Bin,percent,13,100,0.0010000000047285021
+California,3 wk ahead,Point,percent,NA,NA,4.01817
+California,3 wk ahead,Bin,percent,0,0.1,0.0010000092183192091
+California,3 wk ahead,Bin,percent,0.1,0.2,0.0010000124912417265
+California,3 wk ahead,Bin,percent,0.2,0.3,0.001000017037730624
+California,3 wk ahead,Bin,percent,0.3,0.4,0.0010000233980127576
+California,3 wk ahead,Bin,percent,0.4,0.5,0.0010000323609167404
+California,3 wk ahead,Bin,percent,0.5,0.6,0.0010000450874344143
+California,3 wk ahead,Bin,percent,0.6,0.7,0.0010000633003372976
+California,3 wk ahead,Bin,percent,0.7,0.8,0.0010000895776769983
+California,3 wk ahead,Bin,percent,0.8,0.9,0.0010001278111137705
+California,3 wk ahead,Bin,percent,0.9,1,0.0010001839281404028
+California,3 wk ahead,Bin,percent,1,1.1,0.0010002670407064911
+California,3 wk ahead,Bin,percent,1.1,1.2,0.0010003912892575348
+California,3 wk ahead,Bin,percent,1.2,1.3,0.0010005788316225228
+California,3 wk ahead,Bin,percent,1.3,1.4,0.0010008647344842332
+California,3 wk ahead,Bin,percent,1.4,1.5,0.001001305056485092
+California,3 wk ahead,Bin,percent,1.5,1.6,0.0010019903351345708
+California,3 wk ahead,Bin,percent,1.6,1.7,0.0010030683056105633
+California,3 wk ahead,Bin,percent,1.7,1.8,0.0010047825272468986
+California,3 wk ahead,Bin,percent,1.8,1.9,0.0010075386397354748
+California,3 wk ahead,Bin,percent,1.9,2,0.0010120189482998529
+California,3 wk ahead,Bin,percent,2,2.1,0.0010193820346110479
+California,3 wk ahead,Bin,percent,2.1,2.2,0.0010316125583777114
+California,3 wk ahead,Bin,percent,2.2,2.3,0.0010521367860773178
+California,3 wk ahead,Bin,percent,2.3,2.4,0.001086907455675921
+California,3 wk ahead,Bin,percent,2.4,2.5,0.0011463123633432353
+California,3 wk ahead,Bin,percent,2.5,2.6,0.0012485101914951147
+California,3 wk ahead,Bin,percent,2.6,2.7,0.0014251847675416068
+California,3 wk ahead,Bin,percent,2.7,2.8,0.001731249979912277
+California,3 wk ahead,Bin,percent,2.8,2.9,0.0022606322285525417
+California,3 wk ahead,Bin,percent,2.9,3,0.0031704806947098936
+California,3 wk ahead,Bin,percent,3,3.1,0.00471486306650855
+California,3 wk ahead,Bin,percent,3.1,3.2,0.007283830266464456
+California,3 wk ahead,Bin,percent,3.2,3.3,0.011431112796798065
+California,3 wk ahead,Bin,percent,3.3,3.4,0.017851254165114103
+California,3 wk ahead,Bin,percent,3.4,3.5,0.027241137198936328
+California,3 wk ahead,Bin,percent,3.5,3.6,0.039979641503701355
+California,3 wk ahead,Bin,percent,3.6,3.7,0.055635193095352385
+California,3 wk ahead,Bin,percent,3.7,3.8,0.07249827891392732
+California,3 wk ahead,Bin,percent,3.8,3.9,0.08754513207298434
+California,3 wk ahead,Bin,percent,3.9,4,0.09720354287438022
+California,3 wk ahead,Bin,percent,4,4.1,0.09879615952144168
+California,3 wk ahead,Bin,percent,4.1,4.2,0.09185454780615676
+California,3 wk ahead,Bin,percent,4.2,4.3,0.07836517380734977
+California,3 wk ahead,Bin,percent,4.3,4.4,0.06175801300886151
+California,3 wk ahead,Bin,percent,4.4,4.5,0.04539050587734763
+California,3 wk ahead,Bin,percent,4.5,4.6,0.03148265585859183
+California,3 wk ahead,Bin,percent,4.6,4.7,0.02088884270598353
+California,3 wk ahead,Bin,percent,4.7,4.8,0.013462367391441018
+California,3 wk ahead,Bin,percent,4.8,4.9,0.008574179183268905
+California,3 wk ahead,Bin,percent,4.9,5,0.005504433855771984
+California,3 wk ahead,Bin,percent,5,5.1,0.003641123005964347
+California,3 wk ahead,Bin,percent,5.1,5.2,0.0025363834666693283
+California,3 wk ahead,Bin,percent,5.2,5.3,0.0018911964402609826
+California,3 wk ahead,Bin,percent,5.3,5.4,0.0015175475591508287
+California,3 wk ahead,Bin,percent,5.4,5.5,0.0013018400165571763
+California,3 wk ahead,Bin,percent,5.5,5.6,0.001177203527053521
+California,3 wk ahead,Bin,percent,5.6,5.7,0.0011049033225382632
+California,3 wk ahead,Bin,percent,5.7,5.8,0.0010626997437555722
+California,3 wk ahead,Bin,percent,5.8,5.9,0.0010378678715788027
+California,3 wk ahead,Bin,percent,5.9,6,0.0010231228396080968
+California,3 wk ahead,Bin,percent,6,6.1,0.0010142794223323734
+California,3 wk ahead,Bin,percent,6.1,6.2,0.001008919384972086
+California,3 wk ahead,Bin,percent,6.2,6.3,0.0010056352109368552
+California,3 wk ahead,Bin,percent,6.3,6.4,0.0010036007109823356
+California,3 wk ahead,Bin,percent,6.4,6.5,0.0010023264213221143
+California,3 wk ahead,Bin,percent,6.5,6.6,0.001001519519364523
+California,3 wk ahead,Bin,percent,6.6,6.7,0.0010010030469307216
+California,3 wk ahead,Bin,percent,6.7,6.8,0.0010006689627024635
+California,3 wk ahead,Bin,percent,6.8,6.9,0.0010004506195104767
+California,3 wk ahead,Bin,percent,6.9,7,0.001000306481182273
+California,3 wk ahead,Bin,percent,7,7.1,0.0010002103975079177
+California,3 wk ahead,Bin,percent,7.1,7.2,0.001000145739832813
+California,3 wk ahead,Bin,percent,7.2,7.3,0.0010001018302583107
+California,3 wk ahead,Bin,percent,7.3,7.4,0.001000071746275215
+California,3 wk ahead,Bin,percent,7.4,7.5,0.0010000509580206953
+California,3 wk ahead,Bin,percent,7.5,7.6,0.001000036474332093
+California,3 wk ahead,Bin,percent,7.6,7.7,0.001000026302627933
+California,3 wk ahead,Bin,percent,7.7,7.8,0.0010000191041616157
+California,3 wk ahead,Bin,percent,7.8,7.9,0.0010000139720013103
+California,3 wk ahead,Bin,percent,7.9,8,0.0010000102868055738
+California,3 wk ahead,Bin,percent,8,8.1,0.0010000076223316517
+California,3 wk ahead,Bin,percent,8.1,8.2,0.0010000056830209087
+California,3 wk ahead,Bin,percent,8.2,8.3,0.0010000042624361348
+California,3 wk ahead,Bin,percent,8.3,8.4,0.0010000032153714765
+California,3 wk ahead,Bin,percent,8.4,8.5,0.0010000024389934226
+California,3 wk ahead,Bin,percent,8.5,8.6,0.0010000018599952845
+California,3 wk ahead,Bin,percent,8.6,8.7,0.0010000014257852484
+California,3 wk ahead,Bin,percent,8.7,8.8,0.001000001098399745
+California,3 wk ahead,Bin,percent,8.8,8.9,0.0010000008502707518
+California,3 wk ahead,Bin,percent,8.9,9,0.0010000006612629405
+California,3 wk ahead,Bin,percent,9,9.1,0.0010000005165879116
+California,3 wk ahead,Bin,percent,9.1,9.2,0.001000000405324794
+California,3 wk ahead,Bin,percent,9.2,9.3,0.0010000003193668954
+California,3 wk ahead,Bin,percent,9.3,9.4,0.0010000002526653104
+California,3 wk ahead,Bin,percent,9.4,9.5,0.001000000200684783
+California,3 wk ahead,Bin,percent,9.5,9.6,0.0010000001600082421
+California,3 wk ahead,Bin,percent,9.6,9.7,0.0010000001280497774
+California,3 wk ahead,Bin,percent,9.7,9.8,0.0010000001028427736
+California,3 wk ahead,Bin,percent,9.8,9.9,0.0010000000828860268
+California,3 wk ahead,Bin,percent,9.9,10,0.0010000000670277785
+California,3 wk ahead,Bin,percent,10,10.1,0.0010000000543816813
+California,3 wk ahead,Bin,percent,10.1,10.2,0.0010000000442621601
+California,3 wk ahead,Bin,percent,10.2,10.3,0.0010000000361373295
+California,3 wk ahead,Bin,percent,10.3,10.4,0.0010000000295925253
+California,3 wk ahead,Bin,percent,10.4,10.5,0.0010000000243040627
+California,3 wk ahead,Bin,percent,10.5,10.6,0.0010000000200172388
+California,3 wk ahead,Bin,percent,10.6,10.7,0.0010000000165322465
+California,3 wk ahead,Bin,percent,10.7,10.8,0.0010000000136906686
+California,3 wk ahead,Bin,percent,10.8,10.9,0.0010000000113671798
+California,3 wk ahead,Bin,percent,10.9,11,0.0010000000094621175
+California,3 wk ahead,Bin,percent,11,11.1,0.001000000007895791
+California,3 wk ahead,Bin,percent,11.1,11.2,0.0010000000066047172
+California,3 wk ahead,Bin,percent,11.2,11.3,0.0010000000055377628
+California,3 wk ahead,Bin,percent,11.3,11.4,0.001000000004653828
+California,3 wk ahead,Bin,percent,11.4,11.5,0.0010000000039198202
+California,3 wk ahead,Bin,percent,11.5,11.6,0.0010000000033086296
+California,3 wk ahead,Bin,percent,11.6,11.7,0.0010000000027987415
+California,3 wk ahead,Bin,percent,11.7,11.8,0.0010000000023725
+California,3 wk ahead,Bin,percent,11.8,11.9,0.0010000000020150477
+California,3 wk ahead,Bin,percent,11.9,12,0.0010000000017149032
+California,3 wk ahead,Bin,percent,12,12.1,0.0010000000014624194
+California,3 wk ahead,Bin,percent,12.1,12.2,0.0010000000012492022
+California,3 wk ahead,Bin,percent,12.2,12.3,0.00100000000106927
+California,3 wk ahead,Bin,percent,12.3,12.4,0.0010000000009169306
+California,3 wk ahead,Bin,percent,12.4,12.5,0.0010000000007874565
+California,3 wk ahead,Bin,percent,12.5,12.6,0.0010000000006776641
+California,3 wk ahead,Bin,percent,12.6,12.7,0.0010000000005839836
+California,3 wk ahead,Bin,percent,12.7,12.8,0.0010000000005040996
+California,3 wk ahead,Bin,percent,12.8,12.9,0.001000000000435986
+California,3 wk ahead,Bin,percent,12.9,13,0.0010000000003776164
+California,3 wk ahead,Bin,percent,13,100,0.0010000000026721618
+California,4 wk ahead,Point,percent,NA,NA,3.89154
+California,4 wk ahead,Bin,percent,0,0.1,0.001000043537690155
+California,4 wk ahead,Bin,percent,0.1,0.2,0.0010000590939001949
+California,4 wk ahead,Bin,percent,0.2,0.3,0.0010000807238752171
+California,4 wk ahead,Bin,percent,0.3,0.4,0.0010001110040193536
+California,4 wk ahead,Bin,percent,0.4,0.5,0.001000153691752792
+California,4 wk ahead,Bin,percent,0.5,0.6,0.0010002143075984137
+California,4 wk ahead,Bin,percent,0.6,0.7,0.0010003010242118067
+California,4 wk ahead,Bin,percent,0.7,0.8,0.0010004260346522117
+California,4 wk ahead,Bin,percent,0.8,0.9,0.001000607674597832
+California,4 wk ahead,Bin,percent,0.9,1,0.0010008737396765314
+California,4 wk ahead,Bin,percent,1,1.1,0.0010012667114946462
+California,4 wk ahead,Bin,percent,1.1,1.2,0.001001852054547325
+California,4 wk ahead,Bin,percent,1.2,1.3,0.0010027314892449518
+California,4 wk ahead,Bin,percent,1.3,1.4,0.0010040643834055014
+California,4 wk ahead,Bin,percent,1.4,1.5,0.0010061024729953836
+California,4 wk ahead,Bin,percent,1.5,1.6,0.0010092465917605393
+California,4 wk ahead,Bin,percent,1.6,1.7,0.0010141399150340024
+California,4 wk ahead,Bin,percent,1.7,1.8,0.0010218219992580834
+California,4 wk ahead,Bin,percent,1.8,1.9,0.0010339842443051097
+California,4 wk ahead,Bin,percent,1.9,2,0.0010533945249093946
+California,4 wk ahead,Bin,percent,2,2.1,0.0010846031338465909
+California,4 wk ahead,Bin,percent,2.1,2.2,0.0011351133041830814
+California,4 wk ahead,Bin,percent,2.2,2.3,0.0012173096723770835
+California,4 wk ahead,Bin,percent,2.3,2.4,0.0013515992156912717
+California,4 wk ahead,Bin,percent,2.4,2.5,0.001571433292693923
+California,4 wk ahead,Bin,percent,2.5,2.6,0.0019311120083167794
+California,4 wk ahead,Bin,percent,2.6,2.7,0.0025173967265325163
+California,4 wk ahead,Bin,percent,2.7,2.8,0.003465654817631709
+California,4 wk ahead,Bin,percent,2.8,2.9,0.0049798877742574885
+California,4 wk ahead,Bin,percent,2.9,3,0.007352506177975178
+California,4 wk ahead,Bin,percent,3,3.1,0.010972964827004245
+California,4 wk ahead,Bin,percent,3.1,3.2,0.01630436154678712
+California,4 wk ahead,Bin,percent,3.2,3.3,0.023797775129260054
+California,4 wk ahead,Bin,percent,3.3,3.4,0.03371681811571126
+California,4 wk ahead,Bin,percent,3.4,3.5,0.04587767235859854
+California,4 wk ahead,Bin,percent,3.5,3.6,0.05938363159744993
+California,4 wk ahead,Bin,percent,3.6,3.7,0.07252171304417664
+California,4 wk ahead,Bin,percent,3.7,3.8,0.08300949594746168
+California,4 wk ahead,Bin,percent,3.8,3.9,0.0886408414992789
+California,4 wk ahead,Bin,percent,3.9,4,0.08810212435119363
+California,4 wk ahead,Bin,percent,4,4.1,0.08152275002871848
+California,4 wk ahead,Bin,percent,4.1,4.2,0.0704190777937501
+California,4 wk ahead,Bin,percent,4.2,4.3,0.0570677731594148
+California,4 wk ahead,Bin,percent,4.3,4.4,0.043690570743673475
+California,4 wk ahead,Bin,percent,4.4,4.5,0.03186824101451046
+California,4 wk ahead,Bin,percent,4.5,4.6,0.02236258628931934
+California,4 wk ahead,Bin,percent,4.6,4.7,0.015261544152266479
+California,4 wk ahead,Bin,percent,4.7,4.8,0.010253335990366267
+California,4 wk ahead,Bin,percent,4.8,4.9,0.0068751937051774814
+California,4 wk ahead,Bin,percent,4.9,5,0.004672578672781923
+California,4 wk ahead,Bin,percent,5,5.1,0.0032720296981510627
+California,4 wk ahead,Bin,percent,5.1,5.2,0.002397208503359014
+California,4 wk ahead,Bin,percent,5.2,5.3,0.0018572134652804955
+California,4 wk ahead,Bin,percent,5.3,5.4,0.0015262283688523852
+California,4 wk ahead,Bin,percent,5.4,5.5,0.0013239915529518658
+California,4 wk ahead,Bin,percent,5.5,5.6,0.0012004299022349812
+California,4 wk ahead,Bin,percent,5.6,5.7,0.0011247587244816795
+California,4 wk ahead,Bin,percent,5.7,5.8,0.0010782197822536812
+California,4 wk ahead,Bin,percent,5.8,5.9,0.001049434823580042
+California,4 wk ahead,Bin,percent,5.9,6,0.001031510356496309
+California,4 wk ahead,Bin,percent,6,6.1,0.0010202642578173516
+California,4 wk ahead,Bin,percent,6.1,6.2,0.0010131508778672242
+California,4 wk ahead,Bin,percent,6.2,6.3,0.0010086132115179722
+California,4 wk ahead,Bin,percent,6.3,6.4,0.001005693280518853
+California,4 wk ahead,Bin,percent,6.4,6.5,0.0010037976763715086
+California,4 wk ahead,Bin,percent,6.5,6.6,0.0010025561080030236
+California,4 wk ahead,Bin,percent,6.6,6.7,0.0010017357101977313
+California,4 wk ahead,Bin,percent,6.7,6.8,0.0010011888590336438
+California,4 wk ahead,Bin,percent,6.8,6.9,0.0010008211984173664
+California,4 wk ahead,Bin,percent,6.9,7,0.0010005719181271245
+California,4 wk ahead,Bin,percent,7,7.1,0.001000401501590805
+California,4 wk ahead,Bin,percent,7.1,7.2,0.0010002840572871663
+California,4 wk ahead,Bin,percent,7.2,7.3,0.0010002024821783129
+California,4 wk ahead,Bin,percent,7.3,7.4,0.0010001453875512312
+California,4 wk ahead,Bin,percent,7.4,7.5,0.0010001051297742918
+California,4 wk ahead,Bin,percent,7.5,7.6,0.0010000765389830031
+California,4 wk ahead,Bin,percent,7.6,7.7,0.0010000560919695657
+California,4 wk ahead,Bin,percent,7.7,7.8,0.001000041369942548
+California,4 wk ahead,Bin,percent,7.8,7.9,0.0010000307003513243
+California,4 wk ahead,Bin,percent,7.9,8,0.0010000229185364868
+California,4 wk ahead,Bin,percent,8,8.1,0.0010000172079626852
+California,4 wk ahead,Bin,percent,8.1,8.2,0.0010000129923604096
+California,4 wk ahead,Bin,percent,8.2,8.3,0.0010000098624027
+California,4 wk ahead,Bin,percent,8.3,8.4,0.0010000075255200756
+California,4 wk ahead,Bin,percent,8.4,8.5,0.001000005771324125
+California,4 wk ahead,Bin,percent,8.5,8.6,0.0010000044476280898
+California,4 wk ahead,Bin,percent,8.6,8.7,0.0010000034437158722
+California,4 wk ahead,Bin,percent,8.7,8.8,0.0010000026785910606
+California,4 wk ahead,Bin,percent,8.8,8.9,0.0010000020926805612
+California,4 wk ahead,Bin,percent,8.9,9,0.0010000016419372591
+California,4 wk ahead,Bin,percent,9,9.1,0.0010000012936275781
+California,4 wk ahead,Bin,percent,9.1,9.2,0.0010000010233062085
+California,4 wk ahead,Bin,percent,9.2,9.3,0.001000000812628844
+California,4 wk ahead,Bin,percent,9.3,9.4,0.0010000006477657896
+California,4 wk ahead,Bin,percent,9.4,9.5,0.0010000005182433504
+California,4 wk ahead,Bin,percent,9.5,9.6,0.0010000004160950159
+California,4 wk ahead,Bin,percent,9.6,9.7,0.0010000003352344463
+California,4 wk ahead,Bin,percent,9.7,9.8,0.0010000002709937277
+California,4 wk ahead,Bin,percent,9.8,9.9,0.0010000002197770137
+California,4 wk ahead,Bin,percent,9.9,10,0.0010000001788040861
+California,4 wk ahead,Bin,percent,10,10.1,0.001000000145917206
+California,4 wk ahead,Bin,percent,10.1,10.2,0.0010000001194353336
+California,4 wk ahead,Bin,percent,10.2,10.3,0.0010000000980435648
+California,4 wk ahead,Bin,percent,10.3,10.4,0.0010000000807111244
+California,4 wk ahead,Bin,percent,10.4,10.5,0.0010000000666255681
+California,4 wk ahead,Bin,percent,10.5,10.6,0.0010000000551455073
+California,4 wk ahead,Bin,percent,10.6,10.7,0.0010000000457627905
+California,4 wk ahead,Bin,percent,10.7,10.8,0.001000000038072787
+California,4 wk ahead,Bin,percent,10.8,10.9,0.0010000000317535486
+California,4 wk ahead,Bin,percent,10.9,11,0.0010000000265470918
+California,4 wk ahead,Bin,percent,11,11.1,0.0010000000222463745
+California,4 wk ahead,Bin,percent,11.1,11.2,0.0010000000186852604
+California,4 wk ahead,Bin,percent,11.2,11.3,0.0010000000157291624
+California,4 wk ahead,Bin,percent,11.3,11.4,0.001000000013269735
+California,4 wk ahead,Bin,percent,11.4,11.5,0.0010000000112186044
+California,4 wk ahead,Bin,percent,11.5,11.6,0.0010000000095043763
+California,4 wk ahead,Bin,percent,11.6,11.7,0.0010000000080682954
+California,4 wk ahead,Bin,percent,11.7,11.8,0.0010000000068627977
+California,4 wk ahead,Bin,percent,11.8,11.9,0.0010000000058487132
+California,4 wk ahead,Bin,percent,11.9,12,0.0010000000049939148
+California,4 wk ahead,Bin,percent,12,12.1,0.001000000004271967
+California,4 wk ahead,Bin,percent,12.1,12.2,0.0010000000036608728
+California,4 wk ahead,Bin,percent,12.2,12.3,0.0010000000031428803
+California,4 wk ahead,Bin,percent,12.3,12.4,0.0010000000027027458
+California,4 wk ahead,Bin,percent,12.4,12.5,0.0010000000023282166
+California,4 wk ahead,Bin,percent,12.5,12.6,0.0010000000020088731
+California,4 wk ahead,Bin,percent,12.6,12.7,0.0010000000017361288
+California,4 wk ahead,Bin,percent,12.7,12.8,0.001000000001502844
+California,4 wk ahead,Bin,percent,12.8,12.9,0.0010000000013029408
+California,4 wk ahead,Bin,percent,12.9,13,0.0010000000011312093
+California,4 wk ahead,Bin,percent,13,100,0.001000000008156766
